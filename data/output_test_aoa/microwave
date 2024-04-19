@@ -1,0 +1,208 @@
+Caption: a microwave sitting on top of a table
+Imageid: 209048, extracted triplets: ['top of table'], mapped triplets: ['table of laptop', 'table of sandwich', 'table of fruit']
+Objective: 30.37564726457115
+PRIOR DISTANCE
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+Objective: 30.329351044202358
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+----------------------------
+Caption: a man sitting at a table with a plate of food
+Imageid: 466986, extracted triplets: ['man at table', 'man with plate'], mapped triplets: ['girl at table', 'woman at table', 'boy at table', 'man at table', 'people at table', 'man with tray', 'man with spoon']
+Objective: 30.329351044202358
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man with spoon=0.0
+gt_man at table=0.0
+gt_boy at table=1.0
+gt_people at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_boy at table=1.0
+gt_man with tray=1.0
+gt_man with spoon=1.0
+gt_man at table=1.0
+Objective: 30.77420332340869
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man with spoon=0.0
+gt_man at table=0.0
+gt_boy at table=1.0
+gt_people at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_boy at table=1.0
+gt_man with tray=1.0
+gt_man with spoon=1.0
+gt_man at table=1.0
+----------------------------
+Caption: a kitchen with a stove and a bottle of wine on the stove
+Imageid: 97240, extracted triplets: ['bottle of wine'], mapped triplets: ['bowl of fruit', 'plate of food', 'pot of food']
+Objective: 30.77420332340869
+PRIOR DISTANCE
+gt_plate of food=1.0
+gt_pot of food=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_pot of food=1.0
+gt_bowl of fruit=1.0
+gt_pot of food=0.0
+gt_plate of food=1.0
+Objective: 30.555761487792655
+gt_plate of food=1.0
+gt_pot of food=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_pot of food=1.0
+gt_bowl of fruit=1.0
+gt_pot of food=1.0
+gt_plate of food=1.0
+----------------------------
+Caption: a man holding a cup of coffee in front of a refrigerator
+Imageid: 85390, extracted triplets: ['man hold cup'], mapped triplets: ['man hold tray', 'man hold sandwich', 'man hold pizza', 'man hold banana', 'man hold counter', 'man hold cake']
+Objective: 30.555761487792655
+PRIOR DISTANCE
+gt_man hold pizza=0.0
+gt_woman hold banana=0.0
+gt_man hold cake=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=0.0
+gt_man hold tray=1.0
+gt_man hold cake=1.0
+Objective: 30.614182147787616
+gt_man hold pizza=0.0
+gt_woman hold banana=0.0
+gt_man hold cake=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=0.0
+gt_man hold tray=-0.0
+gt_man hold cake=1.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 187001, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['woman at table', 'boy at table', 'man at table', 'people at table', 'desk with laptop']
+Objective: 30.614182147787616
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_boy at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_boy at table=1.0
+gt_desk with laptop=-0.0
+gt_man at table=1.0
+Objective: 30.43057463330887
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_boy at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_boy at table=1.0
+gt_desk with laptop=-0.0
+gt_man at table=1.0
+----------------------------
+Caption: two laptop computers sitting on top of a desk
+Imageid: 174567, extracted triplets: ['laptop computers sit counter', 'laptop computers sit desk'], mapped triplets: ['laptop sit table', 'box sit counter', 'laptop sit table', 'keyboard sit desk']
+Objective: 30.43057463330887
+PRIOR DISTANCE
+Objective: 30.43057463330887
+----------------------------
+Caption: a woman sitting on a couch with a laptop
+Imageid: 250344, extracted triplets: ['woman with laptop'], mapped triplets: ['desk with laptop', 'man with woman']
+Objective: 30.43057463330887
+PRIOR DISTANCE
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+Objective: 30.41831086959228
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a man standing in a kitchen with a plate of food
+Imageid: 554445, extracted triplets: ['plate of pizza'], mapped triplets: ['plate of food', 'table of sandwich']
+Objective: 30.41831086959228
+PRIOR DISTANCE
+gt_plate of food=1.0
+gt_table of sandwich=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=1.0
+Objective: 30.408416599319022
+gt_plate of food=1.0
+gt_table of sandwich=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=1.0
+----------------------------
+Caption: a kitchen with a sink and a counter with a bottle of wine
+Imageid: 293611, extracted triplets: ['counter with bottle'], mapped triplets: ['table with vase', 'table with bowl']
+Objective: 30.408416599319022
+PRIOR DISTANCE
+gt_table with vase=0.0
+gt_table with bowl=0.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_table with bowl=1.0
+gt_table with vase=1.0
+Objective: 30.689891299597445
+gt_table with vase=0.0
+gt_table with bowl=0.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_table with bowl=1.0
+gt_table with vase=1.0
+----------------------------
+Caption: a microwave oven sitting on top of a table
+Imageid: 479612, extracted triplets: ['top of table'], mapped triplets: ['table of laptop', 'table of sandwich', 'table of fruit']
+Objective: 30.689891299597445
+PRIOR DISTANCE
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+Objective: 30.839188875386288
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+----------------------------
+Caption: a man and a woman preparing food in a kitchen
+Imageid: 64196, extracted triplets: ['woman prepare pizza', 'woman prepare cake'], mapped triplets: ['woman prepare pizza']
+Objective: 30.839188875386288
+PRIOR DISTANCE
+gt_woman prepare pizza=1.0
+gt_woman prepare pizza=1.0
+Objective: 30.85679969905576
+gt_woman prepare pizza=1.0
+gt_woman prepare pizza=1.0
+----------------------------

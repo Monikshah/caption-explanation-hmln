@@ -1,0 +1,1222 @@
+Caption: a black bird sitting in a wooden bowl of food
+Imageid: 208589, extracted triplets: ['bird sit pot'], mapped triplets: ['bird sit tree', 'bird sit fruit']
+Objective: 131.49075619517384
+PRIOR DISTANCE
+Objective: 131.49075619517384
+----------------------------
+Caption: a cow standing in a street with a
+Imageid: 182784, extracted triplets: ['cow in street'], mapped triplets: []
+Objective: 131.49075619517384
+PRIOR DISTANCE
+Objective: 131.49075619517384
+----------------------------
+Caption: a fruit stand with oranges and a clock on a
+Imageid: 51540, extracted triplets: ['fruit stand with orange', 'fruit stand with oranges'], mapped triplets: ['basket with fruit', 'bowl with orange', 'fruit with orange', 'fruit with apple', 'basket with apple', 'table with fruit', 'shelf with fruit', 'basket with fruit', 'fruit with orange', 'basket with orange']
+Objective: 131.49075619517384
+PRIOR DISTANCE
+gt_bowl with orange=1.0
+gt_table with fruit=0.0
+gt_bowl with orange=0.0
+gt_fruit with orange=0.0
+gt_fruit with orange=0.0
+gt_bowl with orange=1.0
+gt_table with fruit=0.0
+gt_vegetable with fruit=1.0
+gt_fruit with orange=1.0
+gt_fruit with orange=1.0
+gt_basket with fruit=-0.0
+gt_basket with fruit=-0.0
+gt_table with fruit=0.0
+gt_fruit with apple=-0.0
+gt_bowl with orange=0.0
+Objective: 130.9036116278411
+gt_bowl with orange=1.0
+gt_table with fruit=0.0
+gt_bowl with orange=0.0
+gt_fruit with orange=0.0
+gt_fruit with orange=0.0
+gt_bowl with orange=1.0
+gt_table with fruit=0.0
+gt_vegetable with fruit=1.0
+gt_fruit with orange=1.0
+gt_fruit with orange=1.0
+gt_basket with fruit=-0.0
+gt_basket with fruit=-0.0
+gt_table with fruit=1.0
+gt_fruit with apple=-0.0
+gt_bowl with orange=0.0
+----------------------------
+Caption: a group of children sitting around a table with a birthday cake
+Imageid: 405249, extracted triplets: ['children sit cloth', 'children sit napkin'], mapped triplets: ['woman sit plate', 'fruit sit bowl']
+Objective: 130.9036116278411
+PRIOR DISTANCE
+Objective: 130.9036116278411
+----------------------------
+Caption: a young boy is holding a apple in the grass
+Imageid: 122239, extracted triplets: ['boy hold apple', 'boy in grass'], mapped triplets: ['boy hold apple', 'man hold apple', 'woman hold apple', 'man in grass', 'bird in grass', 'dog in grass']
+Objective: 130.9036116278411
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_woman hold apple=1.0
+gt_woman hold apple=1.0
+gt_man in grass=-0.0
+gt_boy hold apple=1.0
+gt_man hold apple=1.0
+Objective: 130.73436108751596
+gt_woman in grass=0.0
+gt_woman hold apple=1.0
+gt_woman hold apple=1.0
+gt_man in grass=0.0
+gt_boy hold apple=1.0
+gt_man hold apple=1.0
+----------------------------
+Caption: a man standing in front of a box of oranges
+Imageid: 206859, extracted triplets: ['box of orange'], mapped triplets: ['basket of fruit', 'basket of orange', 'box of fruit', 'box of apple', 'bowl of orange', 'plate of orange', 'box of orange']
+Objective: 130.73436108751596
+PRIOR DISTANCE
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_box of apple=1.0
+gt_box of fruit=0.0
+gt_bowl of orange=1.0
+gt_box of orange=1.0
+gt_basket of fruit=1.0
+gt_basket of orange=-0.0
+gt_plate of orange=1.0
+Objective: 130.71455469014126
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_box of apple=-0.0
+gt_box of fruit=1.0
+gt_bowl of orange=1.0
+gt_box of orange=-0.0
+gt_basket of fruit=1.0
+gt_basket of orange=-0.0
+gt_plate of orange=1.0
+----------------------------
+Caption: a woman standing next to a fruit stand with a dog
+Imageid: 391940, extracted triplets: ['woman next to apple'], mapped triplets: ['container next to fruit']
+Objective: 130.71455469014126
+PRIOR DISTANCE
+gt_container next to fruit=0.0
+Objective: 130.8603312944902
+gt_container next to fruit=0.0
+----------------------------
+Caption: a table of apples for sale at an outdoor market
+Imageid: 229132, extracted triplets: ['table of apple'], mapped triplets: ['bowl of fruit', 'stand of fruit', 'plate of fruit', 'table of fruit', 'basket of fruit']
+Objective: 130.8603312944902
+PRIOR DISTANCE
+gt_plate of fruit=1.0
+gt_bowl of fruit=0.0
+gt_table of fruit=0.0
+gt_bowl of fruit=0.0
+gt_plate of fruit=0.0
+gt_plate of fruit=1.0
+gt_bowl of fruit=1.0
+gt_table of fruit=0.0
+gt_bowl of fruit=0.0
+gt_basket of fruit=1.0
+gt_stand of fruit=1.0
+gt_plate of fruit=1.0
+gt_table of fruit=0.0
+Objective: 131.48510524367808
+gt_plate of fruit=1.0
+gt_bowl of fruit=0.0
+gt_table of fruit=0.0
+gt_bowl of fruit=0.0
+gt_plate of fruit=0.0
+gt_plate of fruit=1.0
+gt_bowl of fruit=1.0
+gt_table of fruit=0.0
+gt_bowl of fruit=1.0
+gt_basket of fruit=1.0
+gt_stand of fruit=1.0
+gt_plate of fruit=1.0
+gt_table of fruit=1.0
+----------------------------
+Caption: a fruit stand with apples and oranges on a street
+Imageid: 527846, extracted triplets: ['fruit stand with apple', 'fruit stand on street'], mapped triplets: ['basket with apple', 'table with apple', 'people on street', 'fruit on table']
+Objective: 131.48510524367808
+PRIOR DISTANCE
+gt_people on street=0.0
+gt_table with apple=1.0
+gt_fruit on table=0.0
+gt_fruit on table=0.0
+gt_fruit on table=0.0
+gt_fruit on table=1.0
+gt_people on street=0.0
+gt_table with apple=0.0
+gt_fruit on table=-0.0
+Objective: 131.42506924516982
+gt_people on street=0.0
+gt_table with apple=1.0
+gt_fruit on table=0.0
+gt_fruit on table=0.0
+gt_fruit on table=0.0
+gt_fruit on table=1.0
+gt_people on street=0.0
+gt_table with apple=0.0
+gt_fruit on table=0.0
+----------------------------
+Caption: a white plate with a breakfast sandwich and orange slices
+Imageid: 425526, extracted triplets: ['plate with bread', 'plate with meat', 'plate with tomato'], mapped triplets: ['plate with vegetable', 'tray with food', 'plate with sandwich', 'bowl with food', 'bowl with fruit', 'vegetable with fruit', 'food with fruit', 'plate with food', 'plate with fruit', 'table with food', 'plate with bread', 'plate with vegetable', 'tray with food', 'plate with sandwich', 'table with vegetable', 'plate with apple', 'bowl with food', 'table with apple', 'bowl with fruit', 'table with pizza', 'plate with container', 'container with meat', 'container with vegetable', 'table with fruit', 'plate with banana', 'plate with bread', 'plate with food', 'plate with fruit', 'container with sandwich', 'table with food', 'plate with meat', 'plate with vegetable', 'bowl with tomato']
+Objective: 131.42506924516982
+PRIOR DISTANCE
+gt_plate with sandwich=0.0
+gt_plate with sandwich=0.0
+gt_bowl with food=0.0
+gt_bowl with food=0.0
+gt_table with food=0.0
+gt_table with food=0.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_table with fruit=0.0
+gt_plate with fruit=0.0
+gt_plate with fruit=0.0
+gt_table with apple=1.0
+gt_plate with banana=0.0
+gt_plate with bread=0.0
+gt_plate with bread=0.0
+gt_table with pizza=0.0
+gt_plate with apple=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_plate with meat=1.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_table with pizza=0.0
+gt_plate with bread=0.0
+gt_plate with bread=0.0
+gt_table with food=1.0
+gt_table with food=1.0
+gt_plate with apple=0.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with fruit=1.0
+gt_plate with fruit=1.0
+gt_plate with sandwich=0.0
+gt_plate with sandwich=0.0
+gt_plate with fruit=1.0
+gt_plate with fruit=1.0
+gt_table with vegetable=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_plate with meat=1.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with sandwich=0.0
+gt_plate with sandwich=0.0
+gt_container with vegetable=1.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_table with fruit=0.0
+gt_table with vegetable=0.0
+gt_table with pizza=-0.0
+gt_vegetable with fruit=1.0
+gt_vegetable with fruit=1.0
+gt_plate with bread=0.0
+gt_plate with bread=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with banana=1.0
+gt_plate with sandwich=1.0
+gt_plate with sandwich=1.0
+gt_food with fruit=-0.0
+gt_table with vegetable=0.0
+gt_table with apple=0.0
+gt_table with fruit=1.0
+gt_plate with fruit=0.0
+gt_plate with fruit=0.0
+gt_table with food=-0.0
+gt_table with food=-0.0
+gt_bowl with fruit=0.0
+gt_bowl with fruit=0.0
+gt_plate with apple=1.0
+gt_plate with container=1.0
+Objective: 131.67269575169735
+gt_plate with sandwich=0.0
+gt_plate with sandwich=0.0
+gt_bowl with food=0.0
+gt_bowl with food=0.0
+gt_table with food=0.0
+gt_table with food=0.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_table with fruit=0.0
+gt_plate with fruit=0.0
+gt_plate with fruit=0.0
+gt_table with apple=1.0
+gt_plate with banana=0.0
+gt_plate with bread=0.0
+gt_plate with bread=0.0
+gt_table with pizza=0.0
+gt_plate with apple=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_plate with meat=1.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_table with pizza=0.0
+gt_plate with bread=0.0
+gt_plate with bread=0.0
+gt_table with food=1.0
+gt_table with food=1.0
+gt_plate with apple=0.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with fruit=1.0
+gt_plate with fruit=1.0
+gt_plate with sandwich=0.0
+gt_plate with sandwich=0.0
+gt_plate with fruit=1.0
+gt_plate with fruit=1.0
+gt_table with vegetable=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_plate with meat=1.0
+gt_plate with food=0.0
+gt_plate with food=0.0
+gt_plate with sandwich=0.0
+gt_plate with sandwich=0.0
+gt_container with vegetable=1.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_table with fruit=0.0
+gt_table with vegetable=0.0
+gt_table with pizza=-0.0
+gt_vegetable with fruit=1.0
+gt_vegetable with fruit=1.0
+gt_plate with bread=0.0
+gt_plate with bread=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_plate with food=1.0
+gt_plate with food=1.0
+gt_plate with banana=1.0
+gt_plate with sandwich=1.0
+gt_plate with sandwich=1.0
+gt_food with fruit=-0.0
+gt_table with vegetable=1.0
+gt_table with apple=0.0
+gt_table with fruit=1.0
+gt_plate with fruit=0.0
+gt_plate with fruit=0.0
+gt_table with food=-0.0
+gt_table with food=-0.0
+gt_bowl with fruit=0.0
+gt_bowl with fruit=0.0
+gt_plate with apple=1.0
+gt_plate with container=1.0
+----------------------------
+Caption: a bowl of apples and oranges on a table
+Imageid: 81998, extracted triplets: ['bowl of apple', 'bowl on table'], mapped triplets: ['bowl of carrot', 'bowl of broccoli', 'bowl of apple', 'bowl of fruit', 'bowl of food', 'bowl of vegetable', 'bowl of orange', 'fruit on table', 'flower on table', 'basket on table', 'vase on table', 'vegetable on table', 'bottle on table', 'apple on table', 'plate on table', 'keyboard on table', 'food on table', 'tray on table', 'bag on table', 'orange on table', 'lamp on table', 'bowl on table']
+Objective: 131.67269575169735
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_food on table=1.0
+gt_vegetable on table=0.0
+gt_bowl of apple=1.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_bowl of orange=1.0
+gt_bowl of broccoli=0.0
+gt_vase on table=0.0
+gt_bowl of vegetable=0.0
+gt_fruit on table=0.0
+gt_bowl of fruit=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_bowl of fruit=0.0
+gt_orange on table=0.0
+gt_bowl of food=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_flower on table=1.0
+gt_keyboard on table=1.0
+gt_bottle on table=0.0
+gt_tray on table=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of orange=1.0
+gt_fruit on table=0.0
+gt_vegetable on table=1.0
+gt_bowl of broccoli=0.0
+gt_food on table=1.0
+gt_bowl of food=0.0
+gt_plate on table=1.0
+gt_bowl of carrot=0.0
+gt_bowl of fruit=1.0
+gt_vegetable on table=0.0
+gt_flower on table=0.0
+gt_bowl of vegetable=0.0
+gt_orange on table=1.0
+gt_bowl of orange=1.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_fruit on table=1.0
+gt_bowl of apple=0.0
+gt_bowl of vegetable=0.0
+gt_bag on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=1.0
+gt_bowl of orange=1.0
+gt_tray on table=1.0
+gt_bowl of fruit=1.0
+gt_orange on table=1.0
+gt_flower on table=1.0
+gt_vegetable on table=-0.0
+gt_bowl of food=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=0.0
+gt_bowl of broccoli=-0.0
+gt_basket on table=-0.0
+gt_plate on table=1.0
+gt_bowl of carrot=1.0
+gt_apple on table=1.0
+Objective: 132.91490199752963
+gt_bowl of food=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_food on table=1.0
+gt_vegetable on table=0.0
+gt_bowl of apple=1.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_bowl of orange=1.0
+gt_bowl of broccoli=0.0
+gt_vase on table=0.0
+gt_bowl of vegetable=0.0
+gt_fruit on table=0.0
+gt_bowl of fruit=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_bowl of fruit=0.0
+gt_orange on table=0.0
+gt_bowl of food=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_flower on table=1.0
+gt_keyboard on table=1.0
+gt_bottle on table=0.0
+gt_tray on table=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of orange=1.0
+gt_fruit on table=0.0
+gt_vegetable on table=1.0
+gt_bowl of broccoli=0.0
+gt_food on table=1.0
+gt_bowl of food=0.0
+gt_plate on table=1.0
+gt_bowl of carrot=0.0
+gt_bowl of fruit=1.0
+gt_vegetable on table=0.0
+gt_flower on table=0.0
+gt_bowl of vegetable=0.0
+gt_orange on table=1.0
+gt_bowl of orange=1.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_fruit on table=1.0
+gt_bowl of apple=0.0
+gt_bowl of vegetable=0.0
+gt_bag on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=1.0
+gt_bowl of orange=1.0
+gt_tray on table=1.0
+gt_bowl of fruit=0.0
+gt_orange on table=1.0
+gt_flower on table=0.0
+gt_vegetable on table=-0.0
+gt_bowl of food=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=-0.0
+gt_bowl of broccoli=-0.0
+gt_basket on table=-0.0
+gt_plate on table=1.0
+gt_bowl of carrot=1.0
+gt_apple on table=1.0
+----------------------------
+Caption: a tray of food with rice and vegetables on a
+Imageid: 142177, extracted triplets: ['tray of food'], mapped triplets: ['plate of food', 'bowl of food', 'table of food', 'tray of food']
+Objective: 132.91490199752963
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_table of food=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=0.0
+gt_table of food=1.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_tray of food=0.0
+gt_table of food=0.0
+gt_bowl of food=1.0
+Objective: 133.26785676181646
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_table of food=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=0.0
+gt_table of food=1.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_tray of food=0.0
+gt_table of food=0.0
+gt_bowl of food=1.0
+----------------------------
+Caption: a desk with a computer sitting on top of a
+Imageid: 472109, extracted triplets: ['desk with computer'], mapped triplets: ['desk with laptop', 'desk with screen']
+Objective: 133.26785676181646
+PRIOR DISTANCE
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with screen=1.0
+gt_desk with screen=0.0
+gt_desk with laptop=1.0
+Objective: 133.59872318521778
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with screen=1.0
+gt_desk with screen=1.0
+gt_desk with laptop=1.0
+----------------------------
+Caption: a plate of food with rice and vegetables on a
+Imageid: 80367, extracted triplets: ['plate of food'], mapped triplets: ['plate of meat', 'tray of food', 'container of food', 'plate of fruit', 'plate of food', 'bowl of food', 'table of food']
+Objective: 133.59872318521778
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_plate of fruit=1.0
+gt_table of food=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_table of food=1.0
+gt_plate of fruit=0.0
+gt_plate of fruit=1.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_container of food=-0.0
+gt_tray of food=0.0
+gt_plate of meat=0.0
+gt_table of food=0.0
+gt_plate of fruit=-0.0
+gt_bowl of food=1.0
+Objective: 132.38508233133314
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_plate of fruit=1.0
+gt_table of food=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_table of food=1.0
+gt_plate of fruit=0.0
+gt_plate of fruit=1.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_plate of food=1.0
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_tray of food=1.0
+gt_plate of meat=0.0
+gt_table of food=0.0
+gt_plate of fruit=-0.0
+gt_bowl of food=1.0
+----------------------------
+Caption: a plate with apples and a piece of cake on a
+Imageid: 119414, extracted triplets: ['plate with apple'], mapped triplets: ['tray with food', 'basket with fruit', 'table with food', 'plate with food', 'bowl with food', 'plate with fruit', 'basket with apple', 'food with fruit', 'bowl with apple', 'plate with apple']
+Objective: 132.38508233133314
+PRIOR DISTANCE
+gt_bowl with food=0.0
+gt_table with food=0.0
+gt_plate with food=0.0
+gt_plate with fruit=0.0
+gt_bowl with apple=0.0
+gt_plate with apple=0.0
+gt_tray with food=0.0
+gt_table with food=1.0
+gt_plate with apple=0.0
+gt_plate with food=0.0
+gt_plate with fruit=1.0
+gt_plate with fruit=1.0
+gt_tray with food=0.0
+gt_plate with food=0.0
+gt_tray with food=0.0
+gt_plate with food=1.0
+gt_basket with fruit=-0.0
+gt_food with fruit=-0.0
+gt_plate with fruit=0.0
+gt_bowl with apple=-0.0
+gt_table with food=-0.0
+gt_plate with apple=1.0
+Objective: 132.26745794129783
+gt_bowl with food=0.0
+gt_table with food=0.0
+gt_plate with food=0.0
+gt_plate with fruit=0.0
+gt_bowl with apple=0.0
+gt_plate with apple=0.0
+gt_tray with food=0.0
+gt_table with food=1.0
+gt_plate with apple=0.0
+gt_plate with food=0.0
+gt_plate with fruit=1.0
+gt_plate with fruit=1.0
+gt_tray with food=0.0
+gt_plate with food=0.0
+gt_tray with food=0.0
+gt_plate with food=1.0
+gt_basket with fruit=-0.0
+gt_food with fruit=-0.0
+gt_plate with fruit=-0.0
+gt_bowl with apple=-0.0
+gt_table with food=-0.0
+gt_plate with apple=1.0
+----------------------------
+Caption: a cat sitting on a window sill next to a vase
+Imageid: 194120, extracted triplets: ['cat sit window', 'cat next to vase'], mapped triplets: []
+Objective: 132.26745794129783
+PRIOR DISTANCE
+Objective: 132.26745794129783
+----------------------------
+Caption: a fruit stand with apples and oranges in a
+Imageid: 156242, extracted triplets: ['fruit stand with apple'], mapped triplets: ['basket with apple', 'table with apple']
+Objective: 132.26745794129783
+PRIOR DISTANCE
+gt_table with apple=1.0
+gt_table with apple=0.0
+Objective: 132.12980108608465
+gt_table with apple=1.0
+gt_table with apple=0.0
+----------------------------
+Caption: a woman standing next to a market with fruits and vegetables
+Imageid: 305000, extracted triplets: ['woman next to basket'], mapped triplets: ['container next to fruit']
+Objective: 132.12980108608465
+PRIOR DISTANCE
+gt_container next to fruit=0.0
+Objective: 132.20625094064212
+gt_container next to fruit=0.0
+----------------------------
+Caption: a tray of food on a table with a
+Imageid: 112904, extracted triplets: ['tray of food', 'tray on table'], mapped triplets: ['plate of food', 'bowl of food', 'table of food', 'tray of food', 'fruit on table', 'banana on table', 'flower on table', 'bread on table', 'basket on table', 'phone on table', 'sandwich on table', 'vase on table', 'bottle on table', 'vegetable on table', 'apple on table', 'plate on table', 'keyboard on table', 'food on table', 'tray on table', 'bag on table', 'table on table', 'orange on table', 'bowl on table', 'book on table', 'lamp on table', 'container on tray']
+Objective: 132.20625094064212
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_plate on table=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_banana on table=0.0
+gt_vase on table=0.0
+gt_table on table=1.0
+gt_sandwich on table=0.0
+gt_table of food=0.0
+gt_fruit on table=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_orange on table=0.0
+gt_bowl of food=0.0
+gt_sandwich on table=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_table of food=1.0
+gt_phone on table=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_flower on table=1.0
+gt_keyboard on table=1.0
+gt_banana on table=0.0
+gt_bottle on table=0.0
+gt_table on table=0.0
+gt_plate of food=0.0
+gt_tray on table=0.0
+gt_sandwich on table=0.0
+gt_fruit on table=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_vegetable on table=1.0
+gt_vegetable on table=1.0
+gt_food on table=1.0
+gt_bowl of food=0.0
+gt_table on table=0.0
+gt_plate on table=1.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_plate of food=1.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_table on table=0.0
+gt_book on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=1.0
+gt_container on tray=-0.0
+gt_plate of food=0.0
+gt_tray on table=1.0
+gt_tray of food=1.0
+gt_orange on table=1.0
+gt_table of food=0.0
+gt_flower on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_table on table=-0.0
+gt_sandwich on table=0.0
+gt_bowl of food=1.0
+gt_book on table=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=0.0
+gt_basket on table=-0.0
+gt_banana on table=1.0
+gt_plate on table=1.0
+gt_apple on table=1.0
+Objective: 133.17519871700355
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_plate on table=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_banana on table=0.0
+gt_vase on table=0.0
+gt_table on table=1.0
+gt_sandwich on table=0.0
+gt_table of food=0.0
+gt_fruit on table=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_orange on table=0.0
+gt_bowl of food=0.0
+gt_sandwich on table=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_table of food=1.0
+gt_phone on table=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_flower on table=1.0
+gt_keyboard on table=1.0
+gt_banana on table=0.0
+gt_bottle on table=0.0
+gt_table on table=0.0
+gt_plate of food=0.0
+gt_tray on table=0.0
+gt_sandwich on table=0.0
+gt_fruit on table=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_vegetable on table=1.0
+gt_vegetable on table=1.0
+gt_food on table=1.0
+gt_bowl of food=0.0
+gt_table on table=0.0
+gt_plate on table=1.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_plate of food=1.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_table on table=0.0
+gt_book on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=1.0
+gt_container on tray=-0.0
+gt_plate of food=1.0
+gt_tray on table=1.0
+gt_tray of food=1.0
+gt_orange on table=1.0
+gt_table of food=0.0
+gt_flower on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_table on table=-0.0
+gt_sandwich on table=0.0
+gt_bowl of food=1.0
+gt_book on table=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=0.0
+gt_basket on table=-0.0
+gt_banana on table=1.0
+gt_plate on table=1.0
+gt_apple on table=1.0
+----------------------------
+Caption: a fruit stand with bananas and other fruits on a
+Imageid: 135578, extracted triplets: ['fruit stand with banana', 'fruit stand with bananas'], mapped triplets: ['stand with banana', 'stand with banana', 'table with fruit', 'shelf with fruit', 'basket with fruit']
+Objective: 133.17519871700355
+PRIOR DISTANCE
+gt_table with fruit=0.0
+gt_cat stand with banana=0.0
+gt_cat stand with banana=0.0
+gt_table with fruit=0.0
+gt_stand stand with banana=0.0
+gt_stand stand with banana=0.0
+gt_vegetable with fruit=1.0
+gt_basket with fruit=-0.0
+gt_table with fruit=1.0
+Objective: 132.89900755536456
+gt_table with fruit=0.0
+gt_cat stand with banana=0.0
+gt_cat stand with banana=0.0
+gt_table with fruit=0.0
+gt_stand stand with banana=0.0
+gt_stand stand with banana=0.0
+gt_vegetable with fruit=1.0
+gt_basket with fruit=-0.0
+gt_table with fruit=0.0
+----------------------------
+Caption: a plate of fruit with bananas and strawberries on a
+Imageid: 25521, extracted triplets: ['plate of fruit', 'fruit with banana'], mapped triplets: ['tray of food', 'basket of fruit', 'table of food', 'bowl of fruit', 'container of food', 'stand of fruit', 'plate of food', 'plate of fruit', 'fruit with apple', 'plate with banana']
+Objective: 132.89900755536456
+PRIOR DISTANCE
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_plate of fruit=1.0
+gt_plate with banana=0.0
+gt_table of food=0.0
+gt_bowl of fruit=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of fruit=0.0
+gt_table of food=1.0
+gt_plate of fruit=0.0
+gt_plate of fruit=1.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_container of food=0.0
+gt_bowl of fruit=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_container of food=0.0
+gt_tray of food=1.0
+gt_bowl of fruit=0.0
+gt_basket of fruit=1.0
+gt_table of food=0.0
+gt_stand of fruit=1.0
+gt_plate with banana=1.0
+gt_plate of fruit=-0.0
+gt_fruit with apple=-0.0
+Objective: 132.80945911094406
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_plate of fruit=1.0
+gt_plate with banana=0.0
+gt_table of food=0.0
+gt_bowl of fruit=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of fruit=0.0
+gt_table of food=1.0
+gt_plate of fruit=0.0
+gt_plate of fruit=1.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_container of food=0.0
+gt_bowl of fruit=1.0
+gt_plate of food=1.0
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_tray of food=1.0
+gt_bowl of fruit=1.0
+gt_basket of fruit=1.0
+gt_table of food=0.0
+gt_stand of fruit=1.0
+gt_plate with banana=1.0
+gt_plate of fruit=-0.0
+gt_fruit with apple=-0.0
+----------------------------
+Caption: an apple and other fruits on a table with a
+Imageid: 322175, extracted triplets: ['apple on table'], mapped triplets: ['apple on tree', 'plate on table', 'banana on table', 'bread on table', 'bottle on table', 'vase on table', 'keyboard on table', 'food on table', 'apple on plate', 'flower on table', 'bag on table', 'bread on plate', 'basket on table', 'bowl on table', 'book on table', 'sandwich on table', 'vegetable on table', 'fruit on table', 'apple on table', 'tray on table', 'lamp on table', 'phone on table']
+Objective: 132.80945911094406
+PRIOR DISTANCE
+gt_plate on table=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_flower on table=0.0
+gt_banana on table=0.0
+gt_vase on table=0.0
+gt_sandwich on table=0.0
+gt_bread on plate=0.0
+gt_fruit on table=0.0
+gt_apple on plate=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_sandwich on table=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_phone on table=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_flower on table=1.0
+gt_keyboard on table=1.0
+gt_banana on table=0.0
+gt_bottle on table=0.0
+gt_tray on table=0.0
+gt_sandwich on table=0.0
+gt_fruit on table=0.0
+gt_vegetable on table=1.0
+gt_food on table=1.0
+gt_plate on table=1.0
+gt_vegetable on table=0.0
+gt_flower on table=0.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_book on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=0.0
+gt_bread on plate=-0.0
+gt_vase on table=1.0
+gt_bowl on table=1.0
+gt_apple on plate=0.0
+gt_tray on table=1.0
+gt_flower on table=0.0
+gt_vegetable on table=-0.0
+gt_sandwich on table=0.0
+gt_book on table=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=0.0
+gt_basket on table=1.0
+gt_banana on table=1.0
+gt_plate on table=1.0
+gt_apple on table=1.0
+Objective: 131.36430570821955
+gt_plate on table=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_flower on table=0.0
+gt_banana on table=0.0
+gt_vase on table=0.0
+gt_sandwich on table=0.0
+gt_bread on plate=0.0
+gt_fruit on table=0.0
+gt_apple on plate=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_sandwich on table=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_phone on table=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_flower on table=1.0
+gt_keyboard on table=1.0
+gt_banana on table=0.0
+gt_bottle on table=0.0
+gt_tray on table=0.0
+gt_sandwich on table=0.0
+gt_fruit on table=0.0
+gt_vegetable on table=1.0
+gt_food on table=1.0
+gt_plate on table=1.0
+gt_vegetable on table=0.0
+gt_flower on table=0.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_book on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=-0.0
+gt_bread on plate=-0.0
+gt_vase on table=0.0
+gt_bowl on table=1.0
+gt_apple on plate=0.0
+gt_tray on table=1.0
+gt_flower on table=1.0
+gt_vegetable on table=-0.0
+gt_sandwich on table=0.0
+gt_book on table=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=-0.0
+gt_basket on table=1.0
+gt_banana on table=0.0
+gt_plate on table=1.0
+gt_apple on table=1.0
+----------------------------
+Caption: a black and white cat sitting on a laptop computer
+Imageid: 566644, extracted triplets: ['cat sit on laptop computer'], mapped triplets: ['cat sit laptop', 'dog sit table', 'bird sit branch']
+Objective: 131.36430570821955
+PRIOR DISTANCE
+Objective: 131.36430570821955
+----------------------------
+Caption: a plate of fruit on a table with a
+Imageid: 575916, extracted triplets: ['plate of fruit', 'plate on table'], mapped triplets: ['tray of food', 'basket of fruit', 'table of food', 'bowl of fruit', 'container of food', 'stand of fruit', 'plate of food', 'plate of fruit', 'fruit on table', 'sandwich on table', 'vegetable on table', 'food on table', 'bowl on table', 'tray on table', 'bag on table', 'apple on table', 'book on table', 'lamp on table', 'bottle on table', 'keyboard on table', 'bread on table', 'orange on table', 'vase on table', 'basket on table', 'plate on table']
+Objective: 131.36430570821955
+PRIOR DISTANCE
+gt_plate of food=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_container of food=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_plate of fruit=1.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_orange on table=1.0
+gt_vase on table=0.0
+gt_sandwich on table=0.0
+gt_table of food=0.0
+gt_fruit on table=0.0
+gt_bowl of fruit=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_bowl of fruit=0.0
+gt_orange on table=0.0
+gt_sandwich on table=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_table of food=1.0
+gt_fruit on table=0.0
+gt_plate of fruit=0.0
+gt_vase on table=0.0
+gt_keyboard on table=1.0
+gt_bottle on table=0.0
+gt_plate of fruit=1.0
+gt_plate of food=0.0
+gt_tray on table=0.0
+gt_sandwich on table=0.0
+gt_fruit on table=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_vegetable on table=1.0
+gt_food on table=1.0
+gt_container of food=0.0
+gt_plate on table=1.0
+gt_bowl of fruit=1.0
+gt_vegetable on table=0.0
+gt_orange on table=1.0
+gt_plate of food=1.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_book on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=-0.0
+gt_vase on table=0.0
+gt_bowl on table=1.0
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_tray on table=1.0
+gt_tray of food=1.0
+gt_bowl of fruit=1.0
+gt_orange on table=1.0
+gt_basket of fruit=1.0
+gt_table of food=0.0
+gt_vegetable on table=-0.0
+gt_stand of fruit=1.0
+gt_sandwich on table=0.0
+gt_plate of fruit=-0.0
+gt_book on table=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=-0.0
+gt_basket on table=1.0
+gt_plate on table=1.0
+gt_apple on table=1.0
+Objective: 133.30701857346133
+gt_plate of food=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_tray on table=0.0
+gt_container of food=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_plate of fruit=1.0
+gt_apple on table=0.0
+gt_basket on table=1.0
+gt_orange on table=1.0
+gt_vase on table=0.0
+gt_sandwich on table=0.0
+gt_table of food=0.0
+gt_fruit on table=0.0
+gt_bowl of fruit=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=0.0
+gt_bowl of fruit=0.0
+gt_orange on table=0.0
+gt_sandwich on table=0.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_table of food=1.0
+gt_fruit on table=0.0
+gt_plate of fruit=0.0
+gt_vase on table=0.0
+gt_keyboard on table=1.0
+gt_bottle on table=0.0
+gt_plate of fruit=1.0
+gt_plate of food=0.0
+gt_tray on table=0.0
+gt_sandwich on table=0.0
+gt_fruit on table=0.0
+gt_tray of food=0.0
+gt_table of food=1.0
+gt_vegetable on table=1.0
+gt_food on table=1.0
+gt_container of food=0.0
+gt_plate on table=1.0
+gt_bowl of fruit=1.0
+gt_vegetable on table=0.0
+gt_orange on table=1.0
+gt_plate of food=1.0
+gt_bottle on table=1.0
+gt_keyboard on table=0.0
+gt_book on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=1.0
+gt_plate of food=0.0
+gt_container of food=0.0
+gt_tray on table=1.0
+gt_tray of food=1.0
+gt_bowl of fruit=1.0
+gt_orange on table=1.0
+gt_basket of fruit=1.0
+gt_table of food=0.0
+gt_vegetable on table=-0.0
+gt_stand of fruit=1.0
+gt_sandwich on table=0.0
+gt_plate of fruit=-0.0
+gt_book on table=1.0
+gt_keyboard on table=1.0
+gt_fruit on table=0.0
+gt_basket on table=1.0
+gt_plate on table=1.0
+gt_apple on table=1.0
+----------------------------
+Caption: a woman is eating a banana in a bowl
+Imageid: 98434, extracted triplets: ['woman eat banana', 'woman in bowl'], mapped triplets: ['girl eat apple', 'woman eat food', 'fruit in bowl', 'apple in bowl', 'banana in bowl']
+Objective: 133.30701857346133
+PRIOR DISTANCE
+gt_banana in bowl=0.0
+gt_woman eat food=0.0
+gt_woman eat food=0.0
+gt_banana in bowl=0.0
+gt_woman eat food=1.0
+gt_girl eat apple=-0.0
+gt_banana in bowl=1.0
+gt_apple in bowl=1.0
+Objective: 133.4192187848626
+gt_banana in bowl=0.0
+gt_woman eat food=0.0
+gt_woman eat food=0.0
+gt_banana in bowl=0.0
+gt_woman eat food=1.0
+gt_girl eat apple=-0.0
+gt_banana in bowl=1.0
+gt_apple in bowl=0.0
+----------------------------
+Caption: a young boy standing in the grass holding a tennis racket
+Imageid: 526955, extracted triplets: ['boy in grass'], mapped triplets: ['man in grass', 'bird in grass', 'dog in grass']
+Objective: 133.4192187848626
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_man in grass=0.0
+Objective: 133.49853016891404
+gt_woman in grass=0.0
+gt_man in grass=1.0
+----------------------------

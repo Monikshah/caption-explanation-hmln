@@ -1,0 +1,720 @@
+Caption: a man riding a bike next to a train
+Imageid: 483108, extracted triplets: ['man ride bike', 'man next to train'], mapped triplets: ['girl ride bike', 'man ride bicycle', 'woman ride bike', 'person ride bike', 'man ride bike', 'man next to bike', 'man next to sign']
+Objective: 111.58459612575616
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_man next to sign=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_man next to sign=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man next to bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man next to bike=0.0
+gt_man ride bicycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_girl ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_girl ride bike=1.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_man ride bike=1.0
+gt_woman next to sign=1.0
+gt_woman ride bicycle=1.0
+gt_girl ride bike=1.0
+gt_man next to sign=-0.0
+Objective: 110.29958968674575
+gt_man ride bike=0.0
+gt_man next to sign=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_man next to sign=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man next to bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man next to bike=0.0
+gt_man ride bicycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_girl ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_girl ride bike=1.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_woman next to sign=1.0
+gt_woman ride bicycle=1.0
+gt_girl ride bike=1.0
+gt_man next to sign=-0.0
+----------------------------
+Caption: a crowd of people standing around a street
+Imageid: 25550, extracted triplets: ['crowd of people'], mapped triplets: []
+Objective: 110.29958968674575
+PRIOR DISTANCE
+Objective: 110.29958968674575
+----------------------------
+Caption: two people standing next to a stop sign
+Imageid: 278934, extracted triplets: ['people next to sign'], mapped triplets: ['man next to sign', 'woman next to sign']
+Objective: 110.29958968674575
+PRIOR DISTANCE
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_woman next to sign=1.0
+gt_woman next to sign=1.0
+gt_man next to sign=-0.0
+Objective: 110.52554960291869
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_woman next to sign=1.0
+gt_woman next to sign=1.0
+gt_man next to sign=0.0
+----------------------------
+Caption: a group of people riding motorcycles down a city street
+Imageid: 332877, extracted triplets: ['people ride motorcycles'], mapped triplets: ['people ride motorcycle', 'person ride motorcycle', 'man ride motorcycle']
+Objective: 110.52554960291869
+PRIOR DISTANCE
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_people ride motorcycle=1.0
+Objective: 110.69500363657833
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_people ride motorcycle=1.0
+----------------------------
+Caption: a man holding a street sign on the side of a street
+Imageid: 14392, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of road']
+Objective: 110.69500363657833
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+Objective: 110.81788450127478
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a man riding a bike down a dirt road
+Imageid: 215456, extracted triplets: ['man ride bike'], mapped triplets: ['woman ride bike', 'man ride bicycle', 'woman ride bicycle', 'person ride bike', 'people ride motorcycle', 'man ride motorcycle', 'person ride motorcycle', 'man ride bike']
+Objective: 110.81788450127478
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_people ride motorcycle=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+Objective: 111.30196637828523
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_people ride motorcycle=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+----------------------------
+Caption: a traffic light on the side of a street
+Imageid: 358817, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of road']
+Objective: 111.30196637828523
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+Objective: 111.00263962794929
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a woman walking down a street next to a street signs
+Imageid: 454776, extracted triplets: ['woman next to street signs'], mapped triplets: ['woman next to woman', 'sign next to street']
+Objective: 111.00263962794929
+PRIOR DISTANCE
+gt_sign next to street=0.0
+gt_sign next to street=1.0
+Objective: 110.9728597312742
+gt_sign next to street=0.0
+gt_sign next to street=1.0
+----------------------------
+Caption: a red fire hydrant sitting on the side of a street
+Imageid: 523194, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'sidewalk of street', 'side of road']
+Objective: 110.9728597312742
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+Objective: 111.26435922568588
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sign of street=1.0
+----------------------------
+Caption: a stop sign on the side of a building
+Imageid: 266712, extracted triplets: ['side of building'], mapped triplets: ['side of road', 'roof of build']
+Objective: 111.26435922568588
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_side of road=1.0
+gt_roof of build=0.0
+Objective: 111.45257451144373
+gt_side of road=1.0
+gt_side of road=0.0
+gt_roof of build=0.0
+----------------------------
+Caption: a stop sign on the side of a street with street signs
+Imageid: 347172, extracted triplets: ['side of street', 'street with street signs'], mapped triplets: ['side of road', 'sidewalk of street', 'street with sign']
+Objective: 111.45257451144373
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_street with sign=0.0
+gt_street with sign=0.0
+gt_sidewalk of street=0.0
+gt_street with sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_street with sign=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_street with sign=0.0
+gt_sidewalk of street=0.0
+Objective: 111.36621392947895
+gt_side of road=1.0
+gt_street with sign=0.0
+gt_street with sign=0.0
+gt_sidewalk of street=0.0
+gt_street with sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_street with sign=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_street with sign=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a red and white bus driving down a street
+Imageid: 82846, extracted triplets: ['bus drive street'], mapped triplets: ['bus drive road', 'van drive road', 'car drive street', 'van drive street', 'bus drive street']
+Objective: 111.36621392947895
+PRIOR DISTANCE
+Objective: 111.36621392947895
+----------------------------
+Caption: a stop sign on the side of a street
+Imageid: 121196, extracted triplets: ['side of sidewalk', 'side of people', 'side of pole', 'side of coat', 'side of person', 'side of window', 'side of wall', 'side of rail', 'side of curtain', 'side of sign', 'side of letter'], mapped triplets: ['side of road', 'sidewalk of street', 'side of road', 'sign of pole', 'clock of pole', 'woman of pole', 'side of road', 'side of road', 'man of sign', 'side of road', 'sign of wall', 'side of road', 'side of road', 'side of road', 'side of road', 'side of road']
+Objective: 111.36621392947895
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_clock of pole=0.0
+gt_sidewalk of street=0.0
+gt_sign of wall=-0.0
+gt_woman of sign=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_side of road=0.0
+gt_sidewalk of street=0.0
+Objective: 111.45710164540655
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_clock of pole=0.0
+gt_sidewalk of street=0.0
+gt_sign of wall=-0.0
+gt_woman of sign=0.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a woman sitting on a bench next to a child
+Imageid: 198176, extracted triplets: ['woman sit bench', 'woman next to child'], mapped triplets: ['woman sit table', 'people sit bench', 'woman next to woman']
+Objective: 111.45710164540655
+PRIOR DISTANCE
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=0.0
+gt_woman sit table=0.0
+gt_woman sit table=1.0
+Objective: 111.45710164540655
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=0.0
+gt_woman sit table=0.0
+gt_woman sit table=1.0
+----------------------------
+Caption: a street sign on the side of a road
+Imageid: 433892, extracted triplets: ['side of road'], mapped triplets: ['side of road']
+Objective: 111.45710164540655
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_side of road=1.0
+Objective: 111.4832749384129
+gt_side of road=1.0
+gt_side of road=0.0
+----------------------------
+Caption: a stop sign on the side of a street
+Imageid: 487076, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of road']
+Objective: 111.4832749384129
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_sidewalk of street=1.0
+Objective: 111.36151317469547
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a stop sign on the side of a street
+Imageid: 193884, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of road']
+Objective: 111.36151317469547
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+Objective: 111.5057585063369
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a man walking down a street with a suitcase
+Imageid: 101491, extracted triplets: ['man with suitcase'], mapped triplets: ['man with bag', 'man with backpack']
+Objective: 111.5057585063369
+PRIOR DISTANCE
+gt_man with bag=1.0
+gt_man with bag=0.0
+gt_man with backpack=0.0
+gt_man with backpack=1.0
+gt_woman with backpack=1.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_woman with backpack=0.0
+gt_man with bag=1.0
+gt_man with backpack=-0.0
+Objective: 111.49097516198546
+gt_man with bag=1.0
+gt_man with bag=0.0
+gt_man with backpack=0.0
+gt_man with backpack=1.0
+gt_woman with backpack=1.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_woman with backpack=0.0
+gt_man with bag=1.0
+gt_man with backpack=-0.0
+----------------------------
+Caption: a white fire hydrant on the side of a street
+Imageid: 215124, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of road']
+Objective: 111.49097516198546
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=1.0
+gt_sidewalk of street=1.0
+Objective: 111.17915711916065
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a stop sign on the side of a street
+Imageid: 578977, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of road']
+Objective: 111.17915711916065
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_sidewalk of street=0.0
+Objective: 110.98202075877408
+gt_side of road=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_side of road=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a stop sign on the side of a fence
+Imageid: 273188, extracted triplets: ['side of fence'], mapped triplets: ['sidewalk of street']
+Objective: 110.98202075877408
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 111.06056039261264
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a large building with a street light in front of it
+Imageid: 111546, extracted triplets: ['building with street light'], mapped triplets: ['build with sign', 'street with sign', 'light with sign']
+Objective: 111.06056039261264
+PRIOR DISTANCE
+gt_build with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_street with sign=1.0
+gt_build with sign=1.0
+gt_light with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=1.0
+gt_light with sign=-0.0
+gt_build with sign=0.0
+gt_street with sign=0.0
+Objective: 110.04477129114159
+gt_build with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_street with sign=1.0
+gt_build with sign=1.0
+gt_light with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=1.0
+gt_light with sign=-0.0
+gt_build with sign=0.0
+gt_street with sign=0.0
+----------------------------
+Caption: a stop sign next to a tree on a street
+Imageid: 165298, extracted triplets: ['tree on street'], mapped triplets: ['tree on road', 'bush on street']
+Objective: 110.04477129114159
+PRIOR DISTANCE
+gt_bush on street=1.0
+gt_tree on road=1.0
+Objective: 110.13284401506705
+gt_bush on street=1.0
+gt_tree on road=1.0
+----------------------------
+Caption: a man standing next to a stop sign
+Imageid: 559884, extracted triplets: ['man next to sign'], mapped triplets: ['man next to woman', 'man next to sign']
+Objective: 110.13284401506705
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_woman next to sign=1.0
+gt_man next to sign=0.0
+Objective: 109.97319923396897
+gt_man next to woman=0.0
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_woman next to sign=1.0
+gt_man next to sign=-0.0
+----------------------------
+Caption: a yellow train is sitting on the tracks in a city
+Imageid: 130352, extracted triplets: ['train sit train', 'train in building'], mapped triplets: ['sign sit sign', 'rock sit rock', 'bus in build', 'truck in build', 'car in build']
+Objective: 109.97319923396897
+PRIOR DISTANCE
+Objective: 109.97319923396897
+----------------------------
+Caption: a group of cars parked on the side of a street
+Imageid: 499181, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'street of sign', 'sidewalk of street']
+Objective: 109.97319923396897
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_street of sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_street of sign=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+Objective: 110.44168585855589
+gt_sidewalk of street=0.0
+gt_street of sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_street of sign=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+----------------------------

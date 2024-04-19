@@ -1,0 +1,1194 @@
+Caption: a giraffe standing in the dirt in a field
+Imageid: 275210, extracted triplets: ['giraffe in field'], mapped triplets: ['zebra in field', 'bush in field', 'grass in field', 'animal in field', 'giraffe in field']
+Objective: 84.4618984432419
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=-0.0
+gt_grass in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 85.01335896082651
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a close up of a giraffe standing in a field
+Imageid: 519046, extracted triplets: ['giraffe in field'], mapped triplets: ['zebra in field', 'bush in field', 'grass in field', 'animal in field', 'giraffe in field']
+Objective: 85.01335896082651
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 84.53493932044793
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe eating hay from a feeder
+Imageid: 91857, extracted triplets: ['giraffe eat food'], mapped triplets: ['giraffe eat bush', 'giraffe eat tree', 'giraffe eat branch', 'giraffe eat leaf', 'giraffe eat grass']
+Objective: 84.53493932044793
+PRIOR DISTANCE
+gt_giraffe eat grass=0.0
+gt_giraffe eat branch=-0.0
+gt_giraffe eat leaf=1.0
+gt_giraffe eat grass=1.0
+gt_giraffe eat tree=1.0
+Objective: 84.94795624321
+gt_giraffe eat grass=0.0
+gt_giraffe eat branch=-0.0
+gt_giraffe eat leaf=1.0
+gt_giraffe eat grass=1.0
+gt_giraffe eat tree=1.0
+----------------------------
+Caption: a giraffe and a zebra standing in a field
+Imageid: 123836, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in field', 'animal in field', 'grass in field']
+Objective: 84.94795624321
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_animal in field=0.0
+Objective: 84.82880070969742
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe with two birds sitting on its neck
+Imageid: 126502, extracted triplets: ['giraffe with bird', 'giraffe with beak'], mapped triplets: ['giraffe with animal', 'giraffe with bird', 'giraffe with animal', 'giraffe with bird']
+Objective: 84.82880070969742
+PRIOR DISTANCE
+gt_giraffe with animal=0.0
+gt_giraffe with animal=0.0
+Objective: 84.96182274056608
+gt_giraffe with animal=0.0
+gt_giraffe with animal=0.0
+----------------------------
+Caption: three giraffes standing in a field of grass
+Imageid: 122007, extracted triplets: ['field of grass'], mapped triplets: ['field of flower', 'field of tree', 'field of grass']
+Objective: 84.96182274056608
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of tree=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of flower=0.0
+gt_field of tree=0.0
+Objective: 84.76887692835493
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of tree=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=1.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=0.0
+gt_field of tree=0.0
+----------------------------
+Caption: a close up of a giraffe with a bird on its neck
+Imageid: 68203, extracted triplets: ['bird on neck'], mapped triplets: ['giraffe on neck', 'bird on neck']
+Objective: 84.76887692835493
+PRIOR DISTANCE
+gt_bird on neck=0.0
+gt_bird on neck=-0.0
+Objective: 84.78337576759537
+gt_bird on neck=0.0
+gt_bird on neck=-0.0
+----------------------------
+Caption: a giraffe and a zebra standing in a field
+Imageid: 238700, extracted triplets: ['zebra in field'], mapped triplets: ['elephant in field', 'zebra in field', 'road in field', 'bush in field', 'grass in field', 'giraffe in field', 'animal in field', 'fence in field', 'animal in grass']
+Objective: 84.78337576759537
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_fence in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_road in field=1.0
+gt_elephant in field=0.0
+gt_grass in field=1.0
+gt_fence in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 84.89379401965836
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_fence in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_road in field=1.0
+gt_elephant in field=0.0
+gt_grass in field=1.0
+gt_fence in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: two giraffes are walking in a field of grass
+Imageid: 150576, extracted triplets: ['field of grass'], mapped triplets: ['field of flower', 'field of tree', 'field of grass']
+Objective: 84.89379401965836
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of tree=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of flower=0.0
+gt_field of tree=0.0
+Objective: 84.74589881374996
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of tree=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=1.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=0.0
+gt_field of tree=0.0
+----------------------------
+Caption: three giraffes standing next to a tree in a zoo
+Imageid: 342394, extracted triplets: ['tree in giraffe', 'tree in fence'], mapped triplets: ['animal in field', 'animal in grass', 'bush in field', 'fence in field']
+Objective: 84.74589881374996
+PRIOR DISTANCE
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_animal in field=1.0
+gt_fence in field=1.0
+gt_animal in field=0.0
+gt_fence in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 84.92409606324622
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_animal in field=1.0
+gt_fence in field=1.0
+gt_animal in field=0.0
+gt_fence in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a man standing on a skateboard in a zoo
+Imageid: 34617, extracted triplets: ['man on skateboard', 'man in giraffe'], mapped triplets: ['person on beach', 'people in giraffe', 'animal in field']
+Objective: 84.92409606324622
+PRIOR DISTANCE
+gt_people in giraffe=0.0
+gt_animal in field=0.0
+gt_person on beach=1.0
+gt_animal in field=1.0
+gt_person on beach=0.0
+gt_animal in field=1.0
+gt_animal in field=0.0
+gt_people in giraffe=-0.0
+gt_animal in field=0.0
+Objective: 85.03319666545357
+gt_people in giraffe=0.0
+gt_animal in field=0.0
+gt_person on beach=1.0
+gt_animal in field=1.0
+gt_person on beach=0.0
+gt_animal in field=1.0
+gt_animal in field=0.0
+gt_people in giraffe=-0.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe standing in the grass in a field
+Imageid: 443583, extracted triplets: ['giraffe in grass', 'giraffe in field'], mapped triplets: ['giraffe in field', 'animal in grass', 'giraffe in grass', 'animal in field', 'giraffe in field']
+Objective: 85.03319666545357
+PRIOR DISTANCE
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+Objective: 85.49867990441919
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a close up of a giraffe standing next to trees
+Imageid: 186747, extracted triplets: ['giraffe next to tree'], mapped triplets: ['giraffe next to plant', 'giraffe next to tree']
+Objective: 85.49867990441919
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+Objective: 85.49317223679675
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+----------------------------
+Caption: a giraffe standing next to a tree
+Imageid: 363508, extracted triplets: ['giraffe next to tree'], mapped triplets: ['giraffe next to plant', 'giraffe next to bush', 'giraffe next to tree']
+Objective: 85.49317223679675
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+Objective: 85.46247900646523
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+----------------------------
+Caption: a giraffe standing under a umbrella in a zoo
+Imageid: 177453, extracted triplets: ['giraffe under umbrella', 'giraffe in giraffe'], mapped triplets: ['giraffe under tree', 'giraffe in giraffe']
+Objective: 85.46247900646523
+PRIOR DISTANCE
+gt_giraffe under tree=0.0
+gt_giraffe under tree=1.0
+gt_giraffe under tree=0.0
+gt_giraffe under tree=0.0
+gt_giraffe in giraffe=-0.0
+Objective: 85.50136479830614
+gt_giraffe under tree=0.0
+gt_giraffe under tree=1.0
+gt_giraffe under tree=0.0
+gt_giraffe under tree=0.0
+gt_giraffe in giraffe=-0.0
+----------------------------
+Caption: a giraffe standing in the grass in a field
+Imageid: 487236, extracted triplets: ['giraffe in grass', 'giraffe in field'], mapped triplets: ['animal in grass', 'giraffe in field', 'giraffe in grass', 'zebra in field', 'animal in field', 'giraffe in field']
+Objective: 85.50136479830614
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+Objective: 85.22337019611835
+gt_zebra in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe standing in the grass in a field
+Imageid: 537053, extracted triplets: ['giraffe in grass', 'giraffe in field'], mapped triplets: ['giraffe in field', 'giraffe in grass', 'zebra in field', 'bush in field', 'grass in field', 'animal in field', 'giraffe in field']
+Objective: 85.22337019611835
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+Objective: 85.3495260582211
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a woman standing next to a giraffe
+Imageid: 186497, extracted triplets: ['woman next to giraffe'], mapped triplets: ['man next to giraffe', 'person next to giraffe', 'girl next to giraffe', 'woman next to giraffe']
+Objective: 85.3495260582211
+PRIOR DISTANCE
+gt_girl next to giraffe=1.0
+gt_woman next to giraffe=1.0
+gt_woman next to giraffe=1.0
+Objective: 85.23346238013013
+gt_girl next to giraffe=1.0
+gt_woman next to giraffe=1.0
+gt_woman next to giraffe=1.0
+----------------------------
+Caption: a close up of a giraffe standing next to a fence
+Imageid: 282912, extracted triplets: ['giraffe next to fence'], mapped triplets: ['giraffe next to wall', 'giraffe next to fence']
+Objective: 85.23346238013013
+PRIOR DISTANCE
+gt_giraffe next to fence=0.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to wall=-0.0
+Objective: 85.05678869888013
+gt_giraffe next to fence=0.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to wall=-0.0
+----------------------------
+Caption: a giraffe standing next to a stone wall
+Imageid: 121692, extracted triplets: ['giraffe next to wall', 'giraffe next to rock'], mapped triplets: ['giraffe next to rock', 'giraffe next to build', 'giraffe next to sign', 'giraffe next to car', 'giraffe next to pole', 'giraffe next to fence', 'giraffe next to window', 'giraffe next to wall', 'giraffe next to wall', 'giraffe next to bush', 'giraffe next to tree', 'giraffe next to build', 'giraffe next to sign', 'giraffe next to car', 'giraffe next to pole', 'giraffe next to fence', 'giraffe next to window', 'giraffe next to rock']
+Objective: 85.05678869888013
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to fence=0.0
+gt_giraffe next to fence=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to car=1.0
+gt_giraffe next to car=1.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe next to build=1.0
+gt_giraffe next to build=1.0
+gt_giraffe next to wall=-0.0
+gt_giraffe next to wall=-0.0
+gt_giraffe next to window=0.0
+gt_giraffe next to window=0.0
+gt_giraffe next to rock=0.0
+gt_giraffe next to rock=0.0
+Objective: 85.44594878715387
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to fence=0.0
+gt_giraffe next to fence=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to car=1.0
+gt_giraffe next to car=1.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe next to build=1.0
+gt_giraffe next to build=1.0
+gt_giraffe next to wall=-0.0
+gt_giraffe next to wall=-0.0
+gt_giraffe next to window=0.0
+gt_giraffe next to window=0.0
+gt_giraffe next to rock=1.0
+gt_giraffe next to rock=1.0
+----------------------------
+Caption: a giraffe standing in the grass in a field
+Imageid: 276195, extracted triplets: ['giraffe in grass', 'giraffe in field'], mapped triplets: ['giraffe in field', 'giraffe in bush', 'grass in field', 'animal in grass', 'giraffe in grass', 'zebra in field', 'animal in field', 'giraffe in field']
+Objective: 85.44594878715387
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in bush=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+Objective: 85.62091537492658
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in bush=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe standing in the grass next to a tree
+Imageid: 289754, extracted triplets: ['giraffe in grass', 'giraffe next to tree'], mapped triplets: ['elephant in grass', 'giraffe in field', 'giraffe in grass', 'animal in grass', 'giraffe next to plant', 'giraffe next to tree']
+Objective: 85.62091537492658
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=1.0
+gt_elephant in grass=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=0.0
+gt_elephant in grass=0.0
+gt_giraffe in field=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe in grass=1.0
+Objective: 84.91186425056767
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=1.0
+gt_elephant in grass=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=0.0
+gt_elephant in grass=0.0
+gt_giraffe in field=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe in grass=1.0
+----------------------------
+Caption: a giraffe standing in the grass next to a wall
+Imageid: 263211, extracted triplets: ['giraffe in grass', 'giraffe next to wall'], mapped triplets: ['animal in grass', 'giraffe in field', 'giraffe in grass', 'giraffe next to wall']
+Objective: 84.91186425056767
+PRIOR DISTANCE
+gt_giraffe in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe next to wall=0.0
+gt_giraffe in grass=1.0
+Objective: 85.15593327271674
+gt_giraffe in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe next to wall=0.0
+gt_giraffe in grass=1.0
+----------------------------
+Caption: a zebra and a giraffe standing in a zoo
+Imageid: 544975, extracted triplets: ['giraffe in giraffe', 'giraffe in zebra'], mapped triplets: ['giraffe in giraffe', 'zebra in field', 'giraffe in field', 'giraffe in zebra']
+Objective: 85.15593327271674
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in zebra=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in giraffe=-0.0
+gt_zebra in field=1.0
+gt_giraffe in zebra=1.0
+Objective: 85.54961031530736
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in field=0.0
+gt_giraffe in zebra=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe in giraffe=-0.0
+gt_zebra in field=1.0
+gt_giraffe in zebra=1.0
+----------------------------
+Caption: a giraffe standing next to a tree
+Imageid: 378814, extracted triplets: ['giraffe next to tree'], mapped triplets: ['giraffe next to plant', 'giraffe next to tree']
+Objective: 85.54961031530736
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+Objective: 85.53156021897654
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+----------------------------
+Caption: a giraffe standing next to a tree in a field
+Imageid: 233553, extracted triplets: ['giraffe next to tree', 'tree in field'], mapped triplets: ['giraffe next to bush', 'giraffe next to tree', 'bush in field', 'grass in field', 'animal in field']
+Objective: 85.53156021897654
+PRIOR DISTANCE
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_grass in field=1.0
+gt_animal in field=1.0
+gt_giraffe next to tree=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_grass in field=1.0
+gt_giraffe next to tree=1.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 85.48890505769883
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_grass in field=1.0
+gt_animal in field=1.0
+gt_giraffe next to tree=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_grass in field=1.0
+gt_giraffe next to tree=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe standing in front of trees
+Imageid: 187610, extracted triplets: ['giraffe in face', 'giraffe in giraffe', 'giraffe in head'], mapped triplets: ['giraffe in neck', 'giraffe in giraffe', 'giraffe in neck']
+Objective: 85.48890505769883
+PRIOR DISTANCE
+gt_giraffe in giraffe=-0.0
+gt_giraffe in neck=-0.0
+gt_giraffe in neck=-0.0
+Objective: 85.37297554717748
+gt_giraffe in giraffe=-0.0
+gt_giraffe in neck=-0.0
+gt_giraffe in neck=-0.0
+----------------------------
+Caption: a giraffe eating grass in a field
+Imageid: 142189, extracted triplets: ['giraffe eat grass', 'giraffe in field'], mapped triplets: ['giraffe eat bush', 'giraffe eat tree', 'giraffe eat branch', 'giraffe eat leaf', 'giraffe eat grass', 'zebra in field', 'bush in field', 'grass in field', 'animal in field', 'giraffe in field']
+Objective: 85.37297554717748
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_giraffe eat grass=0.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe eat branch=-0.0
+gt_giraffe eat leaf=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_giraffe eat grass=1.0
+gt_giraffe eat tree=1.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 85.33613849083348
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_giraffe eat grass=0.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe eat branch=-0.0
+gt_giraffe eat leaf=1.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_giraffe eat grass=1.0
+gt_giraffe eat tree=1.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe standing next to a rock wall
+Imageid: 204930, extracted triplets: ['giraffe next to rock wall'], mapped triplets: ['giraffe next to rock', 'giraffe next to wall']
+Objective: 85.33613849083348
+PRIOR DISTANCE
+gt_giraffe next to wall=-0.0
+gt_giraffe next to rock=1.0
+Objective: 85.33359210197106
+gt_giraffe next to wall=-0.0
+gt_giraffe next to rock=1.0
+----------------------------
+Caption: a giraffe standing in the grass in a field
+Imageid: 459757, extracted triplets: ['giraffe in grass', 'giraffe in field'], mapped triplets: ['giraffe in grass', 'elephant in field', 'zebra in field', 'bush in field', 'grass in field', 'animal in field', 'giraffe in field']
+Objective: 85.33359210197106
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+Objective: 85.6133996774685
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_grass in field=0.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_grass in field=1.0
+gt_bush in field=1.0
+gt_giraffe in grass=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe standing next to a body of water
+Imageid: 30925, extracted triplets: ['giraffe next to neck', 'giraffe next to leg', 'giraffe next to head'], mapped triplets: ['giraffe next to giraffe']
+Objective: 85.6133996774685
+PRIOR DISTANCE
+Objective: 85.6133996774685
+----------------------------
+Caption: a giraffe walking in the dirt in a zoo
+Imageid: 259382, extracted triplets: ['giraffe in dirt', 'giraffe in giraffe'], mapped triplets: ['giraffe in dirt', 'giraffe in giraffe']
+Objective: 85.6133996774685
+PRIOR DISTANCE
+gt_giraffe in giraffe=-0.0
+Objective: 85.70228157397234
+gt_giraffe in giraffe=-0.0
+----------------------------
+Caption: a man standing next to two giraffes
+Imageid: 6896, extracted triplets: ['man next to giraffe'], mapped triplets: ['person next to giraffe', 'girl next to giraffe', 'woman next to giraffe', 'man next to giraffe']
+Objective: 85.70228157397234
+PRIOR DISTANCE
+gt_girl next to giraffe=1.0
+gt_woman next to giraffe=1.0
+gt_woman next to giraffe=1.0
+Objective: 86.07335323805367
+gt_girl next to giraffe=1.0
+gt_woman next to giraffe=1.0
+gt_woman next to giraffe=1.0
+----------------------------
+Caption: a giraffe standing in the grass next to a tree
+Imageid: 467755, extracted triplets: ['giraffe in grass', 'giraffe next to tree'], mapped triplets: ['giraffe in field', 'animal in grass', 'giraffe in grass', 'giraffe next to plant', 'giraffe next to bush', 'giraffe next to tree']
+Objective: 86.07335323805367
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe in grass=1.0
+Objective: 86.29145116312725
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=1.0
+gt_giraffe in grass=0.0
+gt_giraffe in field=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe in field=0.0
+gt_giraffe in field=1.0
+gt_giraffe next to tree=1.0
+gt_giraffe in grass=1.0
+----------------------------
+Caption: two zebras and a giraffe standing in a field
+Imageid: 383282, extracted triplets: ['giraffe in field'], mapped triplets: ['elephant in field', 'zebra in field', 'animal in field', 'giraffe in field']
+Objective: 86.29145116312725
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+Objective: 86.57662710105932
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+----------------------------
+Caption: three giraffes walking in a field of grass
+Imageid: 492506, extracted triplets: ['field of grass'], mapped triplets: ['field of flower', 'field of tree', 'field of grass']
+Objective: 86.57662710105932
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of tree=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of flower=0.0
+gt_field of tree=0.0
+Objective: 86.59523753862021
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of tree=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of flower=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of flower=1.0
+gt_field of tree=0.0
+----------------------------
+Caption: a giraffe standing next to a fence
+Imageid: 106970, extracted triplets: ['giraffe next to fence'], mapped triplets: ['giraffe next to wall', 'giraffe next to build', 'giraffe next to pole', 'giraffe next to fence']
+Objective: 86.59523753862021
+PRIOR DISTANCE
+gt_giraffe next to fence=0.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to build=1.0
+gt_giraffe next to wall=0.0
+Objective: 86.53642688928859
+gt_giraffe next to fence=0.0
+gt_giraffe next to fence=1.0
+gt_giraffe next to build=1.0
+gt_giraffe next to wall=0.0
+----------------------------
+Caption: a giraffe standing next to a tree
+Imageid: 475150, extracted triplets: ['giraffe next to tree'], mapped triplets: ['giraffe next to plant', 'giraffe next to tree']
+Objective: 86.53642688928859
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+Objective: 86.5129360773686
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=1.0
+----------------------------
+Caption: a giraffe eating leaves from a fence
+Imageid: 44642, extracted triplets: ['giraffe from fence'], mapped triplets: ['giraffe from tree']
+Objective: 86.5129360773686
+PRIOR DISTANCE
+Objective: 86.5129360773686
+----------------------------
+Caption: a man feeding a giraffe in a field
+Imageid: 230679, extracted triplets: ['man in field'], mapped triplets: ['zebra in field', 'bush in field', 'grass in field', 'animal in field', 'fence in field']
+Objective: 86.5129360773686
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_grass in field=0.0
+gt_fence in field=1.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_fence in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+Objective: 85.99882747576827
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_fence in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=1.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_grass in field=0.0
+gt_fence in field=1.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_fence in field=0.0
+gt_bush in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a giraffe walking in a field with trees
+Imageid: 410231, extracted triplets: ['giraffe in field', 'giraffe with tree'], mapped triplets: ['zebra in field', 'giraffe in field', 'giraffe with animal', 'tree with field']
+Objective: 85.99882747576827
+PRIOR DISTANCE
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_tree with field=-0.0
+gt_giraffe in field=1.0
+gt_giraffe with animal=0.0
+gt_zebra in field=1.0
+Objective: 85.67657649580964
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_zebra in field=0.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_giraffe in field=0.0
+gt_tree with field=-0.0
+gt_giraffe in field=1.0
+gt_giraffe with animal=1.0
+gt_zebra in field=1.0
+----------------------------

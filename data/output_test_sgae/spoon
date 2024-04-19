@@ -1,0 +1,2690 @@
+Caption: a woman sitting at a table with a plate of cake
+Imageid: 60623, extracted triplets: ['woman at table', 'woman with plate'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'people with plate', 'woman with food', 'woman with pizza', 'woman with cake', 'woman with plate']
+Objective: 158.30619972660116
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people with plate=-0.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 158.27690628808253
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people with plate=-0.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a plate of plates of food on a table
+Imageid: 570465, extracted triplets: ['plate on table'], mapped triplets: ['plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 158.27690628808253
+PRIOR DISTANCE
+gt_sandwich on plate=0.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_cup on plate=1.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_carrot on plate=0.0
+gt_banana on plate=0.0
+gt_spoon on plate=1.0
+gt_food on plate=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+Objective: 159.2492909967039
+gt_sandwich on plate=1.0
+gt_plate on table=0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_cup on plate=1.0
+gt_bowl on plate=1.0
+gt_cake on plate=0.0
+gt_carrot on plate=1.0
+gt_banana on plate=0.0
+gt_spoon on plate=1.0
+gt_food on plate=-0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+----------------------------
+Caption: a young boy holding a bowl of food
+Imageid: 362368, extracted triplets: ['boy hold bowl'], mapped triplets: ['person hold bowl', 'woman hold bowl']
+Objective: 159.2492909967039
+PRIOR DISTANCE
+gt_woman hold bowl=1.0
+Objective: 159.22513244017125
+gt_woman hold bowl=1.0
+----------------------------
+Caption: a man sitting at a table with a pizza
+Imageid: 182245, extracted triplets: ['man at table', 'man with pizza'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table', 'man with pizza', 'person with food', 'people with plate']
+Objective: 159.22513244017125
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people with plate=-0.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person with food=1.0
+gt_person at table=1.0
+Objective: 159.4151416326814
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people with plate=-0.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person with food=1.0
+gt_person at table=1.0
+----------------------------
+Caption: a person holding a pizza on a stove
+Imageid: 24223, extracted triplets: ['person hold pizza'], mapped triplets: ['person hold pizza', 'woman hold pizza', 'man hold pizza']
+Objective: 159.4151416326814
+PRIOR DISTANCE
+gt_man hold pizza=0.0
+Objective: 160.18237525169803
+gt_man hold pizza=0.0
+----------------------------
+Caption: a woman is standing in front of a stove
+Imageid: 33638, extracted triplets: ['woman in wall'], mapped triplets: ['desk in room']
+Objective: 160.18237525169803
+PRIOR DISTANCE
+gt_desk in room=1.0
+Objective: 160.30818506876082
+gt_desk in room=1.0
+----------------------------
+Caption: a table with a bowl of food on it
+Imageid: 297233, extracted triplets: ['table with bowl', 'bowl of food'], mapped triplets: ['table with pizza', 'table with food', 'table with vegetable', 'table with apple', 'table with bread', 'table with fruit', 'table with bowl', 'bowl with food', 'bowl with vegetable', 'bowl with fruit', 'bowl of apple', 'bowl of banana', 'bowl of fruit', 'bowl of broccoli', 'bowl of sandwich', 'bowl of food', 'bowl of vegetable']
+Objective: 160.30818506876082
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_bowl with food=1.0
+gt_table with food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_table with fruit=0.0
+gt_table with apple=1.0
+gt_bowl of broccoli=-0.0
+gt_table with bread=1.0
+gt_bowl of vegetable=1.0
+gt_table with bowl=1.0
+gt_table with pizza=0.0
+gt_bowl of fruit=0.0
+Objective: 159.96572333434685
+gt_bowl of food=1.0
+gt_bowl with food=1.0
+gt_table with food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_table with fruit=0.0
+gt_table with apple=1.0
+gt_bowl of broccoli=-0.0
+gt_table with bread=1.0
+gt_bowl of vegetable=1.0
+gt_table with bowl=1.0
+gt_table with pizza=0.0
+gt_bowl of fruit=1.0
+----------------------------
+Caption: a group of people sitting around a table with a birthday cake
+Imageid: 384981, extracted triplets: ['people sit around table'], mapped triplets: ['child sit table', 'woman sit table', 'people sit around table']
+Objective: 159.96572333434685
+PRIOR DISTANCE
+gt_people sit around table=0.0
+gt_woman sit table=1.0
+Objective: 159.89858959053038
+gt_people sit around table=1.0
+gt_woman sit table=1.0
+----------------------------
+Caption: a pot of soup with broccoli and a table
+Imageid: 178748, extracted triplets: ['pot with broccoli'], mapped triplets: ['container with vegetable', 'bowl with broccoli', 'food with broccoli', 'pot with broccoli']
+Objective: 159.89858959053038
+PRIOR DISTANCE
+gt_pot with broccoli=0.0
+gt_food with broccoli=0.0
+Objective: 159.77166194496036
+gt_pot with broccoli=0.0
+gt_food with broccoli=0.0
+----------------------------
+Caption: a cup of coffee and a sandwich on a table
+Imageid: 322369, extracted triplets: ['sandwich on table'], mapped triplets: ['food on table', 'sandwich on plate', 'sandwich on table']
+Objective: 159.77166194496036
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_food on table=0.0
+gt_sandwich on table=0.0
+Objective: 159.65874373482302
+gt_sandwich on plate=1.0
+gt_food on table=0.0
+gt_sandwich on table=0.0
+----------------------------
+Caption: a hot dogs and a on a plate with a fork
+Imageid: 320664, extracted triplets: ['plate with fork'], mapped triplets: ['plate with pizza', 'plate with apple', 'plate with broccoli', 'plate with food', 'plate with sandwich', 'plate with orange', 'plate with carrot', 'plate with donut', 'plate with fruit', 'plate with bread', 'plate with meat', 'plate with spoon', 'plate with glass', 'plate with knife', 'plate with vegetable', 'plate with cake']
+Objective: 159.65874373482302
+PRIOR DISTANCE
+gt_plate with sandwich=1.0
+gt_plate with orange=-0.0
+gt_plate with knife=1.0
+gt_plate with food=0.0
+gt_plate with vegetable=-0.0
+gt_plate with fruit=1.0
+gt_plate with glass=1.0
+gt_plate with pizza=0.0
+gt_plate with bread=-0.0
+gt_plate with donut=1.0
+gt_plate with spoon=0.0
+gt_plate with apple=1.0
+gt_plate with meat=-0.0
+Objective: 160.62275348213737
+gt_plate with sandwich=1.0
+gt_plate with orange=-0.0
+gt_plate with knife=1.0
+gt_plate with food=0.0
+gt_plate with vegetable=-0.0
+gt_plate with fruit=1.0
+gt_plate with glass=1.0
+gt_plate with pizza=0.0
+gt_plate with bread=-0.0
+gt_plate with donut=1.0
+gt_plate with spoon=-0.0
+gt_plate with apple=1.0
+gt_plate with meat=-0.0
+----------------------------
+Caption: a man taking a picture of a pizza
+Imageid: 4312, extracted triplets: ['man take picture', 'picture of pizza'], mapped triplets: ['plate of pizza']
+Objective: 160.62275348213737
+PRIOR DISTANCE
+gt_plate of pizza=0.0
+Objective: 160.83057896078688
+gt_plate of pizza=1.0
+----------------------------
+Caption: a person holding a bowl of food on a table
+Imageid: 135399, extracted triplets: ['person hold bowl', 'bowl of food', 'person on table'], mapped triplets: ['person hold bowl', 'woman hold bowl', 'tray hold bowl', 'bowl of apple', 'bowl of banana', 'bowl of fruit', 'bowl of broccoli', 'bowl of sandwich', 'bowl of food', 'bowl of vegetable', 'man on table', 'flower on table', 'people on table', 'napkin on table', 'glass on table', 'paper on table', 'basket on table', 'box on table', 'phone on table', 'cake on table', 'sandwich on table', 'dog on table', 'carrot on table', 'vase on table', 'donut on table', 'tomato on table', 'vegetable on table', 'bottle on table', 'pizza on table', 'apple on table', 'can on table', 'bird on table', 'food on table', 'tray on table', 'meat on table', 'table on table', 'orange on table', 'woman on table', 'bowl on table', 'cat on table', 'arm on table', 'book on table', 'cup on table', 'laptop on table']
+Objective: 160.83057896078688
+PRIOR DISTANCE
+gt_people on table=0.0
+gt_bowl of food=1.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_man on table=0.0
+gt_dog on table=1.0
+gt_bowl of sandwich=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_tray hold bowl=1.0
+gt_bowl of banana=0.0
+gt_laptop on table=0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_vegetable on table=0.0
+gt_tomato on table=-0.0
+gt_bowl of apple=-0.0
+gt_woman hold bowl=1.0
+gt_napkin on table=1.0
+gt_apple on table=0.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_bowl of broccoli=-0.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bowl of vegetable=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_table on table=0.0
+gt_sandwich on table=0.0
+gt_box on table=0.0
+gt_bowl of fruit=1.0
+gt_can on table=1.0
+Objective: 160.57187814015182
+gt_people on table=0.0
+gt_bowl of food=1.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_man on table=0.0
+gt_dog on table=1.0
+gt_bowl of sandwich=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_tray hold bowl=1.0
+gt_bowl of banana=0.0
+gt_laptop on table=0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_bowl of apple=-0.0
+gt_woman hold bowl=1.0
+gt_napkin on table=-0.0
+gt_apple on table=0.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_bowl of broccoli=-0.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bowl of vegetable=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_table on table=0.0
+gt_sandwich on table=0.0
+gt_box on table=0.0
+gt_bowl of fruit=0.0
+gt_can on table=1.0
+----------------------------
+Caption: a cup of orange juice and a on a table
+Imageid: 546854, extracted triplets: ['cup on table'], mapped triplets: ['plate on table', 'orange on table', 'banana on table', 'bottle on table', 'dog on table', 'tomato on table', 'carrot on table', 'vase on table', 'woman on table', 'can on table', 'meat on table', 'arm on table', 'table on woman', 'food on table', 'cat on table', 'flower on table', 'paper on table', 'cup on table', 'basket on table', 'glass on table', 'man on table', 'box on table', 'napkin on table', 'book on table', 'pizza on table', 'apple on table', 'donut on table', 'tray on table', 'people on table', 'bird on table', 'water on table', 'phone on table', 'sandwich on table', 'vegetable on table', 'fruit on table']
+Objective: 160.57187814015182
+PRIOR DISTANCE
+gt_people on table=0.0
+gt_plate on table=-0.0
+gt_phone on table=1.0
+gt_man on table=0.0
+gt_dog on table=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_water on table=-0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=-0.0
+gt_apple on table=0.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_table on woman=-0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_sandwich on table=0.0
+gt_box on table=0.0
+gt_fruit on table=0.0
+gt_can on table=1.0
+Objective: 159.55012136346517
+gt_people on table=0.0
+gt_plate on table=-0.0
+gt_phone on table=1.0
+gt_man on table=0.0
+gt_dog on table=1.0
+gt_paper on table=0.0
+gt_tray on table=1.0
+gt_water on table=-0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=-0.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_table on woman=-0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=0.0
+gt_can on table=1.0
+----------------------------
+Caption: a slice of pizza on a green plate
+Imageid: 575915, extracted triplets: ['slice of pizza', 'slice on plate'], mapped triplets: ['plate of pizza', 'plate of food', 'donut on plate', 'cake on plate', 'sandwich on plate', 'carrot on plate', 'apple on plate', 'pizza on plate', 'food on plate', 'banana on plate', 'bread on plate', 'broccoli on plate']
+Objective: 159.55012136346517
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_plate of food=0.0
+gt_donut on plate=1.0
+gt_cake on plate=0.0
+gt_carrot on plate=1.0
+gt_banana on plate=0.0
+gt_plate of pizza=1.0
+gt_food on plate=-0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+Objective: 159.10038245433032
+gt_sandwich on plate=1.0
+gt_plate of food=1.0
+gt_donut on plate=1.0
+gt_cake on plate=0.0
+gt_carrot on plate=1.0
+gt_banana on plate=0.0
+gt_plate of pizza=0.0
+gt_food on plate=-0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+----------------------------
+Caption: a plate of food on a table
+Imageid: 178795, extracted triplets: ['plate of food', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 159.10038245433032
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=0.0
+gt_plate of banana=-0.0
+gt_carrot on plate=1.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=-0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+Objective: 159.94483286037726
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=1.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a bowl of food with carrots and vegetables
+Imageid: 436467, extracted triplets: ['bowl of carrot', 'bowl of vegetable', 'bowl of cheese', 'bowl of tomato', 'bowl of onion', 'bowl of meat', 'bowl with carrot'], mapped triplets: ['bowl of vegetable', 'bowl of food', 'pot of vegetable', 'pot of food', 'container of food', 'bowl of vegetable', 'plate of vegetable', 'pot of vegetable', 'bowl of apple', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'bowl of banana', 'bowl of food', 'bowl of broccoli', 'bowl of fruit', 'bowl of vegetable', 'bowl of food', 'bowl of apple', 'bowl of banana', 'bowl of orange', 'bowl of fruit', 'bowl of vegetable', 'bowl of food', 'container of food', 'container of meat', 'tray of food', 'pot of food', 'bowl with vegetable', 'bowl with carrot', 'container with vegetable']
+Objective: 159.94483286037726
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of banana=0.0
+gt_bowl of banana=0.0
+gt_container of food=-0.0
+gt_container of food=-0.0
+gt_plate of vegetable=-0.0
+gt_bowl of apple=-0.0
+gt_bowl of apple=-0.0
+gt_pot of vegetable=1.0
+gt_pot of vegetable=1.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_container of meat=1.0
+gt_bowl with carrot=1.0
+gt_bowl of orange=0.0
+gt_bowl of orange=0.0
+gt_bowl of broccoli=-0.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_tray of food=1.0
+Objective: 160.85470519645594
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of banana=0.0
+gt_bowl of banana=0.0
+gt_container of food=-0.0
+gt_container of food=-0.0
+gt_plate of vegetable=-0.0
+gt_bowl of apple=-0.0
+gt_bowl of apple=-0.0
+gt_pot of vegetable=1.0
+gt_pot of vegetable=1.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_container of meat=1.0
+gt_bowl with carrot=1.0
+gt_bowl of orange=0.0
+gt_bowl of orange=0.0
+gt_bowl of broccoli=-0.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_tray of food=1.0
+----------------------------
+Caption: a plate of food with rice and vegetables
+Imageid: 56326, extracted triplets: ['plate of food'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 160.85470519645594
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+Objective: 160.07089083588352
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+----------------------------
+Caption: a bowl of soup with a spoon on a table
+Imageid: 523175, extracted triplets: ['bowl of bowl', 'bowl with spoon'], mapped triplets: ['bowl of plate', 'bowl of table', 'plate with spoon', 'container with spoon', 'board with spoon', 'cup with spoon', 'pot with spoon', 'napkin with spoon', 'glass with spoon', 'tray with spoon', 'bowl with spoon']
+Objective: 160.07089083588352
+PRIOR DISTANCE
+gt_bowl with spoon=1.0
+gt_bowl of plate=-0.0
+gt_napkin with spoon=-0.0
+gt_tray with spoon=-0.0
+gt_cup with spoon=0.0
+gt_glass with spoon=0.0
+gt_bowl of table=-0.0
+gt_board with spoon=1.0
+gt_plate with spoon=-0.0
+gt_container with spoon=-0.0
+Objective: 160.41568725271344
+gt_bowl with spoon=1.0
+gt_bowl of plate=-0.0
+gt_napkin with spoon=-0.0
+gt_tray with spoon=-0.0
+gt_cup with spoon=0.0
+gt_glass with spoon=0.0
+gt_bowl of table=-0.0
+gt_board with spoon=1.0
+gt_plate with spoon=-0.0
+gt_container with spoon=-0.0
+----------------------------
+Caption: a sandwich on a white plate with a table
+Imageid: 42526, extracted triplets: ['sandwich on plate', 'sandwich with table'], mapped triplets: ['food on plate', 'pizza on plate', 'sandwich on plate', 'plate with table', 'table with plate']
+Objective: 160.41568725271344
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_food on plate=0.0
+Objective: 160.26211328185815
+gt_sandwich on plate=1.0
+gt_food on plate=-0.0
+----------------------------
+Caption: a cup of coffee sitting next to a table
+Imageid: 423576, extracted triplets: ['cup next to table'], mapped triplets: ['chair next to table', 'plate next to table', 'table next to cup', 'plate next to cup']
+Objective: 160.26211328185815
+PRIOR DISTANCE
+gt_table next to cup=1.0
+gt_chair next to table=0.0
+gt_plate next to cup=1.0
+gt_plate next to table=0.0
+Objective: 160.24976198692787
+gt_table next to cup=1.0
+gt_chair next to table=0.0
+gt_plate next to cup=1.0
+gt_plate next to table=0.0
+----------------------------
+Caption: a tray of food and a cup of coffee on a table
+Imageid: 192904, extracted triplets: ['cup on table'], mapped triplets: ['plate on table', 'orange on table', 'banana on table', 'bottle on table', 'dog on table', 'tomato on table', 'carrot on table', 'vase on table', 'woman on table', 'can on table', 'meat on table', 'arm on table', 'table on woman', 'food on table', 'cat on table', 'flower on table', 'paper on table', 'cup on table', 'basket on table', 'glass on table', 'man on table', 'box on table', 'napkin on table', 'book on table', 'pizza on table', 'apple on table', 'donut on table', 'tray on table', 'people on table', 'bird on table', 'water on table', 'phone on table', 'sandwich on table', 'vegetable on table', 'fruit on table']
+Objective: 160.24976198692787
+PRIOR DISTANCE
+gt_people on table=0.0
+gt_plate on table=-0.0
+gt_phone on table=1.0
+gt_man on table=0.0
+gt_dog on table=1.0
+gt_paper on table=0.0
+gt_tray on table=1.0
+gt_water on table=-0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=-0.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_table on woman=-0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=0.0
+gt_can on table=1.0
+Objective: 161.40723613824855
+gt_people on table=0.0
+gt_plate on table=0.0
+gt_phone on table=1.0
+gt_man on table=0.0
+gt_dog on table=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_water on table=-0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=0.0
+gt_apple on table=0.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_table on woman=-0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_sandwich on table=0.0
+gt_box on table=0.0
+gt_fruit on table=0.0
+gt_can on table=1.0
+----------------------------
+Caption: a man is preparing food on a kitchen
+Imageid: 327038, extracted triplets: ['man prepare food'], mapped triplets: ['people prepare food', 'man prepare bread', 'man prepare fruit', 'man prepare food']
+Objective: 161.40723613824855
+PRIOR DISTANCE
+gt_man prepare fruit=1.0
+gt_people prepare food=1.0
+gt_man prepare bread=-0.0
+gt_man prepare food=1.0
+Objective: 161.5358100700909
+gt_man prepare fruit=1.0
+gt_people prepare food=0.0
+gt_man prepare bread=-0.0
+gt_man prepare food=1.0
+----------------------------
+Caption: a bowl of fruit and a sitting on a counter
+Imageid: 211756, extracted triplets: ['bowl of fruit'], mapped triplets: ['plate of fruit', 'bowl of apple', 'bowl of banana', 'bowl of orange', 'bowl of food', 'bowl of fruit']
+Objective: 161.5358100700909
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_plate of fruit=1.0
+gt_bowl of orange=0.0
+gt_bowl of fruit=0.0
+Objective: 160.54411613178496
+gt_bowl of food=-0.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_plate of fruit=1.0
+gt_bowl of orange=0.0
+gt_bowl of fruit=0.0
+----------------------------
+Caption: a person holding a piece of cake on a plate
+Imageid: 501491, extracted triplets: ['person on plate'], mapped triplets: ['donut on plate', 'fork on plate', 'glass on plate', 'cake on plate', 'sandwich on plate', 'dog on plate', 'carrot on plate', 'vegetable on plate', 'pizza on plate', 'food on plate', 'napkin on plate', 'woman on plate', 'bird on plate', 'banana on plate', 'bread on plate', 'man on plate', 'broccoli on plate']
+Objective: 160.54411613178496
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_dog on plate=0.0
+gt_cake on plate=1.0
+gt_carrot on plate=1.0
+gt_banana on plate=0.0
+gt_glass on plate=1.0
+gt_food on plate=-0.0
+gt_bread on plate=1.0
+Objective: 160.96377298397277
+gt_sandwich on plate=1.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_dog on plate=1.0
+gt_cake on plate=1.0
+gt_carrot on plate=0.0
+gt_banana on plate=0.0
+gt_glass on plate=1.0
+gt_food on plate=0.0
+gt_bread on plate=1.0
+----------------------------
+Caption: a man sitting at a table with a plate of food
+Imageid: 48129, extracted triplets: ['man at table', 'man with plate', 'plate of fork', 'plate of cake'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table', 'people with plate', 'man with food', 'man with plate', 'plate of pizza', 'plate of broccoli', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of vegetable', 'plate of cake', 'plate of pizza', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of cake']
+Objective: 160.96377298397277
+PRIOR DISTANCE
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of broccoli=0.0
+Objective: 161.378651646153
+gt_plate of food=-0.0
+gt_plate of food=-0.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=1.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of broccoli=1.0
+----------------------------
+Caption: a kitchen with a bowl of food and a sitting on a counter
+Imageid: 11276, extracted triplets: ['bowl of apple', 'bowl of tomato', 'bowl of fruit', 'bowl of sauce'], mapped triplets: ['board of fruit', 'plate of fruit', 'bowl of fruit', 'bowl of apple', 'bowl of fruit', 'bowl of vegetable', 'bowl of food', 'plate of fruit', 'bowl of apple', 'bowl of banana', 'bowl of orange', 'bowl of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of fruit', 'bowl of food', 'bowl of sandwich']
+Objective: 161.378651646153
+PRIOR DISTANCE
+gt_bowl of food=-0.0
+gt_bowl of food=-0.0
+gt_bowl of food=-0.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_bowl of apple=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_board of fruit=1.0
+gt_bowl of orange=0.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+Objective: 162.04373636252154
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_bowl of apple=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_board of fruit=0.0
+gt_bowl of orange=0.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+----------------------------
+Caption: a tray of food with rice and vegetables on a table
+Imageid: 142177, extracted triplets: ['tray of food', 'tray on table'], mapped triplets: ['tray of carrot', 'tray of food', 'banana on table', 'flower on table', 'fruit on table', 'glass on table', 'napkin on table', 'paper on table', 'basket on table', 'box on table', 'phone on table', 'cake on table', 'sandwich on table', 'dog on table', 'carrot on table', 'vase on table', 'donut on table', 'food on table', 'tomato on table', 'vegetable on table', 'apple on table', 'pizza on table', 'bottle on table', 'food on tray', 'orange on table', 'bird on table', 'bowl on table', 'woman on table', 'book on table', 'meat on table', 'spoon on table', 'laptop on table', 'pizza on tray', 'plate on tray', 'tray on table']
+Objective: 162.04373636252154
+PRIOR DISTANCE
+gt_spoon on table=1.0
+gt_pizza on tray=-0.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_dog on table=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_laptop on table=0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_tomato on table=-0.0
+gt_napkin on table=0.0
+gt_apple on table=0.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_tray of carrot=1.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_sandwich on table=0.0
+gt_box on table=0.0
+gt_fruit on table=0.0
+gt_tray of food=1.0
+gt_food on tray=1.0
+Objective: 162.9555227620618
+gt_spoon on table=1.0
+gt_pizza on tray=-0.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_dog on table=1.0
+gt_paper on table=0.0
+gt_tray on table=1.0
+gt_laptop on table=0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_tray of carrot=1.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_pizza on table=-0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=0.0
+gt_tray of food=1.0
+gt_food on tray=1.0
+----------------------------
+Caption: a man sitting in a table with a plate of food
+Imageid: 499705, extracted triplets: ['man with cake'], mapped triplets: ['man with food', 'woman with cake', 'man with cake']
+Objective: 162.9555227620618
+PRIOR DISTANCE
+gt_man with food=1.0
+Objective: 162.94181290852543
+gt_man with food=1.0
+----------------------------
+Caption: a man sitting at a table with a plate of food
+Imageid: 450355, extracted triplets: ['man at table', 'man with plate', 'plate of bread', 'plate of sandwich', 'plate of apple'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table', 'people with plate', 'man with food', 'man with plate', 'plate of pizza', 'plate of food', 'plate of sandwich', 'basket of bread', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of pizza', 'plate of food', 'plate of broccoli', 'plate of donut', 'plate of bread', 'plate of fruit', 'plate of vegetable', 'plate of cake', 'plate of sandwich', 'tray of food', 'bowl of apple', 'plate of food', 'plate of fruit', 'container of food']
+Objective: 162.94181290852543
+PRIOR DISTANCE
+gt_plate of food=-0.0
+gt_plate of food=-0.0
+gt_plate of food=-0.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_container of food=-0.0
+gt_plate of vegetable=1.0
+gt_bowl of apple=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_basket of bread=0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+Objective: 162.32414028894937
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_container of food=-0.0
+gt_plate of vegetable=-0.0
+gt_bowl of apple=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_basket of bread=0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a man sitting at a table with a plate of food
+Imageid: 194755, extracted triplets: ['man at table', 'man with plate', 'plate of sandwich', 'plate of bowl', 'plate of lid', 'plate of spoon', 'plate of napkin', 'plate of plate'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table', 'people with plate', 'man with food', 'man with plate', 'plate of pizza', 'plate of food', 'plate of broccoli', 'plate of donut', 'plate of bread', 'plate of fruit', 'plate of vegetable', 'plate of cake', 'plate of sandwich', 'plate of pizza', 'plate of broccoli', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of vegetable', 'plate of banana', 'plate of cake', 'plate of bread', 'plate of fruit', 'plate of vegetable', 'plate of banana', 'plate of food', 'plate of broccoli', 'plate of sandwich', 'plate of cake', 'plate of pizza', 'plate of donut', 'plate of pizza', 'plate of broccoli', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of vegetable', 'plate of cake', 'plate of pizza', 'plate of broccoli', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of vegetable', 'plate of cake', 'plate of pizza', 'plate of broccoli', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of vegetable', 'plate of cake', 'plate of plate']
+Objective: 162.32414028894937
+PRIOR DISTANCE
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of vegetable=-0.0
+gt_plate of vegetable=-0.0
+gt_plate of vegetable=-0.0
+gt_plate of vegetable=-0.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_plate of banana=-0.0
+gt_plate of banana=-0.0
+gt_plate of plate=-0.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+Objective: 163.02496224759278
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=1.0
+gt_plate of vegetable=1.0
+gt_plate of vegetable=1.0
+gt_plate of vegetable=1.0
+gt_plate of vegetable=1.0
+gt_plate of vegetable=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_plate of banana=-0.0
+gt_plate of banana=-0.0
+gt_plate of plate=-0.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of cake=1.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+----------------------------
+Caption: a woman is preparing food in a kitchen
+Imageid: 205601, extracted triplets: ['woman prepare food'], mapped triplets: ['man prepare food', 'man prepare bread', 'people prepare food', 'woman prepare pizza']
+Objective: 163.02496224759278
+PRIOR DISTANCE
+gt_people prepare food=0.0
+gt_man prepare bread=-0.0
+gt_man prepare food=1.0
+gt_woman prepare pizza=-0.0
+Objective: 163.00544690688682
+gt_people prepare food=0.0
+gt_man prepare bread=-0.0
+gt_man prepare food=1.0
+gt_woman prepare pizza=-0.0
+----------------------------
+Caption: a group of children sitting at a table with a cake
+Imageid: 80369, extracted triplets: ['children at table', 'children with cake'], mapped triplets: ['child at table', 'kid at table', 'boy at table', 'girl at table', 'people with food', 'woman with cake', 'child with food']
+Objective: 163.00544690688682
+PRIOR DISTANCE
+gt_people with food=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+Objective: 163.10396414977185
+gt_people with food=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+----------------------------
+Caption: a group of people sitting at a table with a cake
+Imageid: 163710, extracted triplets: ['people at table', 'people with cake'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'woman with cake']
+Objective: 163.10396414977185
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 163.08656966734185
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a little girl sitting at a table with plates of food
+Imageid: 238528, extracted triplets: ['girl at table'], mapped triplets: ['woman at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 163.08656966734185
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 163.05194131536322
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a plate of food and a sitting on a table
+Imageid: 77402, extracted triplets: ['plate of food'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 163.05194131536322
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_plate of vegetable=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+Objective: 162.33671833980375
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate of vegetable=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a plate of food on a table
+Imageid: 535313, extracted triplets: ['plate of food', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 162.33671833980375
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=1.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+Objective: 162.13906150534686
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a group of people sitting at tables in a room
+Imageid: 458137, extracted triplets: ['people at table', 'people in room'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'people in room']
+Objective: 162.13906150534686
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people in room=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 162.12057340201966
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people in room=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a young boy blowing out candles on a cake
+Imageid: 286662, extracted triplets: ['boy on cake'], mapped triplets: ['child on couch', 'cake on plate']
+Objective: 162.12057340201966
+PRIOR DISTANCE
+gt_cake on plate=1.0
+Objective: 162.0353944402652
+gt_cake on plate=0.0
+----------------------------
+Caption: two oranges and a laptop on a table
+Imageid: 326344, extracted triplets: ['laptop on table'], mapped triplets: ['laptop on desk', 'book on table', 'computer on desk', 'laptop on table']
+Objective: 162.0353944402652
+PRIOR DISTANCE
+gt_computer on desk=-0.0
+gt_laptop on table=0.0
+gt_book on table=0.0
+Objective: 161.99462409938795
+gt_computer on desk=1.0
+gt_laptop on table=0.0
+gt_book on table=0.0
+----------------------------
+Caption: a man and a woman cutting a cake
+Imageid: 374083, extracted triplets: ['woman cut cake'], mapped triplets: ['woman cut cake', 'person cut cake']
+Objective: 161.99462409938795
+PRIOR DISTANCE
+gt_woman cut cake=-0.0
+gt_person cut cake=-0.0
+Objective: 161.9182354878006
+gt_woman cut cake=0.0
+gt_person cut cake=-0.0
+----------------------------
+Caption: a group of people sitting around a table with food
+Imageid: 124930, extracted triplets: ['people sit table', 'people with pizza', 'people with plate'], mapped triplets: ['girl sit table', 'woman sit table', 'kid sit table', 'man sit table', 'person sit table', 'child sit table', 'people sit table', 'people with food', 'person with sandwich', 'woman with food', 'person with food', 'child with food', 'people with food', 'plate with food', 'people with plate']
+Objective: 161.9182354878006
+PRIOR DISTANCE
+gt_man sit table=1.0
+gt_plate with food=0.0
+gt_people with food=1.0
+gt_people with food=1.0
+gt_people with plate=-0.0
+gt_person with food=1.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+Objective: 162.10163366568736
+gt_man sit table=1.0
+gt_plate with food=0.0
+gt_people with food=1.0
+gt_people with food=1.0
+gt_people with plate=-0.0
+gt_person with food=1.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+----------------------------
+Caption: a doll sitting at a table with a plate of food
+Imageid: 413056, extracted triplets: ['plate of food'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 162.10163366568736
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+Objective: 161.9937782732182
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+----------------------------
+Caption: a man and a woman preparing food in a kitchen
+Imageid: 558137, extracted triplets: ['woman prepare pizza'], mapped triplets: ['people prepare food', 'woman prepare pizza']
+Objective: 161.9937782732182
+PRIOR DISTANCE
+gt_people prepare food=0.0
+gt_woman prepare pizza=-0.0
+Objective: 161.96383120859406
+gt_people prepare food=0.0
+gt_woman prepare pizza=-0.0
+----------------------------
+Caption: a group of people sitting at a table
+Imageid: 177489, extracted triplets: ['people at table'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 161.96383120859406
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 161.99798048170828
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a woman is eating a bowl of food
+Imageid: 58425, extracted triplets: ['woman eat bowl', 'bowl of pizza'], mapped triplets: ['woman eat plate', 'woman eat table', 'woman eat glass', 'woman eat food', 'woman eat bowl', 'bowl of apple', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'bowl of food']
+Objective: 161.99798048170828
+PRIOR DISTANCE
+gt_woman eat glass=1.0
+gt_bowl of food=1.0
+gt_bowl of apple=-0.0
+gt_woman eat bowl=1.0
+gt_bowl of orange=0.0
+gt_bowl of vegetable=1.0
+gt_woman eat food=0.0
+gt_bowl of fruit=0.0
+Objective: 162.21857631335547
+gt_woman eat glass=1.0
+gt_bowl of food=1.0
+gt_bowl of apple=-0.0
+gt_woman eat bowl=1.0
+gt_bowl of orange=0.0
+gt_bowl of vegetable=1.0
+gt_woman eat food=0.0
+gt_bowl of fruit=0.0
+----------------------------
+Caption: a group of people sitting at a table
+Imageid: 139457, extracted triplets: ['people at table'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 162.21857631335547
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 162.18514602388132
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a bottle of beer and a donut on a plate
+Imageid: 219315, extracted triplets: ['donut on plate'], mapped triplets: ['cake on plate', 'sandwich on plate', 'carrot on plate', 'vegetable on plate', 'pizza on plate', 'apple on plate', 'food on plate', 'woman on plate', 'napkin on plate', 'spoon on plate', 'bread on plate', 'banana on plate', 'broccoli on plate', 'donut on plate']
+Objective: 162.18514602388132
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_cake on plate=0.0
+gt_carrot on plate=0.0
+gt_banana on plate=0.0
+gt_spoon on plate=1.0
+gt_food on plate=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+Objective: 162.24029774364442
+gt_sandwich on plate=1.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_cake on plate=1.0
+gt_carrot on plate=1.0
+gt_banana on plate=0.0
+gt_spoon on plate=1.0
+gt_food on plate=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+----------------------------
+Caption: a bowl of soup and broccoli on a table
+Imageid: 2759, extracted triplets: ['bowl of bowl', 'bowl on table'], mapped triplets: ['bowl of plate', 'bowl of table', 'banana on table', 'flower on table', 'fruit on table', 'people on table', 'napkin on table', 'water on table', 'hand on table', 'glass on table', 'paper on table', 'basket on table', 'box on table', 'phone on table', 'cake on table', 'sandwich on table', 'dog on table', 'carrot on table', 'vase on table', 'donut on table', 'fork on table', 'tomato on table', 'vegetable on table', 'bottle on table', 'pizza on table', 'apple on table', 'can on table', 'bird on table', 'food on table', 'meat on table', 'table on table', 'orange on table', 'woman on table', 'bowl on table', 'cat on table', 'arm on table', 'bowl on desk', 'bowl on tray', 'bowl on counter', 'bowl on plate', 'book on table', 'laptop on table', 'cup on table', 'spoon on table']
+Objective: 162.24029774364442
+PRIOR DISTANCE
+gt_people on table=0.0
+gt_spoon on table=1.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_dog on table=1.0
+gt_bowl of plate=-0.0
+gt_paper on table=0.0
+gt_laptop on table=0.0
+gt_water on table=-0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_hand on table=1.0
+gt_tomato on table=-0.0
+gt_bowl of table=-0.0
+gt_bowl on counter=-0.0
+gt_napkin on table=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_bowl on plate=1.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_fork on table=1.0
+gt_pizza on table=-0.0
+gt_table on table=0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=0.0
+gt_can on table=1.0
+Objective: 163.49252228962908
+gt_people on table=0.0
+gt_spoon on table=1.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_dog on table=1.0
+gt_bowl of plate=-0.0
+gt_paper on table=1.0
+gt_laptop on table=0.0
+gt_water on table=-0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_hand on table=1.0
+gt_tomato on table=-0.0
+gt_bowl of table=-0.0
+gt_bowl on counter=-0.0
+gt_napkin on table=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_bowl on plate=1.0
+gt_flower on table=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_fork on table=1.0
+gt_pizza on table=-0.0
+gt_table on table=0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=0.0
+gt_can on table=1.0
+----------------------------
+Caption: a plate of food with meat and vegetables on a table
+Imageid: 249969, extracted triplets: ['plate of food', 'food with meat', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate with meat', 'container with food', 'bowl with food', 'people with food', 'woman with food', 'child with food', 'boy with food', 'person with food', 'man with food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 163.49252228962908
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_container with food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_bowl with food=1.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=1.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_people with food=1.0
+gt_man with food=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=1.0
+gt_plate of sandwich=1.0
+gt_person with food=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+gt_plate with meat=-0.0
+Objective: 161.25250137844102
+gt_sandwich on plate=0.0
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_container with food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_bowl with food=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_people with food=1.0
+gt_man with food=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_person with food=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=-0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+gt_plate with meat=-0.0
+----------------------------
+Caption: a plate of plates of food on a table
+Imageid: 200291, extracted triplets: ['plate of plate', 'plate on table'], mapped triplets: ['plate of pizza', 'plate of broccoli', 'plate of food', 'plate of sandwich', 'plate of donut', 'plate of fruit', 'plate of bread', 'plate of vegetable', 'plate of cake', 'plate of plate', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 161.25250137844102
+PRIOR DISTANCE
+gt_sandwich on plate=0.0
+gt_plate of food=0.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of plate=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_food on plate=-0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+Objective: 163.18087088996268
+gt_sandwich on plate=1.0
+gt_plate of food=1.0
+gt_plate on table=0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=1.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_bowl on plate=1.0
+gt_cake on plate=0.0
+gt_plate of plate=-0.0
+gt_carrot on plate=1.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_food on plate=-0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+----------------------------
+Caption: a plate of food on a table
+Imageid: 353536, extracted triplets: ['plate of food', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 163.18087088996268
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=1.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=0.0
+gt_plate of banana=-0.0
+gt_carrot on plate=1.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=-0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+Objective: 162.64584956083368
+gt_sandwich on plate=1.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a man sitting at a table with a plate of food
+Imageid: 247782, extracted triplets: ['man at table', 'man with plate', 'plate of food'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table', 'people with plate', 'man with food', 'man with plate', 'plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 162.64584956083368
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+Objective: 163.39403485252416
+gt_bowl of food=-0.0
+gt_plate of food=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=1.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a plate of food with meat and broccoli on a table
+Imageid: 430469, extracted triplets: ['plate of food', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 163.39403485252416
+PRIOR DISTANCE
+gt_sandwich on plate=1.0
+gt_bowl of food=-0.0
+gt_plate of food=1.0
+gt_plate on table=1.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=1.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=0.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+Objective: 161.93647067064148
+gt_sandwich on plate=0.0
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a group of people sitting at a table
+Imageid: 457718, extracted triplets: ['people at table'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 161.93647067064148
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 161.990343288416
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a woman sitting at a table with a plate of food
+Imageid: 208132, extracted triplets: ['woman at table', 'woman with plate', 'plate of food'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'people with plate', 'woman with food', 'woman with pizza', 'woman with cake', 'woman with plate', 'plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 161.990343288416
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_child at table=-0.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+Objective: 161.68922345910647
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_child at table=-0.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+----------------------------
+Caption: a bowl of food with vegetables on a table
+Imageid: 327567, extracted triplets: ['bowl of food', 'bowl with carrot'], mapped triplets: ['bowl of apple', 'bowl of banana', 'bowl of fruit', 'bowl of broccoli', 'bowl of sandwich', 'bowl of food', 'bowl of vegetable', 'bowl with vegetable', 'bowl with carrot', 'container with vegetable']
+Objective: 161.68922345910647
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_bowl with carrot=1.0
+gt_bowl of broccoli=-0.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+Objective: 160.86209092435882
+gt_bowl of food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_bowl with carrot=1.0
+gt_bowl of broccoli=-0.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+----------------------------
+Caption: a plate of food with a sitting on a table
+Imageid: 362831, extracted triplets: ['plate of food'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 160.86209092435882
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+Objective: 161.1609978989158
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a man and a woman sitting at a table with a cell phone
+Imageid: 66771, extracted triplets: ['woman at table', 'woman with phone'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'people with laptop', 'person with bowl']
+Objective: 161.1609978989158
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 161.21044404017533
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a pizza sitting on a plate on a table
+Imageid: 518375, extracted triplets: ['pizza sit on plate', 'pizza on table'], mapped triplets: ['pizza sit plate', 'banana on table', 'cake on table', 'food on table', 'pizza on plate', 'pizza on table', 'pizza on counter']
+Objective: 161.21044404017533
+PRIOR DISTANCE
+gt_food on table=1.0
+gt_banana on table=-0.0
+gt_cake on table=0.0
+gt_pizza on table=-0.0
+Objective: 160.93313774211165
+gt_food on table=0.0
+gt_banana on table=-0.0
+gt_cake on table=1.0
+gt_pizza on table=-0.0
+----------------------------
+Caption: a man preparing food in a kitchen
+Imageid: 574138, extracted triplets: ['man prepare food'], mapped triplets: ['people prepare food', 'man prepare bread', 'man prepare fruit', 'man prepare food']
+Objective: 160.93313774211165
+PRIOR DISTANCE
+gt_man prepare fruit=1.0
+gt_people prepare food=0.0
+gt_man prepare bread=-0.0
+gt_man prepare food=1.0
+Objective: 160.97972186845936
+gt_man prepare fruit=1.0
+gt_people prepare food=0.0
+gt_man prepare bread=-0.0
+gt_man prepare food=1.0
+----------------------------
+Caption: a bird sitting on top of a piece of cake
+Imageid: 409088, extracted triplets: ['bird sit cake', 'bird sit vase', 'bird sit table', 'bird sit bird', 'bird sit feather', 'bird sit plate'], mapped triplets: ['bird sit plate', 'cake sit plate', 'bird sit plate', 'vase sit table', 'meat sit table', 'plate sit table', 'food sit table', 'pizza sit table', 'fruit sit table', 'flower sit table', 'glass sit table', 'cake sit table', 'cat sit table', 'vase sit table', 'basket sit table', 'bird sit table', 'bowl sit table', 'laptop sit table', 'bird sit plate', 'bird sit table', 'plate sit table', 'bird sit plate']
+Objective: 160.97972186845936
+PRIOR DISTANCE
+Objective: 160.97972186845936
+----------------------------
+Caption: a young boy sitting at a table with a piece of cake
+Imageid: 106046, extracted triplets: ['boy at table', 'boy with cake', 'boy with table', 'boy with chair', 'boy with window', 'boy with plate'], mapped triplets: ['person at table', 'kid at table', 'girl at table', 'boy at table', 'man at table', 'people at table', 'woman at table', 'child at table', 'boy with food', 'man with cake', 'child with food', 'boy with food', 'table with chair', 'couch with chair', 'room with chair', 'room with window', 'boy with food', 'plate with food']
+Objective: 160.97972186845936
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_room with chair=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate with food=0.0
+gt_room with window=0.0
+gt_child at table=-0.0
+gt_table with chair=0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 160.82691108365228
+gt_people at table=1.0
+gt_room with chair=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate with food=0.0
+gt_room with window=0.0
+gt_child at table=-0.0
+gt_table with chair=1.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a bowl of food and a sitting on a table
+Imageid: 221829, extracted triplets: ['bowl of food'], mapped triplets: ['bowl of apple', 'bowl of banana', 'bowl of fruit', 'bowl of broccoli', 'bowl of sandwich', 'bowl of food', 'bowl of vegetable']
+Objective: 160.82691108365228
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_bowl of broccoli=-0.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=0.0
+Objective: 160.59092383184114
+gt_bowl of food=1.0
+gt_bowl of sandwich=1.0
+gt_bowl of banana=0.0
+gt_bowl of apple=-0.0
+gt_bowl of broccoli=-0.0
+gt_bowl of vegetable=1.0
+gt_bowl of fruit=1.0
+----------------------------
+Caption: a cake and a vase of flowers on a table
+Imageid: 6484, extracted triplets: ['vase of flower', 'vase on table'], mapped triplets: ['vase of candle', 'basket of flower', 'vase of flower', 'meat on table', 'plate on table', 'sandwich on table', 'spoon on table', 'apple on table', 'food on table', 'napkin on table', 'tray on table', 'bottle on table', 'pizza on table', 'carrot on table', 'orange on table', 'fruit on table', 'vegetable on table', 'bird on table', 'fork on table', 'donut on table', 'basket on table', 'table on table', 'bowl on table', 'paper on table', 'flower on table', 'can on table', 'water on table', 'glass on table', 'cake on table', 'box on table', 'cup on table', 'book on table', 'phone on table', 'tomato on table', 'banana on table', 'vase on table']
+Objective: 160.59092383184114
+PRIOR DISTANCE
+gt_spoon on table=1.0
+gt_plate on table=-0.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_water on table=-0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=1.0
+gt_vase of flower=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_basket of flower=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_cake on table=1.0
+gt_vase on table=1.0
+gt_vase of candle=1.0
+gt_bird on table=0.0
+gt_fork on table=1.0
+gt_pizza on table=-0.0
+gt_table on table=0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=-0.0
+gt_can on table=1.0
+Objective: 160.78877043807626
+gt_spoon on table=1.0
+gt_plate on table=0.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_water on table=-0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_vegetable on table=-0.0
+gt_tomato on table=-0.0
+gt_napkin on table=1.0
+gt_vase of flower=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_basket of flower=1.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_vase of candle=1.0
+gt_bird on table=0.0
+gt_fork on table=1.0
+gt_pizza on table=-0.0
+gt_table on table=0.0
+gt_sandwich on table=0.0
+gt_box on table=1.0
+gt_fruit on table=-0.0
+gt_can on table=1.0
+----------------------------
+Caption: a tray of plates of food on a table
+Imageid: 112904, extracted triplets: ['tray of plate', 'tray of dish', 'tray on table'], mapped triplets: ['plate of bread', 'plate of fruit', 'plate of vegetable', 'plate of banana', 'plate of food', 'plate of sandwich', 'plate of broccoli', 'plate of cake', 'plate of pizza', 'plate of donut', 'plate of fruit', 'plate of vegetable', 'plate of food', 'plate of banana', 'plate of broccoli', 'banana on table', 'flower on table', 'fruit on table', 'glass on table', 'napkin on table', 'paper on table', 'basket on table', 'box on table', 'phone on table', 'cake on table', 'sandwich on table', 'dog on table', 'carrot on table', 'vase on table', 'donut on table', 'food on table', 'tomato on table', 'vegetable on table', 'apple on table', 'pizza on table', 'bottle on table', 'food on tray', 'orange on table', 'bird on table', 'bowl on table', 'woman on table', 'book on table', 'meat on table', 'spoon on table', 'laptop on table', 'pizza on tray', 'plate on tray', 'tray on table']
+Objective: 160.78877043807626
+PRIOR DISTANCE
+gt_spoon on table=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_pizza on tray=-0.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_dog on table=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_laptop on table=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_plate of vegetable=1.0
+gt_plate of vegetable=1.0
+gt_tomato on table=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_napkin on table=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_plate of banana=-0.0
+gt_plate of banana=-0.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_plate of sandwich=1.0
+gt_cake on table=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_plate of cake=1.0
+gt_pizza on table=-0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_sandwich on table=0.0
+gt_plate of broccoli=1.0
+gt_plate of broccoli=1.0
+gt_box on table=1.0
+gt_fruit on table=-0.0
+gt_food on tray=1.0
+Objective: 158.64808839065572
+gt_spoon on table=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_pizza on tray=0.0
+gt_phone on table=1.0
+gt_bowl on table=0.0
+gt_dog on table=1.0
+gt_paper on table=0.0
+gt_tray on table=1.0
+gt_laptop on table=0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_plate of vegetable=-0.0
+gt_plate of vegetable=-0.0
+gt_tomato on table=-0.0
+gt_plate of fruit=1.0
+gt_plate of fruit=1.0
+gt_napkin on table=-0.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_flower on table=1.0
+gt_plate of banana=-0.0
+gt_plate of banana=-0.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_glass on table=1.0
+gt_plate of sandwich=1.0
+gt_cake on table=1.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_plate of cake=1.0
+gt_pizza on table=-0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of pizza=1.0
+gt_sandwich on table=0.0
+gt_plate of broccoli=0.0
+gt_plate of broccoli=0.0
+gt_box on table=1.0
+gt_fruit on table=-0.0
+gt_food on tray=1.0
+----------------------------
+Caption: a group of people sitting at a table eating food
+Imageid: 376322, extracted triplets: ['people at table'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 158.64808839065572
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 158.7442925341094
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a desk with two computers and a laptop computer on it
+Imageid: 131138, extracted triplets: ['desk with computer', 'desk with laptop'], mapped triplets: ['desk with monitor', 'desk with keyboard', 'table with laptop', 'desk with computer', 'table with laptop', 'desk with computer']
+Objective: 158.7442925341094
+PRIOR DISTANCE
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=-0.0
+gt_table with laptop=0.0
+gt_table with laptop=0.0
+Objective: 158.9000331497582
+gt_desk with monitor=1.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_desk with keyboard=-0.0
+gt_table with laptop=0.0
+gt_table with laptop=0.0
+----------------------------
+Caption: a plate of food with rice and vegetables
+Imageid: 202944, extracted triplets: ['plate of food'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 158.9000331497582
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+Objective: 159.65187278540137
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+----------------------------
+Caption: a plate of food with a fork on a table
+Imageid: 345941, extracted triplets: ['plate of food', 'plate with fork', 'fork on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate with pizza', 'plate with apple', 'plate with broccoli', 'plate with food', 'plate with sandwich', 'plate with orange', 'plate with carrot', 'plate with donut', 'plate with fruit', 'plate with bread', 'plate with meat', 'plate with spoon', 'plate with glass', 'plate with knife', 'plate with vegetable', 'plate with cake', 'meat on table', 'spoon on table', 'apple on table', 'food on table', 'napkin on table', 'tray on table', 'bottle on table', 'pizza on table', 'carrot on table', 'orange on table', 'fruit on table', 'vegetable on table', 'bird on table', 'basket on table', 'vase on table', 'laptop on table', 'paper on table', 'flower on table', 'water on table', 'cake on table', 'glass on table', 'box on table', 'cup on table', 'can on table', 'book on table', 'cat on table', 'phone on table', 'tomato on table', 'banana on table', 'fork on table']
+Objective: 159.65187278540137
+PRIOR DISTANCE
+gt_plate with sandwich=1.0
+gt_bowl of food=1.0
+gt_spoon on table=1.0
+gt_plate with orange=-0.0
+gt_plate of food=0.0
+gt_phone on table=1.0
+gt_plate with knife=1.0
+gt_paper on table=0.0
+gt_tray on table=1.0
+gt_plate with food=0.0
+gt_laptop on table=0.0
+gt_water on table=-0.0
+gt_food on table=1.0
+gt_book on table=0.0
+gt_vegetable on table=-0.0
+gt_plate of vegetable=-0.0
+gt_tomato on table=-0.0
+gt_plate with vegetable=-0.0
+gt_plate of fruit=1.0
+gt_napkin on table=-0.0
+gt_plate with fruit=1.0
+gt_apple on table=1.0
+gt_basket on table=-0.0
+gt_pot of food=0.0
+gt_flower on table=1.0
+gt_plate of banana=-0.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_plate with glass=1.0
+gt_glass on table=1.0
+gt_plate of sandwich=1.0
+gt_cake on table=1.0
+gt_plate with pizza=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_plate of cake=1.0
+gt_fork on table=1.0
+gt_cup of food=0.0
+gt_pizza on table=-0.0
+gt_plate with bread=-0.0
+gt_plate of bread=-0.0
+gt_plate with donut=0.0
+gt_plate of donut=1.0
+gt_plate with spoon=-0.0
+gt_plate of broccoli=0.0
+gt_box on table=1.0
+gt_fruit on table=-0.0
+gt_plate with apple=1.0
+gt_tray of food=1.0
+gt_plate with meat=-0.0
+gt_can on table=1.0
+Objective: 159.83630458902456
+gt_plate with sandwich=-0.0
+gt_bowl of food=1.0
+gt_spoon on table=1.0
+gt_plate with orange=-0.0
+gt_plate of food=1.0
+gt_phone on table=1.0
+gt_plate with knife=1.0
+gt_paper on table=1.0
+gt_tray on table=1.0
+gt_plate with food=0.0
+gt_laptop on table=0.0
+gt_water on table=-0.0
+gt_food on table=0.0
+gt_book on table=0.0
+gt_vegetable on table=0.0
+gt_plate of vegetable=1.0
+gt_tomato on table=-0.0
+gt_plate with vegetable=-0.0
+gt_plate of fruit=1.0
+gt_napkin on table=-0.0
+gt_plate with fruit=1.0
+gt_apple on table=0.0
+gt_basket on table=-0.0
+gt_pot of food=0.0
+gt_flower on table=1.0
+gt_plate of banana=-0.0
+gt_orange on table=1.0
+gt_banana on table=-0.0
+gt_plate with glass=1.0
+gt_glass on table=1.0
+gt_plate of sandwich=1.0
+gt_cake on table=0.0
+gt_plate with pizza=0.0
+gt_vase on table=1.0
+gt_bird on table=0.0
+gt_plate of cake=1.0
+gt_fork on table=1.0
+gt_cup of food=0.0
+gt_pizza on table=-0.0
+gt_plate with bread=-0.0
+gt_plate of bread=-0.0
+gt_plate with donut=0.0
+gt_plate of donut=1.0
+gt_plate with spoon=-0.0
+gt_plate of broccoli=1.0
+gt_box on table=0.0
+gt_fruit on table=-0.0
+gt_plate with apple=1.0
+gt_tray of food=1.0
+gt_plate with meat=-0.0
+gt_can on table=1.0
+----------------------------
+Caption: a man sitting at a table with a blender
+Imageid: 299023, extracted triplets: ['man at table'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table']
+Objective: 159.83630458902456
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+Objective: 159.77328511620829
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a plate of food and a sitting on a table
+Imageid: 28463, extracted triplets: ['plate of food'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 159.77328511620829
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate of vegetable=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+Objective: 159.40313812212906
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a plate of food and vegetables on a table
+Imageid: 31636, extracted triplets: ['plate of food', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 159.40313812212906
+PRIOR DISTANCE
+gt_sandwich on plate=-0.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+Objective: 159.58492444346808
+gt_sandwich on plate=0.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=-0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a man sitting at a table with a plate of food
+Imageid: 576222, extracted triplets: ['man at table', 'man with plate', 'plate of food'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'person at table', 'child at table', 'people at table', 'man at table', 'people with plate', 'man with food', 'man with plate', 'plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food']
+Objective: 159.58492444346808
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=1.0
+Objective: 159.74677341564984
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_plate of vegetable=-0.0
+gt_plate of fruit=1.0
+gt_people with plate=-0.0
+gt_man with food=1.0
+gt_child at table=-0.0
+gt_pot of food=0.0
+gt_plate of banana=-0.0
+gt_plate of sandwich=1.0
+gt_kid at table=-0.0
+gt_man with plate=-0.0
+gt_person at table=1.0
+gt_plate of cake=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a young boy sitting on top of a suitcase
+Imageid: 343914, extracted triplets: ['boy sit floor', 'boy sit box', 'boy sit chair'], mapped triplets: ['dog sit floor', 'bed sit floor', 'boy sit table', 'child sit chair', 'person sit table', 'kid sit table']
+Objective: 159.74677341564984
+PRIOR DISTANCE
+Objective: 159.74677341564984
+----------------------------
+Caption: a desk with a laptop computer and a on it
+Imageid: 299952, extracted triplets: ['desk with laptop computer'], mapped triplets: ['desk with computer', 'table with laptop']
+Objective: 159.74677341564984
+PRIOR DISTANCE
+gt_desk with computer=1.0
+gt_table with laptop=0.0
+Objective: 159.87476321990545
+gt_desk with computer=1.0
+gt_table with laptop=0.0
+----------------------------
+Caption: a plate of food with meat and vegetables on a table
+Imageid: 298172, extracted triplets: ['plate of food', 'food with meat', 'plate on table'], mapped triplets: ['plate of broccoli', 'plate of sandwich', 'plate of fruit', 'plate of vegetable', 'tray of food', 'plate of donut', 'plate of bread', 'plate of banana', 'plate of cake', 'cup of food', 'bowl of food', 'pot of food', 'plate of food', 'plate with meat', 'container with food', 'bowl with food', 'people with food', 'woman with food', 'child with food', 'boy with food', 'person with food', 'man with food', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'cup on plate', 'spoon on plate', 'napkin on plate', 'sandwich on plate', 'vegetable on plate', 'broccoli on plate', 'apple on plate', 'donut on plate', 'banana on plate', 'bread on plate', 'carrot on plate', 'bowl on plate', 'fork on plate']
+Objective: 159.87476321990545
+PRIOR DISTANCE
+gt_sandwich on plate=0.0
+gt_bowl of food=1.0
+gt_plate of food=1.0
+gt_container with food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_bowl with food=1.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_people with food=1.0
+gt_man with food=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_person with food=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=-0.0
+gt_plate of broccoli=1.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+gt_plate with meat=-0.0
+Objective: 159.91254115520655
+gt_sandwich on plate=0.0
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_container with food=1.0
+gt_plate on table=-0.0
+gt_vegetable on plate=-0.0
+gt_bowl with food=1.0
+gt_donut on plate=1.0
+gt_napkin on plate=1.0
+gt_fork on plate=1.0
+gt_plate of vegetable=-0.0
+gt_cup on plate=1.0
+gt_plate of fruit=1.0
+gt_people with food=1.0
+gt_man with food=1.0
+gt_pot of food=0.0
+gt_bowl on plate=1.0
+gt_cake on plate=1.0
+gt_plate of banana=-0.0
+gt_carrot on plate=0.0
+gt_plate of sandwich=1.0
+gt_person with food=1.0
+gt_banana on plate=1.0
+gt_plate of cake=1.0
+gt_spoon on plate=1.0
+gt_cup of food=0.0
+gt_plate of bread=-0.0
+gt_plate of donut=1.0
+gt_food on plate=-0.0
+gt_plate of broccoli=0.0
+gt_bread on plate=1.0
+gt_apple on plate=1.0
+gt_tray of food=1.0
+gt_plate with meat=-0.0
+----------------------------
+Caption: two men preparing food in a kitchen
+Imageid: 103114, extracted triplets: ['men prepare bowl', 'men prepare pot', 'men prepare sauce', 'men prepare spoon', 'men prepare plate', 'men in counter', 'men in cabinet', 'men in bowl', 'men in pot', 'men in spoon', 'men in plate', 'men in sauce'], mapped triplets: ['man prepare food', 'people prepare food', 'man prepare food', 'people prepare food', 'man prepare food', 'people prepare food', 'people prepare food', 'man prepare food', 'people prepare food', 'man in table', 'people in chair', 'person in laptop', 'man in chair', 'man in bowl', 'boy in bowl', 'carrot in pot', 'man in bowl', 'man in bowl', 'man in plate', 'man in plate', 'woman in plate', 'man in bowl', 'man in plate']
+Objective: 159.91254115520655
+PRIOR DISTANCE
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_man prepare food=1.0
+gt_man prepare food=1.0
+gt_man prepare food=1.0
+gt_man prepare food=1.0
+gt_woman in chair=0.0
+gt_carrot in pot=1.0
+Objective: 159.9103687899433
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_people prepare food=0.0
+gt_man prepare food=1.0
+gt_man prepare food=1.0
+gt_man prepare food=1.0
+gt_man prepare food=1.0
+gt_woman in chair=0.0
+gt_carrot in pot=1.0
+----------------------------
+Caption: a carrot and a spoon on a table
+Imageid: 196009, extracted triplets: ['spoon on table'], mapped triplets: ['plate on table', 'spoon on plate', 'spoon on table']
+Objective: 159.9103687899433
+PRIOR DISTANCE
+gt_spoon on table=1.0
+gt_plate on table=-0.0
+gt_spoon on plate=1.0
+Objective: 159.96536057778744
+gt_spoon on table=1.0
+gt_plate on table=-0.0
+gt_spoon on plate=1.0
+----------------------------
+Caption: a woman is sitting at a table with a cake
+Imageid: 548703, extracted triplets: ['woman at table', 'woman with cake'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'woman with girl', 'woman with cake']
+Objective: 159.96536057778744
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_woman with girl=-0.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=0.0
+Objective: 159.57150458616417
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_woman with girl=-0.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+----------------------------
+Caption: a man and a woman sitting at a table with wine
+Imageid: 560744, extracted triplets: ['woman at table', 'woman with wine'], mapped triplets: ['woman at table', 'boy at table', 'kid at table', 'girl at table', 'man at table', 'person at table', 'child at table', 'people at table', 'woman with glass']
+Objective: 159.57150458616417
+PRIOR DISTANCE
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+gt_woman with glass=0.0
+Objective: 159.7718797931813
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=-0.0
+gt_kid at table=-0.0
+gt_person at table=1.0
+gt_woman with glass=0.0
+----------------------------

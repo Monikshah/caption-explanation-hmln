@@ -1,0 +1,818 @@
+Caption: a herd of sheep grazing in the grass
+Imageid: 290570, extracted triplets: ['sheep in grass'], mapped triplets: ['sheep in field', 'sheep in grass']
+Objective: 54.91134018206515
+PRIOR DISTANCE
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+Objective: 54.877831982697906
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a sheep standing in a field of grass
+Imageid: 197461, extracted triplets: ['sheep in field', 'field of grass'], mapped triplets: ['sheep in field', 'horse in field', 'cow in field', 'woman in field', 'dog in field', 'animal in field', 'mountain in field', 'tree in field', 'field of grass', 'field of bush', 'animal of grass']
+Objective: 54.877831982697906
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_field of grass=0.0
+gt_cow in field=0.0
+gt_field of grass=1.0
+gt_cow in field=0.0
+gt_tree in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_field of grass=0.0
+gt_dog in field=1.0
+gt_field of grass=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_tree in field=1.0
+gt_horse in field=0.0
+gt_field of bush=-0.0
+Objective: 54.69893384001595
+gt_dog in field=1.0
+gt_field of grass=0.0
+gt_cow in field=0.0
+gt_field of grass=1.0
+gt_cow in field=0.0
+gt_tree in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_field of grass=0.0
+gt_dog in field=1.0
+gt_field of grass=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_tree in field=1.0
+gt_horse in field=0.0
+gt_field of bush=-0.0
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 410428, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'woman in field', 'dog in field', 'horse in field', 'animal in field', 'fence in field', 'post in field', 'man in field', 'mountain in field', 'tree in field']
+Objective: 54.69893384001595
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_tree in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_post in field=-0.0
+gt_dog in field=1.0
+gt_man in field=-0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_tree in field=1.0
+gt_horse in field=0.0
+gt_fence in field=1.0
+Objective: 55.05891433102
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_tree in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_post in field=-0.0
+gt_dog in field=1.0
+gt_man in field=-0.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_tree in field=1.0
+gt_horse in field=0.0
+gt_fence in field=1.0
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 141517, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'horse in field', 'animal in field']
+Objective: 55.05891433102
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+Objective: 54.78784548874676
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 71281, extracted triplets: ['sheep in field'], mapped triplets: []
+Objective: 54.78784548874676
+PRIOR DISTANCE
+Objective: 54.78784548874676
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 350262, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass', 'cow in field', 'horse in field', 'animal in field']
+Objective: 54.78784548874676
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 54.726887466626884
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 539784, extracted triplets: ['sheep in field'], mapped triplets: ['zebra in field', 'cow in field', 'woman in field', 'dog in field', 'horse in field', 'animal in field', 'sheep in field']
+Objective: 54.726887466626884
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+Objective: 54.69347393059177
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+----------------------------
+Caption: a young girl petting a sheep in a field
+Imageid: 458755, extracted triplets: ['girl pet sheep', 'girl in field'], mapped triplets: ['boy pet sheep', 'woman pet sheep', 'woman in field', 'animal in field']
+Objective: 54.69347393059177
+PRIOR DISTANCE
+gt_woman pet sheep=1.0
+gt_animal in field=0.0
+gt_boy pet sheep=-0.0
+gt_animal in field=1.0
+gt_woman pet sheep=0.0
+Objective: 54.75635812432861
+gt_woman pet sheep=1.0
+gt_animal in field=0.0
+gt_boy pet sheep=-0.0
+gt_animal in field=0.0
+gt_woman pet sheep=-0.0
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 468933, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass', 'horse in field', 'cow in field', 'dog in field', 'cat in field', 'woman in field', 'man in field', 'zebra in field', 'animal in field']
+Objective: 54.75635812432861
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_man in field=-0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 55.08322664276212
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_man in field=-0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a brown cow laying in the grass in a field
+Imageid: 76155, extracted triplets: ['cow in grass', 'cow in field'], mapped triplets: ['cow in field', 'cow in grass', 'sheep in grass', 'zebra in field', 'field in field', 'field in grass', 'grass in field', 'cat in field', 'cow in field', 'horse in field', 'animal in field']
+Objective: 55.08322664276212
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_grass in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_grass in field=0.0
+gt_animal in field=1.0
+gt_cow in grass=-0.0
+gt_field in grass=1.0
+gt_field in field=-0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 54.93043541417047
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_grass in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_grass in field=0.0
+gt_animal in field=0.0
+gt_cow in grass=-0.0
+gt_field in grass=1.0
+gt_field in field=-0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a grassy field
+Imageid: 535578, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'animal in field', 'sheep in grass', 'cow in field', 'horse in field', 'dog in field', 'cat in field']
+Objective: 54.93043541417047
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 55.285675590310426
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 327872, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'woman in field', 'dog in field', 'horse in field', 'animal in field', 'sheep in grass']
+Objective: 55.285675590310426
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 54.799879430229126
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep and a dog laying in a field
+Imageid: 84859, extracted triplets: ['dog in field'], mapped triplets: ['zebra in field', 'cow in field', 'horse in field', 'dog in field', 'animal in field']
+Objective: 54.799879430229126
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_horse in field=0.0
+Objective: 55.06090224667823
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_horse in field=0.0
+----------------------------
+Caption: a man standing in a field with a herd of sheep
+Imageid: 502766, extracted triplets: ['man in field', 'man with sheep'], mapped triplets: ['man in field', 'man with people', 'field with animal', 'man with sheep']
+Objective: 55.06090224667823
+PRIOR DISTANCE
+gt_man in field=0.0
+gt_man in field=0.0
+gt_man with people=1.0
+gt_man with people=1.0
+gt_man in field=-0.0
+gt_man with sheep=0.0
+gt_field with animal=0.0
+Objective: 55.23877845880403
+gt_man in field=0.0
+gt_man in field=0.0
+gt_man with people=1.0
+gt_man with people=1.0
+gt_man in field=-0.0
+gt_man with sheep=0.0
+gt_field with animal=0.0
+----------------------------
+Caption: a woman petting a sheep in the grass
+Imageid: 206381, extracted triplets: ['woman pet sheep', 'woman in grass'], mapped triplets: ['woman pet sheep', 'woman in field', 'grass in grass', 'woman in grass']
+Objective: 55.23877845880403
+PRIOR DISTANCE
+gt_woman pet sheep=1.0
+gt_woman in grass=0.0
+gt_grass in grass=0.0
+gt_woman in grass=-0.0
+gt_woman pet sheep=-0.0
+gt_grass in grass=1.0
+Objective: 55.16842905040523
+gt_woman pet sheep=1.0
+gt_woman in grass=0.0
+gt_grass in grass=0.0
+gt_woman in grass=-0.0
+gt_woman pet sheep=1.0
+gt_grass in grass=1.0
+----------------------------
+Caption: two cows laying on top of a wall
+Imageid: 39430, extracted triplets: ['top of wall'], mapped triplets: []
+Objective: 55.16842905040523
+PRIOR DISTANCE
+Objective: 55.16842905040523
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 40946, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass']
+Objective: 55.16842905040523
+PRIOR DISTANCE
+gt_sheep in field=0.0
+gt_sheep in grass=1.0
+Objective: 55.276862091047256
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a man standing in a field with a group of dogs
+Imageid: 550013, extracted triplets: ['man in field', 'man with sheep', 'man with dog', 'man with man'], mapped triplets: ['animal in field', 'man in field', 'man with sheep', 'man with sheep', 'sheep with dog', 'man with dog', 'man with people', 'people with people']
+Objective: 55.276862091047256
+PRIOR DISTANCE
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_man in field=0.0
+gt_woman with dog=1.0
+gt_sheep with dog=0.0
+gt_animal in field=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with people=1.0
+gt_man with people=1.0
+gt_man in field=-0.0
+gt_animal in field=0.0
+gt_man with sheep=0.0
+gt_man with sheep=0.0
+gt_man with dog=-0.0
+gt_sheep with dog=1.0
+Objective: 55.21276635445347
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_man in field=0.0
+gt_woman with dog=1.0
+gt_sheep with dog=0.0
+gt_animal in field=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with people=1.0
+gt_man with people=1.0
+gt_man in field=-0.0
+gt_animal in field=1.0
+gt_man with sheep=0.0
+gt_man with sheep=0.0
+gt_man with dog=-0.0
+gt_sheep with dog=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field next to a river
+Imageid: 79545, extracted triplets: ['sheep in field', 'sheep next to river'], mapped triplets: ['sheep in grass', 'sheep in field', 'sheep next to sheep']
+Objective: 55.21276635445347
+PRIOR DISTANCE
+gt_sheep next to sheep=-0.0
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+Objective: 55.453414958117826
+gt_sheep next to sheep=-0.0
+gt_sheep in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 156195, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'horse in field', 'animal in field']
+Objective: 55.453414958117826
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+Objective: 55.20921873617868
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 545867, extracted triplets: ['sheep in field'], mapped triplets: ['field in field', 'field in grass', 'grass in field', 'cow in field', 'woman in field', 'dog in field', 'cow in grass', 'horse in field', 'hill in field', 'man in field', 'post in field', 'animal in field', 'fence in field', 'sheep in field', 'sheep in grass']
+Objective: 55.20921873617868
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_grass in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_post in field=-0.0
+gt_dog in field=1.0
+gt_grass in field=0.0
+gt_man in field=-0.0
+gt_hill in field=0.0
+gt_animal in field=0.0
+gt_cow in grass=-0.0
+gt_sheep in field=1.0
+gt_field in grass=1.0
+gt_field in field=-0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+gt_fence in field=1.0
+Objective: 55.24789410238315
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_grass in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_post in field=-0.0
+gt_dog in field=1.0
+gt_grass in field=-0.0
+gt_man in field=-0.0
+gt_hill in field=0.0
+gt_animal in field=1.0
+gt_cow in grass=-0.0
+gt_sheep in field=1.0
+gt_field in grass=1.0
+gt_field in field=-0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+gt_fence in field=1.0
+----------------------------
+Caption: a woman walking down a street with a herd of sheep
+Imageid: 561670, extracted triplets: ['woman with sheep'], mapped triplets: ['man with sheep']
+Objective: 55.24789410238315
+PRIOR DISTANCE
+gt_man with sheep=0.0
+Objective: 55.242878079304326
+gt_man with sheep=0.0
+----------------------------
+Caption: a dog herding a herd of sheep in a field
+Imageid: 138083, extracted triplets: ['dog in field'], mapped triplets: ['zebra in field', 'dog in field', 'cow in field', 'woman in field', 'horse in field', 'animal in field', 'sheep in field']
+Objective: 55.242878079304326
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+Objective: 55.222805835262314
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+----------------------------
+Caption: a sheep standing next to a rock of rocks
+Imageid: 201916, extracted triplets: ['sheep next to rock'], mapped triplets: ['sheep next to fence']
+Objective: 55.222805835262314
+PRIOR DISTANCE
+gt_sheep next to fence=1.0
+Objective: 55.235351400281424
+gt_sheep next to fence=1.0
+----------------------------
+Caption: a white sheep standing in the grass in a field
+Imageid: 399957, extracted triplets: ['sheep in grass', 'sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass', 'sheep in field', 'cow in field', 'horse in field', 'animal in field', 'sheep in grass']
+Objective: 55.235351400281424
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+gt_sheep in grass=1.0
+Objective: 55.70493654488124
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 29094, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass']
+Objective: 55.70493654488124
+PRIOR DISTANCE
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+Objective: 55.47077346139507
+gt_sheep in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 192247, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'zebra in field', 'cow in field', 'horse in field', 'animal in field', 'sheep in grass']
+Objective: 55.47077346139507
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 55.20377833535573
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a sheep standing in the snow next to a fence
+Imageid: 361123, extracted triplets: ['sheep in snow', 'sheep next to fence'], mapped triplets: ['sheep in snow', 'sheep next to wall', 'sheep next to fence']
+Objective: 55.20377833535573
+PRIOR DISTANCE
+gt_sheep in snow=-0.0
+gt_sheep next to fence=1.0
+Objective: 55.350488433776334
+gt_sheep in snow=-0.0
+gt_sheep next to fence=1.0
+----------------------------
+Caption: a herd of sheep standing next to a fence
+Imageid: 366950, extracted triplets: ['sheep next to fence'], mapped triplets: ['sheep next to wall', 'sheep next to fence']
+Objective: 55.350488433776334
+PRIOR DISTANCE
+gt_sheep next to fence=1.0
+Objective: 55.11102538498671
+gt_sheep next to fence=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 550422, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in grass', 'animal in field', 'sheep in field']
+Objective: 55.11102538498671
+PRIOR DISTANCE
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+Objective: 55.07189259713905
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 557346, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'horse in field', 'animal in field']
+Objective: 55.07189259713905
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+Objective: 55.48290307766223
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+----------------------------
+Caption: a cow standing in the grass with a baby cow
+Imageid: 572408, extracted triplets: ['cow in grass', 'cow with cow'], mapped triplets: ['cow in grass', 'sheep in grass', 'grass in grass', 'field with field', 'sheep with sheep', 'people with people']
+Objective: 55.48290307766223
+PRIOR DISTANCE
+gt_field with field=0.0
+gt_grass in grass=0.0
+gt_cow in grass=-0.0
+gt_sheep with sheep=1.0
+gt_grass in grass=1.0
+gt_field with field=0.0
+gt_sheep in grass=1.0
+Objective: 55.48466572302806
+gt_field with field=0.0
+gt_grass in grass=0.0
+gt_cow in grass=-0.0
+gt_sheep with sheep=1.0
+gt_grass in grass=1.0
+gt_field with field=1.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 91488, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass', 'cow in field', 'horse in field', 'animal in field']
+Objective: 55.48466572302806
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+Objective: 55.39133070089626
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 24207, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'horse in field', 'animal in field', 'man in field']
+Objective: 55.39133070089626
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_man in field=-0.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_horse in field=0.0
+Objective: 55.25038758245757
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_man in field=-0.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 421195, extracted triplets: ['sheep in field'], mapped triplets: ['sheep in field', 'cow in field', 'horse in field', 'animal in field']
+Objective: 55.25038758245757
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+Objective: 55.42987563554278
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_horse in field=-0.0
+----------------------------
+Caption: a man on a horse with a herd of sheep and a dog
+Imageid: 342322, extracted triplets: ['man on horse', 'man with sheep', 'man with horse', 'man with cow'], mapped triplets: ['man on horse', 'man with sheep', 'people with sheep', 'man with sheep', 'man with dog', 'man with sheep', 'field with cow']
+Objective: 55.42987563554278
+PRIOR DISTANCE
+gt_man on horse=0.0
+gt_woman on horse=0.0
+gt_man with dog=0.0
+gt_man on horse=1.0
+gt_woman on horse=0.0
+gt_woman with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_field with cow=1.0
+gt_people with sheep=0.0
+gt_man with sheep=0.0
+gt_man with sheep=0.0
+gt_man with sheep=0.0
+gt_man with dog=-0.0
+Objective: 55.375588867682985
+gt_man on horse=0.0
+gt_woman on horse=0.0
+gt_man with dog=0.0
+gt_man on horse=1.0
+gt_woman on horse=0.0
+gt_woman with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_field with cow=1.0
+gt_people with sheep=1.0
+gt_man with sheep=0.0
+gt_man with sheep=0.0
+gt_man with sheep=0.0
+gt_man with dog=-0.0
+----------------------------
+Caption: a white sheep standing in the grass in a field
+Imageid: 576714, extracted triplets: ['sheep in grass', 'sheep in field'], mapped triplets: ['sheep in field', 'sheep in grass', 'zebra in field', 'cow in field', 'woman in field', 'dog in field', 'horse in field', 'animal in field', 'sheep in field', 'mountain in field', 'tree in field']
+Objective: 55.375588867682985
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_tree in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=0.0
+gt_sheep in field=1.0
+gt_sheep in field=1.0
+gt_tree in field=1.0
+gt_horse in field=-0.0
+gt_sheep in grass=1.0
+Objective: 55.35550060830598
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_tree in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=1.0
+gt_sheep in field=1.0
+gt_tree in field=1.0
+gt_horse in field=0.0
+gt_sheep in grass=1.0
+----------------------------

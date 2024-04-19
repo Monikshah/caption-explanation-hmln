@@ -1,0 +1,2052 @@
+Caption: a man and a woman holding a snowboard
+Imageid: 165029, extracted triplets: ['woman hold snowboard'], mapped triplets: ['child hold snowboard', 'man hold snowboard', 'woman hold snowboard']
+Objective: 62.65733088158462
+PRIOR DISTANCE
+gt_man hold snowboard=1.0
+gt_child hold snowboard=1.0
+gt_woman hold snowboard=1.0
+gt_woman hold snowboard=1.0
+gt_man hold snowboard=0.0
+Objective: 62.45050150559822
+gt_man hold snowboard=1.0
+gt_child hold snowboard=1.0
+gt_woman hold snowboard=1.0
+gt_woman hold snowboard=1.0
+gt_man hold snowboard=0.0
+----------------------------
+Caption: a man wearing a blue jacket and tie standing in a room with a surfboard
+Imageid: 66412, extracted triplets: ['man wear jacket'], mapped triplets: ['person wear pant', 'man wear jacket']
+Objective: 62.45050150559822
+PRIOR DISTANCE
+gt_woman wear jacket=0.0
+gt_man wear jacket=0.0
+gt_man wear jacket=0.0
+gt_woman wear jacket=1.0
+gt_man wear jacket=0.0
+gt_woman wear jacket=1.0
+gt_man wear jacket=1.0
+gt_woman wear jacket=1.0
+gt_person wear pant=1.0
+gt_woman wear jacket=0.0
+gt_man wear jacket=0.0
+gt_man wear jacket=0.0
+gt_man wear jacket=1.0
+gt_person wear pant=1.0
+gt_man wear jacket=1.0
+Objective: 62.436627064860886
+gt_woman wear jacket=0.0
+gt_man wear jacket=0.0
+gt_man wear jacket=0.0
+gt_woman wear jacket=1.0
+gt_man wear jacket=0.0
+gt_woman wear jacket=1.0
+gt_man wear jacket=1.0
+gt_woman wear jacket=1.0
+gt_person wear pant=1.0
+gt_woman wear jacket=0.0
+gt_man wear jacket=0.0
+gt_man wear jacket=0.0
+gt_man wear jacket=1.0
+gt_person wear pant=1.0
+gt_man wear jacket=1.0
+----------------------------
+Caption: a person riding skis down a snow covered slope
+Imageid: 226588, extracted triplets: ['person ride skis'], mapped triplets: ['person ride ski', 'man ride ski', 'people ride ski']
+Objective: 62.436627064860886
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_people ride ski=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_people ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_people ride skier=0.0
+gt_man ride ski=1.0
+gt_people ride ski=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_man ride ski=-0.0
+gt_people ride skier=0.0
+Objective: 62.292320266709794
+gt_man ride skier=0.0
+gt_people ride ski=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_people ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_people ride skier=0.0
+gt_man ride ski=1.0
+gt_people ride ski=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_man ride ski=-0.0
+gt_people ride skier=0.0
+----------------------------
+Caption: a woman riding a snowboard down a snow covered slope
+Imageid: 523816, extracted triplets: ['woman ride snow'], mapped triplets: ['person ride snow']
+Objective: 62.292320266709794
+PRIOR DISTANCE
+gt_person ride snowboard=0.0
+gt_person ride snowboard=-0.0
+Objective: 62.292320266709794
+gt_person ride snowboard=0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a person riding a snowboard down a snow covered slope
+Imageid: 497907, extracted triplets: ['person ride snowboard', 'person ride mountain', 'person ride skier', 'person ride track'], mapped triplets: ['person ride snowboard', 'boy ride snowboard', 'man ride snowboard', 'woman ride snowboard', 'people ride snowboard', 'person ride hill', 'girl ride mountain', 'man ride skier', 'people ride skier', 'person ride ski', 'person ride snowboard', 'person ride snow']
+Objective: 62.292320266709794
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_people ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_people ride skier=0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+Objective: 61.966674418802214
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_people ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_people ride skier=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+----------------------------
+Caption: a man sitting in the snow with a snowboard
+Imageid: 146272, extracted triplets: ['man with snowboard'], mapped triplets: ['person with snowboard', 'man with snowboard']
+Objective: 61.966674418802214
+PRIOR DISTANCE
+gt_person with snowboard=1.0
+gt_person with snowboard=0.0
+gt_man with snowboard=1.0
+gt_man with snowboard=1.0
+gt_person with snowboard=1.0
+Objective: 61.60165832813065
+gt_person with snowboard=1.0
+gt_person with snowboard=0.0
+gt_man with snowboard=1.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 138675, extracted triplets: ['man ride snowboard', 'man ride snow', 'man ride mountain'], mapped triplets: ['boy ride snowboard', 'man ride snowboard', 'woman ride snowboard', 'person ride snowboard', 'person ride snow', 'man ride snow', 'person ride hill']
+Objective: 61.60165832813065
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+Objective: 61.805618631230445
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a group of people standing in the snow with snowboards
+Imageid: 162902, extracted triplets: ['people in snow', 'people with snowboard'], mapped triplets: ['woman in snow', 'hill in snow', 'glove in snow', 'man in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'dog in snow', 'child in snow', 'chair in snow', 'skier in snow', 'people in snow', 'person with snowboard', 'woman with snowboard', 'man with snowboard', 'people with snowboard']
+Objective: 61.805618631230445
+PRIOR DISTANCE
+gt_person with snowboard=1.0
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_chair in snow=0.0
+gt_snowboard in snow=1.0
+gt_person with snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_man with snowboard=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_people with snowboard=1.0
+gt_glove in snow=0.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+gt_hill in snow=1.0
+Objective: 61.99139532700786
+gt_person with snowboard=1.0
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_chair in snow=0.0
+gt_snowboard in snow=1.0
+gt_person with snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_man with snowboard=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_dog in snow=1.0
+gt_people in snow=1.0
+gt_people with snowboard=1.0
+gt_glove in snow=1.0
+gt_man with snowboard=1.0
+gt_person with snowboard=1.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a man riding skis down a snow covered slope
+Imageid: 552654, extracted triplets: ['man ride skis'], mapped triplets: ['person ride ski']
+Objective: 61.99139532700786
+PRIOR DISTANCE
+gt_person ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride ski=0.0
+gt_person ride ski=-0.0
+Objective: 61.989259824629094
+gt_person ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride ski=0.0
+gt_person ride ski=-0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 387776, extracted triplets: ['man ride snowboard', 'man ride hill'], mapped triplets: ['boy ride snowboard', 'woman ride snowboard', 'person ride snowboard', 'man ride snowboard', 'person ride hill', 'person ride ski', 'person ride snowboard', 'person ride snow']
+Objective: 61.989259824629094
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+Objective: 61.74179346414889
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 570678, extracted triplets: ['man ride snowboard'], mapped triplets: ['person ride snowboard', 'man ride snowboard']
+Objective: 61.74179346414889
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+Objective: 62.54557612568798
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a man laying on a snowboard in the snow
+Imageid: 96638, extracted triplets: ['snowboard in snow'], mapped triplets: ['snowboard in snow']
+Objective: 62.54557612568798
+PRIOR DISTANCE
+gt_snowboard in snow=1.0
+gt_snowboard in snow=1.0
+Objective: 62.54689829005283
+gt_snowboard in snow=1.0
+gt_snowboard in snow=1.0
+----------------------------
+Caption: a man flying through the air on a snowboard
+Imageid: 345288, extracted triplets: ['man on snowboard'], mapped triplets: ['boy on snowboard', 'girl on snowboard', 'child on snowboard', 'man on snowboard']
+Objective: 62.54689829005283
+PRIOR DISTANCE
+gt_man on snowboard=0.0
+gt_man on snowboard=0.0
+gt_man on snowboard=1.0
+gt_child on snowboard=1.0
+gt_girl on snowboard=-0.0
+Objective: 62.7041541133091
+gt_man on snowboard=0.0
+gt_man on snowboard=0.0
+gt_man on snowboard=1.0
+gt_child on snowboard=1.0
+gt_girl on snowboard=-0.0
+----------------------------
+Caption: a group of people standing in the snow with snowboards
+Imageid: 356500, extracted triplets: ['people in snow', 'people with snowboard'], mapped triplets: ['woman in snow', 'hill in snow', 'kite in snow', 'sky in snow', 'man in snow', 'glove in snow', 'people in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'dog in snow', 'ski in snow', 'jacket in snow', 'rail in snow', 'child in snow', 'chair in snow', 'skier in snow', 'people with snowboard', 'person with snowboard', 'woman with snowboard']
+Objective: 62.7041541133091
+PRIOR DISTANCE
+gt_person with snowboard=1.0
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_kite in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_jacket in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_person with snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_jacket in snow=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_kite in snow=0.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_kite in snow=-0.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_rail in snow=1.0
+gt_dog in snow=1.0
+gt_people in snow=1.0
+gt_people with snowboard=1.0
+gt_glove in snow=1.0
+gt_person with snowboard=1.0
+gt_hill in snow=1.0
+Objective: 61.68398675692063
+gt_person with snowboard=1.0
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_kite in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_jacket in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_person with snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_jacket in snow=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_kite in snow=0.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_kite in snow=-0.0
+gt_man in snow=0.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_rail in snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_people with snowboard=1.0
+gt_glove in snow=0.0
+gt_person with snowboard=1.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a man riding water skis in the water
+Imageid: 42190, extracted triplets: ['man in water'], mapped triplets: ['person in snow']
+Objective: 61.68398675692063
+PRIOR DISTANCE
+gt_person in snow=0.0
+gt_person in snow=0.0
+Objective: 61.68398675692063
+gt_person in snow=0.0
+gt_person in snow=0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 541474, extracted triplets: ['man ride snowboard', 'man ride snow', 'man ride ski'], mapped triplets: ['person ride snowboard', 'boy ride snowboard', 'man ride snowboard', 'woman ride snowboard', 'person ride snow', 'man ride snow', 'person ride ski', 'people ride ski', 'person ride snowboard', 'man ride ski']
+Objective: 61.68398675692063
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_people ride ski=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_people ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_people ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride ski=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_people ride ski=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_man ride ski=-0.0
+gt_people ride skier=0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+Objective: 61.60388848628381
+gt_man ride skier=0.0
+gt_people ride ski=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_people ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_people ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride ski=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_people ride ski=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_man ride ski=-0.0
+gt_people ride skier=0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a group of people standing in the snow
+Imageid: 178413, extracted triplets: ['people in snow'], mapped triplets: ['woman in snow', 'man in snow', 'person in snow', 'child in snow', 'dog in snow', 'people in snow']
+Objective: 61.60388848628381
+PRIOR DISTANCE
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_child in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_man in snow=0.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+Objective: 60.17769083846318
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_child in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=0.0
+----------------------------
+Caption: a group of children standing on skis in the snow
+Imageid: 121839, extracted triplets: ['children on skis', 'children in snow'], mapped triplets: ['people on ski', 'child in snow', 'people in snow', 'person in snow']
+Objective: 60.17769083846318
+PRIOR DISTANCE
+gt_people on ski=0.0
+gt_person in snow=0.0
+gt_people on skier=0.0
+gt_child in snow=1.0
+gt_people in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_people on ski=0.0
+gt_people in snow=0.0
+gt_people on skier=0.0
+gt_child in snow=0.0
+gt_person in snow=0.0
+gt_people on ski=1.0
+gt_people on skier=0.0
+gt_child in snow=1.0
+gt_people in snow=0.0
+Objective: 60.477682795274205
+gt_people on ski=0.0
+gt_person in snow=0.0
+gt_people on skier=0.0
+gt_child in snow=1.0
+gt_people in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_people on ski=0.0
+gt_people in snow=0.0
+gt_people on skier=0.0
+gt_child in snow=0.0
+gt_person in snow=0.0
+gt_people on ski=1.0
+gt_people on skier=0.0
+gt_child in snow=1.0
+gt_people in snow=1.0
+----------------------------
+Caption: a woman standing on a bench holding skis
+Imageid: 574804, extracted triplets: ['woman on skis'], mapped triplets: ['person on ski', 'people on ski']
+Objective: 60.477682795274205
+PRIOR DISTANCE
+gt_people on ski=0.0
+gt_person on skier=0.0
+gt_people on skier=0.0
+gt_person on ski=1.0
+gt_person on ski=0.0
+gt_people on ski=0.0
+gt_person on skier=1.0
+gt_people on skier=0.0
+gt_person on ski=0.0
+gt_people on ski=1.0
+gt_people on skier=0.0
+gt_person on ski=0.0
+Objective: 60.47553266217925
+gt_people on ski=0.0
+gt_person on skier=0.0
+gt_people on skier=0.0
+gt_person on ski=1.0
+gt_person on ski=0.0
+gt_people on ski=0.0
+gt_person on skier=1.0
+gt_people on skier=0.0
+gt_person on ski=0.0
+gt_people on ski=1.0
+gt_people on skier=0.0
+gt_person on ski=0.0
+----------------------------
+Caption: a little girl holding a skateboard in front of a building
+Imageid: 279634, extracted triplets: ['girl hold skateboard'], mapped triplets: ['child hold snowboard', 'woman hold snowboard']
+Objective: 60.47553266217925
+PRIOR DISTANCE
+gt_child hold snowboard=1.0
+gt_woman hold snowboard=1.0
+Objective: 60.73182874449557
+gt_child hold snowboard=1.0
+gt_woman hold snowboard=0.0
+----------------------------
+Caption: a man flying through the air on a snowboard
+Imageid: 550365, extracted triplets: ['man on snowboard'], mapped triplets: ['people on snowboard', 'person on snowboard', 'boy on snowboard', 'girl on snowboard', 'child on snowboard', 'man on snowboard']
+Objective: 60.73182874449557
+PRIOR DISTANCE
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=-0.0
+Objective: 60.81967704731039
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=-0.0
+----------------------------
+Caption: two people sitting on snowboards in the snow
+Imageid: 290948, extracted triplets: ['people sit on snowboard', 'people in snow'], mapped triplets: ['people sit on snow', 'woman in snow', 'hill in snow', 'sky in snow', 'man in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'dog in snow', 'ski in snow', 'jacket in snow', 'child in snow', 'chair in snow', 'skier in snow', 'people in snow']
+Objective: 60.81967704731039
+PRIOR DISTANCE
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_people sit on snow=0.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_jacket in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_people sit on snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_jacket in snow=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_people sit on snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_hill in snow=1.0
+Objective: 62.70995354987821
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_people sit on snow=0.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_jacket in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_people sit on snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_jacket in snow=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_people sit on snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a person riding a snowboard down a snow covered slope
+Imageid: 9727, extracted triplets: ['person ride snow', 'person ride ski'], mapped triplets: ['person ride snow', 'people ride ski', 'person ride ski']
+Objective: 62.70995354987821
+PRIOR DISTANCE
+gt_people ride ski=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride ski=1.0
+gt_person ride ski=-0.0
+gt_people ride skier=0.0
+gt_person ride snowboard=-0.0
+Objective: 62.59141675791772
+gt_people ride ski=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride ski=1.0
+gt_person ride ski=-0.0
+gt_people ride skier=0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 497719, extracted triplets: ['man ride snowboard'], mapped triplets: ['person ride snowboard', 'boy ride snowboard', 'man ride snowboard', 'woman ride snowboard']
+Objective: 62.59141675791772
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+Objective: 62.13464527100294
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+----------------------------
+Caption: a man flying a kite in a field
+Imageid: 119146, extracted triplets: ['man fly kite', 'man in field'], mapped triplets: ['person fly kite', 'man in snow', 'person in snow']
+Objective: 62.13464527100294
+PRIOR DISTANCE
+gt_person in snow=0.0
+gt_person fly kite=0.0
+gt_man in snow=1.0
+gt_person fly kite=1.0
+gt_person fly kite=1.0
+gt_person fly kite=1.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person fly kite=0.0
+gt_person in snow=0.0
+gt_person fly kite=1.0
+gt_man in snow=1.0
+gt_woman in snow=0.0
+Objective: 62.56211873377873
+gt_person in snow=0.0
+gt_person fly kite=0.0
+gt_man in snow=1.0
+gt_person fly kite=1.0
+gt_person fly kite=1.0
+gt_person fly kite=1.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person fly kite=0.0
+gt_person in snow=0.0
+gt_person fly kite=0.0
+gt_man in snow=0.0
+gt_woman in snow=0.0
+----------------------------
+Caption: three people riding skis down a snow covered slope
+Imageid: 560439, extracted triplets: ['people ride skis'], mapped triplets: ['people ride ski', 'people ride skier', 'people ride snowboard']
+Objective: 62.56211873377873
+PRIOR DISTANCE
+gt_people ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride skier=0.0
+gt_people ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride skier=0.0
+gt_people ride ski=1.0
+gt_people ride skier=0.0
+gt_people ride skier=0.0
+Objective: 62.02381788710423
+gt_people ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride skier=0.0
+gt_people ride ski=0.0
+gt_people ride skier=0.0
+gt_people ride skier=0.0
+gt_people ride ski=1.0
+gt_people ride skier=0.0
+gt_people ride skier=0.0
+----------------------------
+Caption: a man riding skis down a snow covered slope
+Imageid: 292590, extracted triplets: ['man ride snowboard'], mapped triplets: ['person ride snowboard', 'man ride snowboard']
+Objective: 62.02381788710423
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+Objective: 61.94942211207249
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a man standing in the snow with a snowboard
+Imageid: 355513, extracted triplets: ['man in snow', 'man with snowboard'], mapped triplets: ['woman in snow', 'hill in snow', 'sky in snow', 'man in snow', 'people in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'dog in snow', 'child in snow', 'chair in snow', 'skier in snow', 'person with snowboard', 'man with snowboard']
+Objective: 61.94942211207249
+PRIOR DISTANCE
+gt_person with snowboard=1.0
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_chair in snow=0.0
+gt_snowboard in snow=1.0
+gt_person with snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_man with snowboard=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=0.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_man with snowboard=1.0
+gt_person with snowboard=1.0
+gt_hill in snow=1.0
+Objective: 61.75683364344448
+gt_person with snowboard=1.0
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_chair in snow=0.0
+gt_snowboard in snow=1.0
+gt_person with snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_man with snowboard=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a man flying through the air on a snowboard
+Imageid: 361860, extracted triplets: ['man on snowboard'], mapped triplets: ['boy on snowboard', 'girl on snowboard', 'child on snowboard', 'man on snowboard']
+Objective: 61.75683364344448
+PRIOR DISTANCE
+gt_man on snowboard=0.0
+gt_man on snowboard=0.0
+gt_man on snowboard=1.0
+gt_child on snowboard=1.0
+gt_girl on snowboard=-0.0
+Objective: 61.698511730141
+gt_man on snowboard=0.0
+gt_man on snowboard=0.0
+gt_man on snowboard=1.0
+gt_child on snowboard=1.0
+gt_girl on snowboard=-0.0
+----------------------------
+Caption: a man flying through the air on a snowboard
+Imageid: 291251, extracted triplets: ['man on snowboard'], mapped triplets: ['boy on snowboard', 'child on snowboard', 'girl on snowboard', 'person on snowboard', 'people on snowboard', 'man on snowboard']
+Objective: 61.698511730141
+PRIOR DISTANCE
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=-0.0
+Objective: 61.38082788213976
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=0.0
+----------------------------
+Caption: a group of people standing in the snow
+Imageid: 528984, extracted triplets: ['people in snow'], mapped triplets: ['woman in snow', 'hill in snow', 'sky in snow', 'man in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'ski in snow', 'dog in snow', 'child in snow', 'chair in snow', 'skier in snow', 'people in snow']
+Objective: 61.38082788213976
+PRIOR DISTANCE
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_hill in snow=1.0
+Objective: 60.630206905088706
+gt_chair in snow=1.0
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a man flying through the air on a snowboard
+Imageid: 143107, extracted triplets: ['man on snowboard'], mapped triplets: ['boy on snowboard', 'girl on snowboard', 'child on snowboard', 'person on snowboard', 'people on snowboard', 'man on snowboard']
+Objective: 60.630206905088706
+PRIOR DISTANCE
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=0.0
+Objective: 60.961450807591405
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=-0.0
+----------------------------
+Caption: a man sitting in the snow with a snowboard
+Imageid: 29045, extracted triplets: ['man with snowboard'], mapped triplets: ['person with snowboard', 'man with snowboard']
+Objective: 60.961450807591405
+PRIOR DISTANCE
+gt_person with snowboard=1.0
+gt_person with snowboard=0.0
+gt_man with snowboard=1.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+Objective: 60.95811454486915
+gt_person with snowboard=1.0
+gt_person with snowboard=0.0
+gt_man with snowboard=1.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 441472, extracted triplets: ['man ride snowboard', 'man ride snow'], mapped triplets: ['person ride snowboard', 'man ride snowboard', 'person ride hill', 'man ride ski', 'person ride ski', 'man ride snowboard', 'person ride snowboard', 'person ride snow', 'man ride snow']
+Objective: 60.95811454486915
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride ski=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_man ride ski=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+Objective: 61.529852609384896
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride ski=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_man ride ski=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: two people standing on skis on a snow covered mountain
+Imageid: 21979, extracted triplets: ['people on skis', 'people on mountain'], mapped triplets: ['people on ski', 'person on ski', 'woman on mountain', 'skier on mountain', 'man on mountain', 'people on mountain']
+Objective: 61.529852609384896
+PRIOR DISTANCE
+gt_people on ski=0.0
+gt_person on skier=0.0
+gt_people on skier=0.0
+gt_person on ski=1.0
+gt_person on ski=0.0
+gt_people on ski=0.0
+gt_woman on mountain=0.0
+gt_woman on mountain=0.0
+gt_person on skier=1.0
+gt_skier on mountain=0.0
+gt_people on skier=0.0
+gt_person on ski=0.0
+gt_people on ski=1.0
+gt_people on skier=1.0
+gt_skier on mountain=1.0
+gt_woman on mountain=1.0
+gt_woman on mountain=1.0
+gt_person on ski=0.0
+Objective: 61.54288975092727
+gt_people on ski=0.0
+gt_person on skier=0.0
+gt_people on skier=0.0
+gt_person on ski=1.0
+gt_person on ski=0.0
+gt_people on ski=0.0
+gt_woman on mountain=0.0
+gt_woman on mountain=0.0
+gt_person on skier=1.0
+gt_skier on mountain=0.0
+gt_people on skier=0.0
+gt_person on ski=0.0
+gt_people on ski=1.0
+gt_people on skier=1.0
+gt_skier on mountain=1.0
+gt_woman on mountain=1.0
+gt_woman on mountain=1.0
+gt_person on ski=0.0
+----------------------------
+Caption: a group of people riding snowboards down a snow covered slope
+Imageid: 393271, extracted triplets: ['people ride snowboard'], mapped triplets: ['person ride snowboard', 'man ride snowboard', 'woman ride snowboard', 'people ride snowboard']
+Objective: 61.54288975092727
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+Objective: 61.06602174488304
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+----------------------------
+Caption: a man standing on skis in the snow
+Imageid: 326555, extracted triplets: ['man on skis', 'man in snow'], mapped triplets: ['person on snow', 'person on ski', 'people on ski', 'people on snow', 'woman in snow', 'hill in snow', 'sky in snow', 'people in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'dog in snow', 'child in snow', 'chair in snow', 'skier in snow', 'man in snow']
+Objective: 61.06602174488304
+PRIOR DISTANCE
+gt_person on snowboard=0.0
+gt_people on ski=0.0
+gt_chair in snow=1.0
+gt_people on snowboard=0.0
+gt_person in snow=0.0
+gt_people on snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_person on skier=0.0
+gt_people on skier=0.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_person on ski=1.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_chair in snow=0.0
+gt_person on ski=0.0
+gt_people on ski=0.0
+gt_person on snow=0.0
+gt_person on skier=1.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_people on snow=0.0
+gt_dog in snow=0.0
+gt_people on snowboard=1.0
+gt_people on skier=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_person on snowboard=0.0
+gt_man in snow=1.0
+gt_person on ski=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_people on ski=1.0
+gt_people on skier=1.0
+gt_person on snowboard=1.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=0.0
+gt_people on snowboard=1.0
+gt_people on snow=1.0
+gt_dog in snow=0.0
+gt_person on ski=0.0
+gt_people in snow=1.0
+gt_hill in snow=1.0
+Objective: 59.317763114449
+gt_person on snowboard=0.0
+gt_people on ski=0.0
+gt_chair in snow=1.0
+gt_people on snowboard=0.0
+gt_person in snow=0.0
+gt_people on snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=1.0
+gt_person on skier=0.0
+gt_people on skier=0.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_person on ski=1.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_chair in snow=0.0
+gt_person on ski=0.0
+gt_people on ski=0.0
+gt_person on snow=0.0
+gt_person on skier=1.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_people on snow=0.0
+gt_dog in snow=0.0
+gt_people on snowboard=1.0
+gt_people on skier=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_person on snowboard=0.0
+gt_man in snow=1.0
+gt_person on ski=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_people on ski=1.0
+gt_people on skier=1.0
+gt_person on snowboard=1.0
+gt_chair in snow=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=0.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_people on snowboard=1.0
+gt_people on snow=1.0
+gt_dog in snow=0.0
+gt_person on ski=0.0
+gt_people in snow=0.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a man riding a snowboard in the snow
+Imageid: 164835, extracted triplets: ['man ride snowboard', 'man in snow'], mapped triplets: ['person ride snowboard', 'boy ride snowboard', 'woman ride snowboard', 'man ride snowboard', 'woman in snow', 'hill in snow', 'sky in snow', 'man in snow', 'people in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'dog in snow', 'child in snow', 'snow in skier']
+Objective: 59.317763114449
+PRIOR DISTANCE
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_man ride snowboard=0.0
+gt_pole in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_man ride snowboard=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_man ride snowboard=1.0
+gt_snowboard in snow=1.0
+gt_person ride snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man ride snowboard=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_man ride snowboard=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=0.0
+gt_boy ride snowboard=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=0.0
+gt_snow in skier=0.0
+gt_person ride snowboard=0.0
+gt_hill in snow=1.0
+Objective: 59.583886780789044
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_man ride snowboard=0.0
+gt_pole in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_man ride snowboard=1.0
+gt_people in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_man ride snowboard=1.0
+gt_snowboard in snow=1.0
+gt_person ride snowboard=0.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man ride snowboard=0.0
+gt_man in snow=1.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_person in snow=0.0
+gt_man ride snowboard=1.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_man in snow=0.0
+gt_boy ride snowboard=1.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=0.0
+gt_snow in skier=0.0
+gt_person ride snowboard=-0.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a man flying through the air on a snowboard
+Imageid: 505636, extracted triplets: ['man on snowboard'], mapped triplets: ['boy on snowboard', 'child on snowboard', 'girl on snowboard', 'people on snowboard', 'person on snowboard', 'man on snowboard']
+Objective: 59.583886780789044
+PRIOR DISTANCE
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=-0.0
+Objective: 59.65445827489418
+gt_person on snowboard=0.0
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_person on snowboard=0.0
+gt_man on snowboard=1.0
+gt_person on snowboard=1.0
+gt_child on snowboard=1.0
+gt_people on snowboard=1.0
+gt_girl on snowboard=-0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 557732, extracted triplets: ['man ride snowboard', 'man ride snow', 'man ride ski'], mapped triplets: ['boy ride snowboard', 'woman ride snowboard', 'person ride snowboard', 'man ride snowboard', 'person ride snow', 'man ride snow', 'person ride ski', 'man ride skier', 'man ride snowboard', 'person ride snowboard', 'man ride ski']
+Objective: 59.65445827489418
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_man ride skier=1.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride ski=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_man ride ski=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+Objective: 59.80288802608754
+gt_man ride skier=0.0
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride ski=1.0
+gt_man ride ski=0.0
+gt_man ride ski=0.0
+gt_woman ride ski=0.0
+gt_man ride ski=0.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_man ride skier=1.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride ski=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_man ride ski=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 358090, extracted triplets: ['man ride snowboard'], mapped triplets: ['person ride snowboard', 'boy ride snowboard', 'woman ride snowboard', 'man ride snowboard']
+Objective: 59.80288802608754
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+Objective: 59.42467879421653
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 34428, extracted triplets: ['man ride snowboard', 'man ride snow'], mapped triplets: ['boy ride snowboard', 'woman ride snowboard', 'person ride snowboard', 'man ride snowboard', 'person ride snow', 'man ride snow']
+Objective: 59.42467879421653
+PRIOR DISTANCE
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+Objective: 60.21191728727944
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+----------------------------
+Caption: a man standing on a snowboard in the snow
+Imageid: 206851, extracted triplets: ['man on snowboard', 'snowboard in snow'], mapped triplets: ['people on snowboard', 'man on snowboard', 'snowboard in snow']
+Objective: 60.21191728727944
+PRIOR DISTANCE
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_snowboard in snow=1.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_man on snowboard=1.0
+gt_snowboard in snow=1.0
+gt_people on snowboard=1.0
+Objective: 60.0625099436486
+gt_people on snowboard=0.0
+gt_man on snowboard=0.0
+gt_snowboard in snow=1.0
+gt_people on snowboard=1.0
+gt_man on snowboard=0.0
+gt_man on snowboard=1.0
+gt_snowboard in snow=1.0
+gt_people on snowboard=1.0
+----------------------------
+Caption: a man sitting in the snow with a snowboard
+Imageid: 217323, extracted triplets: ['man with snowboard'], mapped triplets: ['person with snowboard', 'man with snowboard']
+Objective: 60.0625099436486
+PRIOR DISTANCE
+gt_person with snowboard=1.0
+gt_person with snowboard=0.0
+gt_man with snowboard=1.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+Objective: 60.06260371863113
+gt_person with snowboard=1.0
+gt_person with snowboard=0.0
+gt_man with snowboard=1.0
+gt_man with snowboard=0.0
+gt_person with snowboard=1.0
+----------------------------
+Caption: two people standing in a snow flying a kite
+Imageid: 141879, extracted triplets: ['people in snow', 'snow fly kite'], mapped triplets: ['woman in snow', 'hill in snow', 'kite in snow', 'sky in snow', 'man in snow', 'glove in snow', 'person in snow', 'board in snow', 'pole in snow', 'boy in snow', 'ski in snow', 'jacket in snow', 'dog in snow', 'child in snow', 'rail in snow', 'skier in snow', 'people in snow', 'person fly kite', 'person fly air', 'snow fly kite']
+Objective: 60.06260371863113
+PRIOR DISTANCE
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_kite in snow=0.0
+gt_snow fly kite=0.0
+gt_person fly kite=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_person fly kite=1.0
+gt_jacket in snow=0.0
+gt_person fly kite=1.0
+gt_ski in snow=0.0
+gt_person fly kite=1.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_jacket in snow=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_person fly kite=0.0
+gt_kite in snow=0.0
+gt_snow fly kite=1.0
+gt_person in snow=0.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_kite in snow=-0.0
+gt_snow fly kite=1.0
+gt_person fly kite=0.0
+gt_man in snow=0.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_rail in snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=0.0
+gt_glove in snow=0.0
+gt_hill in snow=1.0
+Objective: 61.22286123598206
+gt_person in snow=0.0
+gt_dog in snow=0.0
+gt_kite in snow=0.0
+gt_snow fly kite=0.0
+gt_person fly kite=0.0
+gt_pole in snow=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_man in snow=1.0
+gt_people in snow=1.0
+gt_ski in snow=0.0
+gt_skier in snow=1.0
+gt_people in snow=0.0
+gt_ski in snow=0.0
+gt_child in snow=0.0
+gt_dog in snow=0.0
+gt_person fly kite=1.0
+gt_jacket in snow=0.0
+gt_person fly kite=1.0
+gt_ski in snow=0.0
+gt_person fly kite=1.0
+gt_ski in snow=0.0
+gt_snowboard in snow=1.0
+gt_pole in snow=1.0
+gt_people in snow=0.0
+gt_dog in snow=0.0
+gt_skier in snow=0.0
+gt_child in snow=0.0
+gt_sky in snow=1.0
+gt_board in snow=0.0
+gt_man in snow=1.0
+gt_jacket in snow=0.0
+gt_man in snow=0.0
+gt_man in snow=0.0
+gt_ski in snow=1.0
+gt_person fly kite=0.0
+gt_kite in snow=0.0
+gt_snow fly kite=1.0
+gt_person in snow=0.0
+gt_ski in snow=-0.0
+gt_snowboard in snow=1.0
+gt_sky in snow=1.0
+gt_kite in snow=-0.0
+gt_snow fly kite=1.0
+gt_person fly kite=1.0
+gt_man in snow=0.0
+gt_child in snow=1.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_board in snow=1.0
+gt_pole in snow=1.0
+gt_rail in snow=1.0
+gt_dog in snow=0.0
+gt_people in snow=1.0
+gt_glove in snow=0.0
+gt_hill in snow=1.0
+----------------------------
+Caption: a young boy riding a snowboard down a snow covered slope
+Imageid: 212817, extracted triplets: ['boy ride snowboard', 'boy ride snow', 'boy ride skier'], mapped triplets: ['person ride snowboard', 'man ride snowboard', 'people ride snowboard', 'woman ride snowboard', 'boy ride snowboard', 'person ride snow', 'person ride ski', 'man ride skier']
+Objective: 61.22286123598206
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=-0.0
+gt_person ride snowboard=-0.0
+Objective: 60.44363502002146
+gt_man ride skier=0.0
+gt_man ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride skier=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+gt_person ride ski=0.0
+gt_man ride skier=1.0
+gt_man ride snowboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride skier=-0.0
+gt_person ride ski=-0.0
+gt_boy ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_woman ride snowboard=1.0
+gt_person ride snowboard=0.0
+gt_person ride snowboard=0.0
+----------------------------

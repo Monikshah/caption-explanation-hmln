@@ -1,0 +1,1314 @@
+Caption: a man riding a bike next to a train
+Imageid: 483108, extracted triplets: ['man ride bike', 'man next to train'], mapped triplets: ['man ride bike', 'woman next to train', 'people next to train', 'boy next to train', 'girl next to train', 'man next to train']
+Objective: 107.39811347657748
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_man next to train=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bike=1.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman next to train=0.0
+gt_woman next to train=0.0
+gt_man ride bike=1.0
+gt_boy next to train=1.0
+gt_girl next to train=0.0
+gt_people next to train=-0.0
+gt_man next to train=1.0
+gt_woman next to train=1.0
+gt_woman next to train=1.0
+gt_man ride bike=0.0
+Objective: 107.29505210465659
+gt_man ride bike=0.0
+gt_man next to train=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bike=1.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman next to train=0.0
+gt_woman next to train=0.0
+gt_man ride bike=1.0
+gt_boy next to train=1.0
+gt_girl next to train=1.0
+gt_people next to train=-0.0
+gt_man next to train=1.0
+gt_woman next to train=1.0
+gt_woman next to train=1.0
+gt_man ride bike=0.0
+----------------------------
+Caption: a red train is sitting on the tracks
+Imageid: 550452, extracted triplets: ['train sit train', 'train sit rail', 'train sit track'], mapped triplets: ['train sit train', 'train sit track', 'train sit platform', 'train sit rail', 'car sit track', 'sign sit track', 'engine sit track', 'train sit track']
+Objective: 107.29505210465659
+PRIOR DISTANCE
+Objective: 107.29505210465659
+----------------------------
+Caption: two people standing next to a black train
+Imageid: 73119, extracted triplets: ['people next to train'], mapped triplets: ['woman next to train', 'dog next to train', 'horse next to train', 'man next to train', 'luggage next to train', 'boy next to train', 'girl next to train', 'people next to train']
+Objective: 107.29505210465659
+PRIOR DISTANCE
+gt_man next to train=0.0
+gt_woman next to train=0.0
+gt_woman next to train=0.0
+gt_boy next to train=1.0
+gt_girl next to train=1.0
+gt_people next to train=-0.0
+gt_man next to train=1.0
+gt_woman next to train=1.0
+gt_woman next to train=1.0
+gt_luggage next to train=1.0
+Objective: 107.24094322586409
+gt_man next to train=0.0
+gt_woman next to train=0.0
+gt_woman next to train=0.0
+gt_boy next to train=1.0
+gt_girl next to train=1.0
+gt_people next to train=-0.0
+gt_man next to train=1.0
+gt_woman next to train=1.0
+gt_woman next to train=1.0
+gt_luggage next to train=1.0
+----------------------------
+Caption: a train is traveling down the tracks next to a mountain
+Imageid: 65981, extracted triplets: ['train next to mountain'], mapped triplets: ['track next to mountain']
+Objective: 107.24094322586409
+PRIOR DISTANCE
+Objective: 107.24094322586409
+----------------------------
+Caption: a black and white photo of a train on a train track
+Imageid: 211054, extracted triplets: ['photo of train', 'train on train track'], mapped triplets: ['picture of train', 'photo of train']
+Objective: 107.24094322586409
+PRIOR DISTANCE
+gt_photo of train=1.0
+gt_picture of train=1.0
+Objective: 107.27352415426458
+gt_photo of train=0.0
+gt_picture of train=0.0
+----------------------------
+Caption: a group of people standing on a train station with a train
+Imageid: 500703, extracted triplets: ['train station with train'], mapped triplets: ['platform with train', 'track with train']
+Objective: 107.27352415426458
+PRIOR DISTANCE
+gt_platform with train=1.0
+gt_track with train=1.0
+gt_platform with train=-0.0
+Objective: 107.21616918792435
+gt_platform with train=1.0
+gt_track with train=1.0
+gt_platform with train=-0.0
+----------------------------
+Caption: a train is sitting on the tracks in a train station
+Imageid: 74465, extracted triplets: ['train sit train', 'train in train station'], mapped triplets: ['train sit track', 'train sit train', 'track in train', 'platform in train']
+Objective: 107.21616918792435
+PRIOR DISTANCE
+Objective: 107.21616918792435
+----------------------------
+Caption: a black train is sitting on the tracks
+Imageid: 144715, extracted triplets: ['train sit on rail', 'train sit on track'], mapped triplets: ['train sit track', 'train sit rail', 'train sit track', 'engine sit track', 'sign sit track']
+Objective: 107.21616918792435
+PRIOR DISTANCE
+Objective: 107.21616918792435
+----------------------------
+Caption: a large airplane sitting on top of a runway
+Imageid: 448786, extracted triplets: ['airplane sit ceiling', 'airplane sit sign', 'airplane sit platform', 'airplane sit table'], mapped triplets: ['engine sit track', 'train sit track', 'train sit track', 'train sit platform', 'train sit rail', 'train sit platform', 'train sit track', 'cake sit table', 'glass sit table']
+Objective: 107.21616918792435
+PRIOR DISTANCE
+Objective: 107.21616918792435
+----------------------------
+Caption: a train traveling down the tracks in a forest
+Imageid: 25747, extracted triplets: ['train in tree', 'train in grass', 'train in bush'], mapped triplets: ['train in background', 'train in field', 'car in grass', 'train in field', 'train in background']
+Objective: 107.21616918792435
+PRIOR DISTANCE
+gt_train in field=-0.0
+gt_train in field=-0.0
+gt_train in background=0.0
+gt_train in background=0.0
+Objective: 107.27118255991492
+gt_train in field=-0.0
+gt_train in field=-0.0
+gt_train in background=1.0
+gt_train in background=1.0
+----------------------------
+Caption: a yellow train with two doors and a window
+Imageid: 245450, extracted triplets: ['train with door'], mapped triplets: ['train with door']
+Objective: 107.27118255991492
+PRIOR DISTANCE
+gt_train with door=0.0
+gt_train with door=1.0
+Objective: 107.29531525595407
+gt_train with door=0.0
+gt_train with door=1.0
+----------------------------
+Caption: a red train is traveling down the tracks in a snow covered mountain
+Imageid: 571746, extracted triplets: ['train in rock'], mapped triplets: ['track in mountain']
+Objective: 107.29531525595407
+PRIOR DISTANCE
+Objective: 107.29531525595407
+----------------------------
+Caption: a train is traveling down the tracks in a field
+Imageid: 279621, extracted triplets: ['train in field'], mapped triplets: ['train in field', 'cow in field', 'horse in field', 'bike in field']
+Objective: 107.29531525595407
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+Objective: 107.29664538872233
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+----------------------------
+Caption: a train traveling down the tracks in front of a mountain
+Imageid: 477526, extracted triplets: ['train in train', 'train in car'], mapped triplets: ['field in field', 'track in train', 'car in train', 'platform in train']
+Objective: 107.29664538872233
+PRIOR DISTANCE
+gt_field in field=0.0
+gt_field in field=1.0
+Objective: 107.31377812949894
+gt_field in field=0.0
+gt_field in field=1.0
+----------------------------
+Caption: a train traveling down the tracks in a city street
+Imageid: 130437, extracted triplets: ['train in car', 'train in fence', 'train in pole', 'train in road'], mapped triplets: ['engine in build', 'man in suit', 'track in build', 'engine in build', 'track in wood', 'track in road']
+Objective: 107.31377812949894
+PRIOR DISTANCE
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_woman in suitcase=0.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=0.0
+gt_woman in suitcase=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_track in wood=1.0
+gt_man in suit=0.0
+Objective: 107.17289558623258
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_woman in suitcase=0.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=0.0
+gt_woman in suitcase=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=0.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_track in wood=0.0
+gt_man in suit=0.0
+----------------------------
+Caption: a train is traveling down the tracks in a city
+Imageid: 483722, extracted triplets: ['train in build'], mapped triplets: ['truck in build', 'car in build', 'engine in build', 'sidewalk in build', 'train in build']
+Objective: 107.17289558623258
+PRIOR DISTANCE
+gt_truck in build=1.0
+gt_truck in build=1.0
+Objective: 107.27504813463152
+gt_truck in build=1.0
+gt_truck in build=1.0
+----------------------------
+Caption: a man standing next to a train on the tracks
+Imageid: 133567, extracted triplets: ['man next to train'], mapped triplets: ['woman next to train', 'people next to train', 'man next to train', 'boy next to train', 'girl next to train']
+Objective: 107.27504813463152
+PRIOR DISTANCE
+gt_man next to train=0.0
+gt_woman next to train=0.0
+gt_woman next to train=0.0
+gt_boy next to train=1.0
+gt_girl next to train=1.0
+gt_people next to train=-0.0
+gt_man next to train=1.0
+gt_woman next to train=1.0
+gt_woman next to train=1.0
+Objective: 107.2846084966365
+gt_man next to train=0.0
+gt_woman next to train=0.0
+gt_woman next to train=0.0
+gt_boy next to train=1.0
+gt_girl next to train=1.0
+gt_people next to train=-0.0
+gt_man next to train=1.0
+gt_woman next to train=1.0
+gt_woman next to train=1.0
+----------------------------
+Caption: a black and white photo of a train at a train station
+Imageid: 145048, extracted triplets: ['train at train station'], mapped triplets: ['people at platform', 'train at platform']
+Objective: 107.2846084966365
+PRIOR DISTANCE
+gt_train at platform=1.0
+gt_people at platform=0.0
+Objective: 107.2923780153153
+gt_train at platform=1.0
+gt_people at platform=-0.0
+----------------------------
+Caption: a blue and yellow train at a train station
+Imageid: 138073, extracted triplets: ['train at train station'], mapped triplets: ['people at platform', 'train at platform']
+Objective: 107.2923780153153
+PRIOR DISTANCE
+gt_train at platform=1.0
+gt_people at platform=-0.0
+Objective: 107.50771552385598
+gt_train at platform=1.0
+gt_people at platform=0.0
+----------------------------
+Caption: a black and white photo of a train on the tracks
+Imageid: 403864, extracted triplets: ['train on track'], mapped triplets: ['car on track', 'engine on track', 'train on rail', 'train on track']
+Objective: 107.50771552385598
+PRIOR DISTANCE
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on track=1.0
+gt_engine on track=1.0
+Objective: 107.60663008020812
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on track=1.0
+gt_engine on track=1.0
+----------------------------
+Caption: a train is sitting on the tracks in a train station
+Imageid: 373089, extracted triplets: ['train sit on track', 'train in train station'], mapped triplets: ['car sit track', 'engine sit track', 'train sit track', 'sign sit track', 'train sit on track', 'platform in train', 'track in train']
+Objective: 107.60663008020812
+PRIOR DISTANCE
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=-0.0
+Objective: 107.59293355416627
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=-0.0
+----------------------------
+Caption: a train is traveling down the tracks at a train station
+Imageid: 201148, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 107.59293355416627
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 107.59293355416627
+gt_train at platform=1.0
+----------------------------
+Caption: a red and yellow train is parked in front of a building
+Imageid: 185789, extracted triplets: ['front of building'], mapped triplets: ['front of train', 'track of build', 'pole of build', 'sidewalk of build']
+Objective: 107.59293355416627
+PRIOR DISTANCE
+gt_platform in front of train=0.0
+gt_people stand in front of train=0.0
+gt_pole of build=1.0
+gt_people stand in front of train=-0.0
+gt_platform in front of train=0.0
+gt_bike park in front of train=0.0
+gt_track of build=1.0
+gt_front of train=-0.0
+gt_track in front of train=-0.0
+gt_car park in front of train=0.0
+gt_man hold in front of train=1.0
+Objective: 107.23972858241086
+gt_platform in front of train=0.0
+gt_people stand in front of train=0.0
+gt_pole of build=1.0
+gt_people stand in front of train=-0.0
+gt_platform in front of train=0.0
+gt_bike park in front of train=0.0
+gt_track of build=1.0
+gt_front of train=-0.0
+gt_track in front of train=-0.0
+gt_car park in front of train=0.0
+gt_man hold in front of train=1.0
+----------------------------
+Caption: a train traveling over a bridge in a city
+Imageid: 406377, extracted triplets: ['train over bridge', 'bridge in house', 'bridge in building'], mapped triplets: ['track over bridge', 'engine in build', 'sidewalk in build', 'bridge in picture', 'bridge in picture', 'engine in build', 'sidewalk in build']
+Objective: 107.23972858241086
+PRIOR DISTANCE
+gt_bridge in picture=1.0
+gt_bridge in picture=1.0
+gt_track over bridge=0.0
+Objective: 107.33212224626476
+gt_bridge in picture=1.0
+gt_bridge in picture=1.0
+gt_track over bridge=0.0
+----------------------------
+Caption: a stuffed animal sitting on a seat next to a train
+Imageid: 34115, extracted triplets: ['seat next to train'], mapped triplets: ['luggage next to train', 'people next to train', 'boy next to train', 'girl next to train']
+Objective: 107.33212224626476
+PRIOR DISTANCE
+gt_boy next to train=1.0
+gt_girl next to train=1.0
+gt_people next to train=1.0
+gt_luggage next to train=1.0
+Objective: 107.50040200236873
+gt_boy next to train=0.0
+gt_girl next to train=1.0
+gt_people next to train=1.0
+gt_luggage next to train=1.0
+----------------------------
+Caption: a group of people riding on a red train
+Imageid: 304300, extracted triplets: ['people ride train'], mapped triplets: ['child ride train', 'woman ride train', 'man ride train', 'people ride train', 'boy ride train']
+Objective: 107.50040200236873
+PRIOR DISTANCE
+gt_people ride train=0.0
+gt_people ride train=1.0
+gt_man ride train=0.0
+gt_child ride train=1.0
+gt_people ride train=1.0
+gt_boy ride train=0.0
+Objective: 107.73970908017965
+gt_people ride train=0.0
+gt_people ride train=1.0
+gt_man ride train=0.0
+gt_child ride train=1.0
+gt_people ride train=1.0
+gt_boy ride train=0.0
+----------------------------
+Caption: a black and white photo of a train with graffiti
+Imageid: 416331, extracted triplets: ['train with grind', 'train with build', 'train with letter', 'train with sign', 'train with write', 'train with word'], mapped triplets: ['train with engine', 'track with train', 'train with build', 'train with letter', 'build with sign', 'train with letter', 'train with letter']
+Objective: 107.73970908017965
+PRIOR DISTANCE
+gt_build with sign=0.0
+gt_train with build=0.0
+gt_train with letter=0.0
+gt_train with letter=0.0
+gt_train with letter=0.0
+gt_train with letter=1.0
+gt_train with letter=1.0
+gt_train with letter=1.0
+gt_track with train=1.0
+gt_train with engine=1.0
+gt_build with sign=1.0
+gt_train with build=1.0
+Objective: 107.6947842147635
+gt_build with sign=0.0
+gt_train with build=0.0
+gt_train with letter=0.0
+gt_train with letter=0.0
+gt_train with letter=0.0
+gt_train with letter=1.0
+gt_train with letter=1.0
+gt_train with letter=1.0
+gt_track with train=1.0
+gt_train with engine=1.0
+gt_build with sign=1.0
+gt_train with build=1.0
+----------------------------
+Caption: a train traveling over a bridge over a river
+Imageid: 18771, extracted triplets: ['train over bridge', 'bridge over river'], mapped triplets: ['track over bridge', 'bridge over water']
+Objective: 107.6947842147635
+PRIOR DISTANCE
+gt_bridge over water=0.0
+gt_bridge over water=1.0
+gt_bridge over water=1.0
+gt_bridge over water=0.0
+gt_track over bridge=0.0
+Objective: 107.67920892485672
+gt_bridge over water=0.0
+gt_bridge over water=1.0
+gt_bridge over water=1.0
+gt_bridge over water=0.0
+gt_track over bridge=0.0
+----------------------------
+Caption: a train is sitting on the tracks
+Imageid: 526806, extracted triplets: ['train sit on track'], mapped triplets: ['car sit track', 'engine sit track', 'train sit track', 'sign sit track', 'train sit on track']
+Objective: 107.67920892485672
+PRIOR DISTANCE
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=-0.0
+Objective: 107.68445722069293
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=-0.0
+----------------------------
+Caption: a train is sitting at a train station
+Imageid: 172021, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 107.68445722069293
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 107.68445722069293
+gt_train at platform=1.0
+----------------------------
+Caption: a train is sitting on the tracks
+Imageid: 134722, extracted triplets: ['train sit track'], mapped triplets: ['car sit track', 'sign sit track', 'engine sit track', 'train sit track', 'train sit rail']
+Objective: 107.68445722069293
+PRIOR DISTANCE
+Objective: 107.68445722069293
+----------------------------
+Caption: a blue train is traveling on a bridge
+Imageid: 184400, extracted triplets: ['train on bridge'], mapped triplets: ['track on bridge', 'train on bridge']
+Objective: 107.68445722069293
+PRIOR DISTANCE
+gt_train on bridge=0.0
+gt_train on bridge=0.0
+gt_track on bridge=0.0
+Objective: 107.72865127735157
+gt_train on bridge=0.0
+gt_train on bridge=0.0
+gt_track on bridge=1.0
+----------------------------
+Caption: a woman holding a pink umbrella standing next to a train
+Imageid: 219525, extracted triplets: ['woman hold umbrella', 'umbrella next to train'], mapped triplets: ['woman hold umbrella']
+Objective: 107.72865127735157
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+Objective: 108.14630376024208
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 114941, extracted triplets: ['train at train station'], mapped triplets: ['train at platform', 'track at engine']
+Objective: 108.14630376024208
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 108.14630376024208
+gt_train at platform=1.0
+----------------------------
+Caption: a black train is sitting on the tracks
+Imageid: 72507, extracted triplets: ['train sit on track'], mapped triplets: ['engine sit on track', 'train sit on rail', 'train sit on track']
+Objective: 108.14630376024208
+PRIOR DISTANCE
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on rail=-0.0
+gt_engine sit on track=1.0
+gt_train sit on track=-0.0
+Objective: 108.40086278291481
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on rail=-0.0
+gt_engine sit on track=1.0
+gt_train sit on track=-0.0
+----------------------------
+Caption: a train traveling down the tracks in a field
+Imageid: 427646, extracted triplets: ['train in field'], mapped triplets: ['train in field', 'cow in field', 'horse in field', 'bike in field']
+Objective: 108.40086278291481
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+Objective: 108.44987709339719
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+----------------------------
+Caption: a train traveling down the tracks in a city
+Imageid: 115118, extracted triplets: ['train in building'], mapped triplets: ['engine in build', 'sidewalk in build']
+Objective: 108.44987709339719
+PRIOR DISTANCE
+Objective: 108.44987709339719
+----------------------------
+Caption: a train traveling down the tracks in a field
+Imageid: 140686, extracted triplets: ['train in field'], mapped triplets: ['train in field', 'cow in field', 'bike in field', 'horse in field']
+Objective: 108.44987709339719
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+Objective: 108.45375831157818
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+----------------------------
+Caption: a train traveling down the tracks in a field
+Imageid: 130566, extracted triplets: ['train in field'], mapped triplets: ['train in field', 'cow in field', 'horse in field', 'bike in field']
+Objective: 108.45375831157818
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+Objective: 108.42002377450571
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_horse in field=0.0
+gt_bike in field=1.0
+gt_cow in field=0.0
+gt_horse in field=0.0
+gt_train in field=-0.0
+gt_horse in field=0.0
+gt_cow in field=1.0
+----------------------------
+Caption: a man standing next to a train with luggage
+Imageid: 137727, extracted triplets: ['train with luggage'], mapped triplets: ['train with luggage', 'people with luggage']
+Objective: 108.42002377450571
+PRIOR DISTANCE
+gt_people with luggage=1.0
+gt_train with luggage=1.0
+gt_people with luggage=1.0
+gt_train with luggage=0.0
+gt_train with luggage=0.0
+gt_people with luggage=1.0
+gt_train with luggage=1.0
+Objective: 108.32348571207632
+gt_people with luggage=1.0
+gt_train with luggage=1.0
+gt_people with luggage=1.0
+gt_train with luggage=0.0
+gt_train with luggage=0.0
+gt_people with luggage=1.0
+gt_train with luggage=1.0
+----------------------------
+Caption: a train is traveling down the tracks in a forest
+Imageid: 209388, extracted triplets: ['train in tree'], mapped triplets: ['train in field', 'train in build', 'train in snow', 'train in background']
+Objective: 108.32348571207632
+PRIOR DISTANCE
+gt_train in snow=0.0
+gt_train in field=-0.0
+gt_train in snow=1.0
+gt_train in background=1.0
+Objective: 108.24630240922652
+gt_train in snow=0.0
+gt_train in field=-0.0
+gt_train in snow=1.0
+gt_train in background=1.0
+----------------------------
+Caption: a train is traveling down the tracks next to a truck
+Imageid: 476406, extracted triplets: ['train next to van'], mapped triplets: ['train next to car', 'train next to platform']
+Objective: 108.24630240922652
+PRIOR DISTANCE
+gt_train next to platform=0.0
+gt_train next to platform=0.0
+gt_train next to car=1.0
+gt_train next to platform=-0.0
+Objective: 108.22614566935985
+gt_train next to platform=0.0
+gt_train next to platform=0.0
+gt_train next to car=1.0
+gt_train next to platform=-0.0
+----------------------------
+Caption: a blue train is sitting on the tracks under a bridge
+Imageid: 545612, extracted triplets: ['train sit track', 'train under bridge'], mapped triplets: ['train sit track', 'engine sit track', 'train under bridge']
+Objective: 108.22614566935985
+PRIOR DISTANCE
+gt_train under bridge=-0.0
+Objective: 108.22361985391531
+gt_train under bridge=-0.0
+----------------------------
+Caption: a yellow and white train at a train station
+Imageid: 537589, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 108.22361985391531
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 108.22361985391531
+gt_train at platform=1.0
+----------------------------
+Caption: a blue and white train is sitting on the tracks
+Imageid: 192496, extracted triplets: ['train sit on track'], mapped triplets: ['car sit on track', 'engine sit on track', 'train sit on track', 'train sit on rail']
+Objective: 108.22361985391531
+PRIOR DISTANCE
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on rail=-0.0
+gt_car sit on track=1.0
+gt_engine sit on track=1.0
+gt_train sit on track=-0.0
+Objective: 108.30984681325639
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on rail=-0.0
+gt_car sit on track=1.0
+gt_engine sit on track=1.0
+gt_train sit on track=-0.0
+----------------------------
+Caption: a train is sitting at a train station
+Imageid: 268000, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 108.30984681325639
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 108.30984681325639
+gt_train at platform=1.0
+----------------------------
+Caption: a train traveling down the tracks with a group of people
+Imageid: 14450, extracted triplets: ['train with people', 'train with person'], mapped triplets: ['train with people', 'people with train', 'train with people', 'people with train']
+Objective: 108.30984681325639
+PRIOR DISTANCE
+gt_train with people=0.0
+gt_train with people=0.0
+gt_train with people=1.0
+gt_train with people=1.0
+Objective: 108.34011774468858
+gt_train with people=0.0
+gt_train with people=0.0
+gt_train with people=1.0
+gt_train with people=1.0
+----------------------------
+Caption: a train is sitting at a train station
+Imageid: 371945, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 108.34011774468858
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 108.34011774468858
+gt_train at platform=1.0
+----------------------------
+Caption: a black and white photo of a train at a train station
+Imageid: 25181, extracted triplets: ['train at person'], mapped triplets: ['people at train']
+Objective: 108.34011774468858
+PRIOR DISTANCE
+Objective: 108.34011774468858
+----------------------------
+Caption: a close up of a train sitting on the tracks
+Imageid: 57244, extracted triplets: ['train sit on train'], mapped triplets: ['woman sit train', 'man sit train', 'people sit train']
+Objective: 108.34011774468858
+PRIOR DISTANCE
+Objective: 108.34011774468858
+----------------------------
+Caption: a train with a bike parked next to a train
+Imageid: 495349, extracted triplets: ['train with bike', 'bike next to train'], mapped triplets: ['woman with bicycle', 'track next to train']
+Objective: 108.34011774468858
+PRIOR DISTANCE
+gt_woman with bicycle=1.0
+gt_woman with bicycle=0.0
+gt_track next to train=-0.0
+Objective: 108.23701685046366
+gt_woman with bicycle=1.0
+gt_woman with bicycle=0.0
+gt_track next to train=1.0
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 449634, extracted triplets: ['train sit on track', 'train at train station'], mapped triplets: ['engine sit track', 'train sit track', 'train at platform']
+Objective: 108.23701685046366
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 108.23701685046366
+gt_train at platform=1.0
+----------------------------
+Caption: a bike parked on the side of a building
+Imageid: 451896, extracted triplets: ['bike on side', 'side of building'], mapped triplets: ['car on street', 'bike on road', 'truck on road', 'room of window', 'door of train', 'window of bus', 'sidewalk of build']
+Objective: 108.23701685046366
+PRIOR DISTANCE
+gt_car on street=1.0
+gt_bike on road=0.0
+gt_car on street=0.0
+gt_truck on road=1.0
+gt_room of window=0.0
+gt_room of window=1.0
+gt_room of window=1.0
+gt_truck on road=1.0
+gt_car on street=1.0
+gt_bathroom of window=1.0
+gt_room of window=0.0
+gt_car on street=1.0
+gt_room of window=0.0
+gt_door of train=0.0
+gt_bike on road=0.0
+gt_window of bus=1.0
+gt_room of window=0.0
+gt_car on street=-0.0
+Objective: 108.44186694986259
+gt_car on street=1.0
+gt_bike on road=0.0
+gt_car on street=0.0
+gt_truck on road=1.0
+gt_room of window=0.0
+gt_room of window=1.0
+gt_room of window=1.0
+gt_truck on road=1.0
+gt_car on street=1.0
+gt_bathroom of window=1.0
+gt_room of window=0.0
+gt_car on street=1.0
+gt_room of window=0.0
+gt_door of train=0.0
+gt_bike on road=0.0
+gt_window of bus=1.0
+gt_room of window=0.0
+gt_car on street=-0.0
+----------------------------
+Caption: a train with graffiti on the side of it
+Imageid: 456046, extracted triplets: ['train with wall', 'train with bus', 'train with chair', 'train with letter', 'train with sign', 'train with fence', 'train on side'], mapped triplets: ['track with train', 'wall with train', 'train with engine', 'bus with person', 'train with engine', 'train with letter', 'build with sign', 'track with train', 'track on track', 'train on track']
+Objective: 108.44186694986259
+PRIOR DISTANCE
+gt_train on track=0.0
+gt_train on track=0.0
+gt_build with sign=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_track on track=1.0
+gt_train with letter=0.0
+gt_wall with train=-0.0
+gt_train with letter=1.0
+gt_train on track=1.0
+gt_track with train=1.0
+gt_track with train=1.0
+gt_train with engine=1.0
+gt_train with engine=1.0
+gt_build with sign=1.0
+gt_track on track=1.0
+Objective: 108.55123917890107
+gt_train on track=0.0
+gt_train on track=0.0
+gt_build with sign=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_track on track=1.0
+gt_train with letter=0.0
+gt_wall with train=-0.0
+gt_train with letter=1.0
+gt_train on track=1.0
+gt_track with train=1.0
+gt_track with train=1.0
+gt_train with engine=1.0
+gt_train with engine=1.0
+gt_build with sign=1.0
+gt_track on track=1.0
+----------------------------
+Caption: a train with graffiti on the side of it
+Imageid: 67704, extracted triplets: ['train with roof', 'train with wall', 'train with window', 'train with rock'], mapped triplets: ['train with window', 'wall with train', 'train with door', 'train with engine', 'train with flag', 'train with light', 'train with people', 'train with window', 'track with mountain']
+Objective: 108.55123917890107
+PRIOR DISTANCE
+gt_train with light=0.0
+gt_train with door=0.0
+gt_train with people=0.0
+gt_track with mountain=0.0
+gt_train with light=1.0
+gt_wall with train=-0.0
+gt_train with door=1.0
+gt_track with mountain=1.0
+gt_train with flag=1.0
+gt_train with engine=1.0
+gt_train with window=0.0
+gt_train with window=0.0
+gt_train with people=1.0
+Objective: 109.05270379477749
+gt_train with light=0.0
+gt_train with door=0.0
+gt_train with people=0.0
+gt_track with mountain=0.0
+gt_train with light=1.0
+gt_wall with train=-0.0
+gt_train with door=1.0
+gt_track with mountain=1.0
+gt_train with flag=1.0
+gt_train with engine=1.0
+gt_train with window=1.0
+gt_train with window=1.0
+gt_train with people=1.0
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 502558, extracted triplets: ['train sit train', 'train at train station'], mapped triplets: ['train sit track', 'train sit train', 'train at platform', 'track at engine']
+Objective: 109.05270379477749
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 109.05270379477749
+gt_train at platform=1.0
+----------------------------
+Caption: a bridge with signs on the top of it
+Imageid: 221190, extracted triplets: ['bridge with sign'], mapped triplets: ['bridge with build', 'build with sign']
+Objective: 109.05270379477749
+PRIOR DISTANCE
+gt_build with sign=0.0
+gt_bridge with build=1.0
+gt_build with sign=1.0
+Objective: 108.95710935511612
+gt_build with sign=0.0
+gt_bridge with build=1.0
+gt_build with sign=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 283203, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['man on bench', 'man on bike', 'track in mountain']
+Objective: 108.95710935511612
+PRIOR DISTANCE
+gt_man on bike=0.0
+gt_woman on bike=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_woman on bike=0.0
+gt_man on bike=1.0
+gt_man on bike=1.0
+gt_woman on bench=1.0
+gt_man on bike=0.0
+gt_man on bench=0.0
+gt_man on bike=1.0
+gt_woman on bike=0.0
+gt_man on bench=0.0
+gt_man on bike=0.0
+gt_woman on bench=0.0
+gt_man on bench=0.0
+gt_man on bike=0.0
+gt_woman on bike=0.0
+gt_woman on bench=0.0
+gt_man on bike=0.0
+gt_man on bike=1.0
+gt_man on bike=0.0
+gt_woman on bike=1.0
+gt_woman on bench=0.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bike=-0.0
+Objective: 108.963554560676
+gt_man on bike=0.0
+gt_woman on bike=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_woman on bike=0.0
+gt_man on bike=1.0
+gt_man on bike=1.0
+gt_woman on bench=1.0
+gt_man on bike=0.0
+gt_man on bench=0.0
+gt_man on bike=1.0
+gt_woman on bike=0.0
+gt_man on bench=0.0
+gt_man on bike=0.0
+gt_woman on bench=0.0
+gt_man on bench=0.0
+gt_man on bike=0.0
+gt_woman on bike=0.0
+gt_woman on bench=0.0
+gt_man on bike=0.0
+gt_man on bike=1.0
+gt_man on bike=0.0
+gt_woman on bike=1.0
+gt_woman on bench=0.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bike=-0.0
+----------------------------
+Caption: a train is traveling down the tracks in a city
+Imageid: 278747, extracted triplets: ['train in building', 'train in car', 'train in bridge'], mapped triplets: ['engine in build', 'sidewalk in build', 'platform in train', 'engine in build', 'track in mountain', 'track in wood', 'platform in train', 'car in build', 'sidewalk in build']
+Objective: 108.963554560676
+PRIOR DISTANCE
+gt_track in wood=0.0
+Objective: 108.92306191057607
+gt_track in wood=0.0
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 556653, extracted triplets: ['train sit on pole', 'train sit on train', 'train sit on light', 'train sit on front', 'train sit on wire', 'train sit on window', 'train sit on person', 'train at train station'], mapped triplets: ['train sit on track', 'train sit on rail', 'train sit on train', 'track sit on track', 'sign sit on sign', 'train sit on track', 'train sit on rail', 'train sit door', 'train sit track', 'train sit platform', 'train sit rail', 'train sit on track', 'train sit on rail', 'train sit on train', 'glass sit on table', 'person sit bench', 'man sit train', 'people sit train', 'train at platform']
+Objective: 108.92306191057607
+PRIOR DISTANCE
+gt_train sit on track=1.0
+gt_train sit on track=1.0
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_glass sit on table=0.0
+gt_glass sit on table=0.0
+gt_train at platform=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_glass sit on table=1.0
+gt_glass sit on table=0.0
+gt_glass sit on table=1.0
+gt_glass sit on table=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_glass sit on table=0.0
+gt_glass sit on table=0.0
+gt_glass sit on table=1.0
+gt_train sit on rail=-0.0
+gt_train sit on rail=-0.0
+gt_train sit on rail=-0.0
+gt_track sit on track=1.0
+gt_train sit on train=0.0
+gt_train sit on train=0.0
+gt_train sit on track=-0.0
+gt_train sit on track=-0.0
+gt_train sit on track=-0.0
+Objective: 108.94418453569234
+gt_train sit on track=1.0
+gt_train sit on track=1.0
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_glass sit on table=0.0
+gt_glass sit on table=0.0
+gt_train at platform=1.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_glass sit on table=1.0
+gt_glass sit on table=0.0
+gt_glass sit on table=1.0
+gt_glass sit on table=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_train sit on track=0.0
+gt_glass sit on table=0.0
+gt_glass sit on table=0.0
+gt_glass sit on table=1.0
+gt_train sit on rail=-0.0
+gt_train sit on rail=-0.0
+gt_train sit on rail=-0.0
+gt_track sit on track=1.0
+gt_train sit on train=0.0
+gt_train sit on train=0.0
+gt_train sit on track=-0.0
+gt_train sit on track=-0.0
+gt_train sit on track=-0.0
+----------------------------
+Caption: a train is sitting at a train station
+Imageid: 358301, extracted triplets: ['train at train station'], mapped triplets: []
+Objective: 108.94418453569234
+PRIOR DISTANCE
+Objective: 108.94418453569234
+----------------------------
+Caption: a train with graffiti on the side of it
+Imageid: 337666, extracted triplets: ['train with train', 'train with post', 'train with sign', 'train with fence', 'train on side'], mapped triplets: ['track with train', 'engine with engine', 'train with letter', 'build with sign', 'train with flag', 'track with train', 'train on platform', 'train on track']
+Objective: 108.94418453569234
+PRIOR DISTANCE
+gt_train on track=0.0
+gt_train on track=0.0
+gt_build with sign=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on platform=0.0
+gt_train with letter=0.0
+gt_train with flag=1.0
+gt_train with letter=1.0
+gt_train on track=1.0
+gt_track with train=1.0
+gt_track with train=1.0
+gt_train on platform=0.0
+gt_engine with engine=-0.0
+gt_build with sign=1.0
+Objective: 108.6838962091319
+gt_train on track=0.0
+gt_train on track=0.0
+gt_build with sign=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on platform=0.0
+gt_train with letter=0.0
+gt_train with flag=1.0
+gt_train with letter=1.0
+gt_train on track=1.0
+gt_track with train=1.0
+gt_track with train=1.0
+gt_train on platform=0.0
+gt_engine with engine=-0.0
+gt_build with sign=1.0
+----------------------------
+Caption: a bike parked next to a train in the grass
+Imageid: 506577, extracted triplets: ['bike next to train', 'train in grass'], mapped triplets: ['track next to train', 'train in field', 'car in grass']
+Objective: 108.6838962091319
+PRIOR DISTANCE
+gt_train in field=-0.0
+gt_track next to train=1.0
+Objective: 108.79077225676973
+gt_train in field=-0.0
+gt_track next to train=0.0
+----------------------------
+Caption: a train is passing a traffic light on a city street
+Imageid: 333746, extracted triplets: ['train on road', 'train on curb', 'train on street'], mapped triplets: ['train on track', 'car on street', 'bike on road', 'truck on road', 'train on road', 'train on platform', 'train on track', 'train on street']
+Objective: 108.79077225676973
+PRIOR DISTANCE
+gt_train on track=0.0
+gt_train on track=0.0
+gt_car on street=1.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_bike on road=0.0
+gt_train on street=0.0
+gt_car on street=0.0
+gt_truck on road=1.0
+gt_truck on road=1.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on track=1.0
+gt_train on platform=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bike on road=0.0
+gt_train on street=1.0
+gt_train on track=1.0
+gt_train on track=1.0
+gt_car on street=-0.0
+gt_train on platform=0.0
+Objective: 109.0960733929876
+gt_train on track=0.0
+gt_train on track=0.0
+gt_car on street=1.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_bike on road=0.0
+gt_train on street=0.0
+gt_car on street=0.0
+gt_truck on road=1.0
+gt_truck on road=1.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on track=1.0
+gt_train on platform=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bike on road=0.0
+gt_train on street=1.0
+gt_train on track=1.0
+gt_train on track=1.0
+gt_car on street=-0.0
+gt_train on platform=1.0
+----------------------------
+Caption: a red train is sitting at a train station
+Imageid: 125815, extracted triplets: ['train at train station'], mapped triplets: ['track at engine', 'train at platform']
+Objective: 109.0960733929876
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 109.0960733929876
+gt_train at platform=1.0
+----------------------------
+Caption: a group of people standing in a subway train
+Imageid: 471642, extracted triplets: ['people in train'], mapped triplets: ['people in platform', 'man in train', 'platform in train', 'train in people', 'people in train']
+Objective: 109.0960733929876
+PRIOR DISTANCE
+gt_train in people=0.0
+gt_man in train=1.0
+gt_man in train=1.0
+gt_train in people=1.0
+Objective: 109.10168513908128
+gt_train in people=0.0
+gt_man in train=1.0
+gt_man in train=1.0
+gt_train in people=1.0
+----------------------------
+Caption: a train traveling over a bridge in a city street
+Imageid: 448871, extracted triplets: ['train over bridge', 'bridge in street'], mapped triplets: ['track over bridge', 'man in street']
+Objective: 109.10168513908128
+PRIOR DISTANCE
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man in street=1.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man in street=1.0
+gt_man in street=0.0
+gt_track over bridge=0.0
+Objective: 109.05124540596651
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man in street=1.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man in street=1.0
+gt_man in street=0.0
+gt_track over bridge=0.0
+----------------------------
+Caption: a yellow train is sitting on the tracks
+Imageid: 263866, extracted triplets: ['train sit train', 'train sit rail', 'train sit track'], mapped triplets: ['train sit train', 'train sit track', 'train sit rail', 'car sit track', 'sign sit track', 'engine sit track', 'train sit track', 'train sit rail']
+Objective: 109.05124540596651
+PRIOR DISTANCE
+Objective: 109.05124540596651
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 20381, extracted triplets: ['train sit train', 'train at train station'], mapped triplets: ['train sit train', 'people at platform', 'train at platform']
+Objective: 109.05124540596651
+PRIOR DISTANCE
+gt_train at platform=1.0
+gt_people at platform=0.0
+Objective: 108.88436210160752
+gt_train at platform=1.0
+gt_people at platform=0.0
+----------------------------
+Caption: a yellow train is sitting in a train station
+Imageid: 565331, extracted triplets: ['train sit train station'], mapped triplets: ['train sit platform', 'train sit track', 'train sit rail']
+Objective: 108.88436210160752
+PRIOR DISTANCE
+Objective: 108.88436210160752
+----------------------------
+Caption: a yellow train is sitting on the tracks
+Imageid: 293907, extracted triplets: ['train sit train'], mapped triplets: ['train sit track', 'train sit train']
+Objective: 108.88436210160752
+PRIOR DISTANCE
+Objective: 108.88436210160752
+----------------------------
+Caption: a black and white photo of a train on the tracks
+Imageid: 148910, extracted triplets: ['photo of train', 'train on track'], mapped triplets: ['picture of train', 'photo of train', 'track on bridge', 'train on platform', 'engine on track', 'train on track']
+Objective: 108.88436210160752
+PRIOR DISTANCE
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on platform=0.0
+gt_track on bridge=1.0
+gt_photo of train=0.0
+gt_train on track=1.0
+gt_picture of train=1.0
+gt_train on platform=1.0
+gt_engine on track=1.0
+Objective: 108.66457949060468
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=0.0
+gt_train on track=1.0
+gt_train on platform=0.0
+gt_track on bridge=1.0
+gt_photo of train=1.0
+gt_train on track=1.0
+gt_picture of train=1.0
+gt_train on platform=1.0
+gt_engine on track=1.0
+----------------------------
+Caption: a train is sitting at a train station
+Imageid: 103255, extracted triplets: ['train at train station'], mapped triplets: ['people at platform', 'train at platform']
+Objective: 108.66457949060468
+PRIOR DISTANCE
+gt_train at platform=1.0
+gt_people at platform=0.0
+Objective: 108.74892140816722
+gt_train at platform=1.0
+gt_people at platform=0.0
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 287725, extracted triplets: ['train sit on track', 'train at track'], mapped triplets: ['train sit track', 'engine sit track', 'sign sit track', 'pillar at train', 'people at train']
+Objective: 108.74892140816722
+PRIOR DISTANCE
+gt_pillar at train=-0.0
+Objective: 108.75057452922778
+gt_pillar at train=-0.0
+----------------------------
+Caption: a blue and yellow train is sitting on the tracks
+Imageid: 169098, extracted triplets: ['train sit train', 'train sit track'], mapped triplets: ['train sit train', 'car sit track', 'engine sit track', 'train sit track', 'sign sit track']
+Objective: 108.75057452922778
+PRIOR DISTANCE
+Objective: 108.75057452922778
+----------------------------
+Caption: a small house with a train in the middle of it
+Imageid: 320627, extracted triplets: ['house with train'], mapped triplets: ['bridge with train', 'track with train', 'platform with train']
+Objective: 108.75057452922778
+PRIOR DISTANCE
+gt_platform with train=1.0
+gt_bridge with train=0.0
+gt_bridge with train=1.0
+gt_track with train=1.0
+gt_platform with train=-0.0
+Objective: 109.03672687849891
+gt_platform with train=1.0
+gt_bridge with train=0.0
+gt_bridge with train=1.0
+gt_track with train=1.0
+gt_platform with train=-0.0
+----------------------------
+Caption: a yellow train is sitting on the tracks
+Imageid: 308894, extracted triplets: ['train sit train', 'train sit track'], mapped triplets: ['train sit train', 'engine sit track', 'train sit track']
+Objective: 109.03672687849891
+PRIOR DISTANCE
+Objective: 109.03672687849891
+----------------------------
+Caption: a train is sitting on the tracks
+Imageid: 494439, extracted triplets: ['train sit on track'], mapped triplets: ['engine sit track', 'train sit track', 'train sit rail']
+Objective: 109.03672687849891
+PRIOR DISTANCE
+Objective: 109.03672687849891
+----------------------------

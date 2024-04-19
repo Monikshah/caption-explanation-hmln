@@ -1,0 +1,1034 @@
+Caption: an elephant standing next to a tree in a
+Imageid: 314294, extracted triplets: ['elephant next to tree'], mapped triplets: ['elephant next to tree']
+Objective: 75.93063864993528
+PRIOR DISTANCE
+gt_elephant next to tree=1.0
+Objective: 75.92952274109872
+gt_elephant next to tree=1.0
+----------------------------
+Caption: a man riding an elephant down a street
+Imageid: 133867, extracted triplets: ['man ride elephant'], mapped triplets: ['man ride elephant', 'person ride elephant', 'woman ride elephant', 'boy ride elephant']
+Objective: 75.92952274109872
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+Objective: 76.02977980885852
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+----------------------------
+Caption: an elephant standing next to a wall in a
+Imageid: 173385, extracted triplets: ['elephant next to wall'], mapped triplets: ['elephant next to wall']
+Objective: 76.02977980885852
+PRIOR DISTANCE
+gt_elephant next to wall=1.0
+Objective: 76.06689837476009
+gt_elephant next to wall=1.0
+----------------------------
+Caption: an elephant standing in an enclosure at a zoo
+Imageid: 502419, extracted triplets: ['elephant in fence'], mapped triplets: ['elephant in fence']
+Objective: 76.06689837476009
+PRIOR DISTANCE
+Objective: 76.06689837476009
+----------------------------
+Caption: a black and white elephant standing in a field
+Imageid: 568040, extracted triplets: ['elephant in field'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field']
+Objective: 76.06689837476009
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 76.13075008416982
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: two elephants standing under a tree in a field
+Imageid: 108338, extracted triplets: ['tree in field'], mapped triplets: ['giraffe in field', 'animal in field']
+Objective: 76.13075008416982
+PRIOR DISTANCE
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=1.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=1.0
+Objective: 75.78396338660808
+gt_giraffe in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_giraffe in field=1.0
+gt_animal in field=1.0
+gt_giraffe in field=0.0
+gt_giraffe in field=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: three people riding on the back of an elephant
+Imageid: 974, extracted triplets: ['people ride bench', 'people ride shirt'], mapped triplets: ['person ride elephant', 'people ride water']
+Objective: 75.78396338660808
+PRIOR DISTANCE
+gt_person ride elephant=0.0
+gt_person ride elephant=1.0
+Objective: 75.73610494092999
+gt_person ride elephant=0.0
+gt_person ride elephant=1.0
+----------------------------
+Caption: an elephant standing in a field with a
+Imageid: 370749, extracted triplets: ['elephant in field'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field']
+Objective: 75.73610494092999
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 75.80406371905154
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant is standing behind a wire fence
+Imageid: 533979, extracted triplets: ['elephant behind wire fence'], mapped triplets: ['elephant behind fence']
+Objective: 75.80406371905154
+PRIOR DISTANCE
+gt_elephant behind fence=0.0
+gt_elephant behind fence=0.0
+gt_elephant behind fence=0.0
+gt_elephant behind fence=0.0
+Objective: 75.93608209174376
+gt_elephant behind fence=0.0
+gt_elephant behind fence=0.0
+gt_elephant behind fence=0.0
+gt_elephant behind fence=0.0
+----------------------------
+Caption: a man riding an elephant down a road with a
+Imageid: 450728, extracted triplets: ['man ride elephant'], mapped triplets: ['man ride elephant', 'person ride elephant', 'woman ride elephant', 'boy ride elephant']
+Objective: 75.93608209174376
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+Objective: 75.94586638109656
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+----------------------------
+Caption: a group of people riding on the backs of elephants
+Imageid: 74759, extracted triplets: ['people ride on bench', 'people ride on chair', 'people ride on street'], mapped triplets: ['people ride back', 'people ride back', 'people ride road', 'people ride field']
+Objective: 75.94586638109656
+PRIOR DISTANCE
+gt_people ride field=0.0
+Objective: 75.94586638109656
+gt_people ride field=0.0
+----------------------------
+Caption: an elephant standing in a field of grass
+Imageid: 38332, extracted triplets: ['elephant in field', 'field of grass'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field', 'elephant of grass']
+Objective: 75.94586638109656
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_elephant of grass=1.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 75.79650792494527
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_elephant of grass=1.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant with its mouth open standing next to a
+Imageid: 422221, extracted triplets: ['elephant with mouth'], mapped triplets: ['elephant with mouth']
+Objective: 75.79650792494527
+PRIOR DISTANCE
+gt_elephant with mouth=0.0
+gt_elephant with mouth=0.0
+Objective: 75.79748492968211
+gt_elephant with mouth=0.0
+gt_elephant with mouth=1.0
+----------------------------
+Caption: an elephant standing in a field of tall grass
+Imageid: 569096, extracted triplets: ['elephant in field', 'field of grass'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field', 'elephant of grass']
+Objective: 75.79748492968211
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_elephant of grass=1.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 75.75936608752491
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_elephant of grass=1.0
+gt_zebra in field=-0.0
+gt_elephant in field=-0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant standing next to a man in a
+Imageid: 563797, extracted triplets: ['elephant next to man'], mapped triplets: ['elephant next to people', 'woman next to elephant', 'elephant next to man']
+Objective: 75.75936608752491
+PRIOR DISTANCE
+gt_woman next to elephant=0.0
+gt_woman next to elephant=1.0
+Objective: 75.88975250198031
+gt_woman next to elephant=0.0
+gt_woman next to elephant=1.0
+----------------------------
+Caption: two elephants walking in a field of tall grass
+Imageid: 553154, extracted triplets: ['field of grass'], mapped triplets: ['elephant of grass']
+Objective: 75.88975250198031
+PRIOR DISTANCE
+gt_elephant of grass=1.0
+Objective: 75.89379463618528
+gt_elephant of grass=1.0
+----------------------------
+Caption: a man standing next to an elephant behind a fence
+Imageid: 134555, extracted triplets: ['man next to elephant', 'elephant behind fence'], mapped triplets: ['woman next to elephant', 'man next to elephant', 'elephant behind fence', 'elephant behind wall']
+Objective: 75.89379463618528
+PRIOR DISTANCE
+gt_elephant behind fence=0.0
+gt_elephant behind wall=1.0
+gt_elephant behind fence=0.0
+gt_woman next to elephant=0.0
+gt_woman next to elephant=0.0
+gt_elephant behind fence=0.0
+gt_man next to elephant=1.0
+gt_elephant behind fence=0.0
+gt_elephant behind wall=-0.0
+gt_woman next to elephant=1.0
+gt_woman next to elephant=1.0
+Objective: 75.82837249360256
+gt_elephant behind fence=0.0
+gt_elephant behind wall=1.0
+gt_elephant behind fence=0.0
+gt_woman next to elephant=0.0
+gt_woman next to elephant=0.0
+gt_elephant behind fence=0.0
+gt_man next to elephant=1.0
+gt_elephant behind fence=0.0
+gt_elephant behind wall=-0.0
+gt_woman next to elephant=1.0
+gt_woman next to elephant=1.0
+----------------------------
+Caption: an elephant standing next to a fence in a
+Imageid: 259625, extracted triplets: ['elephant next to fence'], mapped triplets: ['elephant next to wall', 'elephant next to tree']
+Objective: 75.82837249360256
+PRIOR DISTANCE
+gt_elephant next to wall=1.0
+gt_elephant next to tree=1.0
+Objective: 75.84764822175367
+gt_elephant next to wall=1.0
+gt_elephant next to tree=1.0
+----------------------------
+Caption: an elephant standing in a field with a
+Imageid: 36501, extracted triplets: ['elephant in field'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field']
+Objective: 75.84764822175367
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=-0.0
+gt_elephant in grass=0.0
+gt_animal in field=0.0
+Objective: 76.2456750615711
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant standing next to a man on a log
+Imageid: 392212, extracted triplets: ['elephant next to man'], mapped triplets: ['elephant next to people', 'woman next to elephant', 'elephant next to man']
+Objective: 76.2456750615711
+PRIOR DISTANCE
+gt_woman next to elephant=0.0
+gt_woman next to elephant=1.0
+Objective: 76.27844686759964
+gt_woman next to elephant=0.0
+gt_woman next to elephant=1.0
+----------------------------
+Caption: a man riding an elephant down a street
+Imageid: 270505, extracted triplets: ['man ride elephant'], mapped triplets: ['man ride elephant', 'person ride elephant', 'woman ride elephant', 'boy ride elephant']
+Objective: 76.27844686759964
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+Objective: 76.54333580929269
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+----------------------------
+Caption: a group of people riding elephants in a river
+Imageid: 315352, extracted triplets: ['people ride elephant', 'people in river'], mapped triplets: ['man ride elephant', 'people ride elephant', 'person ride elephant', 'woman ride elephant', 'boy ride elephant', 'people in water']
+Objective: 76.54333580929269
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_people in water=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=0.0
+gt_people in water=1.0
+gt_man ride elephant=0.0
+gt_people in water=0.0
+gt_man ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people in water=1.0
+gt_people ride elephant=0.0
+gt_people in water=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_people in water=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people in water=1.0
+gt_people in water=0.0
+gt_people ride elephant=0.0
+gt_people in water=0.0
+gt_people in water=0.0
+gt_people ride elephant=1.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+Objective: 76.31314982377693
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_people in water=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=0.0
+gt_people in water=1.0
+gt_man ride elephant=0.0
+gt_people in water=0.0
+gt_man ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people in water=1.0
+gt_people ride elephant=0.0
+gt_people in water=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_people in water=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people in water=1.0
+gt_people in water=0.0
+gt_people ride elephant=0.0
+gt_people in water=0.0
+gt_people in water=0.0
+gt_people ride elephant=1.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+----------------------------
+Caption: a group of people standing around an elephant in the water
+Imageid: 562207, extracted triplets: ['elephant in water'], mapped triplets: ['elephant in water']
+Objective: 76.31314982377693
+PRIOR DISTANCE
+gt_elephant in water=0.0
+gt_elephant in water=0.0
+Objective: 76.32997277581121
+gt_elephant in water=0.0
+gt_elephant in water=0.0
+----------------------------
+Caption: an elephant in a field with two birds in the
+Imageid: 46761, extracted triplets: ['elephant in field', 'elephant with bird'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field', 'elephant with bird']
+Objective: 76.32997277581121
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_elephant with bird=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant with bird=1.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 76.11575456470858
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_elephant with bird=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant with bird=1.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant standing in the water at a zoo
+Imageid: 492817, extracted triplets: ['elephant in water', 'elephant at elephant'], mapped triplets: ['elephant in water', 'boy at elephant', 'people at elephant']
+Objective: 76.11575456470858
+PRIOR DISTANCE
+gt_elephant in water=0.0
+gt_elephant in water=0.0
+Objective: 76.07119443044162
+gt_elephant in water=0.0
+gt_elephant in water=0.0
+----------------------------
+Caption: a man is walking with two elephants in a
+Imageid: 283977, extracted triplets: ['man with elephant'], mapped triplets: ['woman with elephant', 'elephant with woman', 'boy with elephant', 'man with elephant']
+Objective: 76.07119443044162
+PRIOR DISTANCE
+gt_elephant with woman=-0.0
+Objective: 76.05723996157064
+gt_elephant with woman=-0.0
+----------------------------
+Caption: an elephant standing in the grass with a
+Imageid: 282365, extracted triplets: ['elephant in grass'], mapped triplets: ['elephant in grass', 'zebra in grass', 'water in grass']
+Objective: 76.05723996157064
+PRIOR DISTANCE
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_elephant in grass=1.0
+gt_zebra in grass=0.0
+gt_elephant in grass=0.0
+gt_water in grass=0.0
+Objective: 76.02529988607681
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_elephant in grass=1.0
+gt_zebra in grass=0.0
+gt_elephant in grass=0.0
+gt_water in grass=0.0
+----------------------------
+Caption: a group of people riding on the backs of elephants
+Imageid: 179114, extracted triplets: ['people ride shirt', 'people ride pant'], mapped triplets: ['people ride water']
+Objective: 76.02529988607681
+PRIOR DISTANCE
+Objective: 76.02529988607681
+----------------------------
+Caption: an elephant standing in a zoo
+Imageid: 206783, extracted triplets: ['elephant in elephant'], mapped triplets: ['animal in field', 'animal in water', 'animal in grass']
+Objective: 76.02529988607681
+PRIOR DISTANCE
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_animal in field=1.0
+gt_animal in field=1.0
+Objective: 76.01135383037706
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_animal in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a man standing next to an elephant in a
+Imageid: 35807, extracted triplets: ['man next to elephant'], mapped triplets: ['woman next to elephant', 'man next to elephant']
+Objective: 76.01135383037706
+PRIOR DISTANCE
+gt_woman next to elephant=0.0
+gt_woman next to elephant=0.0
+gt_man next to elephant=1.0
+gt_woman next to elephant=1.0
+gt_woman next to elephant=1.0
+Objective: 75.96133365862971
+gt_woman next to elephant=0.0
+gt_woman next to elephant=0.0
+gt_man next to elephant=1.0
+gt_woman next to elephant=1.0
+gt_woman next to elephant=1.0
+----------------------------
+Caption: an elephant walking on a dirt path
+Imageid: 129431, extracted triplets: ['elephant walk on dirt path'], mapped triplets: ['elephant walk field', 'elephant walk grass', 'elephant walk bush', 'elephant walk road']
+Objective: 75.96133365862971
+PRIOR DISTANCE
+Objective: 75.96133365862971
+----------------------------
+Caption: an elephant walking in the dirt in a field
+Imageid: 535262, extracted triplets: ['elephant in field'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field']
+Objective: 75.96133365862971
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=0.0
+Objective: 75.98831806144553
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a young man petting the trunk of an elephant
+Imageid: 519208, extracted triplets: ['man pet trunk', 'trunk of elephant'], mapped triplets: ['woman pet trunk', 'leg of elephant', 'head of elephant', 'back of elephant', 'trunk of elephant']
+Objective: 75.98831806144553
+PRIOR DISTANCE
+gt_trunk of elephant=1.0
+gt_head of elephant=1.0
+gt_back of elephant=0.0
+gt_leg of elephant=-0.0
+gt_back of elephant=1.0
+gt_head of elephant=1.0
+gt_woman pet trunk=0.0
+gt_trunk of elephant=-0.0
+Objective: 76.21243664247551
+gt_trunk of elephant=1.0
+gt_head of elephant=1.0
+gt_back of elephant=0.0
+gt_leg of elephant=-0.0
+gt_back of elephant=1.0
+gt_head of elephant=1.0
+gt_woman pet trunk=-0.0
+gt_trunk of elephant=0.0
+----------------------------
+Caption: an elephant standing in the water with a
+Imageid: 343774, extracted triplets: ['elephant in water'], mapped triplets: ['elephant in water']
+Objective: 76.21243664247551
+PRIOR DISTANCE
+gt_elephant in water=0.0
+gt_elephant in water=0.0
+Objective: 76.25571004037364
+gt_elephant in water=0.0
+gt_elephant in water=0.0
+----------------------------
+Caption: an elephant standing next to a tree in a
+Imageid: 194188, extracted triplets: ['elephant next to tree'], mapped triplets: ['elephant next to tree']
+Objective: 76.25571004037364
+PRIOR DISTANCE
+gt_elephant next to tree=1.0
+Objective: 76.25603672606519
+gt_elephant next to tree=1.0
+----------------------------
+Caption: a man riding an elephant in the water
+Imageid: 132776, extracted triplets: ['man ride elephant', 'elephant in water'], mapped triplets: ['man ride elephant', 'person ride elephant', 'woman ride elephant', 'boy ride elephant', 'elephant in water']
+Objective: 76.25603672606519
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_elephant in water=0.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_elephant in water=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+Objective: 76.21915041995125
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_elephant in water=0.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_elephant in water=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+----------------------------
+Caption: an elephant laying in the grass with a
+Imageid: 325770, extracted triplets: ['elephant in grass'], mapped triplets: ['elephant in grass', 'zebra in grass', 'water in grass']
+Objective: 76.21915041995125
+PRIOR DISTANCE
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_elephant in grass=1.0
+gt_zebra in grass=0.0
+gt_elephant in grass=0.0
+gt_water in grass=0.0
+Objective: 76.30688899798066
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_elephant in grass=1.0
+gt_zebra in grass=0.0
+gt_elephant in grass=0.0
+gt_water in grass=0.0
+----------------------------
+Caption: a person riding an elephant in a field
+Imageid: 369934, extracted triplets: ['person ride elephant', 'person in field'], mapped triplets: ['woman ride elephant', 'boy ride elephant', 'people ride elephant', 'man ride elephant', 'person ride elephant', 'people in elephant', 'animal in field']
+Objective: 76.30688899798066
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_animal in field=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_animal in field=0.0
+gt_man ride elephant=1.0
+gt_animal in field=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_animal in field=1.0
+gt_people ride elephant=1.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_animal in field=1.0
+Objective: 76.61078639391326
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=0.0
+gt_man ride elephant=0.0
+gt_man ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_animal in field=0.0
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_people ride elephant=0.0
+gt_animal in field=0.0
+gt_man ride elephant=1.0
+gt_animal in field=1.0
+gt_man ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_animal in field=1.0
+gt_people ride elephant=0.0
+gt_man ride elephant=1.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant standing in a field with a
+Imageid: 318461, extracted triplets: ['elephant in field'], mapped triplets: ['elephant in grass', 'zebra in field', 'elephant in dirt', 'animal in field', 'elephant in field']
+Objective: 76.61078639391326
+PRIOR DISTANCE
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 76.79434409182396
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_zebra in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_zebra in field=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: an elephant standing in the dirt near a body of water
+Imageid: 170321, extracted triplets: ['elephant in dirt'], mapped triplets: ['elephant in field', 'elephant in grass', 'animal in field', 'elephant in dirt']
+Objective: 76.79434409182396
+PRIOR DISTANCE
+gt_animal in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_elephant in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_elephant in field=0.0
+gt_elephant in grass=0.0
+gt_animal in field=1.0
+Objective: 76.2428248741934
+gt_animal in field=0.0
+gt_elephant in field=0.0
+gt_animal in field=0.0
+gt_animal in field=1.0
+gt_elephant in field=0.0
+gt_elephant in grass=1.0
+gt_animal in field=1.0
+gt_elephant in dirt=-0.0
+gt_elephant in field=-0.0
+gt_elephant in grass=0.0
+gt_animal in field=0.0
+----------------------------
+Caption: an elephant standing next to a fence in a
+Imageid: 273118, extracted triplets: ['elephant next to fence'], mapped triplets: ['elephant next to wall', 'elephant next to tree']
+Objective: 76.2428248741934
+PRIOR DISTANCE
+gt_elephant next to wall=1.0
+gt_elephant next to tree=1.0
+Objective: 76.23946689466564
+gt_elephant next to wall=1.0
+gt_elephant next to tree=1.0
+----------------------------
+Caption: three people riding on the back of an elephant
+Imageid: 546067, extracted triplets: ['people ride shirt', 'people ride trunk', 'people ride chair'], mapped triplets: ['people ride water', 'person ride elephant', 'woman ride elephant', 'boy ride elephant', 'people ride elephant', 'people ride water', 'people ride road']
+Objective: 76.23946689466564
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=0.0
+Objective: 76.22657439823953
+gt_woman ride elephant=1.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_woman ride elephant=1.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_woman ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=0.0
+gt_person ride elephant=1.0
+gt_woman ride elephant=1.0
+----------------------------

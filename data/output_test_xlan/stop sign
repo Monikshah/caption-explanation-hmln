@@ -1,0 +1,992 @@
+Caption: a man riding a bike next to a train
+Imageid: 483108, extracted triplets: ['man ride bike', 'man next to train'], mapped triplets: ['woman ride bike', 'man ride bicycle', 'woman ride bicycle', 'person ride bike', 'people ride motorcycle', 'man ride motorcycle', 'person ride motorcycle', 'man ride bike', 'man next to bike', 'man next to woman']
+Objective: 111.58459612575616
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man next to woman=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man next to bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man next to woman=0.0
+gt_man ride bike=1.0
+gt_man next to bike=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man next to woman=1.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man next to woman=0.0
+gt_man ride motorcycle=0.0
+gt_man next to woman=1.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_man next to woman=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_man ride bike=1.0
+gt_people ride motorcycle=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+Objective: 111.36954837169158
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man next to woman=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man next to bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man next to woman=0.0
+gt_man ride bike=1.0
+gt_man next to bike=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man next to woman=1.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man next to woman=0.0
+gt_man ride motorcycle=0.0
+gt_man next to woman=1.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_man next to woman=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_people ride motorcycle=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+----------------------------
+Caption: a crowd of people standing in a street with a stop sign
+Imageid: 25550, extracted triplets: ['crowd of people'], mapped triplets: []
+Objective: 111.36954837169158
+PRIOR DISTANCE
+Objective: 111.36954837169158
+----------------------------
+Caption: two people standing next to a stop sign
+Imageid: 278934, extracted triplets: ['people next to sign'], mapped triplets: ['man next to sign', 'woman next to sign']
+Objective: 111.36954837169158
+PRIOR DISTANCE
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_woman next to sign=1.0
+gt_woman next to sign=1.0
+gt_man next to sign=-0.0
+Objective: 111.25518131612004
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_man next to sign=0.0
+gt_woman next to sign=1.0
+gt_woman next to sign=1.0
+gt_man next to sign=-0.0
+----------------------------
+Caption: a car parked in a parking lot next to a fence
+Imageid: 321195, extracted triplets: ['car in car', 'car in pole', 'car in tire', 'car in truck', 'car in road', 'car in street', 'car in curb', 'car in shadow', 'car in fence', 'car next to fence'], mapped triplets: ['motorcycle in car', 'truck in street', 'motorcycle in car', 'motorcycle in car', 'motorcycle in car', 'truck in street', 'truck in road', 'motorcycle in road', 'truck in street', 'motorcycle in road', 'motorcycle in road', 'truck in road', 'motorcycle in shadow', 'truck in build', 'car in build', 'sign next to fence']
+Objective: 111.25518131612004
+PRIOR DISTANCE
+gt_sign next to fence=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_sign next to fence=1.0
+Objective: 111.45151490640805
+gt_sign next to fence=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_sign next to fence=1.0
+----------------------------
+Caption: a group of people riding motorcycles on a city street
+Imageid: 332877, extracted triplets: ['people ride motorcycles', 'people on car', 'people on person', 'people on pole', 'people on sidewalk', 'people on street', 'people on sign'], mapped triplets: ['people ride motorcycle', 'person ride motorcycle', 'man ride motorcycle', 'person on street', 'car on road', 'person on skateboard', 'person on motorcycle', 'person on street', 'person on bike', 'people on sidewalk', 'pole on sidewalk', 'child on sidewalk', 'girl on sidewalk', 'man on sidewalk', 'person on street', 'woman on sidewalk', 'people on sidewalk', 'person on street', 'man on street', 'woman on street', 'people on street', 'people on sidewalk', 'people on street', 'people on sign']
+Objective: 111.45151490640805
+PRIOR DISTANCE
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_person on bike=1.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_person on street=1.0
+gt_person on street=1.0
+gt_person on street=1.0
+gt_person on street=1.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride motorcycle=0.0
+gt_person on motorcycle=0.0
+gt_car on road=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_person on bike=1.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_car on road=0.0
+gt_person on skateboard=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man on sidewalk=1.0
+gt_man ride motorcycle=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_person on skateboard=0.0
+gt_people on street=1.0
+gt_people on street=1.0
+gt_girl on sidewalk=1.0
+gt_man ride motorcycle=0.0
+gt_person on bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man on street=0.0
+gt_pole on sidewalk=1.0
+gt_car on road=0.0
+gt_person on motorcycle=1.0
+gt_girl on sidewalk=1.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_person on bike=1.0
+gt_man ride motorcycle=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people ride motorcycle=0.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_man ride motorcycle=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_pole on sidewalk=0.0
+gt_people ride motorcycle=0.0
+gt_car on road=1.0
+gt_man on street=0.0
+gt_people ride motorcycle=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_man ride motorcycle=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_man on street=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_girl on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_pole on sidewalk=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_person on bike=0.0
+gt_car on road=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_man on street=0.0
+gt_person on bike=1.0
+gt_pole on sidewalk=1.0
+gt_person on skateboard=1.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people ride motorcycle=1.0
+gt_people on sign=1.0
+gt_person on motorcycle=0.0
+Objective: 111.28501593804963
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_person on bike=1.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_person on street=1.0
+gt_person on street=1.0
+gt_person on street=1.0
+gt_person on street=1.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride motorcycle=0.0
+gt_person on motorcycle=0.0
+gt_car on road=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_person on bike=1.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_car on road=0.0
+gt_person on skateboard=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man on sidewalk=1.0
+gt_man ride motorcycle=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_person on skateboard=0.0
+gt_people on street=1.0
+gt_people on street=1.0
+gt_girl on sidewalk=1.0
+gt_man ride motorcycle=0.0
+gt_person on bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man on street=0.0
+gt_pole on sidewalk=1.0
+gt_car on road=0.0
+gt_person on motorcycle=1.0
+gt_girl on sidewalk=1.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_person on bike=1.0
+gt_man ride motorcycle=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people ride motorcycle=0.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_man ride motorcycle=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_pole on sidewalk=0.0
+gt_people ride motorcycle=0.0
+gt_car on road=1.0
+gt_man on street=0.0
+gt_people ride motorcycle=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_man ride motorcycle=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_person on street=0.0
+gt_man on street=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_girl on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_pole on sidewalk=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_person on bike=0.0
+gt_car on road=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_man on street=0.0
+gt_person on bike=1.0
+gt_pole on sidewalk=1.0
+gt_person on skateboard=1.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people ride motorcycle=1.0
+gt_people on sign=1.0
+gt_person on motorcycle=0.0
+----------------------------
+Caption: a woman standing on the side of a street sign
+Imageid: 14392, extracted triplets: ['woman on side', 'side of street sign'], mapped triplets: ['woman on sidewalk', 'sign of road']
+Objective: 111.28501593804963
+PRIOR DISTANCE
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_sign of road=-0.0
+Objective: 111.68623821205564
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_sign of road=-0.0
+----------------------------
+Caption: a stop sign on the side of a fence
+Imageid: 293022, extracted triplets: ['side of fence'], mapped triplets: ['sidewalk of street']
+Objective: 111.68623821205564
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 111.90913605049262
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a man riding a bike down a dirt road
+Imageid: 215456, extracted triplets: ['man ride bike'], mapped triplets: ['woman ride bike', 'man ride bicycle', 'woman ride bicycle', 'person ride bike', 'people ride motorcycle', 'man ride motorcycle', 'person ride motorcycle', 'man ride bike']
+Objective: 111.90913605049262
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=0.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_people ride motorcycle=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+Objective: 110.47085815840875
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_man ride bicycle=1.0
+gt_woman ride bike=-0.0
+gt_woman ride bike=-0.0
+gt_man ride bike=1.0
+gt_people ride motorcycle=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+----------------------------
+Caption: a woman taking a picture of a dog in a car mirror
+Imageid: 77689, extracted triplets: ['dog in car mirror'], mapped triplets: []
+Objective: 110.47085815840875
+PRIOR DISTANCE
+Objective: 110.47085815840875
+----------------------------
+Caption: a traffic light with a street sign on a pole
+Imageid: 60049, extracted triplets: ['street sign on pole'], mapped triplets: ['sign on pole', 'light on pole']
+Objective: 110.47085815840875
+PRIOR DISTANCE
+gt_sign on pole=0.0
+gt_light on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_light on pole=1.0
+gt_sign on pole=0.0
+gt_light on pole=1.0
+gt_light on pole=1.0
+gt_sign on pole=-0.0
+Objective: 110.68671790389807
+gt_sign on pole=0.0
+gt_light on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_light on pole=1.0
+gt_sign on pole=0.0
+gt_light on pole=1.0
+gt_light on pole=1.0
+gt_sign on pole=-0.0
+----------------------------
+Caption: a truck driving down a road next to a stop sign
+Imageid: 110369, extracted triplets: ['road next to sign'], mapped triplets: ['sign next to street', 'sign next to mountain', 'sign next to fence', 'street next to sign', 'sign next to light', 'sign next to wall', 'sign next to sign', 'sign next to road', 'sign next to water', 'sign next to hydrant', 'sign next to tree']
+Objective: 110.68671790389807
+PRIOR DISTANCE
+gt_sign next to road=0.0
+gt_sign next to fence=0.0
+gt_sign next to light=0.0
+gt_sign next to sign=0.0
+gt_sign next to sign=0.0
+gt_sign next to hydrant=1.0
+gt_sign next to light=1.0
+gt_sign next to street=0.0
+gt_sign next to hydrant=1.0
+gt_sign next to mountain=1.0
+gt_sign next to street=1.0
+gt_sign next to wall=-0.0
+gt_sign next to fence=1.0
+gt_street next to sign=-0.0
+gt_sign next to light=1.0
+gt_sign next to hydrant=0.0
+gt_sign next to tree=1.0
+gt_sign next to sign=1.0
+gt_sign next to water=1.0
+Objective: 110.03406643588293
+gt_sign next to road=0.0
+gt_sign next to fence=0.0
+gt_sign next to light=0.0
+gt_sign next to sign=0.0
+gt_sign next to sign=0.0
+gt_sign next to hydrant=1.0
+gt_sign next to light=1.0
+gt_sign next to street=0.0
+gt_sign next to hydrant=1.0
+gt_sign next to mountain=1.0
+gt_sign next to street=1.0
+gt_sign next to wall=-0.0
+gt_sign next to fence=1.0
+gt_street next to sign=-0.0
+gt_sign next to light=1.0
+gt_sign next to hydrant=0.0
+gt_sign next to tree=1.0
+gt_sign next to sign=1.0
+gt_sign next to water=0.0
+----------------------------
+Caption: a woman sitting on a bench with a dog
+Imageid: 198176, extracted triplets: ['woman sit bench', 'woman with dog'], mapped triplets: ['woman sit table', 'people sit bench', 'girl with man']
+Objective: 110.03406643588293
+PRIOR DISTANCE
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=0.0
+gt_woman sit table=0.0
+gt_woman sit table=1.0
+Objective: 110.03406643588293
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=0.0
+gt_woman sit table=0.0
+gt_woman sit table=1.0
+----------------------------
+Caption: a street sign on the side of a road
+Imageid: 433892, extracted triplets: ['street sign on side', 'side of road'], mapped triplets: ['sign on side', 'side of road']
+Objective: 110.03406643588293
+PRIOR DISTANCE
+gt_sign on sidewalk=0.0
+gt_side of road=1.0
+gt_sign on sidewalk=0.0
+gt_sign on sidewalk=1.0
+gt_sign on sidewalk=1.0
+gt_side of road=1.0
+gt_sign on sidewalk=-0.0
+Objective: 110.02486813223317
+gt_sign on sidewalk=0.0
+gt_side of road=1.0
+gt_sign on sidewalk=0.0
+gt_sign on sidewalk=1.0
+gt_sign on sidewalk=1.0
+gt_side of road=1.0
+gt_sign on sidewalk=-0.0
+----------------------------
+Caption: a building with graffiti on the side of it
+Imageid: 424975, extracted triplets: ['building with wall', 'building with sign', 'building on side'], mapped triplets: ['build with window', 'wall with sign', 'street with sign', 'build with sign', 'road with sign', 'sign on side']
+Objective: 110.02486813223317
+PRIOR DISTANCE
+gt_sign on sidewalk=0.0
+gt_build with sign=0.0
+gt_build with window=0.0
+gt_road with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_build with window=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_sign on sidewalk=0.0
+gt_build with window=0.0
+gt_build with sign=0.0
+gt_street with sign=1.0
+gt_sign on sidewalk=1.0
+gt_build with sign=1.0
+gt_build with window=0.0
+gt_build with window=0.0
+gt_street with sign=0.0
+gt_sign on sidewalk=1.0
+gt_build with sign=1.0
+gt_wall with sign=0.0
+gt_road with sign=-0.0
+gt_build with sign=0.0
+gt_build with window=-0.0
+gt_street with sign=0.0
+gt_sign on sidewalk=-0.0
+Objective: 109.59604942242345
+gt_sign on sidewalk=0.0
+gt_build with sign=0.0
+gt_build with window=0.0
+gt_road with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_build with window=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_street with sign=0.0
+gt_build with sign=0.0
+gt_sign on sidewalk=0.0
+gt_build with window=0.0
+gt_build with sign=0.0
+gt_street with sign=1.0
+gt_sign on sidewalk=1.0
+gt_build with sign=1.0
+gt_build with window=0.0
+gt_build with window=0.0
+gt_street with sign=0.0
+gt_sign on sidewalk=1.0
+gt_build with sign=1.0
+gt_wall with sign=0.0
+gt_road with sign=-0.0
+gt_build with sign=0.0
+gt_build with window=-0.0
+gt_street with sign=0.0
+gt_sign on sidewalk=-0.0
+----------------------------
+Caption: a stop sign on the side of a road
+Imageid: 193884, extracted triplets: ['side of road'], mapped triplets: ['side of road']
+Objective: 109.59604942242345
+PRIOR DISTANCE
+gt_side of road=1.0
+gt_side of road=1.0
+Objective: 109.60249367968034
+gt_side of road=1.0
+gt_side of road=0.0
+----------------------------
+Caption: a woman walking down the street with a suitcase
+Imageid: 101491, extracted triplets: ['woman with suitcase'], mapped triplets: ['man with bag']
+Objective: 109.60249367968034
+PRIOR DISTANCE
+gt_man with bag=1.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=1.0
+Objective: 109.60249367968034
+gt_man with bag=1.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=0.0
+gt_man with bag=1.0
+----------------------------
+Caption: a white fire hydrant on the side of a street
+Imageid: 215124, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'street of sign', 'sidewalk of street']
+Objective: 109.60249367968034
+PRIOR DISTANCE
+gt_sign of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_street of sign=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+Objective: 109.74562150266446
+gt_sign of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_street of sign=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+----------------------------
+Caption: a stop sign on the side of a street
+Imageid: 578977, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'street of sign', 'sidewalk of street']
+Objective: 109.74562150266446
+PRIOR DISTANCE
+gt_sign of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_street of sign=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+Objective: 109.6454243695105
+gt_sign of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=0.0
+gt_street of sign=0.0
+gt_sidewalk of street=0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_sign of street=1.0
+----------------------------
+Caption: a stop sign on the side of a fence
+Imageid: 273188, extracted triplets: ['side of fence'], mapped triplets: ['sidewalk of street']
+Objective: 109.6454243695105
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 109.63430023857677
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a yellow school bus parked on a bridge in a city
+Imageid: 130352, extracted triplets: ['bridge in building', 'bridge in bus', 'bridge in man', 'bridge in train', 'bridge in window', 'bridge in bridge', 'bridge in roof', 'bridge in fence', 'bridge in sign'], mapped triplets: ['sign in build', 'build in build', 'truck in street', 'motorcycle in road', 'man in street', 'road in tree', 'truck in road', 'sign in sign', 'build in build', 'truck in build', 'bus in build', 'car in build', 'build in build', 'road in tree', 'field in mountain', 'sign in build', 'sign in road']
+Objective: 109.63430023857677
+PRIOR DISTANCE
+gt_truck in street=0.0
+gt_truck in road=0.0
+gt_man in street=1.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_truck in street=0.0
+gt_truck in road=1.0
+gt_man in street=0.0
+gt_build in build=1.0
+gt_build in build=1.0
+gt_build in build=1.0
+gt_sign in sign=-0.0
+gt_build in build=-0.0
+gt_build in build=-0.0
+gt_build in build=-0.0
+gt_sign in build=1.0
+gt_sign in build=1.0
+Objective: 109.72137054783197
+gt_truck in street=0.0
+gt_truck in road=0.0
+gt_man in street=1.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_truck in street=0.0
+gt_truck in road=1.0
+gt_man in street=0.0
+gt_build in build=1.0
+gt_build in build=1.0
+gt_build in build=1.0
+gt_sign in sign=-0.0
+gt_build in build=-0.0
+gt_build in build=-0.0
+gt_build in build=-0.0
+gt_sign in build=1.0
+gt_sign in build=1.0
+----------------------------
+Caption: a car driving down a street next to a building
+Imageid: 499181, extracted triplets: ['car next to building'], mapped triplets: ['car next to build', 'train next to build']
+Objective: 109.72137054783197
+PRIOR DISTANCE
+gt_car next to build=1.0
+gt_car next to build=0.0
+gt_car next to build=0.0
+gt_car next to build=1.0
+gt_train next to build=-0.0
+gt_car next to build=-0.0
+Objective: 109.64961631386028
+gt_car next to build=1.0
+gt_car next to build=0.0
+gt_car next to build=0.0
+gt_car next to build=1.0
+gt_train next to build=-0.0
+gt_car next to build=-0.0
+----------------------------

@@ -1,0 +1,2448 @@
+Caption: a person walking on a beach with a surfboard
+Imageid: 426578, extracted triplets: ['person walk beach'], mapped triplets: ['man walk beach', 'woman walk beach']
+Objective: 70.84096843781819
+PRIOR DISTANCE
+Objective: 70.84096843781819
+----------------------------
+Caption: a dog playing with a frisbee on the beach
+Imageid: 88784, extracted triplets: ['dog play frisbee', 'dog on beach'], mapped triplets: ['woman play frisbee', 'man play frisbee', 'person play frisbee', 'girl play frisbee', 'child play frisbee', 'dog on beach', 'person on beach', 'boy on beach', 'woman on beach', 'man on beach']
+Objective: 70.84096843781819
+PRIOR DISTANCE
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_dog on beach=0.0
+gt_man play frisbee=0.0
+gt_man on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_man play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_man play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=1.0
+gt_boy on beach=1.0
+gt_girl play frisbee=1.0
+gt_person play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_child play frisbee=1.0
+gt_man on beach=0.0
+Objective: 71.85507801634117
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_dog on beach=0.0
+gt_man play frisbee=0.0
+gt_man on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_man play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_man play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=0.0
+gt_boy on beach=1.0
+gt_girl play frisbee=0.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_child play frisbee=1.0
+gt_man on beach=1.0
+----------------------------
+Caption: a dog holding a frisbee in its mouth
+Imageid: 347950, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee']
+Objective: 71.85507801634117
+PRIOR DISTANCE
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=0.0
+Objective: 71.80216862216002
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+----------------------------
+Caption: a little girl holding a frisbee in a field
+Imageid: 33645, extracted triplets: ['girl hold frisbee', 'girl in field'], mapped triplets: ['woman hold frisbee', 'person hold frisbee', 'girl hold frisbee', 'boy in field', 'girl in field', 'person in field', 'people in field']
+Objective: 71.80216862216002
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_person hold frisbee=0.0
+gt_people in field=1.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 71.49535661065894
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_person hold frisbee=0.0
+gt_people in field=1.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man holding a frisbee in a field
+Imageid: 114352, extracted triplets: ['man hold frisbee', 'man in field'], mapped triplets: ['man hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'boy in field', 'woman in field', 'girl in field', 'man in field', 'person in field', 'people in field']
+Objective: 71.49535661065894
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 71.85896698464964
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a polar bear standing next to a frisbee
+Imageid: 121876, extracted triplets: ['bear next to frisbee'], mapped triplets: ['dog next to frisbee']
+Objective: 71.85896698464964
+PRIOR DISTANCE
+gt_dog next to frisbee=-0.0
+Objective: 71.83994370462071
+gt_dog next to frisbee=-0.0
+----------------------------
+Caption: a group of men playing frisbee in a field
+Imageid: 31390, extracted triplets: ['men play frisbee', 'men in field'], mapped triplets: ['man play frisbee', 'person play frisbee', 'boy play frisbee', 'boy in field', 'woman in field', 'girl in field', 'man in field', 'person in field', 'people in field']
+Objective: 71.83994370462071
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_girl in field=-0.0
+gt_boy play frisbee=1.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 71.34243950034626
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=1.0
+gt_girl in field=-0.0
+gt_boy play frisbee=1.0
+gt_person play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man holding a frisbee in a park
+Imageid: 209544, extracted triplets: ['man hold frisbee', 'man in park'], mapped triplets: ['person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'man hold frisbee', 'boy in field', 'boy in grass', 'person in field', 'people in field', 'woman in field', 'man in field']
+Objective: 71.34243950034626
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 70.77746796246578
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a group of people playing frisbee in a park
+Imageid: 379734, extracted triplets: ['people play frisbee', 'people in park'], mapped triplets: ['woman play frisbee', 'man play frisbee', 'person play frisbee', 'boy play frisbee', 'girl play frisbee', 'child play frisbee', 'people play frisbee', 'boy in field', 'girl in grass', 'woman in field', 'kid in grass', 'girl in field', 'people in field', 'people in grass']
+Objective: 70.77746796246578
+PRIOR DISTANCE
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=1.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=1.0
+gt_person play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+Objective: 71.63020681878308
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=0.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=1.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+----------------------------
+Caption: two men playing with a frisbee in a park
+Imageid: 424422, extracted triplets: ['men play with frisbee', 'men in park'], mapped triplets: ['man play with frisbee', 'people play with frisbee', 'field play with frisbee', 'beach play with frisbee', 'boy in field', 'man in field', 'woman in field', 'person in field', 'people in field']
+Objective: 71.63020681878308
+PRIOR DISTANCE
+gt_field play with frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play with frisbee=0.0
+gt_field play with frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play with frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play with frisbee=1.0
+gt_beach play with frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_beach play with frisbee=1.0
+gt_woman play with frisbee=1.0
+gt_people play with frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man play with frisbee=0.0
+gt_field play with frisbee=0.0
+Objective: 71.70270396017062
+gt_field play with frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play with frisbee=0.0
+gt_field play with frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play with frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play with frisbee=1.0
+gt_beach play with frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_beach play with frisbee=1.0
+gt_woman play with frisbee=1.0
+gt_people play with frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man play with frisbee=0.0
+gt_field play with frisbee=0.0
+----------------------------
+Caption: a woman standing in a field with a blue frisbee
+Imageid: 252716, extracted triplets: ['woman in field', 'woman with frisbee'], mapped triplets: ['boy in field', 'girl in field', 'man in field', 'person in field', 'people in field', 'woman in field', 'player with frisbee', 'girl with frisbee', 'child with frisbee', 'woman with frisbee']
+Objective: 71.70270396017062
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman with frisbee=0.0
+gt_man in field=1.0
+gt_woman with frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman with frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman with frisbee=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_woman with frisbee=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 71.70315049843236
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman with frisbee=0.0
+gt_man in field=1.0
+gt_woman with frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman with frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman with frisbee=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_woman with frisbee=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man and a dog jumping in the air to catch a frisbee
+Imageid: 126538, extracted triplets: ['dog jump ball'], mapped triplets: []
+Objective: 71.70315049843236
+PRIOR DISTANCE
+Objective: 71.70315049843236
+----------------------------
+Caption: a dog with a frisbee in its mouth
+Imageid: 369541, extracted triplets: ['dog with frisbee', 'frisbee in mouth'], mapped triplets: ['dog with bowl', 'dog with ball', 'dog with dog', 'woman with frisbee', 'girl with frisbee', 'boy with frisbee', 'child with frisbee', 'dog with frisbee', 'dog in frisbee', 'ball in mouth', 'frisbee in mouth']
+Objective: 71.70315049843236
+PRIOR DISTANCE
+gt_dog with dog=0.0
+gt_frisbee in mouth=0.0
+gt_dog with frisbee=0.0
+gt_dog with dog=1.0
+gt_woman with frisbee=0.0
+gt_frisbee in mouth=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_dog with dog=0.0
+gt_dog with frisbee=0.0
+gt_dog with dog=1.0
+gt_woman with frisbee=0.0
+gt_frisbee in mouth=1.0
+gt_boy with frisbee=0.0
+gt_woman with frisbee=1.0
+gt_dog with frisbee=0.0
+gt_ball in mouth=-0.0
+gt_dog with bowl=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+Objective: 72.49807614487254
+gt_dog with dog=0.0
+gt_frisbee in mouth=0.0
+gt_dog with frisbee=0.0
+gt_dog with dog=1.0
+gt_woman with frisbee=0.0
+gt_frisbee in mouth=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_dog with dog=0.0
+gt_dog with frisbee=0.0
+gt_dog with dog=1.0
+gt_woman with frisbee=0.0
+gt_frisbee in mouth=1.0
+gt_boy with frisbee=0.0
+gt_woman with frisbee=1.0
+gt_dog with frisbee=0.0
+gt_ball in mouth=0.0
+gt_dog with bowl=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+----------------------------
+Caption: a dog holding a frisbee in its mouth
+Imageid: 421072, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'person hold frisbee', 'dog in frisbee', 'ball in mouth', 'dog in mouth']
+Objective: 72.49807614487254
+PRIOR DISTANCE
+gt_dog in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_ball in mouth=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_dog in mouth=1.0
+Objective: 72.52447359427302
+gt_dog in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_ball in mouth=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog in mouth=1.0
+----------------------------
+Caption: two men playing with a frisbee on a court
+Imageid: 163118, extracted triplets: ['men play with frisbee', 'men on court'], mapped triplets: ['man play with frisbee', 'people play with frisbee', 'people on court']
+Objective: 72.52447359427302
+PRIOR DISTANCE
+gt_man play with frisbee=0.0
+gt_people on court=0.0
+gt_man play with frisbee=0.0
+gt_man play with frisbee=1.0
+gt_people on court=0.0
+gt_people on court=-0.0
+gt_woman play with frisbee=1.0
+gt_people play with frisbee=1.0
+gt_man play with frisbee=0.0
+Objective: 72.52387478786216
+gt_man play with frisbee=0.0
+gt_people on court=0.0
+gt_man play with frisbee=0.0
+gt_man play with frisbee=1.0
+gt_people on court=0.0
+gt_people on court=-0.0
+gt_woman play with frisbee=1.0
+gt_people play with frisbee=1.0
+gt_man play with frisbee=0.0
+----------------------------
+Caption: a black dog holding a blue frisbee in its mouth
+Imageid: 403421, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'dog in frisbee', 'frisbee in mouth', 'dog in mouth']
+Objective: 72.52387478786216
+PRIOR DISTANCE
+gt_frisbee in mouth=0.0
+gt_dog in mouth=0.0
+gt_frisbee in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_frisbee in mouth=1.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog in mouth=1.0
+Objective: 72.51204049544985
+gt_frisbee in mouth=0.0
+gt_dog in mouth=0.0
+gt_frisbee in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_frisbee in mouth=1.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog in mouth=1.0
+----------------------------
+Caption: a man holding a frisbee in a field
+Imageid: 32400, extracted triplets: ['man hold frisbee', 'man in field'], mapped triplets: ['person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'man hold frisbee', 'boy in field', 'woman in field', 'girl in field', 'person in field', 'people in field', 'man in field']
+Objective: 72.51204049544985
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 73.04141161927872
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a woman throwing a frisbee in a field
+Imageid: 129852, extracted triplets: ['woman throw frisbee', 'woman in field'], mapped triplets: ['person throw frisbee', 'girl throw frisbee', 'child throw frisbee', 'woman throw frisbee', 'girl in field', 'person in field', 'people in field', 'woman in field']
+Objective: 73.04141161927872
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+Objective: 72.87543143034334
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a man laying on a sand with a frisbee
+Imageid: 420669, extracted triplets: ['man with frisbee'], mapped triplets: ['player with frisbee', 'boy with frisbee', 'girl with frisbee', 'child with frisbee', 'man with frisbee']
+Objective: 72.87543143034334
+PRIOR DISTANCE
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_boy with frisbee=0.0
+gt_woman with frisbee=1.0
+gt_man with frisbee=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+Objective: 72.68756155371734
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_boy with frisbee=0.0
+gt_woman with frisbee=1.0
+gt_man with frisbee=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+----------------------------
+Caption: a person holding a frisbee with a dog in a field
+Imageid: 521427, extracted triplets: ['person hold frisbee', 'person with dog', 'dog in field'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'man hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'man with dog', 'boy with dog', 'woman with dog', 'dog in field', 'person in field', 'man in field', 'woman in field', 'boy in field', 'girl in field', 'people in field']
+Objective: 72.68756155371734
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_dog in field=1.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man hold frisbee=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_man with dog=0.0
+gt_man with dog=1.0
+gt_dog hold frisbee=0.0
+gt_man with dog=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man hold frisbee=0.0
+gt_dog in field=0.0
+gt_man with dog=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man in field=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_boy with dog=1.0
+gt_girl hold frisbee=1.0
+gt_dog in field=1.0
+gt_person hold frisbee=0.0
+gt_man with dog=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 73.22385696754026
+gt_people in field=0.0
+gt_dog in field=1.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man hold frisbee=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_man with dog=0.0
+gt_man with dog=1.0
+gt_dog hold frisbee=0.0
+gt_man with dog=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man hold frisbee=0.0
+gt_dog in field=0.0
+gt_man with dog=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man in field=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_boy with dog=1.0
+gt_girl hold frisbee=0.0
+gt_dog in field=1.0
+gt_person hold frisbee=0.0
+gt_man with dog=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a group of people playing frisbee in a field
+Imageid: 528905, extracted triplets: ['people in field'], mapped triplets: ['boy in field', 'woman in field', 'girl in field', 'man in field', 'person in field', 'people in field']
+Objective: 73.22385696754026
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 73.20473842431957
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man standing on the beach with a frisbee
+Imageid: 171443, extracted triplets: ['man on beach'], mapped triplets: ['people on beach', 'person on beach', 'boy on beach', 'woman on beach', 'dog on beach', 'man on beach']
+Objective: 73.20473842431957
+PRIOR DISTANCE
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_people on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_boy on beach=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=-0.0
+gt_man on beach=1.0
+Objective: 73.10100438139834
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_people on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_boy on beach=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=-0.0
+gt_man on beach=1.0
+----------------------------
+Caption: a young boy throwing a frisbee in a field
+Imageid: 54516, extracted triplets: ['boy in field'], mapped triplets: ['woman in field', 'person in field', 'people in field', 'man in field', 'girl in field', 'boy in grass', 'child in grass', 'boy in field']
+Objective: 73.10100438139834
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 73.09880086410928
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a dog holding a frisbee in its mouth
+Imageid: 169361, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold frisbee', 'boy hold frisbee', 'person hold frisbee', 'girl hold frisbee', 'frisbee in mouth', 'ball in mouth', 'dog in mouth']
+Objective: 73.09880086410928
+PRIOR DISTANCE
+gt_frisbee in mouth=0.0
+gt_dog in mouth=0.0
+gt_frisbee in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_frisbee in mouth=1.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_ball in mouth=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog in mouth=1.0
+Objective: 72.62038126842653
+gt_frisbee in mouth=0.0
+gt_dog in mouth=0.0
+gt_frisbee in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_frisbee in mouth=1.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_ball in mouth=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_dog in mouth=1.0
+----------------------------
+Caption: a man holding a frisbee in front of a building
+Imageid: 88485, extracted triplets: ['man hold frisbee'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'man hold frisbee']
+Objective: 72.62038126842653
+PRIOR DISTANCE
+gt_man hold frisbee=1.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_man hold frisbee=1.0
+Objective: 72.65006204829741
+gt_man hold frisbee=1.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a woman throwing a frisbee in a park
+Imageid: 415153, extracted triplets: ['woman throw frisbee', 'woman in park'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'child throw frisbee', 'woman in field', 'woman in grass']
+Objective: 72.65006204829741
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_woman in grass=1.0
+gt_woman in field=0.0
+gt_woman in grass=1.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_woman throw frisbee=0.0
+Objective: 73.06158661775693
+gt_woman in grass=0.0
+gt_woman in grass=1.0
+gt_woman in field=0.0
+gt_woman in grass=1.0
+gt_girl throw frisbee=0.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_woman throw frisbee=0.0
+----------------------------
+Caption: a man holding a frisbee in a field
+Imageid: 200717, extracted triplets: ['man hold frisbee', 'man in field'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'man hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'boy in field', 'woman in field', 'girl in field', 'person in field', 'people in field', 'man in field']
+Objective: 73.06158661775693
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 73.21376529333168
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a man throwing a frisbee in a field
+Imageid: 200961, extracted triplets: ['man throw frisbee', 'man in field'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'boy throw frisbee', 'child throw frisbee', 'man throw frisbee', 'boy in field', 'woman in field', 'girl in field', 'person in field', 'people in field', 'man in field']
+Objective: 73.21376529333168
+PRIOR DISTANCE
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man throw frisbee=0.0
+gt_man in field=0.0
+gt_man throw frisbee=1.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=0.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy in field=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+Objective: 72.82346088506104
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man throw frisbee=0.0
+gt_man in field=0.0
+gt_man throw frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy in field=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a man throwing a frisbee in a field
+Imageid: 259097, extracted triplets: ['man throw frisbee', 'man in field'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'boy throw frisbee', 'child throw frisbee', 'man throw frisbee', 'boy in field', 'woman in field', 'girl in field', 'man in field', 'person in field', 'people in field']
+Objective: 72.82346088506104
+PRIOR DISTANCE
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man throw frisbee=0.0
+gt_man in field=0.0
+gt_man throw frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy in field=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+Objective: 73.6224964528985
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man throw frisbee=0.0
+gt_man in field=0.0
+gt_man throw frisbee=1.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy in field=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a group of people playing frisbee in a field
+Imageid: 551338, extracted triplets: ['people play frisbee', 'people in field'], mapped triplets: ['woman play frisbee', 'man play frisbee', 'person play frisbee', 'boy play frisbee', 'girl play frisbee', 'child play frisbee', 'people play frisbee', 'boy in field', 'woman in field', 'girl in field', 'man in field', 'person in field', 'people in field']
+Objective: 73.6224964528985
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=-0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+gt_person in field=1.0
+Objective: 72.18506152416404
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=1.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=1.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man holding a frisbee in a field
+Imageid: 248224, extracted triplets: ['man hold frisbee', 'man in field'], mapped triplets: ['person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'man hold frisbee', 'boy in field', 'woman in field', 'girl in field', 'person in field', 'people in field', 'man in field']
+Objective: 72.18506152416404
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 72.26390799742951
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a dog running in the grass with a frisbee
+Imageid: 104421, extracted triplets: ['dog with frisbee'], mapped triplets: ['dog with frisbee', 'boy with frisbee', 'girl with frisbee', 'child with frisbee', 'dog with ball']
+Objective: 72.26390799742951
+PRIOR DISTANCE
+gt_dog with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_boy with frisbee=-0.0
+gt_dog with frisbee=0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+Objective: 72.09113620009146
+gt_dog with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_boy with frisbee=-0.0
+gt_dog with frisbee=0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+----------------------------
+Caption: a dog holding a yellow frisbee in its mouth
+Imageid: 2753, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold frisbee', 'boy hold frisbee', 'person hold frisbee', 'girl hold frisbee']
+Objective: 72.09113620009146
+PRIOR DISTANCE
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+Objective: 72.47793274369847
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+----------------------------
+Caption: a black dog holding a frisbee in its mouth
+Imageid: 223032, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'dog in frisbee', 'ball in mouth', 'dog in mouth']
+Objective: 72.47793274369847
+PRIOR DISTANCE
+gt_dog in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_ball in mouth=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+gt_dog in mouth=1.0
+Objective: 72.23369069307618
+gt_dog in mouth=0.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_ball in mouth=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_dog in mouth=1.0
+----------------------------
+Caption: a black dog holding a frisbee in its mouth
+Imageid: 165752, extracted triplets: ['dog hold frisbee'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee']
+Objective: 72.23369069307618
+PRIOR DISTANCE
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+Objective: 72.34787992569333
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+----------------------------
+Caption: a black dog holding a frisbee in its mouth
+Imageid: 219632, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee']
+Objective: 72.34787992569333
+PRIOR DISTANCE
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+Objective: 72.3721362643422
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+----------------------------
+Caption: a man holding a frisbee in a field
+Imageid: 325991, extracted triplets: ['man hold frisbee', 'man in field'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'man hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'boy in field', 'woman in field', 'person in field', 'people in field', 'man in field']
+Objective: 72.3721362643422
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+Objective: 72.47320932653608
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_man in field=1.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_man hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_man in field=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a dog is playing with a frisbee in the grass
+Imageid: 357459, extracted triplets: ['dog play with frisbee', 'frisbee in grass'], mapped triplets: ['woman play with frisbee', 'man play with frisbee', 'girl play with frisbee', 'child play with frisbee', 'boy in field', 'girl in grass', 'kid in grass', 'man in grass', 'child in grass', 'boy in grass', 'woman in grass', 'frisbee in grass']
+Objective: 72.47320932653608
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_woman in grass=0.0
+gt_man play with frisbee=0.0
+gt_frisbee in grass=0.0
+gt_man play with frisbee=0.0
+gt_woman in grass=1.0
+gt_woman in grass=1.0
+gt_man play with frisbee=1.0
+gt_woman in grass=1.0
+gt_woman in grass=1.0
+gt_girl play with frisbee=-0.0
+gt_man in grass=1.0
+gt_woman play with frisbee=1.0
+gt_woman play with frisbee=1.0
+gt_child play with frisbee=1.0
+gt_boy in field=1.0
+gt_man play with frisbee=0.0
+Objective: 72.50414944405901
+gt_woman in grass=0.0
+gt_woman in grass=0.0
+gt_man play with frisbee=0.0
+gt_frisbee in grass=0.0
+gt_man play with frisbee=0.0
+gt_woman in grass=1.0
+gt_woman in grass=1.0
+gt_man play with frisbee=1.0
+gt_woman in grass=1.0
+gt_woman in grass=1.0
+gt_girl play with frisbee=-0.0
+gt_man in grass=1.0
+gt_woman play with frisbee=1.0
+gt_woman play with frisbee=1.0
+gt_child play with frisbee=1.0
+gt_boy in field=1.0
+gt_man play with frisbee=0.0
+----------------------------
+Caption: a black dog running in the grass with a frisbee
+Imageid: 25989, extracted triplets: ['dog with frisbee'], mapped triplets: ['dog with ball', 'dog with frisbee', 'boy with frisbee', 'girl with frisbee', 'child with frisbee']
+Objective: 72.50414944405901
+PRIOR DISTANCE
+gt_dog with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_boy with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+Objective: 72.23691862678197
+gt_dog with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_boy with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+----------------------------
+Caption: a man holding a white frisbee in a room
+Imageid: 143554, extracted triplets: ['man hold frisbee'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'man hold frisbee']
+Objective: 72.23691862678197
+PRIOR DISTANCE
+gt_man hold frisbee=1.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=1.0
+Objective: 72.6511878104258
+gt_man hold frisbee=1.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_man hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+gt_man hold frisbee=1.0
+----------------------------
+Caption: a man throwing a frisbee in front of a fence
+Imageid: 203669, extracted triplets: ['man throw frisbee'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'boy throw frisbee', 'child throw frisbee', 'man throw frisbee']
+Objective: 72.6511878104258
+PRIOR DISTANCE
+gt_man throw frisbee=0.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=1.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=0.0
+gt_child throw frisbee=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+Objective: 72.02914305784883
+gt_man throw frisbee=0.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+----------------------------
+Caption: a man throwing a frisbee in a park
+Imageid: 276408, extracted triplets: ['man throw frisbee', 'man in park'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'boy throw frisbee', 'child throw frisbee', 'man throw frisbee', 'boy in field', 'person in field', 'people in field']
+Objective: 72.02914305784883
+PRIOR DISTANCE
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_people in field=1.0
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy in field=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+Objective: 72.08427382180423
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_man throw frisbee=1.0
+gt_man throw frisbee=0.0
+gt_people in field=1.0
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_girl throw frisbee=0.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_boy in field=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a woman holding a frisbee in a street
+Imageid: 457249, extracted triplets: ['woman hold frisbee', 'woman in street'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'woman in field', 'woman in grass']
+Objective: 72.08427382180423
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_woman in grass=1.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_woman in field=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_woman in grass=1.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+Objective: 71.93535897661923
+gt_woman in grass=0.0
+gt_woman in grass=1.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_woman in field=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_woman in grass=1.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+----------------------------
+Caption: a group of people playing frisbee in a park
+Imageid: 458750, extracted triplets: ['people play frisbee', 'people in park'], mapped triplets: ['woman play frisbee', 'man play frisbee', 'person play frisbee', 'boy play frisbee', 'girl play frisbee', 'child play frisbee', 'people play frisbee', 'boy in field', 'girl in grass', 'woman in field', 'kid in grass', 'girl in field', 'people in field', 'people in grass']
+Objective: 71.93535897661923
+PRIOR DISTANCE
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=1.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=1.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+Objective: 72.14676150091957
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man play frisbee=1.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+----------------------------
+Caption: a woman throwing a frisbee in a field
+Imageid: 401028, extracted triplets: ['woman throw frisbee', 'woman in field'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'child throw frisbee', 'girl in field', 'person in field', 'woman in field']
+Objective: 72.14676150091957
+PRIOR DISTANCE
+gt_person in field=0.0
+gt_woman in field=0.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=0.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+Objective: 71.97224501211947
+gt_person in field=0.0
+gt_woman in field=0.0
+gt_girl in field=-0.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_person in field=1.0
+----------------------------
+Caption: two people playing with a frisbee in a field
+Imageid: 85007, extracted triplets: ['people play frisbee', 'people in field'], mapped triplets: ['woman play frisbee', 'man play frisbee', 'person play frisbee', 'boy play frisbee', 'girl play frisbee', 'child play frisbee', 'people play frisbee', 'boy in field', 'woman in field', 'man in field', 'girl in field', 'person in field', 'people in field']
+Objective: 71.97224501211947
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=1.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+gt_person in field=1.0
+Objective: 71.96897446254692
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people play frisbee=1.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=1.0
+gt_people play frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl play frisbee=1.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_child play frisbee=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a black dog holding a frisbee in its mouth
+Imageid: 304147, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold frisbee', 'woman hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee']
+Objective: 71.96897446254692
+PRIOR DISTANCE
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+Objective: 71.97060167994931
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+----------------------------
+Caption: a man standing in a field with a frisbee
+Imageid: 320370, extracted triplets: ['man in field'], mapped triplets: ['boy in field', 'woman in field', 'girl in field', 'person in field', 'people in field', 'man in field']
+Objective: 71.97060167994931
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 71.9763273954699
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: two men playing with a frisbee in a field
+Imageid: 299734, extracted triplets: ['men play frisbee', 'men in field'], mapped triplets: ['man play frisbee', 'boy play frisbee', 'boy in field', 'woman in field', 'man in field', 'people in field', 'person in field']
+Objective: 71.9763273954699
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=1.0
+gt_boy play frisbee=-0.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 72.38038769963286
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man play frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman play frisbee=1.0
+gt_people in field=1.0
+gt_man play frisbee=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_woman play frisbee=1.0
+gt_man in field=0.0
+gt_man play frisbee=0.0
+gt_boy play frisbee=-0.0
+gt_woman play frisbee=1.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a black and white dog running in a field with a frisbee
+Imageid: 515668, extracted triplets: ['dog with frisbee'], mapped triplets: ['dog with frisbee', 'woman with frisbee', 'sand with frisbee', 'player with frisbee', 'man with frisbee', 'water with frisbee', 'fence with frisbee', 'snow with frisbee', 'people with frisbee', 'pole with frisbee', 'boy with frisbee', 'field with frisbee', 'frisbee with boy', 'frisbee with people', 'girl with frisbee', 'grass with frisbee', 'beach with frisbee', 'child with frisbee']
+Objective: 72.38038769963286
+PRIOR DISTANCE
+gt_field with frisbee=0.0
+gt_grass with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_field with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_grass with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_grass with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_people with frisbee=0.0
+gt_boy with frisbee=0.0
+gt_pole with frisbee=1.0
+gt_woman with frisbee=1.0
+gt_woman with frisbee=1.0
+gt_dog with frisbee=0.0
+gt_man with frisbee=1.0
+gt_snow with frisbee=1.0
+gt_water with frisbee=-0.0
+gt_frisbee with boy=-0.0
+gt_frisbee with people=0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+gt_beach with frisbee=-0.0
+gt_grass with frisbee=0.0
+gt_sand with frisbee=0.0
+gt_field with frisbee=1.0
+Objective: 72.24155213510673
+gt_field with frisbee=0.0
+gt_grass with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_field with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_grass with frisbee=0.0
+gt_dog with frisbee=0.0
+gt_grass with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_woman with frisbee=0.0
+gt_people with frisbee=0.0
+gt_boy with frisbee=0.0
+gt_pole with frisbee=1.0
+gt_woman with frisbee=1.0
+gt_woman with frisbee=1.0
+gt_dog with frisbee=0.0
+gt_man with frisbee=1.0
+gt_snow with frisbee=1.0
+gt_water with frisbee=-0.0
+gt_frisbee with boy=-0.0
+gt_frisbee with people=1.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+gt_beach with frisbee=-0.0
+gt_grass with frisbee=0.0
+gt_sand with frisbee=0.0
+gt_field with frisbee=1.0
+----------------------------
+Caption: a man and a woman holding a frisbee in a field
+Imageid: 389480, extracted triplets: ['woman hold frisbee', 'woman in field'], mapped triplets: ['woman hold frisbee', 'dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee', 'girl in field', 'person in field', 'people in field', 'woman in field']
+Objective: 72.24155213510673
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_person in field=1.0
+Objective: 72.40240696429618
+gt_people in field=0.0
+gt_person in field=0.0
+gt_people in field=1.0
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl in field=-0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+gt_person in field=1.0
+----------------------------
+Caption: two men playing with a frisbee in a crowd
+Imageid: 529592, extracted triplets: ['men play with frisbee', 'men in crowd'], mapped triplets: ['man play with frisbee', 'people play with frisbee', 'child play with frisbee', 'people in field', 'people in grass']
+Objective: 72.40240696429618
+PRIOR DISTANCE
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_man play with frisbee=0.0
+gt_people in field=1.0
+gt_man play with frisbee=0.0
+gt_people in field=1.0
+gt_man play with frisbee=1.0
+gt_people in field=0.0
+gt_woman play with frisbee=1.0
+gt_people play with frisbee=1.0
+gt_child play with frisbee=1.0
+gt_man play with frisbee=0.0
+Objective: 72.40025543593846
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_man play with frisbee=0.0
+gt_people in field=1.0
+gt_man play with frisbee=0.0
+gt_people in field=1.0
+gt_man play with frisbee=1.0
+gt_people in field=0.0
+gt_woman play with frisbee=1.0
+gt_people play with frisbee=1.0
+gt_child play with frisbee=1.0
+gt_man play with frisbee=0.0
+----------------------------
+Caption: a dog holding a frisbee in its mouth
+Imageid: 161144, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold frisbee', 'person hold frisbee', 'boy hold frisbee', 'girl hold frisbee']
+Objective: 72.40025543593846
+PRIOR DISTANCE
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=1.0
+gt_person hold frisbee=1.0
+Objective: 72.23218038860843
+gt_dog hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_boy hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_dog hold frisbee=1.0
+gt_boy hold frisbee=0.0
+gt_girl hold frisbee=0.0
+gt_person hold frisbee=1.0
+----------------------------
+Caption: a group of people standing in a field with a frisbee
+Imageid: 500844, extracted triplets: ['people in field', 'people with frisbee'], mapped triplets: ['boy in field', 'woman in field', 'man in field', 'girl in field', 'person in field', 'people in field', 'player with frisbee', 'boy with frisbee', 'field with frisbee', 'girl with frisbee', 'child with frisbee', 'people with frisbee']
+Objective: 72.23218038860843
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_field with frisbee=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_field with frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_people with frisbee=0.0
+gt_boy with frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=1.0
+gt_boy in field=1.0
+gt_field with frisbee=1.0
+gt_person in field=1.0
+Objective: 72.02259436024562
+gt_people in field=0.0
+gt_field with frisbee=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_field with frisbee=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_people with frisbee=0.0
+gt_boy with frisbee=-0.0
+gt_girl in field=-0.0
+gt_girl with frisbee=1.0
+gt_child with frisbee=0.0
+gt_boy in field=1.0
+gt_field with frisbee=0.0
+gt_person in field=1.0
+----------------------------
+Caption: two frisbees and a frisbee on the ground
+Imageid: 458721, extracted triplets: ['frisbee on grass'], mapped triplets: ['frisbee on field', 'child on grass', 'woman on grass', 'dog on grass', 'man on grass']
+Objective: 72.02259436024562
+PRIOR DISTANCE
+gt_frisbee on field=0.0
+gt_dog on grass=0.0
+gt_frisbee on field=0.0
+gt_man on grass=0.0
+gt_dog on grass=0.0
+gt_frisbee on field=0.0
+gt_dog on grass=1.0
+gt_man on grass=0.0
+gt_frisbee on field=1.0
+Objective: 72.00501723972414
+gt_frisbee on field=0.0
+gt_dog on grass=0.0
+gt_frisbee on field=0.0
+gt_man on grass=0.0
+gt_dog on grass=0.0
+gt_frisbee on field=0.0
+gt_dog on grass=1.0
+gt_man on grass=0.0
+gt_frisbee on field=1.0
+----------------------------
+Caption: a man throwing a frisbee on the beach
+Imageid: 11625, extracted triplets: ['man throw frisbee', 'man on beach'], mapped triplets: ['woman throw frisbee', 'person throw frisbee', 'girl throw frisbee', 'boy throw frisbee', 'child throw frisbee', 'man throw frisbee', 'people on beach', 'person on beach', 'boy on beach', 'woman on beach', 'dog on beach', 'man on beach']
+Objective: 72.00501723972414
+PRIOR DISTANCE
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_man throw frisbee=0.0
+gt_dog on beach=0.0
+gt_people on beach=0.0
+gt_man throw frisbee=1.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man throw frisbee=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_people on beach=0.0
+gt_man throw frisbee=-0.0
+gt_boy on beach=1.0
+gt_girl throw frisbee=1.0
+gt_person throw frisbee=1.0
+gt_child throw frisbee=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_people on beach=-0.0
+gt_man on beach=1.0
+Objective: 72.24039242255276
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_man throw frisbee=0.0
+gt_dog on beach=0.0
+gt_people on beach=0.0
+gt_man throw frisbee=1.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man throw frisbee=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man throw frisbee=0.0
+gt_man throw frisbee=0.0
+gt_people on beach=0.0
+gt_man throw frisbee=0.0
+gt_boy on beach=1.0
+gt_girl throw frisbee=0.0
+gt_person throw frisbee=0.0
+gt_child throw frisbee=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_boy throw frisbee=1.0
+gt_woman throw frisbee=0.0
+gt_woman throw frisbee=0.0
+gt_people on beach=-0.0
+gt_man on beach=1.0
+----------------------------
+Caption: two people playing with a frisbee on the beach
+Imageid: 7072, extracted triplets: ['people play with frisbee', 'people on beach'], mapped triplets: ['woman play frisbee', 'man play frisbee', 'person play frisbee', 'boy play frisbee', 'girl play frisbee', 'child play frisbee', 'person on beach', 'boy on beach', 'woman on beach', 'dog on beach', 'sand on beach', 'man on beach', 'people on beach']
+Objective: 72.24039242255276
+PRIOR DISTANCE
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_dog on beach=0.0
+gt_people on beach=0.0
+gt_man play frisbee=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_man play frisbee=0.0
+gt_sand on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_man play frisbee=1.0
+gt_people on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people on beach=0.0
+gt_man play frisbee=0.0
+gt_boy on beach=1.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_child play frisbee=1.0
+gt_people on beach=-0.0
+gt_sand on beach=0.0
+gt_man on beach=1.0
+Objective: 71.92041791968867
+gt_boy on beach=0.0
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_dog on beach=0.0
+gt_people on beach=0.0
+gt_man play frisbee=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_man play frisbee=0.0
+gt_sand on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_boy on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_dog on beach=0.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_man play frisbee=1.0
+gt_people on beach=0.0
+gt_woman play frisbee=1.0
+gt_woman play frisbee=1.0
+gt_people on beach=0.0
+gt_man play frisbee=0.0
+gt_boy on beach=1.0
+gt_girl play frisbee=0.0
+gt_boy play frisbee=-0.0
+gt_person play frisbee=0.0
+gt_woman play frisbee=0.0
+gt_woman play frisbee=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_child play frisbee=1.0
+gt_people on beach=-0.0
+gt_sand on beach=1.0
+gt_man on beach=1.0
+----------------------------
+Caption: a man and a boy playing with a frisbee in a field
+Imageid: 442836, extracted triplets: ['boy play frisbee', 'boy in field'], mapped triplets: ['boy play frisbee', 'boy in grass', 'man in field', 'person in field', 'people in field', 'kid in grass', 'girl in field', 'woman in field', 'child in grass', 'boy in field']
+Objective: 71.92041791968867
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy play frisbee=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+Objective: 72.0282163948677
+gt_people in field=0.0
+gt_person in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_people in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_girl in field=-0.0
+gt_boy play frisbee=-0.0
+gt_boy in field=1.0
+gt_person in field=1.0
+----------------------------

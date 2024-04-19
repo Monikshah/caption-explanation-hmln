@@ -1,0 +1,1624 @@
+Caption: a group of men sitting at a desk with a computer
+Imageid: 235597, extracted triplets: ['desk with computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 119.61621678103559
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 119.40252531711907
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=1.0
+gt_chair with computer=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with three computer monitors and a laptop on it
+Imageid: 281376, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 119.40252531711907
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 119.61765108311471
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a laptop computer sitting on top of a wooden table
+Imageid: 37367, extracted triplets: ['laptop computer sit table'], mapped triplets: ['laptop sit desk', 'computer sit desk']
+Objective: 119.61765108311471
+PRIOR DISTANCE
+Objective: 119.61765108311471
+----------------------------
+Caption: a person holding a laptop computer sitting on a desk
+Imageid: 324837, extracted triplets: ['person hold laptop computer', 'laptop computer sit on desk'], mapped triplets: ['man hold laptop', 'woman hold laptop', 'desk hold laptop', 'hand hold laptop', 'laptop sit desk', 'computer sit desk', 'laptop sit table', 'computer sit table']
+Objective: 119.61765108311471
+PRIOR DISTANCE
+gt_man hold laptop=0.0
+gt_desk hold laptop=0.0
+gt_desk hold laptop=0.0
+gt_man hold laptop=-0.0
+Objective: 119.78758614063462
+gt_man hold laptop=0.0
+gt_desk hold laptop=0.0
+gt_desk hold laptop=-0.0
+gt_man hold laptop=-0.0
+----------------------------
+Caption: a computer monitor with a keyboard and a mouse on a desk
+Imageid: 361527, extracted triplets: ['computer monitor with keyboard', 'mouse on desk'], mapped triplets: ['computer with computer', 'desk with keyboard', 'desk with computer', 'computer with keyboard', 'mouse on table', 'keyboard on desk', 'mouse on desk']
+Objective: 119.78758614063462
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_computer with computer=0.0
+gt_computer with keyboard=0.0
+gt_keyboard on desk=1.0
+gt_desk with keyboard=1.0
+gt_computer with computer=-0.0
+gt_mouse on table=-0.0
+gt_desk with keyboard=1.0
+gt_mouse on desk=0.0
+gt_computer with keyboard=0.0
+gt_keyboard on desk=1.0
+gt_desk with computer=-0.0
+Objective: 119.39264593387314
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_computer with computer=0.0
+gt_computer with keyboard=0.0
+gt_keyboard on desk=1.0
+gt_desk with keyboard=1.0
+gt_computer with computer=-0.0
+gt_mouse on table=1.0
+gt_desk with keyboard=1.0
+gt_mouse on desk=0.0
+gt_computer with keyboard=0.0
+gt_keyboard on desk=1.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a group of three people sitting at a table with a laptop
+Imageid: 208623, extracted triplets: ['people at table', 'people with laptop'], mapped triplets: ['man at table', 'woman at table', 'chair at table', 'people at table', 'man with laptop', 'table with laptop', 'desk with laptop', 'person with cat', 'table with computer', 'room with computer']
+Objective: 119.39264593387314
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_table with laptop=0.0
+gt_chair at table=0.0
+gt_man at table=0.0
+gt_people at table=0.0
+gt_chair at table=0.0
+gt_room with computer=1.0
+gt_table with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_desk with laptop=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_person with cat=1.0
+gt_desk with laptop=1.0
+gt_chair at table=1.0
+gt_people at table=1.0
+gt_table with laptop=1.0
+gt_room with computer=1.0
+gt_table with computer=1.0
+gt_man at table=1.0
+Objective: 120.49109038755124
+gt_people at table=0.0
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_table with laptop=0.0
+gt_chair at table=0.0
+gt_man at table=0.0
+gt_people at table=0.0
+gt_chair at table=0.0
+gt_room with computer=1.0
+gt_table with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_desk with laptop=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_person with cat=1.0
+gt_desk with laptop=1.0
+gt_chair at table=1.0
+gt_people at table=1.0
+gt_table with laptop=1.0
+gt_room with computer=1.0
+gt_table with computer=1.0
+gt_man at table=1.0
+----------------------------
+Caption: an office cubicle with three computer monitors on a desk
+Imageid: 542509, extracted triplets: ['computer monitors on desk'], mapped triplets: ['screen on desk', 'monitor on desk']
+Objective: 120.49109038755124
+PRIOR DISTANCE
+gt_screen on desk=1.0
+gt_monitor on desk=1.0
+gt_monitor on desk=-0.0
+gt_screen on desk=1.0
+Objective: 120.49016787403723
+gt_screen on desk=1.0
+gt_monitor on desk=1.0
+gt_monitor on desk=-0.0
+gt_screen on desk=1.0
+----------------------------
+Caption: a man taking a picture of a desk with a camera
+Imageid: 530706, extracted triplets: ['man take camera', 'man take paper', 'man take monitor', 'man take logo', 'desk with camera'], mapped triplets: ['woman take picture', 'desk with computer', 'desk with lamp', 'desk with monitor']
+Objective: 120.49016787403723
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman take picture=1.0
+gt_desk with lamp=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_woman take picture=1.0
+gt_desk with lamp=-0.0
+gt_desk with computer=-0.0
+Objective: 120.228034781777
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman take picture=1.0
+gt_desk with lamp=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_woman take picture=0.0
+gt_desk with lamp=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a computer sitting on top of it
+Imageid: 571641, extracted triplets: ['desk with computer', 'computer sit plate', 'computer sit box', 'computer sit pot', 'computer sit statue', 'computer sit clock', 'computer sit tower', 'computer sit camera', 'computer sit drawer', 'computer sit picture', 'computer sit can', 'computer sit monitor', 'computer sit desk', 'computer sit keyboard', 'computer sit shelf'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer', 'laptop sit table', 'computer sit table', 'laptop sit desk', 'computer sit desk', 'laptop sit bottle', 'computer sit laptop', 'laptop sit monitor', 'computer sit laptop', 'laptop sit desk', 'computer sit desk', 'computer sit laptop', 'laptop sit monitor', 'computer sit keyboard', 'computer sit table', 'laptop sit monitor', 'computer sit laptop', 'laptop sit bottle', 'laptop sit glass', 'laptop sit monitor', 'computer sit keyboard', 'computer sit laptop', 'laptop sit table', 'computer sit laptop', 'computer sit desk', 'computer sit keyboard', 'laptop sit keyboard', 'computer sit computer', 'laptop sit mouse', 'laptop sit shelf', 'computer sit desk', 'laptop sit desk']
+Objective: 120.228034781777
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=1.0
+gt_chair with computer=-0.0
+gt_desk with computer=-0.0
+Objective: 120.56489000907507
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=1.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a woman sitting at a desk with a laptop computer
+Imageid: 222430, extracted triplets: ['woman at desk', 'desk with laptop computer'], mapped triplets: ['woman at table', 'man at desk', 'person at desk', 'woman at desk', 'desk with computer', 'desk with laptop']
+Objective: 120.56489000907507
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+Objective: 120.24345300121128
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a bottle of beer sitting on a desk next to a computer
+Imageid: 346638, extracted triplets: ['desk next to computer'], mapped triplets: ['desk next to laptop', 'table next to computer']
+Objective: 120.24345300121128
+PRIOR DISTANCE
+gt_table next to computer=0.0
+gt_table next to computer=1.0
+gt_desk next to laptop=1.0
+Objective: 120.66113645391653
+gt_table next to computer=0.0
+gt_table next to computer=1.0
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a cat sitting on a desk next to a laptop computer
+Imageid: 55466, extracted triplets: ['cat sit desk', 'desk next to laptop computer'], mapped triplets: ['dog sit desk', 'keyboard sit desk', 'cat sit desk', 'desk next to laptop']
+Objective: 120.66113645391653
+PRIOR DISTANCE
+gt_desk next to laptop=1.0
+Objective: 120.6750861928203
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a black and white cat sitting on a desk next to a computer
+Imageid: 93948, extracted triplets: ['cat sit book', 'cat sit plate', 'cat sit computer', 'cat sit letter', 'cat sit table', 'cat sit laptop', 'cat sit paper', 'cat sit keyboard', 'cat sit desk', 'desk next to computer'], mapped triplets: ['cat sit laptop', 'book sit keyboard', 'cat sit chair', 'cat sit computer', 'cat sit desk', 'cat sit table', 'cat sit computer', 'cat sit laptop', 'cat sit keyboard', 'cat sit computer', 'cat sit table', 'dog sit table', 'cat sit computer', 'chair sit laptop', 'computer sit laptop', 'cat sit laptop', 'cat sit keyboard', 'cat sit table', 'cat sit computer', 'banana sit keyboard', 'mouse sit keyboard', 'cup sit keyboard', 'pizza sit keyboard', 'can sit keyboard', 'phone sit keyboard', 'book sit keyboard', 'computer sit keyboard', 'cat sit keyboard', 'dog sit desk', 'keyboard sit desk', 'cat sit desk', 'desk next to laptop', 'table next to computer']
+Objective: 120.6750861928203
+PRIOR DISTANCE
+gt_table next to computer=0.0
+gt_table next to computer=1.0
+gt_desk next to laptop=1.0
+Objective: 120.67599985803447
+gt_table next to computer=0.0
+gt_table next to computer=1.0
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a desk with two computers and a computer on it
+Imageid: 261453, extracted triplets: ['desk with monitor', 'desk with computer', 'desk with laptop'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop', 'desk with screen', 'desk with monitor', 'table with computer', 'desk with laptop', 'chair with computer', 'desk with computer', 'desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop']
+Objective: 120.67599985803447
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with monitor=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_table with computer=1.0
+gt_desk with screen=-0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+Objective: 121.03005302822041
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with monitor=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_table with computer=0.0
+gt_desk with screen=-0.0
+gt_chair with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a laptop computer sitting on top of a desk
+Imageid: 30143, extracted triplets: ['laptop computer sit ceiling', 'laptop computer sit lamp', 'laptop computer sit mouse', 'laptop computer sit screen', 'laptop computer sit picture', 'laptop computer sit desk', 'laptop computer sit bag', 'laptop computer sit sign'], mapped triplets: ['computer sit desk', 'computer sit table', 'laptop sit monitor', 'computer sit keyboard', 'laptop sit monitor', 'computer sit laptop', 'chair sit computer', 'bed sit computer', 'cup sit computer', 'woman sit laptop', 'computer sit laptop', 'chair sit laptop', 'computer sit desk', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk', 'laptop sit chair', 'computer sit desk', 'laptop sit monitor', 'computer sit laptop', 'chair sit computer', 'cup sit computer', 'bed sit computer', 'woman sit computer']
+Objective: 121.03005302822041
+PRIOR DISTANCE
+Objective: 121.03005302822041
+----------------------------
+Caption: a group of people sitting in a living room watching tv
+Imageid: 267408, extracted triplets: ['people sit room'], mapped triplets: ['couch sit room', 'desk sit room']
+Objective: 121.03005302822041
+PRIOR DISTANCE
+Objective: 121.03005302822041
+----------------------------
+Caption: a desk with two computer monitors and a keyboard on it
+Imageid: 213538, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 121.03005302822041
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 120.87431785665599
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a desk with a laptop and a computer on it
+Imageid: 548423, extracted triplets: ['desk with laptop'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop']
+Objective: 120.87431785665599
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+Objective: 121.37309912659602
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a cat laying on a couch in a living room
+Imageid: 237772, extracted triplets: ['cat in room'], mapped triplets: ['cat in room', 'couch in room', 'bed in room', 'wall in room', 'tv in room', 'bike in room', 'people in room']
+Objective: 121.37309912659602
+PRIOR DISTANCE
+gt_people in room=0.0
+gt_bike in room=0.0
+gt_wall in room=1.0
+gt_cat in room=1.0
+gt_tv in room=1.0
+gt_people in room=1.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_tv in room=0.0
+gt_bed in room=-0.0
+gt_wall in room=1.0
+gt_bike in room=0.0
+Objective: 121.00789337108596
+gt_people in room=0.0
+gt_bike in room=0.0
+gt_wall in room=1.0
+gt_cat in room=1.0
+gt_tv in room=1.0
+gt_people in room=1.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_tv in room=0.0
+gt_bed in room=-0.0
+gt_wall in room=1.0
+gt_bike in room=0.0
+----------------------------
+Caption: a teddy bear sitting at a desk with a computer
+Imageid: 411405, extracted triplets: ['desk with computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 121.00789337108596
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=-0.0
+gt_desk with computer=-0.0
+Objective: 120.98346686317275
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a computer monitor sitting on a desk with a keyboard
+Imageid: 186282, extracted triplets: ['computer monitor sit on desk', 'desk with keyboard'], mapped triplets: ['computer sit desk', 'laptop sit desk', 'desk with computer', 'desk with lamp', 'desk with laptop', 'desk with mouse', 'table with keyboard', 'computer with keyboard', 'desk with keyboard']
+Objective: 120.98346686317275
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_computer with keyboard=0.0
+gt_desk with mouse=0.0
+gt_desk with laptop=1.0
+gt_table with keyboard=0.0
+gt_desk with lamp=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_computer with keyboard=0.0
+gt_table with keyboard=-0.0
+gt_desk with lamp=-0.0
+gt_desk with computer=-0.0
+Objective: 120.2048553216
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_computer with keyboard=0.0
+gt_desk with mouse=0.0
+gt_desk with laptop=1.0
+gt_table with keyboard=0.0
+gt_desk with lamp=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_computer with keyboard=0.0
+gt_table with keyboard=-0.0
+gt_desk with lamp=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a computer keyboard and a mouse on a desk
+Imageid: 11184, extracted triplets: ['mouse on desk'], mapped triplets: ['mouse on table', 'keyboard on desk', 'mouse on desk']
+Objective: 120.2048553216
+PRIOR DISTANCE
+gt_keyboard on desk=1.0
+gt_mouse on table=1.0
+gt_mouse on desk=0.0
+gt_keyboard on desk=1.0
+Objective: 120.2075461603912
+gt_keyboard on desk=1.0
+gt_mouse on table=1.0
+gt_mouse on desk=0.0
+gt_keyboard on desk=1.0
+----------------------------
+Caption: a man sitting at a desk with a laptop computer
+Imageid: 120070, extracted triplets: ['man at desk', 'desk with laptop computer'], mapped triplets: ['woman at desk', 'man at desk', 'person at desk', 'boy at desk', 'desk with computer', 'desk with laptop']
+Objective: 120.2075461603912
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+Objective: 120.0964225566863
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: an office with a desk with a computer and a laptop
+Imageid: 567657, extracted triplets: ['desk with computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 120.0964225566863
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 120.28443112488523
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with two computer monitors and a laptop on it
+Imageid: 340894, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 120.28443112488523
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 120.31546454870265
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 302030, extracted triplets: ['desk with laptop computer', 'laptop computer sit book', 'laptop computer sit laptop', 'laptop computer sit pillow', 'laptop computer sit screen', 'laptop computer sit monitor', 'laptop computer sit paper', 'laptop computer sit picture', 'laptop computer sit wall', 'laptop computer sit desk', 'laptop computer sit container', 'laptop computer sit keyboard', 'laptop computer sit shelf'], mapped triplets: ['desk with computer', 'desk with laptop', 'computer sit book', 'laptop sit mouse', 'computer sit laptop', 'keyboard sit computer', 'computer sit keyboard', 'computer sit table', 'laptop sit monitor', 'chair sit computer', 'bed sit computer', 'person sit laptop', 'woman sit laptop', 'computer sit laptop', 'mouse sit computer', 'chair sit laptop', 'laptop sit desk', 'computer sit desk', 'desk sit chair', 'keyboard sit computer', 'computer sit keyboard', 'computer sit table', 'woman sit computer', 'laptop sit monitor', 'computer sit laptop', 'laptop sit chair', 'computer sit keyboard', 'computer sit table', 'chair sit computer', 'bed sit computer', 'cup sit computer', 'woman sit laptop', 'computer sit laptop', 'chair sit laptop', 'computer sit desk', 'computer sit table', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk', 'laptop sit shelf', 'laptop sit desk', 'laptop sit table', 'computer sit keyboard', 'laptop sit computer', 'laptop sit shelf']
+Objective: 120.31546454870265
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+Objective: 120.33626806142459
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a laptop and a computer on it
+Imageid: 488401, extracted triplets: ['desk with laptop'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop']
+Objective: 120.33626806142459
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+Objective: 120.56660161156292
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a man wearing a hat holding a computer mouse
+Imageid: 76738, extracted triplets: ['man wear hat', 'hat hold computer mouse'], mapped triplets: ['hand hold mouse']
+Objective: 120.56660161156292
+PRIOR DISTANCE
+gt_hand hold mouse=-0.0
+Objective: 120.79738792004646
+gt_hand hold mouse=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 379475, extracted triplets: ['desk with laptop computer', 'laptop computer sit table', 'laptop computer sit desk', 'laptop computer sit lid', 'laptop computer sit bottle', 'laptop computer sit napkin', 'laptop computer sit wall', 'laptop computer sit laptop', 'laptop computer sit picture', 'laptop computer sit cup'], mapped triplets: ['desk with computer', 'desk with laptop', 'laptop sit desk', 'computer sit desk', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk', 'computer sit laptop', 'book sit laptop', 'laptop sit bottle', 'laptop sit glass', 'laptop sit monitor', 'computer sit laptop', 'computer sit table', 'computer sit laptop', 'keyboard sit computer', 'computer sit keyboard', 'computer sit table', 'chair sit computer', 'bed sit computer', 'cup sit computer', 'woman sit laptop', 'computer sit laptop', 'chair sit laptop', 'computer sit desk', 'laptop sit glass', 'computer sit keyboard']
+Objective: 120.79738792004646
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=-0.0
+Objective: 120.60329893139496
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a computer and a keyboard on it
+Imageid: 137967, extracted triplets: ['desk with computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 120.60329893139496
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 120.74179130634127
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a computer keyboard and a mouse on a desk
+Imageid: 455299, extracted triplets: ['mouse on desk'], mapped triplets: ['mouse on table', 'keyboard on desk', 'mouse on desk']
+Objective: 120.74179130634127
+PRIOR DISTANCE
+gt_keyboard on desk=1.0
+gt_mouse on table=1.0
+gt_mouse on desk=0.0
+gt_keyboard on desk=1.0
+Objective: 121.02409389278405
+gt_keyboard on desk=1.0
+gt_mouse on table=-0.0
+gt_mouse on desk=0.0
+gt_keyboard on desk=1.0
+----------------------------
+Caption: a man sitting at a desk with a laptop computer
+Imageid: 96832, extracted triplets: ['man at desk', 'desk with laptop computer'], mapped triplets: ['woman at desk', 'man at desk', 'person at desk', 'boy at desk', 'desk with computer', 'desk with laptop']
+Objective: 121.02409389278405
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+Objective: 120.30558373564793
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a computer monitor sitting on a wooden desk
+Imageid: 174511, extracted triplets: ['computer monitor sit on desk'], mapped triplets: ['computer sit on desk', 'laptop sit on desk']
+Objective: 120.30558373564793
+PRIOR DISTANCE
+gt_laptop sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_laptop sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_laptop sit on desk=0.0
+Objective: 120.11320997116123
+gt_laptop sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_laptop sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_laptop sit on desk=0.0
+----------------------------
+Caption: a desk with a laptop and two computer monitors
+Imageid: 537939, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 120.11320997116123
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 119.79529302963469
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a room with a desk with a computer and a laptop
+Imageid: 141278, extracted triplets: ['room with desk', 'desk with computer'], mapped triplets: ['room with computer', 'room with chair', 'room with floor', 'room with table', 'room with desk', 'table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 119.79529302963469
+PRIOR DISTANCE
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with computer=1.0
+gt_room with chair=0.0
+gt_desk with laptop=1.0
+gt_room with floor=0.0
+gt_room with floor=0.0
+gt_desk with laptop=0.0
+gt_room with table=1.0
+gt_desk with laptop=0.0
+gt_room with computer=1.0
+gt_room with table=-0.0
+gt_table with computer=0.0
+gt_room with desk=0.0
+gt_room with floor=0.0
+gt_room with chair=-0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 120.19876588078411
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with computer=1.0
+gt_room with chair=0.0
+gt_desk with laptop=1.0
+gt_room with floor=0.0
+gt_room with floor=0.0
+gt_desk with laptop=0.0
+gt_room with table=1.0
+gt_desk with laptop=1.0
+gt_room with computer=0.0
+gt_room with table=-0.0
+gt_table with computer=1.0
+gt_room with desk=0.0
+gt_room with floor=1.0
+gt_room with chair=-0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a laptop and a keyboard and a mouse
+Imageid: 195542, extracted triplets: ['desk with laptop'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop']
+Objective: 120.19876588078411
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+Objective: 120.55629281299726
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 315742, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['woman at table', 'man at table', 'people at table', 'man with woman', 'laptop with computer']
+Objective: 120.55629281299726
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_laptop with computer=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_man at table=0.0
+gt_laptop with computer=-0.0
+gt_people at table=1.0
+gt_man at table=1.0
+Objective: 119.93470886197034
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_laptop with computer=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_man at table=0.0
+gt_laptop with computer=-0.0
+gt_people at table=1.0
+gt_man at table=1.0
+----------------------------
+Caption: an office with a desk with a computer and a banana
+Imageid: 267932, extracted triplets: ['desk with computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 119.93470886197034
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=1.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 120.30336222905994
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=1.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a computer sitting on top of it
+Imageid: 569059, extracted triplets: ['desk with computer', 'computer sit on lamp', 'computer sit on bowl', 'computer sit on cup', 'computer sit on flower', 'computer sit on shade', 'computer sit on bag', 'computer sit on basket', 'computer sit on bat', 'computer sit on frame', 'computer sit on chair', 'computer sit on picture', 'computer sit on monitor', 'computer sit on desk', 'computer sit on tile'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer', 'computer sit on desk', 'computer sit on table', 'computer sit on desk', 'computer sit on counter', 'computer sit on table', 'computer sit on desk', 'computer sit on table', 'computer sit on desk', 'computer sit on table', 'computer sit on desk', 'computer sit on table', 'laptop sit backpack', 'computer sit backpack', 'laptop sit desk', 'computer sit desk', 'computer sit on desk', 'computer sit on table', 'laptop sit monitor', 'computer sit keyboard', 'computer sit on desk', 'computer sit on counter', 'computer sit on table', 'computer sit on desk', 'computer sit on table', 'computer sit on desk', 'computer sit on counter', 'computer sit on table', 'mouse sit on computer', 'laptop sit monitor', 'computer sit laptop', 'keyboard sit desk', 'laptop sit desk', 'computer sit desk', 'laptop sit table', 'computer sit table']
+Objective: 120.30336222905994
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_desk with computer=0.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_desk with laptop=1.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_desk with laptop=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_desk with laptop=0.0
+gt_table with computer=1.0
+gt_computer sit on counter=1.0
+gt_computer sit on counter=1.0
+gt_computer sit on counter=1.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_computer sit on table=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 120.45051838360423
+gt_desk with computer=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_desk with computer=0.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_desk with laptop=1.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_computer sit on desk=0.0
+gt_desk with laptop=0.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_computer sit on desk=1.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_computer sit on counter=1.0
+gt_computer sit on counter=1.0
+gt_computer sit on counter=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_computer sit on table=1.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 27620, extracted triplets: ['desk with laptop computer', 'laptop computer sit desk', 'laptop computer sit box', 'laptop computer sit bottle', 'laptop computer sit can', 'laptop computer sit bag', 'laptop computer sit helmet'], mapped triplets: ['desk with computer', 'desk with laptop', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk', 'computer sit desk', 'laptop sit desk', 'computer sit table', 'laptop sit table', 'laptop sit bottle', 'laptop sit glass', 'laptop sit can', 'computer sit desk', 'laptop sit chair', 'computer sit desk', 'laptop sit monitor', 'computer sit laptop']
+Objective: 120.45051838360423
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+Objective: 120.4952649240651
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a computer sitting on top of it
+Imageid: 472109, extracted triplets: ['desk with computer', 'computer sit book', 'computer sit phone', 'computer sit computer', 'computer sit apple', 'computer sit bottle', 'computer sit laptop', 'computer sit box', 'computer sit cabinet', 'computer sit tower', 'computer sit monitor', 'computer sit logo', 'computer sit wall', 'computer sit desk', 'computer sit keyboard', 'computer sit shelf'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer', 'laptop sit monitor', 'computer sit laptop', 'laptop sit desk', 'keyboard sit computer', 'computer sit book', 'laptop sit monitor', 'computer sit laptop', 'laptop sit laptop', 'computer sit laptop', 'computer sit keyboard', 'computer sit table', 'laptop sit monitor', 'computer sit laptop', 'laptop sit bottle', 'laptop sit glass', 'computer sit laptop', 'chair sit laptop', 'computer sit desk', 'laptop sit desk', 'computer sit keyboard', 'computer sit counter', 'laptop sit counter', 'laptop sit desk', 'computer sit desk', 'laptop sit desk', 'computer sit desk', 'laptop sit desk', 'computer sit desk', 'laptop sit monitor', 'computer sit keyboard', 'computer sit laptop', 'laptop sit monitor', 'computer sit keyboard', 'laptop sit desk', 'computer sit desk', 'laptop sit table', 'computer sit laptop', 'computer sit desk', 'computer sit keyboard', 'laptop sit keyboard', 'computer sit computer', 'laptop sit mouse', 'laptop sit shelf', 'computer sit desk', 'laptop sit desk']
+Objective: 120.4952649240651
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 119.91630071382677
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a black and white cat sitting on top of a laptop
+Imageid: 281208, extracted triplets: ['cat sit cup', 'cat sit cat', 'cat sit paper', 'cat sit monitor', 'cat sit keyboard'], mapped triplets: ['cat sit chair', 'cat sit computer', 'laptop sit laptop', 'cat sit keyboard', 'cat sit table', 'cat sit computer', 'cat sit laptop', 'laptop sit monitor', 'cat sit monitor', 'banana sit keyboard', 'mouse sit keyboard', 'cup sit keyboard', 'pizza sit keyboard', 'can sit keyboard', 'phone sit keyboard', 'book sit keyboard', 'computer sit keyboard', 'cat sit keyboard']
+Objective: 119.91630071382677
+PRIOR DISTANCE
+Objective: 119.91630071382677
+----------------------------
+Caption: a desk with a laptop and two computer monitors
+Imageid: 579548, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 119.91630071382677
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 119.85150506820231
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=-0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a computer monitor sitting on top of a desk
+Imageid: 127865, extracted triplets: ['computer monitor sit desk'], mapped triplets: ['screen sit desk', 'laptop sit desk', 'monitor sit desk']
+Objective: 119.85150506820231
+PRIOR DISTANCE
+Objective: 119.85150506820231
+----------------------------
+Caption: a laptop computer sitting on top of a desk
+Imageid: 86582, extracted triplets: ['laptop computer sit table', 'laptop computer sit desk', 'laptop computer sit laptop', 'laptop computer sit screen', 'laptop computer sit pot'], mapped triplets: ['laptop sit desk', 'computer sit desk', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk', 'computer computer laptop', 'keyboard computer computer', 'computer computer keyboard', 'computer computer table', 'laptop sit monitor', 'computer sit laptop', 'laptop sit table', 'computer sit table']
+Objective: 119.85150506820231
+PRIOR DISTANCE
+Objective: 119.85150506820231
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 31016, extracted triplets: ['desk with laptop computer', 'laptop computer sit lamp', 'laptop computer sit cup', 'laptop computer sit bag', 'laptop computer sit laptop', 'laptop computer sit screen', 'laptop computer sit picture', 'laptop computer sit desk'], mapped triplets: ['desk with computer', 'desk with laptop', 'computer sit table', 'laptop sit glass', 'computer sit keyboard', 'laptop sit chair', 'computer sit desk', 'computer computer laptop', 'keyboard computer computer', 'computer computer keyboard', 'computer computer table', 'laptop sit monitor', 'computer sit laptop', 'chair sit computer', 'bed sit computer', 'cup sit computer', 'woman sit laptop', 'computer sit laptop', 'chair sit laptop', 'computer sit desk', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk']
+Objective: 119.85150506820231
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+Objective: 120.00886571259979
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with two computer monitors and a keyboard
+Imageid: 225757, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 120.00886571259979
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=-0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 120.00097086702577
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a desk with three computer monitors and a laptop on it
+Imageid: 255165, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 120.00097086702577
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 120.226437101682
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a desk with a computer sitting on top of it
+Imageid: 560218, extracted triplets: ['desk with computer', 'computer sit lamp', 'computer sit phone', 'computer sit computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer', 'computer sit keyboard', 'computer sit desk', 'laptop sit monitor', 'computer sit laptop', 'laptop sit monitor', 'computer sit laptop', 'laptop sit laptop', 'computer sit laptop', 'computer sit keyboard', 'computer sit table']
+Objective: 120.226437101682
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 121.22653497012622
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a cup of coffee sitting on a counter next to a table
+Imageid: 576369, extracted triplets: ['cup sit on counter', 'counter next to table'], mapped triplets: ['laptop sit on counter', 'computer sit on counter', 'chair next to desk']
+Objective: 121.22653497012622
+PRIOR DISTANCE
+gt_laptop sit on counter=1.0
+gt_computer sit on counter=1.0
+gt_chair next to desk=0.0
+Objective: 122.12461581870029
+gt_laptop sit on counter=1.0
+gt_computer sit on counter=1.0
+gt_chair next to desk=0.0
+----------------------------
+Caption: a group of people sitting at a desk with laptops
+Imageid: 189376, extracted triplets: ['people at desk'], mapped triplets: ['person at desk', 'woman at desk', 'man at desk', 'boy at desk']
+Objective: 122.12461581870029
+PRIOR DISTANCE
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+Objective: 122.08659067106596
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+----------------------------
+Caption: a cat standing next to a box of pizza
+Imageid: 535602, extracted triplets: ['cat next to box', 'box of pizza'], mapped triplets: ['cat next to desk', 'cat next to computer', 'cat next to laptop', 'cat next to screen', 'cat next to keyboard', 'box of desk']
+Objective: 122.08659067106596
+PRIOR DISTANCE
+gt_cat next to screen=1.0
+Objective: 122.17912592199778
+gt_cat next to screen=-0.0
+----------------------------
+Caption: an open suitcase on a bed with a cell phone
+Imageid: 192212, extracted triplets: ['suitcase on bed', 'suitcase with phone'], mapped triplets: ['camera on bed', 'backpack on chair', 'desk with phone', 'room with phone', 'woman with phone']
+Objective: 122.17912592199778
+PRIOR DISTANCE
+gt_desk with phone=0.0
+gt_desk with phone=0.0
+gt_room with phone=0.0
+Objective: 122.2116444991434
+gt_desk with phone=0.0
+gt_desk with phone=0.0
+gt_room with phone=0.0
+----------------------------
+Caption: a computer mouse sitting next to a keyboard
+Imageid: 299785, extracted triplets: ['computer mouse next to keyboard'], mapped triplets: ['computer next to keyboard', 'laptop next to keyboard']
+Objective: 122.2116444991434
+PRIOR DISTANCE
+gt_laptop next to keyboard=1.0
+gt_laptop next to keyboard=-0.0
+Objective: 122.20782797820323
+gt_laptop next to keyboard=1.0
+gt_laptop next to keyboard=-0.0
+----------------------------
+Caption: a desk with a laptop and a computer monitor
+Imageid: 245664, extracted triplets: ['desk with laptop'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop']
+Objective: 122.20782797820323
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+Objective: 121.95744745403847
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a laptop and a computer monitor sitting on a desk
+Imageid: 97964, extracted triplets: ['computer monitor sit on desk'], mapped triplets: ['computer sit desk', 'laptop sit desk']
+Objective: 121.95744745403847
+PRIOR DISTANCE
+Objective: 121.95744745403847
+----------------------------
+Caption: a desk with two computer monitors and a laptop on it
+Imageid: 131138, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with screen', 'desk with monitor', 'computer with screen', 'computer with monitor']
+Objective: 121.95744745403847
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+Objective: 122.01948173872971
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_computer with screen=1.0
+gt_desk with screen=-0.0
+gt_computer with monitor=-0.0
+----------------------------
+Caption: a desk with a laptop and a computer on it
+Imageid: 562628, extracted triplets: ['desk with laptop'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop']
+Objective: 122.01948173872971
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+Objective: 122.03792532500604
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 375484, extracted triplets: ['desk with laptop computer'], mapped triplets: ['desk with computer', 'desk with laptop']
+Objective: 122.03792532500604
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=-0.0
+Objective: 121.88157767326706
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a bag with its contents laid out on a wooden table
+Imageid: 473069, extracted triplets: ['bag with book', 'bag with plate', 'bag with spoon', 'bag with bottle', 'bag with bag', 'bag on table'], mapped triplets: ['shelf with book', 'desk with book', 'table with book', 'desk with bottle', 'computer with computer', 'desk with desk', 'banana on table', 'fruit on table', 'vase on table', 'bottle on table', 'cup on table', 'laptop on table']
+Objective: 121.88157767326706
+PRIOR DISTANCE
+gt_laptop on table=0.0
+gt_banana on table=0.0
+gt_vase on table=0.0
+gt_fruit on table=0.0
+gt_computer with computer=0.0
+gt_table with book=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_banana on table=0.0
+gt_bottle on table=0.0
+gt_laptop on table=0.0
+gt_desk with desk=0.0
+gt_desk with bottle=0.0
+gt_shelf with book=0.0
+gt_desk with book=0.0
+gt_fruit on table=0.0
+gt_cup on table=-0.0
+gt_computer with computer=-0.0
+gt_table with book=-0.0
+gt_bottle on table=1.0
+gt_shelf with book=1.0
+gt_laptop on table=1.0
+gt_fruit on table=1.0
+gt_desk with desk=-0.0
+gt_desk with bottle=-0.0
+gt_desk with book=1.0
+Objective: 121.74641214929291
+gt_laptop on table=0.0
+gt_banana on table=0.0
+gt_vase on table=0.0
+gt_fruit on table=0.0
+gt_computer with computer=0.0
+gt_table with book=0.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_banana on table=0.0
+gt_bottle on table=0.0
+gt_laptop on table=0.0
+gt_desk with desk=0.0
+gt_desk with bottle=0.0
+gt_shelf with book=0.0
+gt_desk with book=0.0
+gt_fruit on table=0.0
+gt_cup on table=-0.0
+gt_computer with computer=-0.0
+gt_table with book=-0.0
+gt_bottle on table=1.0
+gt_shelf with book=1.0
+gt_laptop on table=1.0
+gt_fruit on table=1.0
+gt_desk with desk=-0.0
+gt_desk with bottle=-0.0
+gt_desk with book=1.0
+----------------------------
+Caption: a man sitting at a desk with a laptop computer
+Imageid: 231991, extracted triplets: ['man at desk', 'desk with laptop computer'], mapped triplets: ['woman at desk', 'man at desk', 'person at desk', 'boy at desk', 'desk with computer', 'desk with laptop']
+Objective: 121.74641214929291
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+Objective: 121.37839053185091
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_woman at desk=1.0
+gt_woman at desk=1.0
+gt_man at desk=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: an office with a desk with a computer and a laptop
+Imageid: 299952, extracted triplets: ['desk with computer'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer']
+Objective: 121.37839053185091
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+Objective: 121.00421452678232
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_table with computer=1.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a computer monitor and a keyboard
+Imageid: 230987, extracted triplets: ['desk with computer monitor'], mapped triplets: ['desk with screen', 'desk with monitor', 'desk with computer']
+Objective: 121.00421452678232
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with screen=-0.0
+gt_desk with computer=-0.0
+Objective: 121.5612573269915
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with screen=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a computer monitor and a laptop on a desk
+Imageid: 503826, extracted triplets: ['laptop on desk'], mapped triplets: ['laptop on desk', 'computer on desk', 'laptop on stand', 'laptop on chair', 'screen on desk', 'desk on chair', 'laptop on table']
+Objective: 121.5612573269915
+PRIOR DISTANCE
+gt_computer on desk=0.0
+gt_laptop on table=0.0
+gt_laptop on desk=0.0
+gt_computer on desk=0.0
+gt_screen on desk=1.0
+gt_laptop on stand=1.0
+gt_laptop on table=0.0
+gt_computer on desk=1.0
+gt_laptop on table=1.0
+gt_laptop on stand=-0.0
+gt_screen on desk=1.0
+gt_laptop on desk=1.0
+gt_laptop on chair=-0.0
+Objective: 121.59671417116209
+gt_computer on desk=0.0
+gt_laptop on table=0.0
+gt_laptop on desk=0.0
+gt_computer on desk=0.0
+gt_screen on desk=1.0
+gt_laptop on stand=1.0
+gt_laptop on table=0.0
+gt_computer on desk=0.0
+gt_laptop on table=1.0
+gt_laptop on stand=-0.0
+gt_screen on desk=1.0
+gt_laptop on desk=1.0
+gt_laptop on chair=-0.0
+----------------------------
+Caption: a desk with two computers and a computer on it
+Imageid: 249506, extracted triplets: ['desk with computer', 'desk with laptop', 'desk with screen', 'desk with monitor'], mapped triplets: ['table with computer', 'desk with laptop', 'chair with computer', 'desk with computer', 'desk with computer', 'desk with keyboard', 'desk with monitor', 'desk with laptop', 'computer with laptop', 'desk with computer', 'desk with monitor', 'desk with screen', 'desk with computer', 'desk with keyboard', 'desk with laptop', 'desk with screen', 'desk with monitor']
+Objective: 121.59671417116209
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_table with computer=1.0
+gt_desk with screen=-0.0
+gt_desk with screen=-0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+Objective: 121.5315124439002
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with monitor=1.0
+gt_desk with monitor=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with laptop=1.0
+gt_desk with keyboard=1.0
+gt_desk with keyboard=1.0
+gt_computer with laptop=-0.0
+gt_table with computer=1.0
+gt_desk with screen=-0.0
+gt_desk with screen=-0.0
+gt_chair with computer=0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+gt_desk with computer=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 130524, extracted triplets: ['desk with laptop computer', 'laptop computer sit lamp', 'laptop computer sit table', 'laptop computer sit pillow', 'laptop computer sit cup', 'laptop computer sit screen', 'laptop computer sit desk'], mapped triplets: ['desk with computer', 'desk with laptop', 'computer sit table', 'laptop sit desk', 'computer sit desk', 'laptop sit monitor', 'chair sit computer', 'bed sit computer', 'person sit laptop', 'woman sit laptop', 'computer sit laptop', 'mouse sit computer', 'chair sit laptop', 'laptop sit desk', 'computer sit desk', 'desk sit chair', 'keyboard sit computer', 'computer sit keyboard', 'computer sit table', 'woman sit computer', 'laptop sit glass', 'computer sit keyboard', 'laptop sit monitor', 'computer sit laptop', 'laptop sit table', 'screen sit desk', 'backpack sit desk', 'desk sit desk', 'lamp sit desk', 'desk sit chair', 'bed sit desk', 'laptop sit desk', 'camera sit desk', 'computer sit laptop', 'laptop sit laptop', 'man sit computer', 'chair sit computer', 'computer sit keyboard', 'computer sit desk', 'computer sit window', 'mouse sit desk']
+Objective: 121.5315124439002
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+Objective: 121.7953572358687
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=-0.0
+----------------------------

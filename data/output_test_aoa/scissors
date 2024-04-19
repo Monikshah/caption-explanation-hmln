@@ -1,0 +1,636 @@
+Caption: a man holding a pair of scissors
+Imageid: 157184, extracted triplets: ['man hold tie'], mapped triplets: ['woman hold knife', 'woman hold bear', 'woman hold man']
+Objective: 36.91710387452116
+PRIOR DISTANCE
+gt_woman hold bear=0.0
+gt_woman hold knife=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=1.0
+gt_woman hold knife=1.0
+gt_woman hold knife=0.0
+gt_woman hold bear=0.0
+gt_woman hold knife=0.0
+gt_woman hold man=1.0
+gt_woman hold bear=1.0
+gt_woman hold knife=1.0
+Objective: 37.090498838570724
+gt_woman hold bear=0.0
+gt_woman hold knife=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=1.0
+gt_woman hold knife=1.0
+gt_woman hold knife=0.0
+gt_woman hold bear=0.0
+gt_woman hold knife=0.0
+gt_woman hold man=1.0
+gt_woman hold bear=1.0
+gt_woman hold knife=1.0
+----------------------------
+Caption: a young child sitting at a table with a pair of scissors
+Imageid: 157102, extracted triplets: ['child at table'], mapped triplets: ['girl at table', 'chair at table']
+Objective: 37.090498838570724
+PRIOR DISTANCE
+gt_girl at table=1.0
+gt_chair at table=0.0
+gt_chair at table=1.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_chair at table=0.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_chair at table=1.0
+gt_girl at table=0.0
+gt_chair at table=0.0
+gt_chair at table=0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_girl at table=1.0
+gt_chair at table=-0.0
+Objective: 37.37726464280314
+gt_girl at table=1.0
+gt_chair at table=0.0
+gt_chair at table=1.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_chair at table=0.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_chair at table=1.0
+gt_girl at table=0.0
+gt_chair at table=0.0
+gt_chair at table=0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_girl at table=1.0
+gt_chair at table=-0.0
+----------------------------
+Caption: a woman wearing a tie and a hair
+Imageid: 433924, extracted triplets: ['woman wear tie'], mapped triplets: ['man wear tie']
+Objective: 37.37726464280314
+PRIOR DISTANCE
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_woman wear tie=1.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+Objective: 37.49367828026428
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_woman wear tie=1.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 379475, extracted triplets: ['desk with laptop computer'], mapped triplets: ['desk with computer', 'desk with laptop']
+Objective: 37.49367828026428
+PRIOR DISTANCE
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=0.0
+Objective: 37.917856385671755
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=0.0
+----------------------------
+Caption: a cutting board with a knife and an avocado and an orange
+Imageid: 554037, extracted triplets: ['board with knife'], mapped triplets: ['table with vegetable', 'plate with vegetable', 'board with knife']
+Objective: 37.917856385671755
+PRIOR DISTANCE
+gt_board with knife=0.0
+gt_table with vegetable=1.0
+gt_board with knife=0.0
+gt_board with knife=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=0.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=0.0
+gt_table with vegetable=0.0
+gt_plate with vegetable=1.0
+gt_table with vegetable=1.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=0.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=1.0
+Objective: 38.11706523336463
+gt_board with knife=0.0
+gt_table with vegetable=1.0
+gt_board with knife=0.0
+gt_board with knife=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=0.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=0.0
+gt_table with vegetable=0.0
+gt_plate with vegetable=1.0
+gt_table with vegetable=1.0
+gt_table with vegetable=0.0
+gt_board with knife=0.0
+gt_plate with vegetable=0.0
+gt_table with vegetable=0.0
+gt_board with knife=1.0
+gt_plate with vegetable=1.0
+----------------------------
+Caption: a man holding a bag of scissors
+Imageid: 254167, extracted triplets: ['man hold bag'], mapped triplets: []
+Objective: 38.11706523336463
+PRIOR DISTANCE
+Objective: 38.11706523336463
+----------------------------
+Caption: a person pouring a bowl of food in a bowl
+Imageid: 261182, extracted triplets: ['bowl of food', 'person in bowl'], mapped triplets: ['bowl of food', 'container of food', 'plate of broccoli', 'plate of meat', 'tray of food']
+Objective: 38.11706523336463
+PRIOR DISTANCE
+gt_bowl of food=1.0
+gt_plate of meat=1.0
+gt_bowl of food=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_plate of broccoli=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_plate of broccoli=0.0
+gt_tray of food=0.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_plate of broccoli=0.0
+gt_plate of meat=1.0
+gt_tray of food=1.0
+gt_bowl of food=1.0
+gt_container of food=1.0
+gt_bowl of food=1.0
+gt_plate of meat=1.0
+gt_tray of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_plate of meat=0.0
+gt_container of food=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_plate of meat=0.0
+gt_plate of broccoli=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_plate of meat=1.0
+gt_container of food=0.0
+gt_plate of broccoli=1.0
+gt_bowl of food=1.0
+gt_plate of meat=0.0
+gt_container of food=0.0
+gt_tray of food=-0.0
+Objective: 39.10452672164896
+gt_bowl of food=1.0
+gt_plate of meat=1.0
+gt_bowl of food=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_plate of broccoli=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_plate of broccoli=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_plate of broccoli=0.0
+gt_tray of food=0.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_plate of broccoli=0.0
+gt_plate of meat=1.0
+gt_tray of food=1.0
+gt_bowl of food=1.0
+gt_container of food=1.0
+gt_bowl of food=1.0
+gt_plate of meat=1.0
+gt_tray of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_plate of meat=0.0
+gt_container of food=1.0
+gt_plate of broccoli=1.0
+gt_tray of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_plate of meat=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_plate of meat=0.0
+gt_plate of broccoli=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_plate of meat=1.0
+gt_container of food=0.0
+gt_plate of broccoli=1.0
+gt_bowl of food=1.0
+gt_plate of meat=0.0
+gt_container of food=0.0
+gt_tray of food=-0.0
+----------------------------
+Caption: a person holding a pair of scissors
+Imageid: 479508, extracted triplets: ['person hold hand', 'person hold finger'], mapped triplets: ['woman hold sign', 'man hold face', 'girl hold paper', 'man hold head', 'woman hold face', 'man hold head']
+Objective: 39.10452672164896
+PRIOR DISTANCE
+gt_man hold head=1.0
+gt_man hold head=1.0
+gt_man hold head=0.0
+gt_man hold head=0.0
+gt_girl hold paper=1.0
+gt_girl hold paper=1.0
+gt_woman hold head=1.0
+gt_woman hold head=1.0
+gt_girl hold paper=0.0
+Objective: 39.10836370802669
+gt_man hold head=1.0
+gt_man hold head=1.0
+gt_man hold head=0.0
+gt_man hold head=0.0
+gt_girl hold paper=1.0
+gt_girl hold paper=1.0
+gt_woman hold head=1.0
+gt_woman hold head=1.0
+gt_girl hold paper=0.0
+----------------------------
+Caption: a young boy sitting at a table with a pair of scissors
+Imageid: 285302, extracted triplets: ['boy at table'], mapped triplets: ['girl at table', 'man at table', 'chair at table']
+Objective: 39.10836370802669
+PRIOR DISTANCE
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_girl at table=1.0
+gt_chair at table=0.0
+gt_man at table=1.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at table=0.0
+gt_chair at table=1.0
+gt_man at table=1.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_man at table=1.0
+gt_chair at table=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+gt_girl at table=0.0
+gt_chair at table=0.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_man at table=1.0
+gt_chair at table=1.0
+gt_woman at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_chair at table=0.0
+gt_man at table=0.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=1.0
+gt_man at table=0.0
+gt_man at table=1.0
+gt_woman at table=0.0
+gt_girl at table=1.0
+gt_man at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_girl at table=1.0
+gt_chair at table=-0.0
+Objective: 39.14054337266175
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_girl at table=1.0
+gt_chair at table=0.0
+gt_man at table=1.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at table=0.0
+gt_chair at table=1.0
+gt_man at table=1.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_man at table=1.0
+gt_chair at table=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+gt_girl at table=0.0
+gt_chair at table=0.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_man at table=1.0
+gt_chair at table=1.0
+gt_woman at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_chair at table=0.0
+gt_man at table=0.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=1.0
+gt_man at table=0.0
+gt_man at table=1.0
+gt_woman at table=0.0
+gt_girl at table=1.0
+gt_man at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_girl at table=1.0
+gt_chair at table=-0.0
+----------------------------
+Caption: a baby sitting in a high chair with a birthday cake
+Imageid: 421564, extracted triplets: ['baby sit chair'], mapped triplets: ['woman sit chair', 'girl sit table']
+Objective: 39.14054337266175
+PRIOR DISTANCE
+Objective: 39.14054337266175
+----------------------------
+Caption: a person holding a pair of scissors in their hand
+Imageid: 110765, extracted triplets: ['person hold hand', 'person in hand'], mapped triplets: ['woman hold sign', 'man hold face', 'girl hold paper', 'man hold head', 'man in hand', 'woman in shirt', 'girl in sock']
+Objective: 39.14054337266175
+PRIOR DISTANCE
+gt_woman in shirt=0.0
+gt_man hold head=1.0
+gt_woman in shirt=0.0
+gt_man in hand=0.0
+gt_woman in shirt=1.0
+gt_man in hand=0.0
+gt_woman in shirt=0.0
+gt_man hold head=0.0
+gt_woman in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_girl hold paper=1.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in hand=0.0
+gt_woman in shirt=1.0
+gt_man in hand=0.0
+gt_woman in shirt=0.0
+gt_girl in sock=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=1.0
+gt_man in hand=1.0
+gt_girl hold paper=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=0.0
+gt_woman in shirt=1.0
+gt_girl in sock=0.0
+gt_man in hand=1.0
+gt_woman in shirt=1.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman hold head=1.0
+gt_woman in shirt=0.0
+gt_woman in hand=1.0
+gt_man in hand=0.0
+gt_woman in hand=1.0
+gt_woman in shirt=0.0
+gt_girl in sock=0.0
+gt_woman in shirt=0.0
+gt_man in hand=0.0
+gt_girl in sock=0.0
+gt_girl hold paper=0.0
+gt_woman in shirt=0.0
+Objective: 40.55505388241373
+gt_woman in shirt=0.0
+gt_man hold head=1.0
+gt_woman in shirt=0.0
+gt_man in hand=0.0
+gt_woman in shirt=1.0
+gt_man in hand=0.0
+gt_woman in shirt=0.0
+gt_man hold head=0.0
+gt_woman in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_girl hold paper=1.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in hand=0.0
+gt_woman in shirt=1.0
+gt_man in hand=0.0
+gt_woman in shirt=0.0
+gt_girl in sock=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=1.0
+gt_man in hand=1.0
+gt_girl hold paper=1.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_man in hand=0.0
+gt_woman in shirt=1.0
+gt_girl in sock=0.0
+gt_man in hand=1.0
+gt_woman in shirt=1.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman hold head=1.0
+gt_woman in shirt=0.0
+gt_woman in hand=1.0
+gt_man in hand=0.0
+gt_woman in hand=1.0
+gt_woman in shirt=0.0
+gt_girl in sock=0.0
+gt_woman in shirt=0.0
+gt_man in hand=-0.0
+gt_girl in sock=1.0
+gt_girl hold paper=0.0
+gt_woman in shirt=0.0
+----------------------------
+Caption: a cat sitting next to a window with a pair of scissors
+Imageid: 195353, extracted triplets: ['cat next to window'], mapped triplets: []
+Objective: 40.55505388241373
+PRIOR DISTANCE
+Objective: 40.55505388241373
+----------------------------
+Caption: a desk with a computer monitor and a keyboard
+Imageid: 230987, extracted triplets: ['desk with computer monitor'], mapped triplets: ['desk with monitor', 'desk with computer']
+Objective: 40.55505388241373
+PRIOR DISTANCE
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+Objective: 39.99823990125005
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+----------------------------

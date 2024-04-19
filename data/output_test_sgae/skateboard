@@ -1,0 +1,5688 @@
+Caption: a woman riding a skateboard in front of a street
+Imageid: 216228, extracted triplets: ['woman ride skateboard'], mapped triplets: ['woman ride sidewalk', 'woman ride street', 'woman ride helmet', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard']
+Objective: 79.00295715410695
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.95727306605963
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young boy riding a skateboard on a ramp
+Imageid: 448365, extracted triplets: ['boy ride skateboard'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.95727306605963
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 78.71976212951198
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a group of people riding skateboards on a street
+Imageid: 472854, extracted triplets: ['people ride skateboard', 'people on street'], mapped triplets: ['boy ride skateboard', 'child ride skateboard', 'girl ride skateboard', 'man ride skateboard', 'person ride skateboard', 'woman ride skateboard', 'people ride skateboard', 'woman on sidewalk', 'man on sidewalk', 'person on sidewalk', 'street on sidewalk', 'people on sidewalk', 'people on street']
+Objective: 78.71976212951198
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_people on street=0.0
+gt_child ride skateboard=1.0
+gt_people on street=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people on street=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people on street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_people on street=1.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_people ride skateboard=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people on street=0.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on street=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=1.0
+gt_man on sidewalk=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_people on street=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=1.0
+Objective: 78.54890048699674
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_people on street=0.0
+gt_child ride skateboard=1.0
+gt_people on street=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people on street=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people on street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_people on street=1.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_people ride skateboard=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_people on street=0.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on street=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=1.0
+gt_man on sidewalk=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_people on street=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard down a sidewalk
+Imageid: 160195, extracted triplets: ['man ride skateboard', 'man ride sidewalk'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'boy ride sidewalk', 'man ride sidewalk', 'woman ride sidewalk']
+Objective: 78.54890048699674
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.88019711085406
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a group of young children riding skateboards at a skate park
+Imageid: 361472, extracted triplets: ['children ride skateboard', 'children at park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'person ride skateboard', 'child ride skateboard', 'people ride skateboard', 'people at bus']
+Objective: 78.88019711085406
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_child ride skateboard=1.0
+gt_people at bus=1.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_people ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=1.0
+Objective: 78.95004817449491
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_child ride skateboard=1.0
+gt_people at bus=1.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_people ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 57286, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 78.95004817449491
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.02592690141655
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a dog sitting on the ground next to a person
+Imageid: 255209, extracted triplets: ['dog sit sidewalk', 'dog sit street', 'dog next to person'], mapped triplets: ['dog sit skateboard', 'man sit street', 'man next to girl', 'man next to man']
+Objective: 79.02592690141655
+PRIOR DISTANCE
+gt_man next to man=0.0
+Objective: 79.02592690141655
+gt_man next to man=0.0
+----------------------------
+Caption: a young boy riding a skateboard on the beach
+Imageid: 126257, extracted triplets: ['boy ride skateboard'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.02592690141655
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.05254681457043
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 272323, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.05254681457043
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.68968268511114
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 12817, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 78.68968268511114
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.65443510588113
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard down a street
+Imageid: 348730, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.65443510588113
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.42765095897602
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a street
+Imageid: 414385, extracted triplets: ['man ride skateboard', 'man on street'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'woman on sidewalk', 'man on sidewalk', 'street on sidewalk', 'boy on sidewalk', 'people on sidewalk', 'person on sidewalk', 'man on street']
+Objective: 79.42765095897602
+PRIOR DISTANCE
+gt_boy on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on street=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=0.0
+gt_man on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on street=1.0
+gt_woman on street=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=-0.0
+gt_man on sidewalk=0.0
+gt_boy ride skateboard=1.0
+gt_man on street=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.85272599351421
+gt_boy on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on street=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=0.0
+gt_man on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on street=1.0
+gt_woman on street=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=1.0
+gt_man on sidewalk=1.0
+gt_boy ride skateboard=1.0
+gt_man on street=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 377111, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 78.85272599351421
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.73858754763523
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 535306, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.73858754763523
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.67541564167796
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a stairs
+Imageid: 536791, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 78.67541564167796
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.74597334635492
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a trick on a skateboard in a street
+Imageid: 302599, extracted triplets: ['man ride truck', 'man ride skateboard', 'man on skateboard', 'skateboard in curb', 'skateboard in car', 'skateboard in truck', 'skateboard in platform', 'skateboard in fence', 'skateboard in pole'], mapped triplets: ['person ride board', 'boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'person on skateboard', 'man on board', 'man on skateboard', 'skateboard in street', 'skateboard in street', 'skateboard in road', 'skateboard in board', 'skateboard in street', 'skateboard in grass', 'skateboard in air', 'skateboard in road', 'skateboard in build', 'skateboard in board', 'skateboard in sand', 'skateboard in street', 'skateboard in grass', 'skateboard in road', 'skateboard in street', 'skateboard in hand']
+Objective: 78.74597334635492
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_skateboard in board=0.0
+gt_skateboard in board=0.0
+gt_man ride skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_skateboard in board=0.0
+gt_skateboard in board=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_skateboard in hand=-0.0
+gt_person ride board=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_skateboard in board=0.0
+gt_skateboard in board=0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_girl ride skateboard=1.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 78.5865340155595
+gt_boy ride skateboard=0.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_skateboard in street=1.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_skateboard in board=0.0
+gt_skateboard in board=0.0
+gt_man ride skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_skateboard in board=0.0
+gt_skateboard in board=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_skateboard in road=0.0
+gt_skateboard in hand=-0.0
+gt_person ride board=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_skateboard in board=0.0
+gt_skateboard in board=0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_girl ride skateboard=1.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard in a street
+Imageid: 160351, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.5865340155595
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.66369034061199
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 532211, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 78.66369034061199
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 78.67090958809592
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard down a street
+Imageid: 230884, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.67090958809592
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.57745537429683
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard down a city street
+Imageid: 408449, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.57745537429683
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.47833022122387
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a street
+Imageid: 248051, extracted triplets: ['man on skateboard', 'man on street'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'woman on sidewalk', 'man on sidewalk', 'street on sidewalk', 'boy on sidewalk', 'people on sidewalk', 'person on sidewalk', 'man on street']
+Objective: 78.47833022122387
+PRIOR DISTANCE
+gt_boy on sidewalk=1.0
+gt_people on sidewalk=0.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_man on skateboard=0.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_person on skateboard=0.0
+gt_man on sidewalk=1.0
+gt_man on skateboard=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_person on skateboard=0.0
+gt_man on street=0.0
+gt_man on skateboard=0.0
+gt_person on sidewalk=1.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_man on street=0.0
+gt_street on sidewalk=0.0
+gt_man on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on skateboard=0.0
+gt_woman on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on street=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_people on sidewalk=1.0
+gt_man on street=1.0
+gt_woman on street=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on skateboard=-0.0
+gt_man on sidewalk=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_man on street=1.0
+gt_person on skateboard=1.0
+Objective: 78.58269700215872
+gt_boy on sidewalk=1.0
+gt_people on sidewalk=0.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_man on skateboard=0.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_person on skateboard=0.0
+gt_man on sidewalk=1.0
+gt_man on skateboard=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_person on skateboard=0.0
+gt_man on street=0.0
+gt_man on skateboard=0.0
+gt_person on sidewalk=1.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_man on street=0.0
+gt_street on sidewalk=0.0
+gt_man on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on skateboard=0.0
+gt_woman on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on street=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_people on sidewalk=1.0
+gt_man on street=1.0
+gt_woman on street=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on skateboard=-0.0
+gt_man on sidewalk=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_man on street=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a person riding a skateboard down a ramp
+Imageid: 358982, extracted triplets: ['person ride skateboard'], mapped triplets: ['person ride skateboard', 'man ride skateboard', 'woman ride skateboard', 'boy ride skateboard', 'girl ride skateboard', 'child ride skateboard']
+Objective: 78.58269700215872
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 78.89784625152667
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard in a skate park
+Imageid: 274455, extracted triplets: ['man ride skateboard', 'man in park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'man in street']
+Objective: 78.89784625152667
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man in street=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man in street=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man in street=0.0
+gt_man ride skateboard=0.0
+gt_man in street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.97839876228863
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man in street=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man in street=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man in street=0.0
+gt_man ride skateboard=0.0
+gt_man in street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a woman sitting on the ground next to a skateboard
+Imageid: 386204, extracted triplets: ['woman sit sidewalk', 'woman sit street', 'woman sit road', 'woman next to skateboard'], mapped triplets: ['woman sit board', 'woman sit skateboard', 'woman sit skateboard', 'person sit skateboard', 'person sit skateboard', 'man next to skateboard']
+Objective: 78.97839876228863
+PRIOR DISTANCE
+gt_man next to skateboard=0.0
+Objective: 78.96868623029374
+gt_man next to skateboard=0.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 176799, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 78.96868623029374
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 78.99145360702003
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 576566, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 78.99145360702003
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.00088489230828
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a skate park
+Imageid: 305799, extracted triplets: ['man ride skateboard', 'man on park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'people on sidewalk', 'person on sidewalk']
+Objective: 79.00088489230828
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 78.7363451842858
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 107853, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 78.7363451842858
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.81735985186525
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a person doing a trick on a skateboard in the air
+Imageid: 10526, extracted triplets: ['person on skateboard'], mapped triplets: ['child on skateboard', 'woman on skateboard', 'person on sidewalk', 'person on person', 'girl on skateboard', 'man on skateboard', 'people on skateboard', 'boy on skateboard', 'person on skateboard']
+Objective: 78.81735985186525
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_people on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on person=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on sidewalk=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_people on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_person on person=1.0
+gt_girl on skateboard=0.0
+gt_people on skateboard=-0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.96351597729209
+gt_boy on skateboard=0.0
+gt_people on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on person=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on sidewalk=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_people on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_person on person=1.0
+gt_girl on skateboard=0.0
+gt_people on skateboard=-0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a bench
+Imageid: 201207, extracted triplets: ['man on skateboard', 'man on bench'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'man on chair', 'man on bench']
+Objective: 78.96351597729209
+PRIOR DISTANCE
+gt_woman on bench=1.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_man on skateboard=0.0
+gt_man on chair=1.0
+gt_woman on bench=0.0
+gt_person on skateboard=0.0
+gt_man on bench=1.0
+gt_man on skateboard=0.0
+gt_man on chair=1.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_woman on bench=0.0
+gt_man on bench=0.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_man on bench=0.0
+gt_person on skateboard=1.0
+Objective: 78.81431636746636
+gt_woman on bench=1.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_man on skateboard=0.0
+gt_man on chair=1.0
+gt_woman on bench=0.0
+gt_person on skateboard=0.0
+gt_man on bench=1.0
+gt_man on skateboard=0.0
+gt_man on chair=1.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_woman on bench=0.0
+gt_man on bench=0.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_man on bench=0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a wall
+Imageid: 375324, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 78.81431636746636
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.1124325264089
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young boy riding a skateboard on a street
+Imageid: 384723, extracted triplets: ['boy ride skateboard'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.1124325264089
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 80.40910193370593
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the street
+Imageid: 406070, extracted triplets: ['man on skateboard', 'skateboard in street'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in road', 'bus in street', 'skateboard in street']
+Objective: 80.40910193370593
+PRIOR DISTANCE
+gt_skateboard in street=1.0
+gt_bus in street=1.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_bus in street=0.0
+gt_man on skateboard=0.0
+gt_bus in street=1.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_bus in street=1.0
+gt_bus in street=0.0
+gt_skateboard in street=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in road=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_bus in street=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_bus in street=0.0
+gt_woman on skateboard=-0.0
+gt_skateboard in road=0.0
+gt_skateboard in street=-0.0
+gt_person on skateboard=1.0
+Objective: 80.51684258801204
+gt_skateboard in street=1.0
+gt_bus in street=1.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_bus in street=0.0
+gt_man on skateboard=0.0
+gt_bus in street=1.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_bus in street=1.0
+gt_bus in street=0.0
+gt_skateboard in street=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard in road=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_bus in street=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_bus in street=0.0
+gt_woman on skateboard=-0.0
+gt_skateboard in road=0.0
+gt_skateboard in street=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard at a skate park
+Imageid: 137844, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 80.51684258801204
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 80.33960689188014
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 185950, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 80.33960689188014
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 80.51038160622751
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard down a snow covered slope
+Imageid: 292478, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 80.51038160622751
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.41360959801521
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young man riding a skateboard down a rail
+Imageid: 146837, extracted triplets: ['man ride skateboard', 'man ride rail'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'person ride rail', 'skateboard ride rail', 'man ride rail']
+Objective: 79.41360959801521
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.1539629496787
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young boy riding a skateboard at a skate park
+Imageid: 160126, extracted triplets: ['boy ride skateboard', 'boy at park'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'boy at pole']
+Objective: 79.1539629496787
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy at pole=-0.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 80.49257477945287
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy at pole=-0.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard at a skate park
+Imageid: 55059, extracted triplets: ['man ride skateboard', 'man at park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'people at bus']
+Objective: 80.49257477945287
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.4440801783825
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 360181, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.4440801783825
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.46261871669492
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man flying through the air on a skateboard
+Imageid: 538122, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.46261871669492
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.33461573030739
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 208311, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.33461573030739
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.40494600078763
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard at a skate park
+Imageid: 172408, extracted triplets: ['man on skateboard', 'man at park'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'people at bus']
+Objective: 79.40494600078763
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.38598714057026
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a dog sitting on top of a skateboard
+Imageid: 438915, extracted triplets: ['dog sit letter', 'dog sit head', 'dog sit tag', 'dog sit person'], mapped triplets: ['person sit skateboard', 'dog sit skateboard', 'man sit skateboard', 'person sit skateboard', 'woman sit skateboard', 'dog sit skateboard']
+Objective: 79.38598714057026
+PRIOR DISTANCE
+Objective: 79.38598714057026
+----------------------------
+Caption: a young boy riding a skateboard on a street
+Imageid: 87476, extracted triplets: ['boy ride skateboard'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.38598714057026
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.75667071723053
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 262148, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.75667071723053
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.77228170206064
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard at a skate park
+Imageid: 225494, extracted triplets: ['man ride skateboard', 'man at park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'people at bus']
+Objective: 79.77228170206064
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 80.12305536656524
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young boy riding a skateboard on a table
+Imageid: 125071, extracted triplets: ['boy ride skateboard'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 80.12305536656524
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.18120833133413
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 482690, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.18120833133413
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.09023575248193
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 202389, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.09023575248193
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.13554355063985
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 373007, extracted triplets: ['man on skateboard', 'skateboard in sky'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 79.13554355063985
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 79.19958727701118
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 426532, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.19958727701118
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.42322815302046
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a person riding a skateboard down a street
+Imageid: 574666, extracted triplets: ['person ride skateboard'], mapped triplets: ['person ride skateboard', 'man ride skateboard', 'woman ride skateboard', 'boy ride skateboard', 'girl ride skateboard', 'child ride skateboard']
+Objective: 79.42322815302046
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.29659865074929
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a group of people sitting on benches in a park
+Imageid: 460461, extracted triplets: ['people in park'], mapped triplets: ['person in helmet', 'person in jean', 'person in shoe']
+Objective: 79.29659865074929
+PRIOR DISTANCE
+gt_person in helmet=0.0
+gt_person in jean=1.0
+gt_person in shoe=1.0
+gt_person in helmet=-0.0
+Objective: 79.49909219623663
+gt_person in helmet=0.0
+gt_person in jean=1.0
+gt_person in shoe=1.0
+gt_person in helmet=-0.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a rail
+Imageid: 307873, extracted triplets: ['man on skateboard', 'man on rail'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'man on skateboard', 'man on rail']
+Objective: 79.49909219623663
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.41609409069608
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 208808, extracted triplets: ['skateboard in air'], mapped triplets: ['skateboard in air']
+Objective: 79.41609409069608
+PRIOR DISTANCE
+gt_skateboard in air=0.0
+gt_skateboard in air=1.0
+Objective: 79.41798145773936
+gt_skateboard in air=0.0
+gt_skateboard in air=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 310796, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.41798145773936
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.35140197602345
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 125472, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 79.35140197602345
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 79.36529448071346
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 382041, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.36529448071346
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.48932270347416
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 110551, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.48932270347416
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.46413198116548
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard at a skate park
+Imageid: 223300, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.46413198116548
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.69251408597034
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young boy riding a skateboard at a skate park
+Imageid: 124647, extracted triplets: ['boy ride skateboard', 'boy at park'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'boy at pole']
+Objective: 79.69251408597034
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy at pole=-0.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.35939630062587
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy at pole=-0.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man standing on a skateboard on a ramp
+Imageid: 195594, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.35939630062587
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.3772217513688
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a trick on a skateboard on a ramp
+Imageid: 456521, extracted triplets: ['man ride skateboard', 'man ride finger', 'man on skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'person ride board', 'person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.3772217513688
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_person ride board=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+gt_person on skateboard=1.0
+Objective: 79.13325470748013
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_person ride board=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a trick on a skateboard down a ramp
+Imageid: 322719, extracted triplets: ['man on skateboard', 'man ride board'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'boy ride skateboard', 'man ride skateboard', 'person ride skateboard', 'woman ride skateboard', 'child ride skateboard', 'people ride skateboard', 'man ride board']
+Objective: 79.13325470748013
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_people ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_man ride board=-0.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_person on skateboard=1.0
+gt_people ride skateboard=1.0
+Objective: 80.45783213939458
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_people ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_man ride board=-0.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_child ride skateboard=-0.0
+gt_person on skateboard=1.0
+gt_people ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in a park
+Imageid: 256868, extracted triplets: ['man on skateboard', 'man in park'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'man in street']
+Objective: 80.45783213939458
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man in street=1.0
+gt_man on skateboard=0.0
+gt_man in street=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 80.41537269895105
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man in street=1.0
+gt_man on skateboard=0.0
+gt_man in street=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 426203, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 80.41537269895105
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 80.59443867535568
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 433136, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 80.59443867535568
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 80.41247140092723
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 514366, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 80.41247140092723
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 80.53955090267348
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man and a child on a skateboard
+Imageid: 572182, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 80.53955090267348
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 80.53405829101908
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a woman riding a skateboard in a street
+Imageid: 116574, extracted triplets: ['woman ride skateboard'], mapped triplets: ['woman ride sidewalk', 'woman ride street', 'woman ride helmet', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard']
+Objective: 80.53405829101908
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 80.37035059857263
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man is walking down a street with a skateboard
+Imageid: 80117, extracted triplets: ['man with skateboard'], mapped triplets: ['boy with skateboard', 'people with skateboard', 'girl with skateboard', 'woman with skateboard', 'man with skateboard']
+Objective: 80.37035059857263
+PRIOR DISTANCE
+gt_people with skateboard=0.0
+gt_man with skateboard=0.0
+gt_people with skateboard=0.0
+gt_people with skateboard=0.0
+gt_girl with skateboard=-0.0
+gt_boy with skateboard=1.0
+gt_people with skateboard=-0.0
+gt_man with skateboard=-0.0
+Objective: 80.16442715727457
+gt_people with skateboard=0.0
+gt_man with skateboard=0.0
+gt_people with skateboard=0.0
+gt_people with skateboard=0.0
+gt_girl with skateboard=-0.0
+gt_boy with skateboard=1.0
+gt_people with skateboard=-0.0
+gt_man with skateboard=-0.0
+----------------------------
+Caption: a man riding a skateboard down a street
+Imageid: 515540, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 80.16442715727457
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.0767882265202
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a cat is sitting on the floor next to a skateboard
+Imageid: 42956, extracted triplets: ['cat next to skateboard'], mapped triplets: ['dog next to skateboard']
+Objective: 79.0767882265202
+PRIOR DISTANCE
+gt_dog next to skateboard=0.0
+gt_dog next to skateboard=0.0
+Objective: 79.11133202261371
+gt_dog next to skateboard=0.0
+gt_dog next to skateboard=-0.0
+----------------------------
+Caption: a man riding a skateboard at a skate park
+Imageid: 84000, extracted triplets: ['man ride skateboard', 'man at park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'people at bus']
+Objective: 79.11133202261371
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 80.25663337615006
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard in a parking lot
+Imageid: 79975, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 80.25663337615006
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.34964410514053
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 456552, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.34964410514053
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.05747519622888
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young boy doing a trick on a skateboard
+Imageid: 230964, extracted triplets: ['boy on skateboard'], mapped triplets: ['child on skateboard', 'person on skateboard', 'man on skateboard', 'woman on skateboard', 'girl on skateboard', 'boy on skateboard']
+Objective: 79.05747519622888
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_girl on skateboard=0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.05157548033542
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_girl on skateboard=0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 7593, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.05157548033542
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.06352064563322
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a street
+Imageid: 152258, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.06352064563322
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.27049512429426
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a young man riding a skateboard on a skate park
+Imageid: 123137, extracted triplets: ['man ride skateboard', 'man on park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'people on sidewalk', 'person on sidewalk']
+Objective: 79.27049512429426
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 80.42625188343321
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=1.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a sidewalk
+Imageid: 177567, extracted triplets: ['man ride skateboard', 'man on sidewalk'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'person on sidewalk', 'people on sidewalk', 'man on sidewalk']
+Objective: 80.42625188343321
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=-0.0
+gt_man on sidewalk=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.0380238872039
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=1.0
+gt_man on sidewalk=0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 39731, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.0380238872039
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.03804563800362
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man and a child on a skateboard
+Imageid: 426878, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.03804563800362
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.04952947441336
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard at a skate park
+Imageid: 450559, extracted triplets: ['man on skateboard', 'man at park'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'people at bus']
+Objective: 79.04952947441336
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.92102208534206
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a young boy standing on a skateboard
+Imageid: 560918, extracted triplets: ['boy on skateboard'], mapped triplets: ['child on skateboard', 'person on skateboard', 'man on skateboard', 'woman on skateboard', 'girl on skateboard', 'boy on skateboard']
+Objective: 78.92102208534206
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_girl on skateboard=0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.04302946466208
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_girl on skateboard=0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 465911, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.04302946466208
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.0615594470441
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man flying through the air on a skateboard
+Imageid: 417416, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.0615594470441
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 78.98604558162978
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man and a woman holding a skateboard
+Imageid: 243989, extracted triplets: ['woman hold skateboard'], mapped triplets: ['man hold skateboard', 'boy hold skateboard']
+Objective: 78.98604558162978
+PRIOR DISTANCE
+gt_man hold skateboard=0.0
+gt_man hold skateboard=0.0
+gt_man hold skateboard=0.0
+gt_boy hold skateboard=1.0
+Objective: 79.2052058112157
+gt_man hold skateboard=0.0
+gt_man hold skateboard=0.0
+gt_man hold skateboard=0.0
+gt_boy hold skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard at the air
+Imageid: 581357, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.2052058112157
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.20960916873935
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a young boy doing a trick on a skateboard at a skate park
+Imageid: 145831, extracted triplets: ['boy on skateboard', 'boy at park'], mapped triplets: ['child on skateboard', 'person on skateboard', 'man on skateboard', 'woman on skateboard', 'girl on skateboard', 'boy on skateboard', 'boy at pole']
+Objective: 79.20960916873935
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_boy at pole=-0.0
+gt_girl on skateboard=0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.20754962587577
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_child on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_child on skateboard=0.0
+gt_man on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_boy at pole=-0.0
+gt_girl on skateboard=0.0
+gt_child on skateboard=-0.0
+gt_boy on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 222648, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.20754962587577
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.20891044951998
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 251857, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.20891044951998
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.10621309731697
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 460454, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.10621309731697
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.06048062652451
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man standing on a skateboard at a skate park
+Imageid: 325593, extracted triplets: ['man on skateboard', 'man at park'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'people at bus']
+Objective: 79.06048062652451
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.19574478282223
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 283203, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'skateboard in air']
+Objective: 79.19574478282223
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+Objective: 79.19438520888187
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in air=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_skateboard in air=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a young boy riding a skateboard on a street
+Imageid: 442463, extracted triplets: ['boy ride skateboard'], mapped triplets: ['child ride skateboard', 'boy ride rail', 'person ride rail', 'man ride rail', 'skateboard ride sidewalk', 'skateboard ride rail', 'skateboard ride street', 'girl ride skateboard', 'boy ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.19438520888187
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 80.40750630650663
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_child ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_person ride rail=1.0
+gt_skateboard ride rail=-0.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_child ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard in a parking lot
+Imageid: 46269, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 80.40750630650663
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=-0.0
+gt_woman ride skateboard=-0.0
+gt_girl ride skateboard=1.0
+Objective: 79.46415676709366
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 526126, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.46415676709366
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.48919953907244
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard at a skate park
+Imageid: 378673, extracted triplets: ['man on skateboard', 'man at park'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard', 'people at bus']
+Objective: 79.48919953907244
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.34744601165865
+gt_people at bus=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_people at bus=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_people at bus=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a trick on a skateboard
+Imageid: 381262, extracted triplets: ['man ride skateboard', 'man ride grind', 'man on skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'man ride skateboard', 'person ride skateboard', 'people ride skateboard', 'person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.34744601165865
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_people ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+gt_person on skateboard=1.0
+gt_people ride skateboard=1.0
+Objective: 79.78749649294366
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_people ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+gt_person on skateboard=1.0
+gt_people ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 492814, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.78749649294366
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.42138519807382
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard at a skate park
+Imageid: 146865, extracted triplets: ['man ride skateboard', 'man at park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'people at bus']
+Objective: 79.42138519807382
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.86483823164319
+gt_boy ride skateboard=0.0
+gt_people at bus=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at bus=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people at bus=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a wall
+Imageid: 276215, extracted triplets: ['man ride skateboard', 'man on wall'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'boy on wall', 'man on wall']
+Objective: 79.86483823164319
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman on wall=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on wall=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_man on wall=-0.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.84770715757242
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman on wall=1.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on wall=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_man on wall=-0.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a black and white photo of a woman doing a trick on a skateboard
+Imageid: 185639, extracted triplets: ['woman on skateboard'], mapped triplets: ['person on skateboard', 'girl on skateboard', 'man on skateboard', 'woman on skateboard']
+Objective: 79.84770715757242
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_girl on skateboard=0.0
+gt_person on skateboard=1.0
+Objective: 79.9462659638532
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=-0.0
+gt_woman on skateboard=-0.0
+gt_girl on skateboard=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a street
+Imageid: 553942, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 79.9462659638532
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.35644198955077
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man is standing on a skateboard
+Imageid: 307523, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.35644198955077
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.39886712234062
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 392640, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.39886712234062
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.42495158111646
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 318314, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.42495158111646
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.47525872118754
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard
+Imageid: 149375, extracted triplets: ['man on skateboard'], mapped triplets: ['person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.47525872118754
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+Objective: 79.43161744963719
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man on skateboard=-0.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a trick on a skateboard on a ramp
+Imageid: 3103, extracted triplets: ['man ride skateboard', 'man on skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'person on skateboard', 'man on board', 'man on skateboard']
+Objective: 79.43161744963719
+PRIOR DISTANCE
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=-0.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+gt_person on skateboard=1.0
+Objective: 80.03265237952212
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person on skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+gt_man ride skateboard=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on skateboard=0.0
+gt_man ride skateboard=-0.0
+gt_boy ride skateboard=1.0
+gt_man on board=1.0
+gt_woman on skateboard=-0.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a street
+Imageid: 229553, extracted triplets: ['man ride skateboard', 'man on street'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'man ride skateboard', 'woman on sidewalk', 'man on sidewalk', 'street on sidewalk', 'boy on sidewalk', 'people on sidewalk', 'person on sidewalk', 'man on street']
+Objective: 80.03265237952212
+PRIOR DISTANCE
+gt_boy on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on street=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=0.0
+gt_man on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on street=1.0
+gt_woman on street=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=-0.0
+gt_man on sidewalk=0.0
+gt_boy ride skateboard=1.0
+gt_man on street=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+Objective: 79.83204394882343
+gt_boy on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_man on street=1.0
+gt_woman on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man ride skateboard=0.0
+gt_people on sidewalk=0.0
+gt_street on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man on street=0.0
+gt_person on sidewalk=1.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+gt_people on sidewalk=0.0
+gt_man on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_woman on street=0.0
+gt_woman on street=1.0
+gt_man on street=1.0
+gt_man on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_street on sidewalk=0.0
+gt_man on street=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on street=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on street=0.0
+gt_man ride skateboard=1.0
+gt_people on sidewalk=1.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man on street=1.0
+gt_woman on street=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man ride skateboard=0.0
+gt_man on sidewalk=1.0
+gt_boy ride skateboard=1.0
+gt_man on street=1.0
+gt_person ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_girl ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard at a skate park
+Imageid: 209904, extracted triplets: ['man at park'], mapped triplets: ['people at bus']
+Objective: 79.83204394882343
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_people at bus=1.0
+gt_people at bus=0.0
+gt_people at bus=1.0
+Objective: 79.83204394882343
+gt_people at bus=0.0
+gt_people at bus=1.0
+gt_people at bus=0.0
+gt_people at bus=1.0
+----------------------------

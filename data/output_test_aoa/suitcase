@@ -1,0 +1,1644 @@
+Caption: a woman sitting next to a pile of luggage
+Imageid: 553442, extracted triplets: ['woman next to sock', 'woman next to luggage'], mapped triplets: ['woman next to bag', 'bag next to bag', 'woman next to suitcase', 'person next to suitcase']
+Objective: 125.19799533753684
+PRIOR DISTANCE
+gt_woman next to suitcase=1.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+gt_bag next to bag=1.0
+Objective: 126.07395833603493
+gt_woman next to suitcase=1.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+gt_bag next to bag=1.0
+----------------------------
+Caption: a man standing in front of a luggage carousel at an airport
+Imageid: 178746, extracted triplets: ['luggage carousel at bag', 'luggage carousel at boat', 'luggage carousel at shelf', 'luggage carousel at counter', 'luggage carousel at suitcase', 'luggage carousel at wall', 'luggage carousel at window', 'luggage carousel at pillar', 'luggage carousel at ceiling', 'luggage carousel at cord', 'luggage carousel at carpet', 'luggage carousel at sign', 'luggage carousel at box', 'luggage carousel at helmet'], mapped triplets: ['suitcase at people', 'luggage at bus', 'people at bus', 'people at bench', 'train at platform', 'man at suitcase', 'window at wall', 'train at window', 'train at platform', 'suitcase at people', 'train at platform', 'train at platform', 'suitcase at people']
+Objective: 126.07395833603493
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_train at platform=1.0
+gt_train at platform=1.0
+gt_train at platform=1.0
+gt_train at platform=1.0
+gt_luggage at bus=1.0
+gt_people at bus=-0.0
+gt_window at wall=0.0
+Objective: 126.26777285567617
+gt_people at bus=0.0
+gt_train at platform=1.0
+gt_train at platform=1.0
+gt_train at platform=1.0
+gt_train at platform=1.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+gt_window at wall=0.0
+----------------------------
+Caption: a suitcase is sitting in the back of a car
+Imageid: 525376, extracted triplets: ['suitcase sit bag', 'suitcase sit suitcase', 'suitcase sit luggage', 'suitcase sit trunk'], mapped triplets: ['backpack sit suitcase', 'boy sit suitcase', 'shoe sit suitcase', 'hat sit suitcase', 'woman sit suitcase', 'cat sit suitcase', 'man sit suitcase', 'dog sit suitcase', 'child sit suitcase', 'backpack sit suitcase', 'hat sit suitcase', 'woman sit suitcase', 'cat sit suitcase', 'man sit suitcase', 'dog sit suitcase', 'child sit suitcase', 'backpack sit suitcase', 'child sit suitcase', 'backpack sit suitcase', 'luggage sit floor', 'bag sit table']
+Objective: 126.26777285567617
+PRIOR DISTANCE
+gt_dog sit suitcase=1.0
+gt_dog sit suitcase=1.0
+Objective: 126.26772806721874
+gt_dog sit suitcase=1.0
+gt_dog sit suitcase=1.0
+----------------------------
+Caption: an umbrella sitting on top of a beach
+Imageid: 412813, extracted triplets: ['umbrella sit man', 'umbrella sit pole', 'umbrella sit umbrella', 'umbrella sit rock', 'umbrella sit chair', 'umbrella sit box'], mapped triplets: ['motorcycle sit motorcycle', 'person sit chair', 'woman sit chair', 'person sit bench', 'backpack sit suitcase', 'hat sit suitcase', 'woman sit suitcase', 'cat sit suitcase', 'man sit suitcase', 'dog sit suitcase', 'child sit suitcase']
+Objective: 126.26772806721874
+PRIOR DISTANCE
+gt_dog sit suitcase=1.0
+Objective: 126.2676967134727
+gt_dog sit suitcase=1.0
+----------------------------
+Caption: a black and white photo of a man sitting on a chair
+Imageid: 161112, extracted triplets: ['man sit chair'], mapped triplets: ['person sit chair', 'woman sit bench']
+Objective: 126.2676967134727
+PRIOR DISTANCE
+Objective: 126.2676967134727
+----------------------------
+Caption: a woman standing next to a box of flowers
+Imageid: 449485, extracted triplets: ['woman next to box'], mapped triplets: ['woman next to suitcase', 'woman next to bag']
+Objective: 126.2676967134727
+PRIOR DISTANCE
+gt_woman next to suitcase=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+Objective: 124.63181446347588
+gt_woman next to suitcase=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+----------------------------
+Caption: a man standing next to a pile of luggage
+Imageid: 74181, extracted triplets: ['man next to bag', 'man next to shirt'], mapped triplets: ['woman next to bag', 'person next to suitcase', 'boy next to bag', 'man next to bag', 'woman next to suitcase', 'man next to suitcase', 'person next to suitcase', 'boy next to bag']
+Objective: 124.63181446347588
+PRIOR DISTANCE
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_man next to suitcase=0.0
+gt_woman next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_man next to suitcase=1.0
+Objective: 124.6518860455475
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_man next to suitcase=0.0
+gt_woman next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_man next to suitcase=1.0
+----------------------------
+Caption: a man standing next to a pile of luggage
+Imageid: 449191, extracted triplets: ['man next to shirt', 'man next to suitcase', 'man next to luggage'], mapped triplets: ['woman next to suitcase', 'person next to suitcase', 'woman next to suitcase', 'person next to suitcase', 'man next to suitcase', 'woman next to suitcase', 'person next to suitcase']
+Objective: 124.6518860455475
+PRIOR DISTANCE
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_man next to suitcase=0.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_man next to suitcase=1.0
+Objective: 124.63957598235376
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_man next to suitcase=0.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_man next to suitcase=1.0
+----------------------------
+Caption: a woman walking down a street with a red fire hydrant
+Imageid: 168337, extracted triplets: ['woman with hydrant'], mapped triplets: ['woman with luggage']
+Objective: 124.63957598235376
+PRIOR DISTANCE
+gt_woman with luggage=1.0
+Objective: 124.63957598235376
+gt_woman with luggage=1.0
+----------------------------
+Caption: an open suitcase filled with lots of items
+Imageid: 136117, extracted triplets: ['suitcase with bag', 'suitcase with tray'], mapped triplets: ['woman with bag', 'luggage with bag', 'suitcase with box', 'suitcase with clothe']
+Objective: 124.63957598235376
+PRIOR DISTANCE
+gt_woman with bag=0.0
+gt_suitcase with box=0.0
+gt_luggage with bag=0.0
+gt_woman with bag=0.0
+gt_woman with bag=0.0
+gt_woman with bag=1.0
+gt_suitcase with box=-0.0
+gt_luggage with bag=1.0
+Objective: 124.94968556079544
+gt_woman with bag=0.0
+gt_suitcase with box=0.0
+gt_luggage with bag=0.0
+gt_woman with bag=0.0
+gt_woman with bag=0.0
+gt_woman with bag=1.0
+gt_suitcase with box=-0.0
+gt_luggage with bag=1.0
+----------------------------
+Caption: a pile of luggage sitting on the side of a building
+Imageid: 240784, extracted triplets: ['side of building'], mapped triplets: ['floor of room', 'people of build']
+Objective: 124.94968556079544
+PRIOR DISTANCE
+gt_floor of room=0.0
+gt_floor of room=0.0
+gt_floor of room=0.0
+gt_floor of room=1.0
+Objective: 124.89138593947258
+gt_floor of room=0.0
+gt_floor of room=0.0
+gt_floor of room=0.0
+gt_floor of room=1.0
+----------------------------
+Caption: a old suitcase sitting on top of a table
+Imageid: 567565, extracted triplets: ['suitcase sit top', 'top of table'], mapped triplets: ['luggage sit shelf', 'bag sit shelf', 'table of couch', 'cat of table', 'man of table', 'tv of table']
+Objective: 124.89138593947258
+PRIOR DISTANCE
+gt_cat of table=0.0
+gt_table of couch=-0.0
+Objective: 124.88732400486444
+gt_cat of table=0.0
+gt_table of couch=-0.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a fire hydrant
+Imageid: 360181, extracted triplets: ['man on skateboard'], mapped triplets: ['man on vehicle', 'man on skateboard']
+Objective: 124.88732400486444
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_man on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=1.0
+gt_man on skateboard=0.0
+Objective: 125.1000378835624
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_man on skateboard=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=1.0
+gt_man on skateboard=0.0
+----------------------------
+Caption: a desk with two computers and a chair
+Imageid: 567657, extracted triplets: ['desk with laptop', 'desk with monitor', 'desk with computer'], mapped triplets: ['desk with computer', 'room with lamp', 'room with tv', 'room with computer', 'desk with computer']
+Objective: 125.1000378835624
+PRIOR DISTANCE
+gt_bathroom with tv=0.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_room with tv=0.0
+gt_room with tv=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with computer=1.0
+gt_room with lamp=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with tv=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with lamp=0.0
+gt_room with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with tv=0.0
+gt_room with computer=0.0
+gt_room with lamp=0.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_room with lamp=1.0
+gt_room with tv=0.0
+Objective: 125.59414303352564
+gt_bathroom with tv=0.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_room with tv=0.0
+gt_room with tv=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with computer=1.0
+gt_room with lamp=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with tv=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with lamp=0.0
+gt_room with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_room with tv=0.0
+gt_room with computer=0.0
+gt_room with lamp=0.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_room with lamp=1.0
+gt_room with tv=0.0
+----------------------------
+Caption: a train is sitting at a train station
+Imageid: 172021, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 125.59414303352564
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 125.59414303352564
+gt_train at platform=1.0
+----------------------------
+Caption: a young child sitting on top of a suitcase
+Imageid: 44244, extracted triplets: ['child sit roof', 'child sit lid', 'child sit suitcase'], mapped triplets: ['boy sit suitcase', 'boy sit suitcase', 'boy sit suitcase', 'child sit suitcase']
+Objective: 125.59414303352564
+PRIOR DISTANCE
+Objective: 125.59414303352564
+----------------------------
+Caption: a woman swinging a baseball bat at a ball
+Imageid: 153631, extracted triplets: ['woman at ball'], mapped triplets: ['man at suitcase', 'man at phone', 'man at desk', 'man at table']
+Objective: 125.59414303352564
+PRIOR DISTANCE
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_man at table=1.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at table=0.0
+gt_man at table=1.0
+gt_man at desk=1.0
+gt_woman at desk=0.0
+gt_man at table=1.0
+gt_man at desk=1.0
+gt_woman at desk=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+Objective: 125.59414303352564
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_man at table=1.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at table=0.0
+gt_man at table=1.0
+gt_man at desk=1.0
+gt_woman at desk=0.0
+gt_man at table=1.0
+gt_man at desk=1.0
+gt_woman at desk=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_man at table=0.0
+----------------------------
+Caption: a woman standing next to a pile of luggage
+Imageid: 130419, extracted triplets: ['woman next to bag', 'woman next to suitcase'], mapped triplets: ['woman next to suitcase', 'cat next to bag', 'woman next to bag', 'dog next to bag', 'bag next to bag', 'man next to bag', 'boy next to bag', 'woman next to suitcase', 'person next to suitcase', 'backpack next to suitcase']
+Objective: 125.59414303352564
+PRIOR DISTANCE
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_bag next to bag=1.0
+Objective: 125.35223400151969
+gt_woman next to suitcase=1.0
+gt_woman next to suitcase=1.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to bag=1.0
+gt_woman next to suitcase=-0.0
+gt_woman next to suitcase=-0.0
+gt_bag next to bag=1.0
+----------------------------
+Caption: a group of people sitting on the beach
+Imageid: 22118, extracted triplets: ['people sit beach'], mapped triplets: ['woman sit beach', 'people sit bench']
+Objective: 125.35223400151969
+PRIOR DISTANCE
+Objective: 125.35223400151969
+----------------------------
+Caption: a man holding a purple umbrella in a room
+Imageid: 280705, extracted triplets: ['man hold umbrella'], mapped triplets: ['people hold umbrella', 'person hold umbrella', 'woman hold umbrella', 'man hold umbrella']
+Objective: 125.35223400151969
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_people hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_people hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+Objective: 126.13088744566446
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_people hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_people hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=-0.0
+gt_woman hold umbrella=-0.0
+----------------------------
+Caption: a man standing next to a train with luggage
+Imageid: 137727, extracted triplets: ['man next to train', 'train with luggage'], mapped triplets: ['woman next to man', 'man next to woman', 'man next to train', 'train with bag', 'room with luggage', 'train with luggage']
+Objective: 126.13088744566446
+PRIOR DISTANCE
+gt_train with bag=0.0
+gt_room with luggage=1.0
+gt_man next to train=0.0
+gt_man next to woman=0.0
+gt_train with luggage=1.0
+gt_train with bag=0.0
+gt_train with bag=1.0
+gt_room with luggage=1.0
+gt_train with luggage=-0.0
+Objective: 126.52460526720215
+gt_train with bag=0.0
+gt_room with luggage=1.0
+gt_man next to train=0.0
+gt_man next to woman=0.0
+gt_train with luggage=1.0
+gt_train with bag=0.0
+gt_train with bag=1.0
+gt_room with luggage=1.0
+gt_train with luggage=-0.0
+----------------------------
+Caption: a suitcase with luggage on top of it
+Imageid: 559656, extracted triplets: ['luggage on top'], mapped triplets: ['bag on sidewalk', 'suitcase on bench']
+Objective: 126.52460526720215
+PRIOR DISTANCE
+gt_suitcase on bench=1.0
+gt_bag on sidewalk=0.0
+Objective: 126.3603080516752
+gt_suitcase on bench=1.0
+gt_bag on sidewalk=0.0
+----------------------------
+Caption: a man riding a motorcycle down a road in front of a building
+Imageid: 207853, extracted triplets: ['man ride motorcycle'], mapped triplets: ['man ride motorcycle', 'people ride motorcycle']
+Objective: 126.3603080516752
+PRIOR DISTANCE
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=-0.0
+gt_man ride motorcycle=-0.0
+Objective: 126.401256977202
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people ride motorcycle=-0.0
+gt_man ride motorcycle=-0.0
+----------------------------
+Caption: a woman walking down a sidewalk with a luggage
+Imageid: 491835, extracted triplets: ['sidewalk with luggage'], mapped triplets: ['sidewalk with suitcase', 'street with luggage', 'road with luggage']
+Objective: 126.401256977202
+PRIOR DISTANCE
+gt_sidewalk with suitcase=0.0
+gt_sidewalk with suitcase=0.0
+gt_road with luggage=0.0
+gt_sidewalk with suitcase=1.0
+gt_sidewalk with suitcase=-0.0
+gt_street with luggage=1.0
+gt_road with luggage=0.0
+Objective: 126.41054628938268
+gt_sidewalk with suitcase=0.0
+gt_sidewalk with suitcase=0.0
+gt_road with luggage=0.0
+gt_sidewalk with suitcase=1.0
+gt_sidewalk with suitcase=-0.0
+gt_street with luggage=1.0
+gt_road with luggage=1.0
+----------------------------
+Caption: a baby sitting in a suitcase on a table
+Imageid: 246863, extracted triplets: ['baby sit in suitcase', 'baby on table'], mapped triplets: ['child sit suitcase', 'child on bed', 'cat on table']
+Objective: 126.41054628938268
+PRIOR DISTANCE
+gt_cat on table=1.0
+gt_cat on table=0.0
+gt_cat on table=0.0
+gt_cat on table=0.0
+gt_cat on table=1.0
+gt_child on bed=1.0
+Objective: 126.42380543357973
+gt_cat on table=1.0
+gt_cat on table=0.0
+gt_cat on table=0.0
+gt_cat on table=0.0
+gt_cat on table=1.0
+gt_child on bed=1.0
+----------------------------
+Caption: a group of people sitting on a bed
+Imageid: 368994, extracted triplets: ['people sit bed'], mapped triplets: ['people sit bench', 'people sit window']
+Objective: 126.42380543357973
+PRIOR DISTANCE
+Objective: 126.42380543357973
+----------------------------
+Caption: a woman sitting on the ground with a suitcase
+Imageid: 233370, extracted triplets: ['woman with suitcase'], mapped triplets: ['woman with suitcase', 'woman with luggage', 'boy with suitcase', 'man with suitcase']
+Objective: 126.42380543357973
+PRIOR DISTANCE
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with luggage=1.0
+gt_man with suitcase=0.0
+gt_man with suitcase=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=-0.0
+gt_woman with suitcase=-0.0
+gt_man with suitcase=1.0
+Objective: 126.77396115769179
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with luggage=1.0
+gt_man with suitcase=0.0
+gt_man with suitcase=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=-0.0
+gt_woman with suitcase=-0.0
+gt_man with suitcase=1.0
+----------------------------
+Caption: a cat sitting on top of a suitcase
+Imageid: 84650, extracted triplets: ['cat sit bag', 'cat sit suitcase', 'cat sit wall', 'cat sit floor', 'cat sit carpet', 'cat sit handle', 'cat sit paw'], mapped triplets: ['cat sit bag', 'backpack sit suitcase', 'boy sit suitcase', 'shoe sit suitcase', 'hat sit suitcase', 'woman sit suitcase', 'dog sit suitcase', 'man sit suitcase', 'child sit suitcase', 'cat sit suitcase', 'cat sit floor', 'cat sit table', 'cat sit floor', 'cat sit floor', 'bag sit handle', 'cat sit eye']
+Objective: 126.77396115769179
+PRIOR DISTANCE
+gt_dog sit suitcase=1.0
+Objective: 126.77403097203934
+gt_dog sit suitcase=1.0
+----------------------------
+Caption: a man sitting on a pile of luggage
+Imageid: 60700, extracted triplets: ['man sit bag', 'man sit suitcase', 'man sit backpack', 'man sit luggage'], mapped triplets: ['backpack sit suitcase', 'boy sit bag', 'man sit suitcase', 'boy sit suitcase', 'dog sit suitcase', 'woman sit suitcase', 'man sit suitcase', 'child sit suitcase', 'man sit suitcase', 'backpack sit suitcase', 'man sit vehicle', 'man sit suitcase']
+Objective: 126.77403097203934
+PRIOR DISTANCE
+gt_dog sit suitcase=1.0
+Objective: 126.77402704243048
+gt_dog sit suitcase=1.0
+----------------------------
+Caption: a group of people standing in an airport with luggage
+Imageid: 453903, extracted triplets: ['people in people', 'people in counter', 'people in suitcase', 'people in light', 'people in shoe', 'people in wall', 'people in window', 'people in person', 'people in floor', 'people in luggage', 'people in chair', 'people in door', 'people in man', 'people in paper', 'people with luggage'], mapped triplets: ['people in back', 'people in window', 'people in van', 'people in build', 'people in umbrella', 'people in bus', 'people in water', 'people in luggage', 'people in build', 'woman in suitcase', 'man in luggage', 'people in luggage', 'child in suitcase', 'people in build', 'people in window', 'man in shoe', 'people in luggage', 'people in build', 'people in street', 'woman in window', 'man in window', 'people in window', 'boy in man', 'woman in man', 'people in build', 'floor in room', 'people in luggage', 'woman in luggage', 'man in luggage', 'person in chair', 'woman in chair', 'people in build', 'bag in door', 'man in uniform', 'man in shirt', 'man in laptop', 'man in hat', 'man in luggage', 'man in jacket', 'man in coat', 'man in suit', 'boy in man', 'woman in man', 'people in bus', 'people in build', 'people in van', 'people in window', 'people in back', 'people in umbrella', 'people in luggage', 'woman with luggage', 'man with luggage', 'people with suitcase', 'room with luggage', 'people with luggage']
+Objective: 126.77402704243048
+PRIOR DISTANCE
+gt_woman in man=0.0
+gt_woman in man=0.0
+gt_man in jacket=0.0
+gt_floor in room=0.0
+gt_man in shirt=0.0
+gt_people in water=0.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_room with luggage=1.0
+gt_woman in uniform=1.0
+gt_floor in room=0.0
+gt_woman with luggage=1.0
+gt_woman with luggage=1.0
+gt_man with luggage=0.0
+gt_woman in coat=1.0
+gt_people with luggage=1.0
+gt_man in suit=0.0
+gt_people in street=1.0
+gt_man in jacket=1.0
+gt_woman in jacket=1.0
+gt_man in uniform=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in suit=0.0
+gt_woman in jacket=0.0
+gt_woman in hat=0.0
+gt_man in jacket=0.0
+gt_man in hat=0.0
+gt_woman in shirt=0.0
+gt_people in umbrella=0.0
+gt_people in umbrella=0.0
+gt_man in shirt=1.0
+gt_man in uniform=0.0
+gt_man in shirt=0.0
+gt_man in hat=1.0
+gt_man in uniform=0.0
+gt_woman in jacket=1.0
+gt_woman in hat=0.0
+gt_man in shirt=0.0
+gt_man in jacket=1.0
+gt_man in hat=0.0
+gt_people in water=0.0
+gt_man in suit=0.0
+gt_woman in hat=0.0
+gt_man in jacket=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_woman in hat=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=0.0
+gt_woman in hat=0.0
+gt_man in hat=1.0
+gt_man in suit=1.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=0.0
+gt_woman in hat=1.0
+gt_man in uniform=0.0
+gt_woman in chair=1.0
+gt_man in suit=1.0
+gt_woman in shirt=0.0
+gt_floor in room=0.0
+gt_man in hat=1.0
+gt_man in shirt=0.0
+gt_man in hat=0.0
+gt_man in uniform=0.0
+gt_woman in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_floor in room=1.0
+gt_woman in chair=1.0
+gt_woman in jacket=0.0
+gt_man in uniform=0.0
+gt_man in shirt=0.0
+gt_man in uniform=0.0
+gt_woman in uniform=0.0
+gt_man in shirt=0.0
+gt_woman in suitcase=0.0
+gt_woman in suitcase=0.0
+gt_woman in man=1.0
+gt_woman in man=1.0
+gt_woman in jacket=0.0
+gt_floor in room=0.0
+gt_people in bus=1.0
+gt_people in bus=1.0
+gt_man in hat=1.0
+gt_woman in hat=1.0
+gt_people in background=1.0
+gt_people in background=1.0
+gt_woman in uniform=0.0
+gt_people in water=1.0
+gt_man in suit=0.0
+gt_man in jacket=0.0
+gt_woman in chair=1.0
+gt_woman in shirt=0.0
+gt_man in uniform=0.0
+gt_man in suit=1.0
+gt_man in hat=1.0
+gt_man in jacket=1.0
+gt_man in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in suit=0.0
+gt_man in shirt=1.0
+gt_man in hat=0.0
+gt_woman in shirt=1.0
+gt_woman in jacket=1.0
+gt_woman in coat=0.0
+gt_woman in hat=1.0
+gt_people in water=0.0
+gt_woman in chair=1.0
+gt_room with luggage=1.0
+gt_woman in coat=-0.0
+gt_woman in jacket=0.0
+gt_woman in suitcase=1.0
+gt_woman in suitcase=1.0
+gt_man in uniform=0.0
+gt_boy in man=1.0
+gt_boy in man=1.0
+gt_man in hat=0.0
+gt_people in street=-0.0
+gt_child in suitcase=0.0
+gt_man with luggage=0.0
+gt_people with luggage=0.0
+gt_man in suit=0.0
+gt_man in jacket=-0.0
+gt_floor in room=1.0
+gt_man in shoe=1.0
+gt_man in shirt=1.0
+gt_man in coat=-0.0
+gt_woman in shirt=1.0
+Objective: 126.74287328132796
+gt_woman in man=0.0
+gt_woman in man=0.0
+gt_man in jacket=0.0
+gt_floor in room=0.0
+gt_man in shirt=0.0
+gt_people in water=0.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_room with luggage=1.0
+gt_woman in uniform=1.0
+gt_floor in room=0.0
+gt_woman with luggage=1.0
+gt_woman with luggage=1.0
+gt_man with luggage=0.0
+gt_woman in coat=1.0
+gt_people with luggage=1.0
+gt_man in suit=0.0
+gt_people in street=1.0
+gt_man in jacket=1.0
+gt_woman in jacket=1.0
+gt_man in uniform=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in suit=0.0
+gt_woman in jacket=0.0
+gt_woman in hat=0.0
+gt_man in jacket=0.0
+gt_man in hat=0.0
+gt_woman in shirt=0.0
+gt_people in umbrella=0.0
+gt_people in umbrella=0.0
+gt_man in shirt=1.0
+gt_man in uniform=0.0
+gt_man in shirt=0.0
+gt_man in hat=1.0
+gt_man in uniform=0.0
+gt_woman in jacket=1.0
+gt_woman in hat=0.0
+gt_man in shirt=0.0
+gt_man in jacket=1.0
+gt_man in hat=0.0
+gt_people in water=0.0
+gt_man in suit=0.0
+gt_woman in hat=0.0
+gt_man in jacket=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_woman in hat=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=0.0
+gt_woman in hat=0.0
+gt_man in hat=1.0
+gt_man in suit=1.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=0.0
+gt_woman in hat=1.0
+gt_man in uniform=0.0
+gt_woman in chair=1.0
+gt_man in suit=1.0
+gt_woman in shirt=0.0
+gt_floor in room=0.0
+gt_man in hat=1.0
+gt_man in shirt=0.0
+gt_man in hat=0.0
+gt_man in uniform=0.0
+gt_woman in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_floor in room=1.0
+gt_woman in chair=1.0
+gt_woman in jacket=0.0
+gt_man in uniform=0.0
+gt_man in shirt=0.0
+gt_man in uniform=0.0
+gt_woman in uniform=0.0
+gt_man in shirt=0.0
+gt_woman in suitcase=0.0
+gt_woman in suitcase=0.0
+gt_woman in man=1.0
+gt_woman in man=1.0
+gt_woman in jacket=0.0
+gt_floor in room=0.0
+gt_people in bus=1.0
+gt_people in bus=1.0
+gt_man in hat=1.0
+gt_woman in hat=1.0
+gt_people in background=1.0
+gt_people in background=1.0
+gt_woman in uniform=0.0
+gt_people in water=1.0
+gt_man in suit=0.0
+gt_man in jacket=0.0
+gt_woman in chair=1.0
+gt_woman in shirt=0.0
+gt_man in uniform=0.0
+gt_man in suit=1.0
+gt_man in hat=1.0
+gt_man in jacket=1.0
+gt_man in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in suit=0.0
+gt_man in shirt=1.0
+gt_man in hat=0.0
+gt_woman in shirt=1.0
+gt_woman in jacket=1.0
+gt_woman in coat=0.0
+gt_woman in hat=1.0
+gt_people in water=0.0
+gt_woman in chair=1.0
+gt_room with luggage=1.0
+gt_woman in coat=-0.0
+gt_woman in jacket=0.0
+gt_woman in suitcase=1.0
+gt_woman in suitcase=1.0
+gt_man in uniform=0.0
+gt_boy in man=1.0
+gt_boy in man=1.0
+gt_man in hat=0.0
+gt_people in street=-0.0
+gt_child in suitcase=0.0
+gt_man with luggage=0.0
+gt_people with luggage=1.0
+gt_man in suit=0.0
+gt_man in jacket=-0.0
+gt_floor in room=1.0
+gt_man in shoe=1.0
+gt_man in shirt=1.0
+gt_man in coat=-0.0
+gt_woman in shirt=1.0
+----------------------------
+Caption: a messy room with a bed and a desk
+Imageid: 211112, extracted triplets: ['room with bed'], mapped triplets: ['room with lamp', 'room with door', 'room with suitcase', 'room with rug', 'room with bed', 'room with curtain', 'room with pillow', 'room with window', 'room with chair', 'room with floor', 'room with wall', 'room with couch', 'room with luggage']
+Objective: 126.74287328132796
+PRIOR DISTANCE
+gt_bathroom with wall=0.0
+gt_room with window=0.0
+gt_bathroom with rug=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with curtain=0.0
+gt_bathroom with window=0.0
+gt_room with couch=0.0
+gt_bathroom with door=0.0
+gt_room with door=1.0
+gt_room with window=1.0
+gt_room with luggage=1.0
+gt_room with suitcase=1.0
+gt_room with floor=0.0
+gt_room with pillow=1.0
+gt_room with chair=0.0
+gt_room with bed=0.0
+gt_room with couch=1.0
+gt_room with floor=0.0
+gt_room with window=0.0
+gt_room with couch=0.0
+gt_room with chair=0.0
+gt_room with floor=0.0
+gt_bathroom with wall=0.0
+gt_bathroom with door=0.0
+gt_bathroom with floor=0.0
+gt_room with couch=0.0
+gt_room with floor=0.0
+gt_room with chair=0.0
+gt_room with couch=0.0
+gt_bathroom with window=0.0
+gt_room with window=0.0
+gt_room with bed=1.0
+gt_room with pillow=0.0
+gt_room with curtain=0.0
+gt_room with rug=1.0
+gt_room with wall=0.0
+gt_room with lamp=0.0
+gt_room with floor=1.0
+gt_room with chair=0.0
+gt_room with couch=1.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with couch=0.0
+gt_room with lamp=0.0
+gt_room with curtain=0.0
+gt_room with door=1.0
+gt_room with rug=1.0
+gt_bathroom with floor=1.0
+gt_room with window=0.0
+gt_room with floor=1.0
+gt_room with wall=0.0
+gt_room with bed=1.0
+gt_room with door=1.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with couch=0.0
+gt_room with pillow=1.0
+gt_bathroom with window=0.0
+gt_bathroom with curtain=0.0
+gt_room with suitcase=1.0
+gt_room with curtain=1.0
+gt_room with lamp=0.0
+gt_room with window=1.0
+gt_room with rug=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with rug=1.0
+gt_bathroom with window=0.0
+gt_bathroom with door=1.0
+gt_bathroom with wall=1.0
+gt_bathroom with curtain=0.0
+gt_room with bed=1.0
+gt_room with suitcase=1.0
+gt_room with floor=-0.0
+gt_room with lamp=1.0
+gt_room with luggage=1.0
+gt_room with chair=1.0
+gt_room with curtain=-0.0
+gt_room with pillow=0.0
+gt_room with wall=0.0
+gt_room with couch=-0.0
+Objective: 126.86083620613451
+gt_bathroom with wall=0.0
+gt_room with window=0.0
+gt_bathroom with rug=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with curtain=0.0
+gt_bathroom with window=0.0
+gt_room with couch=0.0
+gt_bathroom with door=0.0
+gt_room with door=1.0
+gt_room with window=1.0
+gt_room with luggage=1.0
+gt_room with suitcase=1.0
+gt_room with floor=0.0
+gt_room with pillow=1.0
+gt_room with chair=0.0
+gt_room with bed=0.0
+gt_room with couch=1.0
+gt_room with floor=0.0
+gt_room with window=0.0
+gt_room with couch=0.0
+gt_room with chair=0.0
+gt_room with floor=0.0
+gt_bathroom with wall=0.0
+gt_bathroom with door=0.0
+gt_bathroom with floor=0.0
+gt_room with couch=0.0
+gt_room with floor=0.0
+gt_room with chair=0.0
+gt_room with couch=0.0
+gt_bathroom with window=0.0
+gt_room with window=0.0
+gt_room with bed=1.0
+gt_room with pillow=0.0
+gt_room with curtain=0.0
+gt_room with rug=1.0
+gt_room with wall=0.0
+gt_room with lamp=0.0
+gt_room with floor=1.0
+gt_room with chair=0.0
+gt_room with couch=1.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with couch=0.0
+gt_room with lamp=0.0
+gt_room with curtain=0.0
+gt_room with door=1.0
+gt_room with rug=1.0
+gt_bathroom with floor=1.0
+gt_room with window=0.0
+gt_room with floor=1.0
+gt_room with wall=0.0
+gt_room with bed=1.0
+gt_room with door=1.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with couch=0.0
+gt_room with pillow=1.0
+gt_bathroom with window=0.0
+gt_bathroom with curtain=0.0
+gt_room with suitcase=1.0
+gt_room with curtain=1.0
+gt_room with lamp=0.0
+gt_room with window=1.0
+gt_room with rug=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with rug=1.0
+gt_bathroom with window=0.0
+gt_bathroom with door=1.0
+gt_bathroom with wall=1.0
+gt_bathroom with curtain=0.0
+gt_room with bed=1.0
+gt_room with suitcase=0.0
+gt_room with floor=-0.0
+gt_room with lamp=1.0
+gt_room with luggage=1.0
+gt_room with chair=1.0
+gt_room with curtain=-0.0
+gt_room with pillow=0.0
+gt_room with wall=0.0
+gt_room with couch=-0.0
+----------------------------
+Caption: a person walking down a street with a suitcase
+Imageid: 312878, extracted triplets: ['person with suitcase'], mapped triplets: ['woman with luggage', 'man with luggage', 'people with suitcase']
+Objective: 126.86083620613451
+PRIOR DISTANCE
+gt_woman with luggage=1.0
+gt_woman with luggage=1.0
+gt_man with luggage=0.0
+gt_man with luggage=0.0
+Objective: 127.35937621349193
+gt_woman with luggage=1.0
+gt_woman with luggage=1.0
+gt_man with luggage=0.0
+gt_man with luggage=0.0
+----------------------------
+Caption: a man walking down a street with a suitcase
+Imageid: 101491, extracted triplets: ['man with suitcase'], mapped triplets: ['man with man', 'man with shirt', 'man with backpack', 'woman with suitcase', 'man with laptop', 'man with hat', 'man with camera', 'man with luggage', 'man with head', 'man with bike', 'man with umbrella', 'man with suitcase', 'man with racket', 'man with boy', 'man with glass', 'man with arm', 'man with bag', 'suitcase with clothe', 'suitcase with tag', 'suitcase with sticker']
+Objective: 127.35937621349193
+PRIOR DISTANCE
+gt_woman with bag=0.0
+gt_man with glass=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with glass=1.0
+gt_woman with laptop=1.0
+gt_woman with racket=0.0
+gt_woman with luggage=1.0
+gt_man with camera=0.0
+gt_man with luggage=0.0
+gt_woman with backpack=0.0
+gt_man with laptop=1.0
+gt_man with hat=0.0
+gt_man with head=1.0
+gt_man with umbrella=1.0
+gt_woman with glass=0.0
+gt_man with bag=0.0
+gt_man with racket=1.0
+gt_woman with umbrella=0.0
+gt_man with shirt=1.0
+gt_man with suitcase=0.0
+gt_man with man=0.0
+gt_man with backpack=0.0
+gt_man with suitcase=1.0
+gt_woman with hat=1.0
+gt_woman with camera=0.0
+gt_man with camera=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with umbrella=0.0
+gt_man with bike=1.0
+gt_man with bag=1.0
+gt_woman with umbrella=0.0
+gt_woman with shirt=1.0
+gt_man with glass=0.0
+gt_woman with laptop=0.0
+gt_woman with arm=0.0
+gt_man with shirt=0.0
+gt_woman with glass=0.0
+gt_woman with man=1.0
+gt_woman with hat=0.0
+gt_man with bike=0.0
+gt_man with camera=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with hat=0.0
+gt_woman with umbrella=0.0
+gt_man with suitcase=0.0
+gt_woman with bag=0.0
+gt_woman with glass=0.0
+gt_man with glass=1.0
+gt_woman with man=0.0
+gt_man with laptop=0.0
+gt_woman with glass=1.0
+gt_man with head=0.0
+gt_man with glass=0.0
+gt_woman with laptop=1.0
+gt_man with umbrella=0.0
+gt_man with glass=1.0
+gt_man with boy=0.0
+gt_man with arm=1.0
+gt_man with shirt=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with hat=0.0
+gt_man with umbrella=0.0
+gt_man with man=0.0
+gt_woman with glass=0.0
+gt_man with shirt=0.0
+gt_man with glass=0.0
+gt_man with man=1.0
+gt_man with shirt=1.0
+gt_man with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman with arm=0.0
+gt_man with shirt=1.0
+gt_woman with bag=0.0
+gt_man with bag=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with umbrella=0.0
+gt_woman with hat=1.0
+gt_woman with arm=0.0
+gt_woman with glass=0.0
+gt_woman with shirt=0.0
+gt_man with man=0.0
+gt_man with boy=0.0
+gt_man with glass=1.0
+gt_woman with racket=0.0
+gt_man with hat=0.0
+gt_woman with shirt=1.0
+gt_woman with glass=0.0
+gt_man with hat=0.0
+gt_man with glass=0.0
+gt_man with bag=0.0
+gt_man with racket=1.0
+gt_man with shirt=0.0
+gt_woman with shirt=0.0
+gt_woman with racket=0.0
+gt_woman with glass=0.0
+gt_man with shirt=1.0
+gt_woman with bag=1.0
+gt_suitcase with tag=0.0
+gt_woman with umbrella=1.0
+gt_man with bike=1.0
+gt_suitcase with sticker=0.0
+gt_man with racket=1.0
+gt_woman with suitcase=-0.0
+gt_woman with suitcase=-0.0
+gt_man with luggage=0.0
+gt_woman with backpack=1.0
+gt_man with laptop=-0.0
+gt_man with camera=0.0
+gt_man with backpack=1.0
+gt_man with hat=1.0
+gt_man with head=1.0
+gt_woman with laptop=1.0
+gt_man with suitcase=1.0
+gt_man with bag=1.0
+gt_man with man=1.0
+Objective: 127.08765251750546
+gt_woman with bag=0.0
+gt_man with glass=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with glass=1.0
+gt_woman with laptop=1.0
+gt_woman with racket=0.0
+gt_woman with luggage=1.0
+gt_man with camera=0.0
+gt_man with luggage=0.0
+gt_woman with backpack=0.0
+gt_man with laptop=1.0
+gt_man with hat=0.0
+gt_man with head=1.0
+gt_man with umbrella=1.0
+gt_woman with glass=0.0
+gt_man with bag=0.0
+gt_man with racket=1.0
+gt_woman with umbrella=0.0
+gt_man with shirt=1.0
+gt_man with suitcase=0.0
+gt_man with man=0.0
+gt_man with backpack=0.0
+gt_man with suitcase=1.0
+gt_woman with hat=1.0
+gt_woman with camera=0.0
+gt_man with camera=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with umbrella=0.0
+gt_man with bike=1.0
+gt_man with bag=1.0
+gt_woman with umbrella=0.0
+gt_woman with shirt=1.0
+gt_man with glass=0.0
+gt_woman with laptop=0.0
+gt_woman with arm=0.0
+gt_man with shirt=0.0
+gt_woman with glass=0.0
+gt_woman with man=1.0
+gt_woman with hat=0.0
+gt_man with bike=0.0
+gt_man with camera=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with hat=0.0
+gt_woman with umbrella=0.0
+gt_man with suitcase=0.0
+gt_woman with bag=0.0
+gt_woman with glass=0.0
+gt_man with glass=1.0
+gt_woman with man=0.0
+gt_man with laptop=0.0
+gt_woman with glass=1.0
+gt_man with head=0.0
+gt_man with glass=0.0
+gt_woman with laptop=1.0
+gt_man with umbrella=0.0
+gt_man with glass=1.0
+gt_man with boy=0.0
+gt_man with arm=1.0
+gt_man with shirt=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with hat=0.0
+gt_man with umbrella=0.0
+gt_man with man=0.0
+gt_woman with glass=0.0
+gt_man with shirt=0.0
+gt_man with glass=0.0
+gt_man with man=1.0
+gt_man with shirt=1.0
+gt_man with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman with arm=0.0
+gt_man with shirt=1.0
+gt_woman with bag=0.0
+gt_man with bag=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with umbrella=0.0
+gt_woman with hat=1.0
+gt_woman with arm=0.0
+gt_woman with glass=0.0
+gt_woman with shirt=0.0
+gt_man with man=0.0
+gt_man with boy=0.0
+gt_man with glass=1.0
+gt_woman with racket=0.0
+gt_man with hat=0.0
+gt_woman with shirt=1.0
+gt_woman with glass=0.0
+gt_man with hat=0.0
+gt_man with glass=0.0
+gt_man with bag=0.0
+gt_man with racket=1.0
+gt_man with shirt=0.0
+gt_woman with shirt=0.0
+gt_woman with racket=0.0
+gt_woman with glass=0.0
+gt_man with shirt=1.0
+gt_woman with bag=1.0
+gt_suitcase with tag=0.0
+gt_woman with umbrella=1.0
+gt_man with bike=1.0
+gt_suitcase with sticker=0.0
+gt_man with racket=1.0
+gt_woman with suitcase=-0.0
+gt_woman with suitcase=-0.0
+gt_man with luggage=0.0
+gt_woman with backpack=1.0
+gt_man with laptop=-0.0
+gt_man with camera=0.0
+gt_man with backpack=1.0
+gt_man with hat=1.0
+gt_man with head=1.0
+gt_woman with laptop=1.0
+gt_man with suitcase=1.0
+gt_man with bag=1.0
+gt_man with man=1.0
+----------------------------
+Caption: a cat standing next to a box of pizza on a table
+Imageid: 535602, extracted triplets: ['cat next to box', 'box of pizza', 'box on table'], mapped triplets: ['cat next to suitcase', 'cat next to bag', 'cat next to shoe', 'plate of food', 'bag on table', 'tv on table']
+Objective: 127.08765251750546
+PRIOR DISTANCE
+gt_bag on table=1.0
+gt_bag on table=1.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_tv on table=1.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_tv on table=1.0
+gt_plate of food=0.0
+gt_bag on table=1.0
+gt_plate of food=0.0
+Objective: 127.0669343036293
+gt_bag on table=1.0
+gt_bag on table=1.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_tv on table=1.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_tv on table=1.0
+gt_plate of food=0.0
+gt_bag on table=0.0
+gt_plate of food=1.0
+----------------------------
+Caption: a suitcase on a bed with a cell phone
+Imageid: 192212, extracted triplets: ['suitcase on bed', 'suitcase with phone'], mapped triplets: ['blanket on bed', 'suitcase on bed', 'suitcase with bottle', 'suitcase with hat', 'woman with suitcase', 'boy with suitcase', 'woman with luggage', 'door with suitcase', 'floor with suitcase', 'rack with suitcase', 'sidewalk with suitcase', 'man with suitcase', 'bench with suitcase', 'cat with suitcase', 'suitcase with shoe', 'suitcase with animal', 'suitcase with clothe', 'suitcase with tag', 'suitcase with sticker', 'suitcase with box']
+Objective: 127.0669343036293
+PRIOR DISTANCE
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_suitcase with bottle=0.0
+gt_sidewalk with suitcase=0.0
+gt_suitcase on bed=1.0
+gt_suitcase with box=0.0
+gt_woman with luggage=1.0
+gt_man with suitcase=0.0
+gt_man with suitcase=1.0
+gt_sidewalk with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with suitcase=0.0
+gt_door with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_suitcase on bed=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_floor with suitcase=1.0
+gt_door with suitcase=0.0
+gt_sidewalk with suitcase=1.0
+gt_suitcase with tag=0.0
+gt_suitcase with animal=0.0
+gt_suitcase with bottle=1.0
+gt_sidewalk with suitcase=-0.0
+gt_suitcase with sticker=0.0
+gt_floor with suitcase=1.0
+gt_suitcase with box=-0.0
+gt_bench with suitcase=1.0
+gt_woman with suitcase=-0.0
+gt_woman with suitcase=-0.0
+gt_suitcase with hat=1.0
+gt_rack with suitcase=-0.0
+gt_door with suitcase=-0.0
+gt_suitcase with shoe=1.0
+gt_man with suitcase=1.0
+gt_suitcase on bed=-0.0
+Objective: 128.0000969264404
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_suitcase with bottle=0.0
+gt_sidewalk with suitcase=0.0
+gt_suitcase on bed=1.0
+gt_suitcase with box=0.0
+gt_woman with luggage=1.0
+gt_man with suitcase=0.0
+gt_man with suitcase=1.0
+gt_sidewalk with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_man with suitcase=0.0
+gt_door with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_suitcase on bed=1.0
+gt_woman with suitcase=0.0
+gt_woman with suitcase=0.0
+gt_floor with suitcase=1.0
+gt_door with suitcase=0.0
+gt_sidewalk with suitcase=1.0
+gt_suitcase with tag=1.0
+gt_suitcase with animal=0.0
+gt_suitcase with bottle=1.0
+gt_sidewalk with suitcase=-0.0
+gt_suitcase with sticker=0.0
+gt_floor with suitcase=0.0
+gt_suitcase with box=-0.0
+gt_bench with suitcase=1.0
+gt_woman with suitcase=-0.0
+gt_woman with suitcase=-0.0
+gt_suitcase with hat=1.0
+gt_rack with suitcase=1.0
+gt_door with suitcase=-0.0
+gt_suitcase with shoe=1.0
+gt_man with suitcase=1.0
+gt_suitcase on bed=-0.0
+----------------------------
+Caption: a man holding a cell phone in his hand
+Imageid: 322482, extracted triplets: ['man hold phone', 'man in hand'], mapped triplets: ['people hold umbrella', 'person hold umbrella', 'people hold bag', 'man in shirt', 'donut in hand', 'umbrella in hand', 'luggage in hand']
+Objective: 128.0000969264404
+PRIOR DISTANCE
+gt_man in shirt=0.0
+gt_people hold umbrella=0.0
+gt_people hold bag=0.0
+gt_person hold umbrella=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_luggage in hand=1.0
+gt_umbrella in hand=0.0
+gt_people hold umbrella=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_person hold umbrella=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_people hold umbrella=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_donut in hand=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_people hold umbrella=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in shirt=1.0
+gt_donut in hand=0.0
+gt_people hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_umbrella in hand=1.0
+gt_man in shirt=1.0
+gt_people hold bag=1.0
+gt_luggage in hand=1.0
+gt_woman in shirt=1.0
+Objective: 128.0365986970497
+gt_man in shirt=0.0
+gt_people hold umbrella=0.0
+gt_people hold bag=0.0
+gt_person hold umbrella=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_luggage in hand=1.0
+gt_umbrella in hand=0.0
+gt_people hold umbrella=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_person hold umbrella=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_people hold umbrella=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_donut in hand=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_people hold umbrella=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in shirt=1.0
+gt_donut in hand=1.0
+gt_people hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_umbrella in hand=0.0
+gt_man in shirt=1.0
+gt_people hold bag=0.0
+gt_luggage in hand=1.0
+gt_woman in shirt=1.0
+----------------------------
+Caption: a man standing on the sidewalk next to a street
+Imageid: 158744, extracted triplets: ['man on sidewalk', 'man next to street'], mapped triplets: ['people on street', 'woman on sidewalk', 'man on sidewalk', 'sidewalk next to car', 'street next to bus', 'street next to people']
+Objective: 128.0365986970497
+PRIOR DISTANCE
+gt_man on sidewalk=0.0
+gt_street next to bus=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_sidewalk next to car=1.0
+gt_people on street=1.0
+gt_sidewalk next to car=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_street next to bus=0.0
+gt_street next to people=1.0
+gt_people on street=0.0
+gt_people on street=1.0
+gt_man on sidewalk=0.0
+gt_people on street=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_street next to bus=1.0
+gt_sidewalk next to car=1.0
+gt_man on sidewalk=0.0
+gt_street next to people=1.0
+gt_people on street=0.0
+Objective: 128.77217508037643
+gt_man on sidewalk=0.0
+gt_street next to bus=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_sidewalk next to car=1.0
+gt_people on street=1.0
+gt_sidewalk next to car=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_street next to bus=0.0
+gt_street next to people=1.0
+gt_people on street=0.0
+gt_people on street=1.0
+gt_man on sidewalk=0.0
+gt_people on street=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_people on street=0.0
+gt_man on sidewalk=0.0
+gt_street next to bus=1.0
+gt_sidewalk next to car=0.0
+gt_man on sidewalk=0.0
+gt_street next to people=0.0
+gt_people on street=0.0
+----------------------------
+Caption: a person walking down a sidewalk with a television
+Imageid: 136433, extracted triplets: ['sidewalk with television'], mapped triplets: ['sidewalk with suitcase', 'sidewalk with umbrella', 'sidewalk with tree']
+Objective: 128.77217508037643
+PRIOR DISTANCE
+gt_sidewalk with suitcase=0.0
+gt_sidewalk with umbrella=0.0
+gt_sidewalk with suitcase=0.0
+gt_sidewalk with tree=0.0
+gt_sidewalk with suitcase=1.0
+gt_sidewalk with suitcase=-0.0
+gt_sidewalk with umbrella=0.0
+gt_sidewalk with tree=1.0
+Objective: 128.97594512078257
+gt_sidewalk with suitcase=0.0
+gt_sidewalk with umbrella=0.0
+gt_sidewalk with suitcase=0.0
+gt_sidewalk with tree=0.0
+gt_sidewalk with suitcase=1.0
+gt_sidewalk with suitcase=-0.0
+gt_sidewalk with umbrella=1.0
+gt_sidewalk with tree=1.0
+----------------------------
+Caption: a suitcase sitting on top of a table
+Imageid: 261948, extracted triplets: ['suitcase sit floor', 'suitcase sit bench'], mapped triplets: ["('luggage', 'floor') sit ('book', 'floor')", 'suitcase sit floor', 'luggage sit floor', 'bag sit chair', 'suitcase sit bench']
+Objective: 128.97594512078257
+PRIOR DISTANCE
+Objective: 128.97594512078257
+----------------------------
+Caption: a black and white cat laying in a red suitcase
+Imageid: 97156, extracted triplets: ['cat in suitcase'], mapped triplets: ['cat in suitcase', 'boy in suitcase', 'dog in suitcase', 'child in suitcase']
+Objective: 128.97594512078257
+PRIOR DISTANCE
+gt_cat in suitcase=0.0
+gt_cat in suitcase=1.0
+gt_dog in suitcase=0.0
+gt_child in suitcase=0.0
+Objective: 129.32412820419572
+gt_cat in suitcase=0.0
+gt_cat in suitcase=1.0
+gt_dog in suitcase=0.0
+gt_child in suitcase=1.0
+----------------------------
+Caption: a woman holding a tennis racket in her hand
+Imageid: 125983, extracted triplets: ['woman in hand'], mapped triplets: ['woman in suitcase', 'umbrella in hand', 'luggage in hand']
+Objective: 129.32412820419572
+PRIOR DISTANCE
+gt_luggage in hand=1.0
+gt_umbrella in hand=0.0
+gt_woman in suitcase=0.0
+gt_woman in suitcase=1.0
+gt_umbrella in hand=0.0
+gt_luggage in hand=1.0
+Objective: 129.27023525732642
+gt_luggage in hand=1.0
+gt_umbrella in hand=0.0
+gt_woman in suitcase=0.0
+gt_woman in suitcase=1.0
+gt_umbrella in hand=1.0
+gt_luggage in hand=1.0
+----------------------------
+Caption: a blue suitcase sitting on the ground
+Imageid: 359855, extracted triplets: ['suitcase sit on dirt'], mapped triplets: ['luggage sit floor']
+Objective: 129.27023525732642
+PRIOR DISTANCE
+Objective: 129.27023525732642
+----------------------------
+Caption: a young boy playing with a suitcase
+Imageid: 343914, extracted triplets: ['boy play suitcase'], mapped triplets: ['cat play suitcase']
+Objective: 129.27023525732642
+PRIOR DISTANCE
+Objective: 129.27023525732642
+----------------------------
+Caption: a cat laying in a black suitcase
+Imageid: 460505, extracted triplets: ['cat in suitcase'], mapped triplets: ['cat in bag', 'cat in room', 'cat in suitcase']
+Objective: 129.27023525732642
+PRIOR DISTANCE
+gt_cat in room=0.0
+gt_cat in suitcase=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in suitcase=1.0
+gt_cat in bag=0.0
+gt_cat in room=1.0
+Objective: 129.17914338441153
+gt_cat in room=0.0
+gt_cat in suitcase=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in suitcase=1.0
+gt_cat in bag=1.0
+gt_cat in room=1.0
+----------------------------
+Caption: a group of people sitting on a couch
+Imageid: 372191, extracted triplets: ['people sit couch'], mapped triplets: ['people sit bench', 'man sit couch']
+Objective: 129.17914338441153
+PRIOR DISTANCE
+Objective: 129.17914338441153
+----------------------------
+Caption: a train is sitting on the tracks at a train station
+Imageid: 20381, extracted triplets: ['train at train station'], mapped triplets: ['train at platform']
+Objective: 129.17914338441153
+PRIOR DISTANCE
+gt_train at platform=1.0
+Objective: 129.17914338441153
+gt_train at platform=1.0
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 576363, extracted triplets: ['luggage at luggage', 'luggage at floor', 'luggage at window', 'luggage at sign'], mapped triplets: ['man at suitcase', 'suitcase at people', 'train at platform', 'luggage at bus', 'window at wall', 'man at suitcase']
+Objective: 129.17914338441153
+PRIOR DISTANCE
+gt_train at platform=1.0
+gt_luggage at bus=0.0
+gt_window at wall=0.0
+Objective: 129.17320184306152
+gt_train at platform=1.0
+gt_luggage at bus=0.0
+gt_window at wall=0.0
+----------------------------
+Caption: a man and a woman riding on a motorcycle
+Imageid: 349437, extracted triplets: ['woman ride motorcycle'], mapped triplets: ['people ride motorcycle']
+Objective: 129.17320184306152
+PRIOR DISTANCE
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=-0.0
+Objective: 129.25027464717115
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=1.0
+----------------------------

@@ -1,0 +1,1932 @@
+Caption: a boat in the water with a flag
+Imageid: 17756, extracted triplets: ['boat in water', 'boat with flag'], mapped triplets: ['beach in boat', 'boy in boat', 'boat in water', 'beach in water', 'beach with boat']
+Objective: 179.65643417625145
+PRIOR DISTANCE
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_beach with boat=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in boat=0.0
+gt_beach with boat=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_beach with boat=1.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boy in boat=0.0
+gt_beach in water=1.0
+Objective: 179.64032477030037
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_beach with boat=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in boat=0.0
+gt_beach with boat=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_beach with boat=1.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boy in boat=0.0
+gt_beach in water=0.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 350262, extracted triplets: ['sheep in field'], mapped triplets: ['animal in field', 'cow in field', 'dog in field', 'elephant in field', 'giraffe in field', 'horse in field', 'man in field', 'sheep in field', 'zebra in field']
+Objective: 179.64032477030037
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_dog in field=0.0
+gt_woman in field=0.0
+gt_man in field=0.0
+gt_dog in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_zebra in field=1.0
+gt_elephant in field=1.0
+gt_giraffe in field=-0.0
+gt_horse in field=1.0
+Objective: 179.79693086568508
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_dog in field=0.0
+gt_woman in field=0.0
+gt_man in field=0.0
+gt_dog in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_zebra in field=1.0
+gt_elephant in field=1.0
+gt_giraffe in field=-0.0
+gt_horse in field=1.0
+----------------------------
+Caption: a giraffe with two birds sitting on its neck
+Imageid: 126502, extracted triplets: ['giraffe with feather'], mapped triplets: ['bird with feather']
+Objective: 179.79693086568508
+PRIOR DISTANCE
+gt_bird with feather=1.0
+Objective: 179.79937653869095
+gt_bird with feather=1.0
+----------------------------
+Caption: a bird standing on the ground in a field
+Imageid: 58492, extracted triplets: ['bird on sand'], mapped triplets: ['bird on sand', 'people on sand', 'boat on sand']
+Objective: 179.79937653869095
+PRIOR DISTANCE
+gt_boat on sand=0.0
+gt_people on sand=1.0
+gt_bird on sand=1.0
+gt_people on sand=1.0
+gt_boat on sand=1.0
+Objective: 179.81799571287564
+gt_boat on sand=0.0
+gt_people on sand=1.0
+gt_bird on sand=1.0
+gt_people on sand=1.0
+gt_boat on sand=1.0
+----------------------------
+Caption: a bird standing next to a fence
+Imageid: 520482, extracted triplets: ['bird next to fence'], mapped triplets: ['giraffe next to fence', 'bird next to tree']
+Objective: 179.81799571287564
+PRIOR DISTANCE
+gt_giraffe next to fence=1.0
+gt_bird next to tree=0.0
+Objective: 179.89070346226606
+gt_giraffe next to fence=1.0
+gt_bird next to tree=0.0
+----------------------------
+Caption: a white vase with flowers on a table
+Imageid: 498555, extracted triplets: ['vase with flower'], mapped triplets: ['table with vase', 'branch with flower', 'umbrella with flower']
+Objective: 179.89070346226606
+PRIOR DISTANCE
+gt_table with vase=0.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_table with vase=1.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_branch with flower=-0.0
+gt_table with vase=0.0
+gt_umbrella with flower=1.0
+Objective: 180.02021971864264
+gt_table with vase=0.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_table with vase=1.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_table with vase=0.0
+gt_table with vase=1.0
+gt_branch with flower=-0.0
+gt_table with vase=0.0
+gt_umbrella with flower=1.0
+----------------------------
+Caption: a bird sitting on a plate next to a plate of food
+Imageid: 210032, extracted triplets: ['bird sit plate', 'bird next to plate'], mapped triplets: ['bird sit bowl', 'bird sit plate', 'bird next to bird', 'photo next to plate', 'bird next to plate']
+Objective: 180.02021971864264
+PRIOR DISTANCE
+gt_photo next to plate=1.0
+gt_bird next to bird=1.0
+gt_photo next to plate=1.0
+Objective: 180.05991064703997
+gt_photo next to plate=1.0
+gt_bird next to bird=1.0
+gt_photo next to plate=1.0
+----------------------------
+Caption: a close up of a giraffe with a bird on its neck
+Imageid: 68203, extracted triplets: ['bird on neck'], mapped triplets: ['bird on head', 'bird on neck']
+Objective: 180.05991064703997
+PRIOR DISTANCE
+gt_bird on head=0.0
+gt_bird on head=0.0
+gt_bird on neck=0.0
+gt_bird on head=1.0
+Objective: 180.1442640282824
+gt_bird on head=0.0
+gt_bird on head=0.0
+gt_bird on neck=0.0
+gt_bird on head=0.0
+----------------------------
+Caption: a bird standing on the beach next to the ocean
+Imageid: 322955, extracted triplets: ['bird on beach'], mapped triplets: ['dog on beach', 'surfboard on beach', 'chair on beach', 'umbrella on beach', 'bench on beach', 'boat on beach', 'frisbee on beach', 'girl on beach', 'man on beach', 'person on beach', 'people on beach', 'woman on beach', 'motorcycle on beach', 'truck on beach', 'ocean on beach', 'bird on beach']
+Objective: 180.1442640282824
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_people on beach=0.0
+gt_truck on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=0.0
+gt_bench on beach=1.0
+gt_frisbee on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_people on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_bird on beach=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_man on beach=0.0
+gt_truck on beach=1.0
+gt_frisbee on beach=1.0
+gt_person on beach=0.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=1.0
+gt_surfboard on beach=1.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+Objective: 181.68766769809082
+gt_man on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_people on beach=0.0
+gt_truck on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=0.0
+gt_bench on beach=1.0
+gt_frisbee on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_people on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_bird on beach=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_man on beach=0.0
+gt_truck on beach=1.0
+gt_frisbee on beach=1.0
+gt_person on beach=1.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_umbrella on beach=1.0
+gt_boat on beach=1.0
+gt_surfboard on beach=-0.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+----------------------------
+Caption: a bird standing on the shore next to the water
+Imageid: 458560, extracted triplets: ['bird on water', 'bird next to water'], mapped triplets: ['bird on beach', 'boat on water', 'bird on water', 'bird next to ocean', 'bird next to water']
+Objective: 181.68766769809082
+PRIOR DISTANCE
+gt_boat on water=0.0
+gt_boat on water=1.0
+gt_boat on water=0.0
+gt_bird on beach=0.0
+gt_bird on beach=0.0
+gt_bird next to ocean=1.0
+gt_bird next to water=-0.0
+gt_bird on water=-0.0
+gt_bird on beach=1.0
+gt_boat on water=0.0
+Objective: 181.8961814884511
+gt_boat on water=0.0
+gt_boat on water=1.0
+gt_boat on water=0.0
+gt_bird on beach=0.0
+gt_bird on beach=0.0
+gt_bird next to ocean=1.0
+gt_bird next to water=-0.0
+gt_bird on water=-0.0
+gt_bird on beach=1.0
+gt_boat on water=0.0
+----------------------------
+Caption: a man standing in front of a bird flying in the sky
+Imageid: 56983, extracted triplets: ['bird in sky'], mapped triplets: ['bird in branch', 'bird in tree', 'bird in bird', 'kite in sky', 'bird in sky']
+Objective: 181.8961814884511
+PRIOR DISTANCE
+gt_kite in sky=1.0
+gt_kite in sky=1.0
+gt_kite in sky=0.0
+gt_bird in sky=1.0
+gt_kite in sky=0.0
+gt_kite in sky=1.0
+gt_bird in branch=1.0
+gt_kite in sky=-0.0
+gt_bird in tree=1.0
+Objective: 182.05137619137255
+gt_kite in sky=1.0
+gt_kite in sky=1.0
+gt_kite in sky=0.0
+gt_bird in sky=1.0
+gt_kite in sky=0.0
+gt_kite in sky=1.0
+gt_bird in branch=1.0
+gt_kite in sky=-0.0
+gt_bird in tree=1.0
+----------------------------
+Caption: a bird sitting on the back of a giraffe
+Imageid: 393145, extracted triplets: ['bird sit background', 'bird sit giraffe'], mapped triplets: ['bird sit beach', 'bird sit branch', 'bird sit plant', 'bird sit tree', 'bird sit rock', 'bird sit grass', 'bird sit field', 'bird sit bird', 'giraffe sit grass']
+Objective: 182.05137619137255
+PRIOR DISTANCE
+Objective: 182.05137619137255
+----------------------------
+Caption: a bird sitting on top of a vase
+Imageid: 15260, extracted triplets: ['bird sit wall', 'bird sit floor', 'bird sit vase', 'bird sit bowl', 'bird sit bird'], mapped triplets: ['clock sit wall', 'bird sit wall', 'couch sit floor', 'table sit floor', 'bird sit bowl', 'bird sit branch', 'bird sit plant', 'bird sit tree', 'bird sit flower', 'bird sit grass', 'bird sit bowl', 'bird sit bird']
+Objective: 182.05137619137255
+PRIOR DISTANCE
+Objective: 182.05137619137255
+----------------------------
+Caption: a box of stuffed animals sitting on top of a box
+Imageid: 219723, extracted triplets: ['box of cat', 'box of animal', 'box of bear', 'box of sheep'], mapped triplets: ['cat of cat']
+Objective: 182.05137619137255
+PRIOR DISTANCE
+Objective: 182.05137619137255
+----------------------------
+Caption: a boat sitting on the sand on the beach
+Imageid: 220858, extracted triplets: ['boat sit beach', 'boat sit sand', 'sand on beach'], mapped triplets: ['bench sit beach', 'surfboard sit beach', 'chair sit beach', 'motorcycle sit beach', 'woman sit beach', 'boat sit beach', 'boat sit beach', 'bench sit beach', 'person sit beach', 'surfboard sit beach', 'chair sit beach', 'woman sit beach', 'boat on beach', 'people on sand', 'bench on beach', 'umbrella on beach', 'man on beach', 'bird on sand', 'person on beach', 'people on beach', 'chair on beach', 'bird on beach', 'beach on beach', 'water on beach', 'ocean on beach', 'sand on beach']
+Objective: 182.05137619137255
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_umbrella on beach=1.0
+gt_chair on beach=0.0
+gt_people on beach=0.0
+gt_beach on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=0.0
+gt_beach on beach=0.0
+gt_bench on beach=1.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_sand on beach=0.0
+gt_people on sand=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_beach on beach=1.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_people on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_bird on beach=0.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_beach on beach=1.0
+gt_person on beach=1.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_bird on sand=1.0
+gt_umbrella on beach=1.0
+gt_people on sand=1.0
+gt_boat on beach=1.0
+gt_sand on beach=0.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+gt_water on beach=0.0
+Objective: 179.29420813482787
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_umbrella on beach=1.0
+gt_chair on beach=0.0
+gt_people on beach=0.0
+gt_beach on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=0.0
+gt_beach on beach=0.0
+gt_bench on beach=1.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_sand on beach=0.0
+gt_people on sand=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_beach on beach=1.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_people on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_bird on beach=0.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_beach on beach=1.0
+gt_person on beach=0.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_bird on sand=1.0
+gt_umbrella on beach=0.0
+gt_people on sand=1.0
+gt_boat on beach=1.0
+gt_sand on beach=0.0
+gt_ocean on beach=0.0
+gt_people on beach=0.0
+gt_water on beach=-0.0
+----------------------------
+Caption: a yellow and black bird perched on a branch of a tree
+Imageid: 346067, extracted triplets: ['bird on branch', 'branch of branch'], mapped triplets: ['zebra on grass', 'cow on grass', 'bird on tree', 'bird on leaf', 'tree on branch', 'bird on grass', 'grass on field', 'bird on branch', 'branch of tree', 'leaf of tree']
+Objective: 179.29420813482787
+PRIOR DISTANCE
+gt_grass on field=1.0
+gt_grass on field=1.0
+gt_grass on field=0.0
+gt_bird on branch=-0.0
+gt_leaf of tree=1.0
+gt_tree on branch=1.0
+gt_branch of tree=1.0
+gt_grass on field=0.0
+gt_zebra on grass=0.0
+gt_bird on grass=1.0
+Objective: 179.78649077081957
+gt_grass on field=1.0
+gt_grass on field=1.0
+gt_grass on field=0.0
+gt_bird on branch=0.0
+gt_leaf of tree=1.0
+gt_tree on branch=1.0
+gt_branch of tree=1.0
+gt_grass on field=0.0
+gt_zebra on grass=0.0
+gt_bird on grass=1.0
+----------------------------
+Caption: a small bird sitting on top of a bird feeder
+Imageid: 412355, extracted triplets: ['bird sit tree', 'bird sit pillar', 'bird sit bar'], mapped triplets: ['bird sit branch', 'bird sit tree', 'bird sit pole', 'bird sit branch', 'bird sit tree']
+Objective: 179.78649077081957
+PRIOR DISTANCE
+Objective: 179.78649077081957
+----------------------------
+Caption: a man standing on a boat in the water
+Imageid: 217468, extracted triplets: ['man on boat', 'boat in water'], mapped triplets: ['person on beach', 'man on beach', 'beach in water', 'surfer in water', 'elephant in water', 'man in water', 'water in boat', 'post in water', 'people in water', 'bird in water', 'boat in water']
+Objective: 179.78649077081957
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_man on beach=0.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_man on beach=0.0
+gt_boat in water=0.0
+gt_woman on beach=0.0
+gt_boat in water=1.0
+gt_post in water=1.0
+gt_surfer in water=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_water in boat=1.0
+gt_man on beach=0.0
+gt_people in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_boat in water=0.0
+gt_woman on beach=0.0
+gt_boat in water=0.0
+gt_man on beach=0.0
+gt_people in water=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_people in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman on beach=1.0
+gt_man on beach=0.0
+gt_woman in water=0.0
+gt_post in water=-0.0
+gt_water in boat=-0.0
+gt_person on beach=0.0
+gt_man on beach=0.0
+gt_surfer in water=1.0
+gt_bird in water=-0.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_beach in water=0.0
+Objective: 180.76050698591845
+gt_people in water=0.0
+gt_man on beach=0.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_man on beach=0.0
+gt_boat in water=0.0
+gt_woman on beach=0.0
+gt_boat in water=1.0
+gt_post in water=1.0
+gt_surfer in water=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_water in boat=1.0
+gt_man on beach=0.0
+gt_people in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_boat in water=0.0
+gt_woman on beach=0.0
+gt_boat in water=0.0
+gt_man on beach=0.0
+gt_people in water=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_people in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman on beach=1.0
+gt_man on beach=0.0
+gt_woman in water=0.0
+gt_post in water=-0.0
+gt_water in boat=-0.0
+gt_person on beach=1.0
+gt_man on beach=0.0
+gt_surfer in water=1.0
+gt_bird in water=-0.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_beach in water=0.0
+----------------------------
+Caption: a cat sitting on a table next to a bird
+Imageid: 227878, extracted triplets: ['cat sit chair', 'cat sit desk', 'cat next to bird'], mapped triplets: ['cat sit table', 'bird sit chair', 'cat sit table', 'computer sit desk', 'boy next to bird', 'field next to bird', 'cat next to bird', 'chair next to bird', 'bird next to bird']
+Objective: 180.76050698591845
+PRIOR DISTANCE
+gt_boy next to bird=0.0
+gt_chair next to bird=0.0
+gt_field next to bird=-0.0
+gt_bird next to bird=1.0
+gt_chair next to bird=-0.0
+gt_boy next to bird=1.0
+Objective: 180.9700692350246
+gt_boy next to bird=0.0
+gt_chair next to bird=0.0
+gt_field next to bird=-0.0
+gt_bird next to bird=1.0
+gt_chair next to bird=-0.0
+gt_boy next to bird=1.0
+----------------------------
+Caption: a large boat in the water with a bird
+Imageid: 331455, extracted triplets: ['boat in water', 'boat with bird'], mapped triplets: ['beach in water', 'boat in water', 'surfer in water', 'elephant in water', 'man in water', 'water in boat', 'boat with bird']
+Objective: 180.9700692350246
+PRIOR DISTANCE
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat with bird=0.0
+gt_surfer in water=0.0
+gt_water in boat=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat with bird=0.0
+gt_water in boat=-0.0
+gt_surfer in water=1.0
+gt_boat in water=0.0
+gt_beach in water=0.0
+Objective: 180.86281646234605
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat with bird=0.0
+gt_surfer in water=0.0
+gt_water in boat=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat with bird=0.0
+gt_water in boat=-0.0
+gt_surfer in water=1.0
+gt_boat in water=0.0
+gt_beach in water=-0.0
+----------------------------
+Caption: an elephant standing in the grass in a field
+Imageid: 46761, extracted triplets: ['elephant in grass', 'elephant in field'], mapped triplets: ['cow in grass', 'giraffe in grass', 'zebra in grass', 'elephant in field', 'bird in grass', 'elephant in grass', 'elephant in grass', 'animal in field', 'cow in field', 'dog in field', 'sheep in field', 'giraffe in field', 'horse in field', 'man in field', 'elephant in field']
+Objective: 180.86281646234605
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_elephant in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_animal in field=1.0
+gt_cow in grass=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_bird in grass=0.0
+gt_dog in field=0.0
+gt_woman in field=0.0
+gt_man in field=0.0
+gt_dog in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_elephant in field=1.0
+gt_elephant in field=1.0
+gt_zebra in grass=1.0
+gt_giraffe in field=-0.0
+gt_horse in field=1.0
+Objective: 180.80311461720396
+gt_dog in field=1.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_cow in field=0.0
+gt_elephant in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_animal in field=1.0
+gt_cow in grass=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_bird in grass=0.0
+gt_dog in field=0.0
+gt_woman in field=0.0
+gt_man in field=0.0
+gt_dog in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_elephant in field=1.0
+gt_elephant in field=1.0
+gt_zebra in grass=0.0
+gt_giraffe in field=-0.0
+gt_horse in field=1.0
+----------------------------
+Caption: a bird sitting on a tree branch with fruit
+Imageid: 534983, extracted triplets: ['bird sit rope', 'bird sit bird', 'bird with fruit'], mapped triplets: ['bird sit branch', 'bird sit post', 'bird sit tree', 'bird sit pole', 'beak sit branch', 'bird sit wire', 'bird sit rope', 'bird sit bird', 'tree with fruit', 'bird with apple']
+Objective: 180.80311461720396
+PRIOR DISTANCE
+gt_tree with fruit=-0.0
+Objective: 180.38450510292859
+gt_tree with fruit=-0.0
+----------------------------
+Caption: a man standing on a beach with a flock of birds
+Imageid: 182441, extracted triplets: ['man on beach'], mapped triplets: ['person on beach', 'people on beach', 'woman on beach', 'girl on beach', 'man on beach']
+Objective: 180.38450510292859
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_man on beach=0.0
+gt_person on beach=1.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+Objective: 180.3166300408316
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_man on beach=0.0
+gt_person on beach=1.0
+gt_man on beach=0.0
+gt_people on beach=1.0
+----------------------------
+Caption: a woman standing on the beach with a flock of birds
+Imageid: 402000, extracted triplets: ['woman on beach', 'woman with bird'], mapped triplets: ['person on beach', 'people on beach', 'woman on beach', 'girl on beach', 'woman with bird']
+Objective: 180.3166300408316
+PRIOR DISTANCE
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_person on beach=1.0
+gt_people on beach=1.0
+Objective: 180.44377456547122
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_people on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_person on beach=1.0
+gt_people on beach=1.0
+----------------------------
+Caption: a group of birds sitting on a rock in the water
+Imageid: 230669, extracted triplets: ['rock in water'], mapped triplets: ['beach in wave', 'beach in water']
+Objective: 180.44377456547122
+PRIOR DISTANCE
+gt_beach in water=0.0
+gt_beach in water=-0.0
+Objective: 180.74444883713468
+gt_beach in water=0.0
+gt_beach in water=0.0
+----------------------------
+Caption: a bird sitting on top of a rock
+Imageid: 133380, extracted triplets: ['bird sit sky'], mapped triplets: ['bird sit tree', 'bird sit mountain']
+Objective: 180.74444883713468
+PRIOR DISTANCE
+Objective: 180.74444883713468
+----------------------------
+Caption: a man holding a white bird in his hand
+Imageid: 221232, extracted triplets: ['man hold bird'], mapped triplets: ['man hold bird', 'person hold bird', 'woman hold bird']
+Objective: 180.74444883713468
+PRIOR DISTANCE
+gt_woman hold bird=0.0
+gt_woman hold bird=0.0
+gt_man hold bird=-0.0
+gt_person hold bird=1.0
+gt_woman hold bird=1.0
+gt_woman hold bird=1.0
+Objective: 180.52865990728827
+gt_woman hold bird=0.0
+gt_woman hold bird=0.0
+gt_man hold bird=1.0
+gt_person hold bird=1.0
+gt_woman hold bird=1.0
+gt_woman hold bird=1.0
+----------------------------
+Caption: a bird sitting on the back of a horse in a field
+Imageid: 294593, extracted triplets: ['bird sit horse', 'bird in field'], mapped triplets: ['bird sit cow', 'bird in grass', 'bird in tree', 'animal in field', 'horse in field', 'giraffe in field', 'elephant in field', 'dog in field', 'kite in field', 'sheep in field', 'bird in field']
+Objective: 180.52865990728827
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_kite in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_kite in field=0.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_kite in field=0.0
+gt_bird in grass=0.0
+gt_dog in field=0.0
+gt_kite in field=0.0
+gt_dog in field=1.0
+gt_kite in field=1.0
+gt_dog in field=1.0
+gt_elephant in field=1.0
+gt_giraffe in field=-0.0
+gt_bird in field=-0.0
+gt_horse in field=1.0
+gt_bird in tree=1.0
+Objective: 180.6451141442543
+gt_dog in field=1.0
+gt_kite in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_kite in field=0.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_kite in field=0.0
+gt_bird in grass=0.0
+gt_dog in field=0.0
+gt_kite in field=0.0
+gt_dog in field=1.0
+gt_kite in field=1.0
+gt_dog in field=1.0
+gt_elephant in field=1.0
+gt_giraffe in field=-0.0
+gt_bird in field=-0.0
+gt_horse in field=1.0
+gt_bird in tree=1.0
+----------------------------
+Caption: a black and white bird sitting on a tree branch
+Imageid: 337139, extracted triplets: ['bird sit on tree branch'], mapped triplets: ['bird sit tree']
+Objective: 180.6451141442543
+PRIOR DISTANCE
+Objective: 180.6451141442543
+----------------------------
+Caption: a yellow bird sitting on top of a wooden bench
+Imageid: 358254, extracted triplets: ['bird sit head'], mapped triplets: ['bird sit bird']
+Objective: 180.6451141442543
+PRIOR DISTANCE
+Objective: 180.6451141442543
+----------------------------
+Caption: a group of birds sitting on top of a wooden post in the water
+Imageid: 494578, extracted triplets: ['post in water'], mapped triplets: ['wave in ocean', 'beach in wave', 'post in water']
+Objective: 180.6451141442543
+PRIOR DISTANCE
+gt_post in water=1.0
+gt_wave in ocean=0.0
+gt_post in water=-0.0
+gt_wave in ocean=0.0
+Objective: 180.98632502017625
+gt_post in water=1.0
+gt_wave in ocean=0.0
+gt_post in water=-0.0
+gt_wave in ocean=1.0
+----------------------------
+Caption: a bird standing in the grass in a field
+Imageid: 423830, extracted triplets: ['bird in grass', 'bird in field'], mapped triplets: ['zebra in grass', 'bird in branch', 'bird in plant', 'bench in grass', 'rock in grass', 'cow in grass', 'bird in tree', 'elephant in grass', 'bird in dirt', 'bird in grass', 'boy in grass', 'apple in grass', 'grass in field', 'bird in field', 'giraffe in grass', 'bird in grass', 'horse in field', 'giraffe in field', 'animal in field', 'zebra in field', 'frisbee in field', 'girl in field', 'rock in field', 'cow in field', 'hill in field', 'man in field', 'elephant in field', 'dog in field', 'kite in field', 'sheep in field', 'bike in field', 'fence in field', 'bird in field']
+Objective: 180.98632502017625
+PRIOR DISTANCE
+gt_frisbee in field=0.0
+gt_dog in field=1.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_frisbee in field=0.0
+gt_grass in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_kite in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_grass in field=0.0
+gt_man in field=1.0
+gt_hill in field=0.0
+gt_animal in field=1.0
+gt_cow in grass=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_fence in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_kite in field=0.0
+gt_bird in grass=0.0
+gt_bird in grass=0.0
+gt_frisbee in field=0.0
+gt_dog in field=0.0
+gt_bench in grass=1.0
+gt_woman in field=0.0
+gt_kite in field=0.0
+gt_man in field=0.0
+gt_girl in field=1.0
+gt_fence in field=0.0
+gt_dog in field=1.0
+gt_fence in field=0.0
+gt_rock in field=-0.0
+gt_kite in field=1.0
+gt_bike in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_bird in branch=1.0
+gt_elephant in field=1.0
+gt_zebra in grass=0.0
+gt_giraffe in field=-0.0
+gt_frisbee in field=1.0
+gt_bird in field=-0.0
+gt_bird in field=-0.0
+gt_hill in field=-0.0
+gt_horse in field=1.0
+gt_bird in tree=1.0
+gt_bench in grass=0.0
+Objective: 180.60149829070102
+gt_frisbee in field=0.0
+gt_dog in field=1.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_frisbee in field=0.0
+gt_grass in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_kite in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_grass in field=0.0
+gt_man in field=1.0
+gt_hill in field=0.0
+gt_animal in field=1.0
+gt_cow in grass=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_fence in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_kite in field=0.0
+gt_bird in grass=0.0
+gt_bird in grass=0.0
+gt_frisbee in field=0.0
+gt_dog in field=0.0
+gt_bench in grass=1.0
+gt_woman in field=0.0
+gt_kite in field=0.0
+gt_man in field=0.0
+gt_girl in field=1.0
+gt_fence in field=0.0
+gt_dog in field=1.0
+gt_fence in field=0.0
+gt_rock in field=-0.0
+gt_kite in field=1.0
+gt_bike in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_zebra in field=1.0
+gt_grass in field=1.0
+gt_bird in branch=1.0
+gt_elephant in field=1.0
+gt_zebra in grass=0.0
+gt_giraffe in field=-0.0
+gt_frisbee in field=1.0
+gt_bird in field=-0.0
+gt_bird in field=-0.0
+gt_hill in field=-0.0
+gt_horse in field=1.0
+gt_bird in tree=1.0
+gt_bench in grass=1.0
+----------------------------
+Caption: a red and white boat in the water
+Imageid: 330369, extracted triplets: ['boat in water'], mapped triplets: ['beach in boat', 'boy in boat', 'boat in water', 'beach in water', 'bird in water', 'surfer in water', 'elephant in water', 'man in water', 'post in water', 'bench in water', 'people in water', 'leg in water']
+Objective: 180.60149829070102
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_post in water=1.0
+gt_surfer in water=0.0
+gt_people in water=0.0
+gt_boy in boat=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_people in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_post in water=-0.0
+gt_surfer in water=1.0
+gt_bird in water=-0.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_boy in boat=-0.0
+gt_beach in water=0.0
+gt_leg in water=-0.0
+Objective: 179.6117701189463
+gt_people in water=0.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_post in water=1.0
+gt_surfer in water=0.0
+gt_people in water=0.0
+gt_boy in boat=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_people in water=0.0
+gt_boat in water=0.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_post in water=-0.0
+gt_surfer in water=1.0
+gt_bird in water=-0.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_boy in boat=-0.0
+gt_beach in water=0.0
+gt_leg in water=-0.0
+----------------------------
+Caption: a cat standing next to a bike tire
+Imageid: 573881, extracted triplets: ['cat next to bike tire'], mapped triplets: ['cat next to bird']
+Objective: 179.6117701189463
+PRIOR DISTANCE
+Objective: 179.6117701189463
+----------------------------
+Caption: a white bird standing on the beach next to the ocean
+Imageid: 404568, extracted triplets: ['bird on beach', 'bird next to water', 'bird next to beach', 'bird next to wave'], mapped triplets: ['boat on beach', 'frisbee on beach', 'girl on beach', 'bench on beach', 'rock on beach', 'umbrella on beach', 'man on beach', 'dog on beach', 'sand on beach', 'person on beach', 'kite on beach', 'surfboard on beach', 'chair on beach', 'beach on beach', 'water on beach', 'bird on beach', 'ocean on beach', 'woman on beach', 'truck on beach', 'motorcycle on beach', 'bird next to ocean', 'bird next to water', 'bird next to wave', 'bird next to ocean', 'bird next to wave', 'bird next to sky', 'bird next to ocean', 'bird next to water', 'bird next to sky', 'bird next to wave']
+Objective: 179.6117701189463
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_beach on beach=0.0
+gt_truck on beach=0.0
+gt_kite on beach=1.0
+gt_man on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=0.0
+gt_kite on beach=0.0
+gt_beach on beach=0.0
+gt_bench on beach=1.0
+gt_frisbee on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_beach on beach=1.0
+gt_kite on beach=1.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_bird on beach=0.0
+gt_rock on beach=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_bird next to ocean=1.0
+gt_bird next to ocean=1.0
+gt_bird next to ocean=1.0
+gt_truck on beach=1.0
+gt_frisbee on beach=1.0
+gt_beach on beach=1.0
+gt_bird next to wave=1.0
+gt_bird next to wave=1.0
+gt_bird next to wave=1.0
+gt_bird next to water=-0.0
+gt_bird next to water=-0.0
+gt_person on beach=1.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_bird next to sky=1.0
+gt_bird next to sky=1.0
+gt_dog on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=1.0
+gt_sand on beach=0.0
+gt_surfboard on beach=-0.0
+gt_ocean on beach=0.0
+gt_rock on beach=0.0
+gt_kite on beach=1.0
+gt_water on beach=-0.0
+Objective: 176.3171464672347
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_beach on beach=0.0
+gt_truck on beach=0.0
+gt_kite on beach=1.0
+gt_man on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=0.0
+gt_kite on beach=0.0
+gt_beach on beach=0.0
+gt_bench on beach=1.0
+gt_frisbee on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_beach on beach=1.0
+gt_kite on beach=1.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_bird on beach=0.0
+gt_rock on beach=1.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_bird next to ocean=1.0
+gt_bird next to ocean=1.0
+gt_bird next to ocean=1.0
+gt_truck on beach=0.0
+gt_frisbee on beach=1.0
+gt_beach on beach=1.0
+gt_bird next to wave=-0.0
+gt_bird next to wave=-0.0
+gt_bird next to wave=-0.0
+gt_bird next to water=-0.0
+gt_bird next to water=-0.0
+gt_person on beach=0.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_bird next to sky=1.0
+gt_bird next to sky=1.0
+gt_dog on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=1.0
+gt_sand on beach=0.0
+gt_surfboard on beach=-0.0
+gt_ocean on beach=0.0
+gt_rock on beach=1.0
+gt_kite on beach=1.0
+gt_water on beach=-0.0
+----------------------------
+Caption: a bird standing on the water at the water
+Imageid: 29160, extracted triplets: ['bird on water', 'bird at water'], mapped triplets: ['zebra on grass', 'cow on grass', 'elephant on grass', 'giraffe on grass', 'animal on grass', 'bird on grass', 'grass on field', 'bird on water', 'surfboard at ocean', 'rail at water', 'woman at water', 'bird at water']
+Objective: 176.3171464672347
+PRIOR DISTANCE
+gt_grass on field=1.0
+gt_grass on field=1.0
+gt_animal on grass=1.0
+gt_grass on field=0.0
+gt_grass on field=0.0
+gt_zebra on grass=0.0
+gt_bird on water=-0.0
+gt_bird on grass=1.0
+gt_animal on grass=0.0
+Objective: 176.30597120970174
+gt_grass on field=1.0
+gt_grass on field=1.0
+gt_animal on grass=1.0
+gt_grass on field=0.0
+gt_grass on field=0.0
+gt_zebra on grass=0.0
+gt_bird on water=-0.0
+gt_bird on grass=1.0
+gt_animal on grass=1.0
+----------------------------
+Caption: a man sitting on a bench on the beach
+Imageid: 248142, extracted triplets: ['man sit on bench', 'man on beach'], mapped triplets: ['person sit bench', 'people sit bench', 'man sit on bench', 'man on beach', 'person on beach', 'people on beach', 'woman on beach', 'girl on beach', 'dog on beach', 'umbrella on beach', 'surfboard on beach', 'motorcycle on beach', 'truck on beach', 'ocean on beach']
+Objective: 176.30597120970174
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=1.0
+gt_people on beach=0.0
+gt_truck on beach=0.0
+gt_woman sit on bench=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man sit on bench=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_man sit on bench=0.0
+gt_umbrella on beach=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=1.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=1.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_umbrella on beach=0.0
+gt_woman sit on bench=1.0
+gt_man sit on bench=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_man on beach=0.0
+gt_truck on beach=0.0
+gt_man sit on bench=-0.0
+gt_person on beach=0.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_umbrella on beach=0.0
+gt_surfboard on beach=-0.0
+gt_woman sit on bench=1.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+Objective: 179.7592881046999
+gt_man on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=1.0
+gt_people on beach=0.0
+gt_truck on beach=0.0
+gt_woman sit on bench=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man sit on bench=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=0.0
+gt_man sit on bench=0.0
+gt_umbrella on beach=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=1.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=1.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_umbrella on beach=0.0
+gt_woman sit on bench=1.0
+gt_man sit on bench=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_man on beach=0.0
+gt_truck on beach=1.0
+gt_man sit on bench=0.0
+gt_person on beach=1.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_umbrella on beach=1.0
+gt_surfboard on beach=-0.0
+gt_woman sit on bench=1.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+----------------------------
+Caption: a red bird sitting on top of a wooden chair
+Imageid: 419859, extracted triplets: ['bird sit table'], mapped triplets: ['bird sit branch', 'bird sit post', 'bird sit plant', 'bird sit bowl', 'bird sit tree', 'bird sit pole', 'bird sit box', 'bird sit flower', 'bird sit bird', 'bird sit table', 'bird sit chair', 'bird sit bench', 'bird sit grass', 'bird sit fruit']
+Objective: 179.7592881046999
+PRIOR DISTANCE
+Objective: 179.7592881046999
+----------------------------
+Caption: a man sitting on a bench in a park
+Imageid: 302842, extracted triplets: ['man sit bench', 'man in park'], mapped triplets: ['woman sit bench', 'person sit bench', 'people sit bench', 'man sit bench', 'man in field', 'man in sand']
+Objective: 179.7592881046999
+PRIOR DISTANCE
+gt_man in field=0.0
+gt_man in field=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_man sit bench=1.0
+gt_man in field=0.0
+Objective: 179.7592881046999
+gt_man in field=0.0
+gt_man in field=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_man sit bench=1.0
+gt_man in field=0.0
+----------------------------
+Caption: a person riding a horse on the beach
+Imageid: 39081, extracted triplets: ['person on beach'], mapped triplets: ['people on sand', 'girl on beach', 'man on beach', 'umbrella on beach', 'dog on beach', 'sand on beach', 'kite on beach', 'surfboard on beach', 'flag on beach', 'chair on beach', 'people on beach', 'beach on beach', 'water on beach', 'bird on beach', 'woman on beach', 'ocean on beach', 'truck on beach', 'motorcycle on beach', 'person on beach']
+Objective: 179.7592881046999
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_people on beach=0.0
+gt_beach on beach=0.0
+gt_truck on beach=0.0
+gt_kite on beach=1.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_kite on beach=0.0
+gt_beach on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_sand on beach=0.0
+gt_people on sand=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_beach on beach=1.0
+gt_kite on beach=1.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_people on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_bird on beach=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_truck on beach=1.0
+gt_beach on beach=1.0
+gt_flag on beach=0.0
+gt_person on beach=1.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_umbrella on beach=1.0
+gt_people on sand=1.0
+gt_sand on beach=0.0
+gt_surfboard on beach=-0.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+gt_kite on beach=1.0
+gt_water on beach=-0.0
+Objective: 182.0765674358291
+gt_man on beach=0.0
+gt_sand on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_people on beach=0.0
+gt_beach on beach=0.0
+gt_truck on beach=0.0
+gt_kite on beach=1.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_kite on beach=0.0
+gt_beach on beach=0.0
+gt_person on beach=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_sand on beach=1.0
+gt_chair on beach=1.0
+gt_man on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_sand on beach=0.0
+gt_people on sand=1.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_chair on beach=0.0
+gt_surfboard on beach=0.0
+gt_dog on beach=0.0
+gt_beach on beach=1.0
+gt_kite on beach=1.0
+gt_sand on beach=0.0
+gt_man on beach=0.0
+gt_bird on beach=0.0
+gt_people on beach=0.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=0.0
+gt_bird on beach=0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_people on beach=1.0
+gt_sand on beach=1.0
+gt_man on beach=0.0
+gt_truck on beach=1.0
+gt_beach on beach=1.0
+gt_flag on beach=0.0
+gt_person on beach=1.0
+gt_bird on beach=1.0
+gt_man on beach=0.0
+gt_dog on beach=0.0
+gt_umbrella on beach=1.0
+gt_people on sand=1.0
+gt_sand on beach=0.0
+gt_surfboard on beach=-0.0
+gt_ocean on beach=0.0
+gt_people on beach=1.0
+gt_kite on beach=1.0
+gt_water on beach=0.0
+----------------------------
+Caption: a bird walking on the beach next to the water
+Imageid: 231685, extracted triplets: ['bird walk beach', 'bird next to water'], mapped triplets: ['bird walk beach', 'person walk beach', 'people walk beach', 'surfboard walk beach', 'man walk beach', 'woman walk beach', 'bird walk sand', 'bird next to ocean', 'bird next to water']
+Objective: 182.0765674358291
+PRIOR DISTANCE
+gt_bird next to ocean=1.0
+gt_bird next to water=-0.0
+Objective: 182.07281739288524
+gt_bird next to ocean=1.0
+gt_bird next to water=-0.0
+----------------------------
+Caption: a man sitting on a bench surrounded by pigeons
+Imageid: 2142, extracted triplets: ['man sit bench'], mapped triplets: ['person sit bench', 'people sit bench', 'man sit bench']
+Objective: 182.07281739288524
+PRIOR DISTANCE
+gt_man sit bench=1.0
+Objective: 182.07281739288524
+gt_man sit bench=1.0
+----------------------------
+Caption: a man standing next to a woman in a shopping cart
+Imageid: 12115, extracted triplets: ['man next to woman'], mapped triplets: ['man next to woman']
+Objective: 182.07281739288524
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+Objective: 182.07281739288524
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+----------------------------
+Caption: three white birds flying over a field of grass
+Imageid: 515727, extracted triplets: ['field of grass'], mapped triplets: ['plant of leaf', 'elephant of grass', 'field of grass']
+Objective: 182.07281739288524
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_plant of leaf=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+Objective: 182.0733476012165
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_plant of leaf=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+----------------------------
+Caption: a bird standing in the grass in a field
+Imageid: 41867, extracted triplets: ['bird in grass', 'bird in field'], mapped triplets: ['bird in plant', 'bird in tree', 'elephant in grass', 'bird in grass', 'zebra in grass', 'cow in grass', 'giraffe in grass', 'zebra in grass', 'horse in field', 'giraffe in field', 'animal in field', 'zebra in field', 'cow in field', 'girl in field', 'rock in field', 'elephant in field', 'dog in field', 'kite in field', 'sheep in field', 'bird in grass', 'bike in field', 'fence in field', 'bird in field']
+Objective: 182.0733476012165
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_kite in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_cow in grass=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_fence in field=0.0
+gt_sheep in field=0.0
+gt_kite in field=0.0
+gt_bird in grass=0.0
+gt_bird in grass=0.0
+gt_dog in field=0.0
+gt_kite in field=0.0
+gt_girl in field=1.0
+gt_fence in field=0.0
+gt_dog in field=1.0
+gt_fence in field=0.0
+gt_rock in field=-0.0
+gt_kite in field=1.0
+gt_bike in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_zebra in field=1.0
+gt_elephant in field=1.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_giraffe in field=-0.0
+gt_bird in field=0.0
+gt_horse in field=1.0
+gt_bird in tree=1.0
+Objective: 182.03959455796337
+gt_dog in field=1.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_zebra in field=0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_kite in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_animal in field=1.0
+gt_cow in grass=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_fence in field=0.0
+gt_sheep in field=0.0
+gt_kite in field=0.0
+gt_bird in grass=0.0
+gt_bird in grass=0.0
+gt_dog in field=0.0
+gt_kite in field=0.0
+gt_girl in field=1.0
+gt_fence in field=0.0
+gt_dog in field=1.0
+gt_fence in field=0.0
+gt_rock in field=-0.0
+gt_kite in field=1.0
+gt_bike in field=1.0
+gt_dog in field=1.0
+gt_cow in field=-0.0
+gt_zebra in field=1.0
+gt_elephant in field=1.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_giraffe in field=-0.0
+gt_bird in field=1.0
+gt_horse in field=1.0
+gt_bird in tree=1.0
+----------------------------
+Caption: a group of people on a boat in the water
+Imageid: 75932, extracted triplets: ['boat in water'], mapped triplets: ['beach in boat', 'surfer in water', 'boat in water', 'beach in water']
+Objective: 182.03959455796337
+PRIOR DISTANCE
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_surfer in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_surfer in water=1.0
+gt_boat in water=0.0
+gt_beach in water=0.0
+Objective: 182.07660921368782
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_surfer in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_surfer in water=1.0
+gt_boat in water=0.0
+gt_beach in water=0.0
+----------------------------
+Caption: a group of people sitting on a bench in front of a store
+Imageid: 472143, extracted triplets: ['people sit on chair'], mapped triplets: ['man sit chair', 'woman sit bench', 'person sit bench']
+Objective: 182.07660921368782
+PRIOR DISTANCE
+Objective: 182.07660921368782
+----------------------------
+Caption: a bird standing in the water near the water
+Imageid: 438269, extracted triplets: ['bird in water', 'bird near water'], mapped triplets: ['bird in wave', 'bird in sky', 'bird in water', 'beach near water', 'sand near water', 'kite near water', 'wall near water', 'tree near water', 'elephant near water', 'boat near water', 'people near water', 'zebra near water', 'bird near water']
+Objective: 182.07660921368782
+PRIOR DISTANCE
+gt_beach near water=0.0
+gt_beach near water=0.0
+gt_sand near water=0.0
+gt_bird in sky=1.0
+gt_sand near water=0.0
+gt_beach near water=1.0
+gt_sand near water=1.0
+gt_boat near water=1.0
+gt_wall near water=-0.0
+gt_people near water=0.0
+gt_elephant near water=1.0
+gt_beach near water=1.0
+gt_kite near water=1.0
+gt_bird near water=1.0
+gt_bird in water=-0.0
+gt_tree near water=-0.0
+gt_sand near water=1.0
+Objective: 182.79801495684825
+gt_beach near water=0.0
+gt_beach near water=0.0
+gt_sand near water=0.0
+gt_bird in sky=1.0
+gt_sand near water=0.0
+gt_beach near water=1.0
+gt_sand near water=1.0
+gt_boat near water=1.0
+gt_wall near water=-0.0
+gt_people near water=0.0
+gt_elephant near water=1.0
+gt_beach near water=1.0
+gt_kite near water=0.0
+gt_bird near water=1.0
+gt_bird in water=-0.0
+gt_tree near water=-0.0
+gt_sand near water=1.0
+----------------------------
+Caption: a building with a clock tower on top of it
+Imageid: 266348, extracted triplets: ['building with clock tower', 'building on top'], mapped triplets: ['tower with clock', 'wall with clock', 'clock on top']
+Objective: 182.79801495684825
+PRIOR DISTANCE
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_wall with clock=0.0
+gt_tower with clock=0.0
+gt_clock on top=0.0
+gt_wall with clock=1.0
+gt_tower with clock=-0.0
+Objective: 182.900131314086
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_wall with clock=0.0
+gt_tower with clock=0.0
+gt_clock on top=0.0
+gt_wall with clock=1.0
+gt_tower with clock=-0.0
+----------------------------
+Caption: a bird sitting on top of a park bench
+Imageid: 328433, extracted triplets: ['bird sit wall', 'bird sit bench'], mapped triplets: ['bird sit pole', 'clock sit wall', 'bird sit wall', 'bird sit bench']
+Objective: 182.900131314086
+PRIOR DISTANCE
+Objective: 182.900131314086
+----------------------------
+Caption: a white bird sitting on top of a rock near the water
+Imageid: 52827, extracted triplets: ['bird sit hill', 'bird sit tower', 'rock near water'], mapped triplets: ['bird sit tree', 'bird sit mountain', 'bird sit pole', 'bird sit roof', 'sand near ocean', 'beach near water', 'sand near water', 'beach near ocean']
+Objective: 182.900131314086
+PRIOR DISTANCE
+gt_sand near ocean=0.0
+gt_beach near water=0.0
+gt_sand near ocean=0.0
+gt_beach near water=0.0
+gt_sand near water=0.0
+gt_sand near water=0.0
+gt_sand near ocean=1.0
+gt_beach near water=1.0
+gt_sand near water=1.0
+gt_beach near ocean=0.0
+gt_beach near water=1.0
+gt_sand near ocean=0.0
+gt_beach near ocean=1.0
+gt_sand near water=1.0
+Objective: 182.8316973747757
+gt_sand near ocean=0.0
+gt_beach near water=0.0
+gt_sand near ocean=0.0
+gt_beach near water=0.0
+gt_sand near water=0.0
+gt_sand near water=0.0
+gt_sand near ocean=1.0
+gt_beach near water=1.0
+gt_sand near water=1.0
+gt_beach near ocean=0.0
+gt_beach near water=1.0
+gt_sand near ocean=0.0
+gt_beach near ocean=1.0
+gt_sand near water=1.0
+----------------------------
+Caption: a man feeding a giraffe in a field
+Imageid: 230679, extracted triplets: ['man in field'], mapped triplets: ['horse in field', 'giraffe in field', 'animal in field', 'zebra in field', 'elephant in field', 'dog in field', 'sheep in field', 'man in field']
+Objective: 182.8316973747757
+PRIOR DISTANCE
+gt_dog in field=1.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_dog in field=0.0
+gt_woman in field=0.0
+gt_man in field=0.0
+gt_dog in field=1.0
+gt_dog in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=1.0
+gt_giraffe in field=-0.0
+gt_horse in field=1.0
+Objective: 182.8909398765179
+gt_dog in field=1.0
+gt_man in field=0.0
+gt_zebra in field=0.0
+gt_elephant in field=0.0
+gt_man in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_animal in field=1.0
+gt_sheep in field=0.0
+gt_horse in field=0.0
+gt_man in field=0.0
+gt_sheep in field=0.0
+gt_dog in field=0.0
+gt_woman in field=0.0
+gt_man in field=0.0
+gt_dog in field=1.0
+gt_dog in field=1.0
+gt_zebra in field=1.0
+gt_elephant in field=1.0
+gt_giraffe in field=-0.0
+gt_horse in field=1.0
+----------------------------
+Caption: a black bird sitting on top of a tree branch
+Imageid: 438038, extracted triplets: ['bird sit tree', 'bird sit branch', 'bird sit bird', 'bird sit zebra'], mapped triplets: ['bird sit branch', 'bird sit plant', 'bird sit tree', 'bird sit tree', 'beak sit branch', 'bird sit branch', 'bird sit bird', 'bird sit zebra']
+Objective: 182.8909398765179
+PRIOR DISTANCE
+Objective: 182.8909398765179
+----------------------------
+Caption: a white bird flying over a body of water
+Imageid: 236690, extracted triplets: ['bird over head'], mapped triplets: []
+Objective: 182.8909398765179
+PRIOR DISTANCE
+Objective: 182.8909398765179
+----------------------------

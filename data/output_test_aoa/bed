@@ -1,0 +1,1616 @@
+Caption: a cat eating a banana with a person
+Imageid: 458052, extracted triplets: ['cat eat banana', 'cat with head', 'cat with hand'], mapped triplets: ['man eat food', 'cat with head', 'dog with head', 'person with hand', 'cat with paw']
+Objective: 146.25420395397734
+PRIOR DISTANCE
+gt_man eat food=0.0
+gt_woman eat food=0.0
+gt_cat with paw=0.0
+gt_woman eat food=0.0
+gt_cat with head=0.0
+gt_cat with paw=0.0
+gt_woman eat food=1.0
+gt_man eat food=0.0
+gt_man eat food=1.0
+gt_woman eat food=0.0
+gt_woman eat food=0.0
+gt_cat with paw=1.0
+gt_woman eat food=1.0
+gt_woman eat food=0.0
+gt_woman eat food=1.0
+gt_cat with paw=0.0
+gt_person with hand=0.0
+gt_man eat food=0.0
+gt_man eat food=1.0
+gt_person with hand=-0.0
+gt_cat with paw=1.0
+gt_woman eat food=1.0
+Objective: 146.08342267270228
+gt_man eat food=0.0
+gt_woman eat food=0.0
+gt_cat with paw=0.0
+gt_woman eat food=0.0
+gt_cat with head=0.0
+gt_cat with paw=0.0
+gt_woman eat food=1.0
+gt_man eat food=0.0
+gt_man eat food=1.0
+gt_woman eat food=0.0
+gt_woman eat food=0.0
+gt_cat with paw=1.0
+gt_woman eat food=1.0
+gt_woman eat food=0.0
+gt_woman eat food=1.0
+gt_cat with paw=0.0
+gt_person with hand=0.0
+gt_man eat food=0.0
+gt_man eat food=1.0
+gt_person with hand=-0.0
+gt_cat with paw=1.0
+gt_woman eat food=1.0
+----------------------------
+Caption: a baby laying on a bed in a room
+Imageid: 199551, extracted triplets: ['baby in bed', 'baby in wall', 'baby in child'], mapped triplets: ['child in bed', 'girl in bed', 'boy in bed', 'person in bed', 'bed in room', 'child in bed', 'girl in shirt']
+Objective: 146.08342267270228
+PRIOR DISTANCE
+gt_girl in shirt=0.0
+gt_girl in bed=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_girl in shirt=0.0
+gt_child in bed=0.0
+gt_child in bed=0.0
+gt_girl in bed=0.0
+gt_bed in room=1.0
+gt_girl in shirt=0.0
+gt_bed in room=0.0
+gt_girl in shirt=0.0
+gt_person in bed=0.0
+gt_bed in room=0.0
+gt_girl in bed=0.0
+gt_bed in room=0.0
+gt_girl in shirt=0.0
+gt_bed in room=1.0
+gt_girl in shirt=0.0
+gt_bed in room=1.0
+gt_girl in shirt=0.0
+gt_girl in shirt=0.0
+gt_bed in room=0.0
+gt_bed in room=-0.0
+gt_boy in bed=-0.0
+gt_girl in bed=1.0
+gt_child in bed=-0.0
+gt_child in bed=-0.0
+gt_person in bed=0.0
+gt_girl in shirt=1.0
+Objective: 146.35459169408932
+gt_girl in shirt=0.0
+gt_girl in bed=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_girl in shirt=0.0
+gt_child in bed=0.0
+gt_child in bed=0.0
+gt_girl in bed=0.0
+gt_bed in room=1.0
+gt_girl in shirt=0.0
+gt_bed in room=0.0
+gt_girl in shirt=0.0
+gt_person in bed=0.0
+gt_bed in room=0.0
+gt_girl in bed=0.0
+gt_bed in room=0.0
+gt_girl in shirt=0.0
+gt_bed in room=1.0
+gt_girl in shirt=0.0
+gt_bed in room=1.0
+gt_girl in shirt=0.0
+gt_girl in shirt=0.0
+gt_bed in room=0.0
+gt_bed in room=-0.0
+gt_boy in bed=-0.0
+gt_girl in bed=1.0
+gt_child in bed=-0.0
+gt_child in bed=-0.0
+gt_person in bed=0.0
+gt_girl in shirt=1.0
+----------------------------
+Caption: a man and a woman laying in a bed
+Imageid: 239347, extracted triplets: ['woman in bed'], mapped triplets: ['girl in bed', 'woman in bed']
+Objective: 146.35459169408932
+PRIOR DISTANCE
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+Objective: 146.34722045854352
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a bathroom with a sink and a toilet
+Imageid: 431197, extracted triplets: ['bathroom with sink'], mapped triplets: ['room with towel', 'bathroom with sink']
+Objective: 146.34722045854352
+PRIOR DISTANCE
+gt_bathroom with sink=0.0
+gt_room with towel=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with towel=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_room with towel=-0.0
+gt_bathroom with sink=1.0
+Objective: 146.4116553270856
+gt_bathroom with sink=0.0
+gt_room with towel=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with towel=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_room with towel=-0.0
+gt_bathroom with sink=1.0
+----------------------------
+Caption: a man laying in a bed with two cats
+Imageid: 12085, extracted triplets: ['man in bed'], mapped triplets: ['child in bed', 'person in bed', 'man in bed']
+Objective: 146.4116553270856
+PRIOR DISTANCE
+gt_man in bed=0.0
+gt_woman in bed=0.0
+gt_child in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_man in bed=1.0
+gt_child in bed=-0.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+gt_man in bed=0.0
+Objective: 146.0105799655616
+gt_man in bed=0.0
+gt_woman in bed=0.0
+gt_child in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_man in bed=1.0
+gt_child in bed=-0.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+gt_man in bed=0.0
+----------------------------
+Caption: a man sitting on a hospital bed
+Imageid: 208778, extracted triplets: ['man sit on bed'], mapped triplets: ['animal sit on bed', 'girl sit on bed', 'boy sit on bed', 'woman sit on bed', 'person sit on bed', 'child sit on bed', 'man sit on bed']
+Objective: 146.0105799655616
+PRIOR DISTANCE
+gt_man sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_person sit on bed=0.0
+gt_man sit on bed=1.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=1.0
+gt_man sit on bed=0.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_person sit on bed=0.0
+gt_boy sit on bed=0.0
+gt_man sit on bed=0.0
+gt_woman sit on bed=-0.0
+gt_woman sit on bed=-0.0
+Objective: 146.70892850199445
+gt_man sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_person sit on bed=0.0
+gt_man sit on bed=1.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=1.0
+gt_man sit on bed=0.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_person sit on bed=0.0
+gt_boy sit on bed=0.0
+gt_man sit on bed=0.0
+gt_woman sit on bed=0.0
+gt_woman sit on bed=0.0
+----------------------------
+Caption: a woman laying in a bed with a blanket
+Imageid: 13525, extracted triplets: ['woman in bed', 'woman with blanket'], mapped triplets: ['girl in bed', 'woman in room', 'woman in bathroom', 'person in bed', 'woman in dress', 'woman in bed', 'woman with pillow', 'child with blanket', 'bed with blanket', 'bear with blanket']
+Objective: 146.70892850199445
+PRIOR DISTANCE
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_bed with blanket=1.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_girl in bed=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_bed with blanket=0.0
+gt_woman in room=1.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_bed with blanket=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_woman in dress=0.0
+gt_woman in room=0.0
+gt_girl in bed=0.0
+gt_woman in dress=0.0
+gt_bed with blanket=1.0
+gt_bed with blanket=0.0
+gt_woman in dress=0.0
+gt_girl in bed=1.0
+gt_woman in bathroom=1.0
+gt_woman in dress=1.0
+gt_bed with blanket=0.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+Objective: 146.93636713137386
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_bed with blanket=1.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_girl in bed=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_bed with blanket=0.0
+gt_woman in room=1.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_bed with blanket=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_woman in dress=0.0
+gt_woman in room=0.0
+gt_girl in bed=0.0
+gt_woman in dress=0.0
+gt_bed with blanket=1.0
+gt_bed with blanket=0.0
+gt_woman in dress=0.0
+gt_girl in bed=1.0
+gt_woman in bathroom=1.0
+gt_woman in dress=1.0
+gt_bed with blanket=1.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a man laying on a bed with a teddy bear
+Imageid: 566529, extracted triplets: ['man with teddybear'], mapped triplets: ['person with hand', 'bed with bear', 'child with bear', 'boy with bear']
+Objective: 146.93636713137386
+PRIOR DISTANCE
+gt_bed with bear=0.0
+gt_bed with bear=1.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+Objective: 146.8748791266871
+gt_bed with bear=0.0
+gt_bed with bear=1.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+----------------------------
+Caption: a young boy sitting in a bed with a clock
+Imageid: 46433, extracted triplets: ['boy with clock'], mapped triplets: ['person with hand', 'boy with book']
+Objective: 146.8748791266871
+PRIOR DISTANCE
+gt_boy with book=0.0
+gt_boy with book=0.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+gt_boy with book=1.0
+Objective: 147.33468974211425
+gt_boy with book=0.0
+gt_boy with book=0.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+gt_boy with book=1.0
+----------------------------
+Caption: a man and a woman standing in a hospital room
+Imageid: 476939, extracted triplets: ['woman in room'], mapped triplets: ['girl in room', 'mirror in room', 'rug in room', 'picture in room', 'suit in room', 'couch in room', 'chair in room', 'desk in room', 'lamp in room', 'people in room', 'table in room', 'drawer in room', 'bike in room', 'woman in room']
+Objective: 147.33468974211425
+PRIOR DISTANCE
+gt_desk in room=1.0
+gt_people in room=0.0
+gt_girl in room=1.0
+gt_table in room=0.0
+gt_mirror in room=0.0
+gt_bike in room=0.0
+gt_table in room=0.0
+gt_picture in room=1.0
+gt_rug in room=1.0
+gt_lamp in room=0.0
+gt_desk in room=0.0
+gt_people in room=1.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_people in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_chair in room=1.0
+gt_lamp in room=1.0
+gt_table in room=0.0
+gt_desk in room=0.0
+gt_bike in room=0.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_rug in room=0.0
+gt_desk in room=0.0
+gt_girl in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_table in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_people in room=1.0
+gt_picture in room=1.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_desk in room=1.0
+gt_bike in room=0.0
+gt_rug in room=0.0
+gt_table in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_table in room=1.0
+gt_woman in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_picture in room=0.0
+gt_lamp in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_picture in room=1.0
+gt_mirror in room=0.0
+gt_table in room=0.0
+gt_rug in room=1.0
+gt_lamp in room=1.0
+gt_people in room=0.0
+gt_desk in room=0.0
+gt_suit in room=0.0
+gt_chair in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_lamp in room=1.0
+gt_chair in room=0.0
+gt_desk in room=0.0
+gt_table in room=0.0
+gt_bike in room=0.0
+gt_mirror in room=1.0
+gt_people in room=1.0
+gt_couch in room=0.0
+gt_lamp in room=0.0
+gt_desk in room=0.0
+gt_picture in room=0.0
+gt_chair in room=0.0
+gt_mirror in room=0.0
+gt_drawer in room=1.0
+gt_desk in room=1.0
+gt_rug in room=-0.0
+gt_chair in room=1.0
+gt_lamp in room=1.0
+gt_picture in room=1.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_suit in room=1.0
+gt_bike in room=1.0
+Objective: 145.55695968355315
+gt_desk in room=1.0
+gt_people in room=0.0
+gt_girl in room=1.0
+gt_table in room=0.0
+gt_mirror in room=0.0
+gt_bike in room=0.0
+gt_table in room=0.0
+gt_picture in room=1.0
+gt_rug in room=1.0
+gt_lamp in room=0.0
+gt_desk in room=0.0
+gt_people in room=1.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_people in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_chair in room=1.0
+gt_lamp in room=1.0
+gt_table in room=0.0
+gt_desk in room=0.0
+gt_bike in room=0.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_rug in room=0.0
+gt_desk in room=0.0
+gt_girl in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_table in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_people in room=1.0
+gt_picture in room=1.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_desk in room=1.0
+gt_bike in room=0.0
+gt_rug in room=0.0
+gt_table in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_table in room=1.0
+gt_woman in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_picture in room=0.0
+gt_lamp in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_picture in room=1.0
+gt_mirror in room=0.0
+gt_table in room=0.0
+gt_rug in room=1.0
+gt_lamp in room=1.0
+gt_people in room=0.0
+gt_desk in room=0.0
+gt_suit in room=0.0
+gt_chair in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_lamp in room=1.0
+gt_chair in room=0.0
+gt_desk in room=0.0
+gt_table in room=0.0
+gt_bike in room=0.0
+gt_mirror in room=1.0
+gt_people in room=1.0
+gt_couch in room=0.0
+gt_lamp in room=0.0
+gt_desk in room=0.0
+gt_picture in room=0.0
+gt_chair in room=0.0
+gt_mirror in room=-0.0
+gt_drawer in room=0.0
+gt_desk in room=1.0
+gt_rug in room=-0.0
+gt_chair in room=1.0
+gt_lamp in room=0.0
+gt_picture in room=1.0
+gt_table in room=0.0
+gt_couch in room=1.0
+gt_suit in room=1.0
+gt_bike in room=1.0
+----------------------------
+Caption: a cat sitting on a bed with a laptop
+Imageid: 290843, extracted triplets: ['cat sit bed', 'cat with laptop'], mapped triplets: ['cat sit blanket', 'pillow sit bed', 'blanket sit bed', 'cat sit bed', 'cat with collar', 'desk with computer', 'cat with tag', 'cat with hat', 'cat with ear', 'cat with tail', 'cat with paw', 'cat with head']
+Objective: 145.55695968355315
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_cat with paw=0.0
+gt_cat with tag=0.0
+gt_cat with head=0.0
+gt_cat with paw=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_cat with collar=0.0
+gt_desk with computer=0.0
+gt_cat with paw=1.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_cat with paw=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_cat with collar=0.0
+gt_cat with hat=-0.0
+gt_cat with paw=1.0
+gt_cat with tag=0.0
+gt_cat with ear=1.0
+Objective: 146.00238476878843
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_cat with paw=0.0
+gt_cat with tag=0.0
+gt_cat with head=0.0
+gt_cat with paw=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_cat with collar=0.0
+gt_desk with computer=0.0
+gt_cat with paw=1.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_cat with paw=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_cat with collar=0.0
+gt_cat with hat=-0.0
+gt_cat with paw=1.0
+gt_cat with tag=0.0
+gt_cat with ear=1.0
+----------------------------
+Caption: a little girl sitting on a bed with a hat
+Imageid: 205636, extracted triplets: ['girl sit bed', 'girl with hat'], mapped triplets: ['woman sit bed', 'child sit bed', 'girl sit bed', 'person with hand', 'girl with pillow']
+Objective: 146.00238476878843
+PRIOR DISTANCE
+gt_girl with pillow=0.0
+gt_girl with pillow=0.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+gt_girl with pillow=0.0
+Objective: 145.88988031214836
+gt_girl with pillow=0.0
+gt_girl with pillow=0.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+gt_girl with pillow=1.0
+----------------------------
+Caption: a young boy laying on a bed with a teddy bear
+Imageid: 528575, extracted triplets: ['boy with teddybear'], mapped triplets: ['child with bear']
+Objective: 145.88988031214836
+PRIOR DISTANCE
+Objective: 145.88988031214836
+----------------------------
+Caption: a young boy sitting at a table with a plate of food
+Imageid: 355453, extracted triplets: ['boy at table', 'boy with plate', 'plate of food'], mapped triplets: ['child at table', 'boy at desk', 'person with hand', 'tray of food', 'bowl of food', 'plate of food']
+Objective: 145.88988031214836
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_child at table=1.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=0.0
+gt_child at table=1.0
+gt_plate of food=0.0
+gt_child at table=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_child at table=0.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_child at table=0.0
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_tray of food=1.0
+gt_child at table=1.0
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_tray of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_child at table=0.0
+gt_plate of food=1.0
+gt_plate of food=0.0
+gt_child at table=0.0
+gt_tray of food=0.0
+gt_boy at desk=0.0
+gt_tray of food=0.0
+gt_child at table=0.0
+gt_plate of food=0.0
+gt_boy at desk=1.0
+gt_person with hand=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_person with hand=-0.0
+gt_plate of food=-0.0
+gt_bowl of food=0.0
+gt_tray of food=1.0
+Objective: 146.04108992696604
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_child at table=1.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=0.0
+gt_child at table=1.0
+gt_plate of food=0.0
+gt_child at table=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_child at table=0.0
+gt_plate of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_plate of food=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_child at table=0.0
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_tray of food=1.0
+gt_child at table=1.0
+gt_bowl of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_tray of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_child at table=0.0
+gt_plate of food=1.0
+gt_plate of food=0.0
+gt_child at table=0.0
+gt_tray of food=0.0
+gt_boy at desk=0.0
+gt_tray of food=0.0
+gt_child at table=0.0
+gt_plate of food=0.0
+gt_boy at desk=1.0
+gt_person with hand=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_plate of food=0.0
+gt_person with hand=-0.0
+gt_plate of food=-0.0
+gt_bowl of food=1.0
+gt_tray of food=1.0
+----------------------------
+Caption: a man holding a toothbrush in his mouth
+Imageid: 53642, extracted triplets: ['man hold bag', 'man in mouth'], mapped triplets: ['woman hold book', 'person hold sign', 'boy in mouth']
+Objective: 146.04108992696604
+PRIOR DISTANCE
+gt_woman hold book=1.0
+gt_person hold sign=0.0
+gt_woman hold book=-0.0
+gt_boy in mouth=1.0
+gt_person hold sign=-0.0
+Objective: 146.0190180609652
+gt_woman hold book=1.0
+gt_person hold sign=0.0
+gt_woman hold book=-0.0
+gt_boy in mouth=1.0
+gt_person hold sign=-0.0
+----------------------------
+Caption: a woman laying in a bed with a cat
+Imageid: 75055, extracted triplets: ['woman in bed', 'woman with cat'], mapped triplets: ['girl in bed', 'woman in bed', 'woman with hair', 'woman with cat']
+Objective: 146.0190180609652
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_girl in bed=0.0
+gt_woman with cat=0.0
+gt_woman in bed=0.0
+gt_woman with hair=0.0
+gt_girl in bed=0.0
+gt_woman with hair=0.0
+gt_woman with hair=1.0
+gt_woman with hair=0.0
+gt_woman with cat=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_woman with hair=1.0
+gt_woman with hair=0.0
+gt_woman with hair=0.0
+gt_woman with cat=0.0
+gt_girl in bed=1.0
+gt_woman with hair=0.0
+gt_woman with cat=1.0
+gt_woman in bed=1.0
+Objective: 145.94470030846804
+gt_woman with cat=0.0
+gt_girl in bed=0.0
+gt_woman with cat=0.0
+gt_woman in bed=0.0
+gt_woman with hair=0.0
+gt_girl in bed=0.0
+gt_woman with hair=0.0
+gt_woman with hair=1.0
+gt_woman with hair=0.0
+gt_woman with cat=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_woman with hair=1.0
+gt_woman with hair=0.0
+gt_woman with hair=0.0
+gt_woman with cat=0.0
+gt_girl in bed=1.0
+gt_woman with hair=0.0
+gt_woman with cat=1.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a black cat sitting on a bed looking out of a window
+Imageid: 487741, extracted triplets: ['cat sit on bed'], mapped triplets: ['animal sit on bed', 'girl sit on bed', 'boy sit on bed', 'woman sit on bed', 'man sit on bed', 'person sit on bed', 'pillow sit on bed', 'bed sit on bed', 'child sit on bed', 'cat sit on bed']
+Objective: 145.94470030846804
+PRIOR DISTANCE
+gt_man sit on bed=0.0
+gt_cat sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_bed sit on bed=0.0
+gt_person sit on bed=0.0
+gt_man sit on bed=1.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_bed sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=1.0
+gt_cat sit on bed=0.0
+gt_man sit on bed=0.0
+gt_cat sit on bed=1.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=1.0
+gt_cat sit on bed=0.0
+gt_pillow sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_pillow sit on bed=1.0
+gt_bed sit on bed=1.0
+gt_person sit on bed=0.0
+gt_boy sit on bed=0.0
+gt_man sit on bed=0.0
+gt_woman sit on bed=0.0
+gt_woman sit on bed=0.0
+gt_cat sit on bed=-0.0
+Objective: 145.18148841953882
+gt_man sit on bed=0.0
+gt_cat sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=0.0
+gt_bed sit on bed=0.0
+gt_person sit on bed=0.0
+gt_man sit on bed=1.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_bed sit on bed=0.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=1.0
+gt_cat sit on bed=0.0
+gt_man sit on bed=0.0
+gt_cat sit on bed=1.0
+gt_man sit on bed=0.0
+gt_girl sit on bed=1.0
+gt_cat sit on bed=0.0
+gt_pillow sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_woman sit on bed=1.0
+gt_girl sit on bed=1.0
+gt_pillow sit on bed=1.0
+gt_bed sit on bed=1.0
+gt_person sit on bed=0.0
+gt_boy sit on bed=0.0
+gt_man sit on bed=1.0
+gt_woman sit on bed=-0.0
+gt_woman sit on bed=-0.0
+gt_cat sit on bed=-0.0
+----------------------------
+Caption: a man and a woman laying in a bed
+Imageid: 50025, extracted triplets: ['woman in bed'], mapped triplets: ['girl in bed', 'woman in bed']
+Objective: 145.18148841953882
+PRIOR DISTANCE
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+Objective: 145.23163443624827
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a tray with a donut and a cup of coffee on a bed
+Imageid: 192904, extracted triplets: ['tray with donut', 'cup on bed'], mapped triplets: ['tray with food', 'boy with donut', 'cup on bed', 'pillow on bed']
+Objective: 145.23163443624827
+PRIOR DISTANCE
+gt_pillow on bed=0.0
+gt_tray with food=0.0
+gt_pillow on bed=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_tray with food=1.0
+gt_pillow on bed=0.0
+gt_pillow on bed=1.0
+gt_pillow on bed=1.0
+gt_tray with food=1.0
+gt_tray with food=0.0
+gt_pillow on bed=1.0
+gt_tray with food=1.0
+Objective: 145.72454593495428
+gt_pillow on bed=0.0
+gt_tray with food=0.0
+gt_pillow on bed=0.0
+gt_tray with food=0.0
+gt_tray with food=0.0
+gt_tray with food=1.0
+gt_pillow on bed=0.0
+gt_pillow on bed=1.0
+gt_pillow on bed=1.0
+gt_tray with food=1.0
+gt_tray with food=0.0
+gt_pillow on bed=1.0
+gt_tray with food=1.0
+----------------------------
+Caption: a woman laying on a bed with a laptop
+Imageid: 6921, extracted triplets: ['woman with laptop'], mapped triplets: ['person with hand', 'girl with phone', 'woman with book']
+Objective: 145.72454593495428
+PRIOR DISTANCE
+gt_woman with book=0.0
+gt_woman with book=0.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+Objective: 145.63039228718165
+gt_woman with book=0.0
+gt_woman with book=0.0
+gt_person with hand=0.0
+gt_person with hand=-0.0
+----------------------------
+Caption: a dog laying on a bed in a room
+Imageid: 529256, extracted triplets: ['dog in room'], mapped triplets: ['girl in room', 'woman in room', 'couch in room', 'chair in room', 'desk in room', 'lamp in room', 'man in room', 'people in room', 'table in room', 'drawer in room', 'bike in room', 'dog in room']
+Objective: 145.63039228718165
+PRIOR DISTANCE
+gt_desk in room=1.0
+gt_people in room=0.0
+gt_girl in room=1.0
+gt_table in room=0.0
+gt_bike in room=0.0
+gt_table in room=0.0
+gt_dog in room=1.0
+gt_lamp in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_people in room=1.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_people in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_chair in room=1.0
+gt_man in room=1.0
+gt_lamp in room=1.0
+gt_table in room=0.0
+gt_desk in room=0.0
+gt_bike in room=0.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_girl in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_table in room=1.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_man in room=1.0
+gt_people in room=1.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_desk in room=1.0
+gt_man in room=1.0
+gt_bike in room=0.0
+gt_dog in room=1.0
+gt_table in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_table in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_couch in room=0.0
+gt_lamp in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_table in room=0.0
+gt_dog in room=0.0
+gt_lamp in room=1.0
+gt_man in room=0.0
+gt_people in room=0.0
+gt_desk in room=0.0
+gt_chair in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_lamp in room=1.0
+gt_chair in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_table in room=0.0
+gt_bike in room=0.0
+gt_people in room=1.0
+gt_couch in room=0.0
+gt_lamp in room=0.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_dog in room=1.0
+gt_drawer in room=0.0
+gt_desk in room=1.0
+gt_chair in room=1.0
+gt_lamp in room=0.0
+gt_table in room=0.0
+gt_couch in room=1.0
+gt_bike in room=1.0
+Objective: 145.43487765311534
+gt_desk in room=1.0
+gt_people in room=0.0
+gt_girl in room=1.0
+gt_table in room=0.0
+gt_bike in room=0.0
+gt_table in room=0.0
+gt_dog in room=1.0
+gt_lamp in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_people in room=1.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_people in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_chair in room=1.0
+gt_man in room=1.0
+gt_lamp in room=1.0
+gt_table in room=0.0
+gt_desk in room=0.0
+gt_bike in room=0.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_girl in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_table in room=1.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_man in room=1.0
+gt_people in room=1.0
+gt_chair in room=0.0
+gt_table in room=1.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_desk in room=1.0
+gt_man in room=1.0
+gt_bike in room=0.0
+gt_dog in room=1.0
+gt_table in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_table in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_couch in room=0.0
+gt_lamp in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_table in room=0.0
+gt_dog in room=0.0
+gt_lamp in room=1.0
+gt_man in room=0.0
+gt_people in room=0.0
+gt_desk in room=0.0
+gt_chair in room=1.0
+gt_bike in room=0.0
+gt_people in room=0.0
+gt_lamp in room=1.0
+gt_chair in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_table in room=0.0
+gt_bike in room=0.0
+gt_people in room=1.0
+gt_couch in room=0.0
+gt_lamp in room=0.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_dog in room=1.0
+gt_drawer in room=-0.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_lamp in room=1.0
+gt_table in room=0.0
+gt_couch in room=0.0
+gt_bike in room=1.0
+----------------------------
+Caption: a woman sitting in a couch talking on a cell phone
+Imageid: 283012, extracted triplets: ['woman sit couch'], mapped triplets: ['woman sit bed', 'cat sit couch', 'woman sit couch']
+Objective: 145.43487765311534
+PRIOR DISTANCE
+Objective: 145.43487765311534
+----------------------------
+Caption: a man sitting on the back of an elephant
+Imageid: 569849, extracted triplets: ['man sit jacket'], mapped triplets: ['boy sit desk', 'man sit chair']
+Objective: 145.43487765311534
+PRIOR DISTANCE
+Objective: 145.43487765311534
+----------------------------
+Caption: a man and a woman in a bed with a mirror
+Imageid: 503470, extracted triplets: ['woman in bed'], mapped triplets: ['girl in bed', 'woman in bed', 'person in bed']
+Objective: 145.43487765311534
+PRIOR DISTANCE
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+Objective: 145.56419867277424
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a young child laying on the floor with a laptop computer
+Imageid: 470005, extracted triplets: ['child with laptop computer'], mapped triplets: ['child with keyboard', 'child with laptop']
+Objective: 145.56419867277424
+PRIOR DISTANCE
+gt_child with laptop=0.0
+Objective: 145.56419867277424
+gt_child with laptop=0.0
+----------------------------
+Caption: a cat laying on top of a suitcase on a bed
+Imageid: 30607, extracted triplets: ['cat on bed'], mapped triplets: ['cat on couch', 'cat on pillow', 'cat on blanket', 'cat on bed']
+Objective: 145.56419867277424
+PRIOR DISTANCE
+gt_cat on bed=1.0
+gt_cat on bed=1.0
+gt_cat on couch=1.0
+gt_cat on bed=1.0
+gt_cat on bed=0.0
+gt_cat on couch=1.0
+gt_cat on bed=0.0
+gt_cat on couch=0.0
+gt_cat on bed=-0.0
+Objective: 145.75740251258293
+gt_cat on bed=1.0
+gt_cat on bed=1.0
+gt_cat on couch=1.0
+gt_cat on bed=1.0
+gt_cat on bed=0.0
+gt_cat on couch=1.0
+gt_cat on bed=0.0
+gt_cat on couch=0.0
+gt_cat on bed=1.0
+----------------------------
+Caption: a messy room with a bed and a desk
+Imageid: 211112, extracted triplets: ['room with bed'], mapped triplets: ['room with bed', 'room with pillow', 'room with blanket']
+Objective: 145.75740251258293
+PRIOR DISTANCE
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with bed=0.0
+gt_room with blanket=1.0
+gt_room with pillow=0.0
+gt_room with bed=1.0
+gt_room with bed=1.0
+gt_room with blanket=1.0
+gt_room with bed=0.0
+gt_room with bed=0.0
+gt_room with pillow=0.0
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with pillow=0.0
+gt_room with pillow=1.0
+gt_room with blanket=1.0
+gt_room with bed=0.0
+gt_room with bed=1.0
+gt_room with blanket=-0.0
+gt_room with pillow=0.0
+Objective: 145.2130861093713
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with bed=0.0
+gt_room with blanket=1.0
+gt_room with pillow=0.0
+gt_room with bed=1.0
+gt_room with bed=1.0
+gt_room with blanket=1.0
+gt_room with bed=0.0
+gt_room with bed=0.0
+gt_room with pillow=0.0
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with pillow=0.0
+gt_room with pillow=1.0
+gt_room with blanket=1.0
+gt_room with bed=0.0
+gt_room with bed=1.0
+gt_room with blanket=-0.0
+gt_room with pillow=0.0
+----------------------------
+Caption: a person sitting on a bed with a dog
+Imageid: 536038, extracted triplets: ['person sit bed', 'person with dog'], mapped triplets: ['man sit bed', 'woman sit bed', 'child sit bed', 'person sit bed', 'man with dog', 'woman with cat']
+Objective: 145.2130861093713
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with cat=1.0
+Objective: 145.2129686089228
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with cat=1.0
+----------------------------
+Caption: a bed with a bed with a table
+Imageid: 187329, extracted triplets: ['bed with bed'], mapped triplets: ['bed with bed', 'room with bed']
+Objective: 145.2129686089228
+PRIOR DISTANCE
+gt_bed with bed=0.0
+gt_room with bed=0.0
+gt_room with bed=0.0
+gt_room with bed=1.0
+gt_room with bed=1.0
+gt_room with bed=0.0
+gt_bed with bed=0.0
+gt_bed with bed=1.0
+gt_room with bed=0.0
+gt_bed with bed=1.0
+gt_bed with bed=1.0
+gt_room with bed=0.0
+gt_bed with bed=0.0
+gt_room with bed=0.0
+gt_room with bed=1.0
+gt_bed with bed=1.0
+Objective: 145.1672591019547
+gt_bed with bed=0.0
+gt_room with bed=0.0
+gt_room with bed=0.0
+gt_room with bed=1.0
+gt_room with bed=1.0
+gt_room with bed=0.0
+gt_bed with bed=0.0
+gt_bed with bed=1.0
+gt_room with bed=0.0
+gt_bed with bed=1.0
+gt_bed with bed=1.0
+gt_room with bed=0.0
+gt_bed with bed=0.0
+gt_room with bed=0.0
+gt_room with bed=1.0
+gt_bed with bed=1.0
+----------------------------
+Caption: a man and a baby laying in a bed
+Imageid: 317999, extracted triplets: ['baby in bed'], mapped triplets: ['child in bed', 'girl in bed', 'boy in bed']
+Objective: 145.1672591019547
+PRIOR DISTANCE
+gt_girl in bed=0.0
+gt_child in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=0.0
+gt_boy in bed=-0.0
+gt_girl in bed=1.0
+gt_child in bed=-0.0
+Objective: 145.1692938364696
+gt_girl in bed=0.0
+gt_child in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=0.0
+gt_boy in bed=-0.0
+gt_girl in bed=1.0
+gt_child in bed=0.0
+----------------------------
+Caption: a suitcase on a bed with a cell phone
+Imageid: 192212, extracted triplets: ['suitcase on bed', 'suitcase with phone'], mapped triplets: ['suitcase on bed', 'bag on bed', 'box on bed', 'room with suitcase', 'girl with phone']
+Objective: 145.1692938364696
+PRIOR DISTANCE
+gt_suitcase on bed=0.0
+gt_room with suitcase=0.0
+gt_room with suitcase=0.0
+gt_suitcase on bed=0.0
+gt_suitcase on bed=1.0
+gt_box on bed=1.0
+gt_room with suitcase=0.0
+gt_room with suitcase=0.0
+gt_box on bed=1.0
+gt_bag on bed=0.0
+gt_suitcase on bed=-0.0
+Objective: 144.652986295329
+gt_suitcase on bed=0.0
+gt_room with suitcase=0.0
+gt_room with suitcase=0.0
+gt_suitcase on bed=0.0
+gt_suitcase on bed=1.0
+gt_box on bed=1.0
+gt_room with suitcase=0.0
+gt_room with suitcase=0.0
+gt_box on bed=1.0
+gt_bag on bed=0.0
+gt_suitcase on bed=0.0
+----------------------------
+Caption: a dog eating a bowl on top of it
+Imageid: 311961, extracted triplets: ['dog eat bowl'], mapped triplets: ['child eat bowl', 'woman eat plate']
+Objective: 144.652986295329
+PRIOR DISTANCE
+gt_child eat bowl=1.0
+gt_woman eat plate=1.0
+gt_woman eat plate=1.0
+gt_woman eat plate=1.0
+gt_child eat bowl=-0.0
+Objective: 145.019423627945
+gt_child eat bowl=1.0
+gt_woman eat plate=1.0
+gt_woman eat plate=1.0
+gt_woman eat plate=1.0
+gt_child eat bowl=-0.0
+----------------------------
+Caption: a dog sitting on a bed with clothes
+Imageid: 22192, extracted triplets: ['dog sit bed', 'dog with clothe'], mapped triplets: ['dog sit bed', 'animal sit bed', 'dog with collar', 'cat with collar']
+Objective: 145.019423627945
+PRIOR DISTANCE
+gt_dog with collar=1.0
+gt_dog with collar=1.0
+gt_cat with collar=0.0
+gt_dog with collar=1.0
+gt_dog with collar=0.0
+gt_cat with collar=0.0
+gt_dog with collar=-0.0
+Objective: 144.67336636436633
+gt_dog with collar=1.0
+gt_dog with collar=1.0
+gt_cat with collar=0.0
+gt_dog with collar=1.0
+gt_dog with collar=0.0
+gt_cat with collar=0.0
+gt_dog with collar=-0.0
+----------------------------
+Caption: a laptop computer sitting on top of a table with a drink
+Imageid: 208516, extracted triplets: ['top of table'], mapped triplets: ['desk of desk']
+Objective: 144.67336636436633
+PRIOR DISTANCE
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+Objective: 144.67336636436633
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+gt_desk of desk=0.0
+----------------------------
+Caption: a bedroom with a bed and a desk with a laptop computer
+Imageid: 219269, extracted triplets: ['desk with laptop computer'], mapped triplets: ['desk with computer']
+Objective: 144.67336636436633
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+Objective: 144.7932055033198
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+----------------------------
+Caption: a man sitting on a bed in a room
+Imageid: 304390, extracted triplets: ['man sit bed'], mapped triplets: ['woman sit bed', 'person sit bed', 'child sit bed', 'man sit bed']
+Objective: 144.7932055033198
+PRIOR DISTANCE
+Objective: 144.7932055033198
+----------------------------
+Caption: a man sitting on a couch with a laptop computer
+Imageid: 451751, extracted triplets: ['man sit couch'], mapped triplets: ['man sit chair', 'woman sit couch', 'cat sit couch']
+Objective: 144.7932055033198
+PRIOR DISTANCE
+Objective: 144.7932055033198
+----------------------------
+Caption: a young girl laying in a bed with a phone
+Imageid: 552217, extracted triplets: ['girl in bed'], mapped triplets: ['child in bed', 'woman in bed', 'person in bed', 'girl in bed']
+Objective: 144.7932055033198
+PRIOR DISTANCE
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_child in bed=0.0
+gt_girl in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_child in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+Objective: 144.48193869579165
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_child in bed=0.0
+gt_girl in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_girl in bed=1.0
+gt_child in bed=-0.0
+gt_person in bed=0.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a man holding a slice of pizza on a plate
+Imageid: 203003, extracted triplets: ['man hold slice', 'slice of pizza', 'man on plate'], mapped triplets: ['woman hold candle', 'woman hold plate', 'hand hold knife', 'tray of food', 'bowl of food', 'person on floor', 'woman on bed']
+Objective: 144.48193869579165
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_woman on bed=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_woman hold plate=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_woman hold plate=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_woman hold plate=1.0
+gt_tray of food=1.0
+gt_woman on bed=1.0
+gt_bowl of food=0.0
+gt_tray of food=1.0
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_person on floor=1.0
+gt_bowl of food=1.0
+gt_woman on bed=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_tray of food=0.0
+gt_tray of food=0.0
+gt_woman hold plate=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_tray of food=0.0
+gt_person on floor=1.0
+gt_woman on bed=1.0
+gt_bowl of food=1.0
+gt_hand hold knife=0.0
+gt_tray of food=1.0
+Objective: 144.20440385811798
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_woman on bed=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=1.0
+gt_woman hold plate=0.0
+gt_bowl of food=1.0
+gt_tray of food=0.0
+gt_woman hold plate=0.0
+gt_bowl of food=0.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_woman hold plate=1.0
+gt_tray of food=1.0
+gt_woman on bed=1.0
+gt_bowl of food=0.0
+gt_tray of food=1.0
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_person on floor=1.0
+gt_bowl of food=1.0
+gt_woman on bed=1.0
+gt_tray of food=0.0
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_tray of food=0.0
+gt_tray of food=0.0
+gt_woman hold plate=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_woman hold plate=0.0
+gt_tray of food=0.0
+gt_person on floor=1.0
+gt_woman on bed=1.0
+gt_bowl of food=0.0
+gt_hand hold knife=0.0
+gt_tray of food=1.0
+----------------------------
+Caption: a woman sitting on a bed with a laptop
+Imageid: 3716, extracted triplets: ['woman sit bed', 'woman with laptop'], mapped triplets: ['girl sit bed', 'woman sit bed', 'person sit bed', 'child sit bed', 'person with computer', 'girl with phone', 'child with laptop']
+Objective: 144.20440385811798
+PRIOR DISTANCE
+gt_child with laptop=0.0
+Objective: 144.20440385811798
+gt_child with laptop=0.0
+----------------------------
+Caption: a woman laying on a bed with a laptop computer
+Imageid: 553788, extracted triplets: ['woman with laptop computer'], mapped triplets: ['person with computer', 'desk with computer']
+Objective: 144.20440385811798
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+Objective: 144.0557049326341
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+----------------------------
+Caption: a baby laying on a bed with a bottle
+Imageid: 219135, extracted triplets: ['baby lay on bed', 'baby with bottle'], mapped triplets: ['child lay bed', 'child with bottle', 'child with blanket']
+Objective: 144.0557049326341
+PRIOR DISTANCE
+gt_child with bottle=0.0
+gt_child with bottle=-0.0
+Objective: 143.7236904903226
+gt_child with bottle=0.0
+gt_child with bottle=-0.0
+----------------------------

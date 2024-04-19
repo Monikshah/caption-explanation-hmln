@@ -1,0 +1,394 @@
+Caption: a microwave oven sitting on top of a counter
+Imageid: 209048, extracted triplets: ['top of counter'], mapped triplets: ['table of sandwich', 'table of fruit', 'table of laptop']
+Objective: 30.37564726457115
+PRIOR DISTANCE
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+Objective: 30.508979145899016
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+----------------------------
+Caption: a man sitting at a counter with a plate in front of a computer
+Imageid: 466986, extracted triplets: ['man at counter', 'counter with plate'], mapped triplets: ['boy at counter', 'woman at counter', 'counter with pizza', 'counter with flower']
+Objective: 30.508979145899016
+PRIOR DISTANCE
+gt_counter with pizza=0.0
+gt_counter with pizza=0.0
+gt_counter with pizza=-0.0
+Objective: 30.473296859875912
+gt_counter with pizza=0.0
+gt_counter with pizza=0.0
+gt_counter with pizza=-0.0
+----------------------------
+Caption: a man holding a cup in front of a refrigerator
+Imageid: 85390, extracted triplets: ['man hold cup', 'man in nose', 'man in cup', 'man in door', 'man in hand', 'man in head', 'man in mouth', 'man in window', 'man in handle', 'man in ring', 'man in picture', 'man in finger', 'man in shirt', 'man in wall', 'man in eye', 'man in shelf', 'man in sign'], mapped triplets: ['man hold tray', 'man hold sandwich', 'man hold pizza', 'man hold banana', 'man hold counter', 'man hold cake', 'woman in hat', 'woman in plate', 'man in room', 'woman in room', 'couch in room', 'bed in room', 'counter in room', 'woman in hand', 'woman in hat', 'woman in dress', 'woman in shirt', 'man in cake', 'man in suit', 'man in shirt', 'man in room', 'man in chair', 'man in suit', 'man in shirt', 'man in suit', 'man in shirt', 'man in suit', 'man in shirt', 'man in room', 'woman in room', 'bed in room', 'counter in room', 'woman in hand', 'man in suit', 'woman in shirt', 'man in shirt', 'man in room', 'woman in room', 'couch in room', 'bed in room', 'counter in room', 'man in shirt', 'man in suit', 'man in chair', 'man in suit', 'man in shirt', 'man in chair', 'man in computer', 'man in shirt']
+Objective: 30.473296859875912
+PRIOR DISTANCE
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in dress=1.0
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_woman in dress=1.0
+gt_woman in chair=0.0
+gt_woman in chair=0.0
+gt_woman in chair=0.0
+gt_man hold pizza=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman hold banana=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man hold cake=1.0
+gt_man in computer=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=0.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_woman in dress=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man hold tray=-0.0
+gt_man in suit=-0.0
+gt_man in suit=-0.0
+gt_man in suit=-0.0
+gt_man in suit=-0.0
+gt_man in suit=-0.0
+gt_man in suit=-0.0
+gt_man in suit=-0.0
+gt_woman in hand=-0.0
+gt_woman in hand=-0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_counter in room=0.0
+gt_counter in room=0.0
+gt_counter in room=0.0
+gt_man hold cake=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_couch in room=1.0
+gt_couch in room=1.0
+Objective: 31.13812337886689
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in dress=1.0
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_woman in dress=1.0
+gt_woman in chair=0.0
+gt_woman in chair=0.0
+gt_woman in chair=0.0
+gt_man hold pizza=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman hold banana=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man hold cake=1.0
+gt_man in computer=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=1.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_woman in dress=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man hold tray=1.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_man in suit=1.0
+gt_woman in hand=-0.0
+gt_woman in hand=-0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_counter in room=1.0
+gt_counter in room=1.0
+gt_counter in room=1.0
+gt_man hold cake=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_man in shirt=1.0
+gt_couch in room=1.0
+gt_couch in room=1.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 187001, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['woman at table', 'boy at table', 'man at table', 'people at table', 'desk with laptop']
+Objective: 31.13812337886689
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_boy at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_boy at table=1.0
+gt_desk with laptop=-0.0
+gt_man at table=1.0
+Objective: 31.285570535452255
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_boy at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_boy at table=1.0
+gt_desk with laptop=-0.0
+gt_man at table=1.0
+----------------------------
+Caption: a man and a woman sitting on a couch with a laptop
+Imageid: 250344, extracted triplets: ['woman sit couch', 'woman with laptop'], mapped triplets: ['people sit couch', 'desk with laptop', 'man with woman']
+Objective: 31.285570535452255
+PRIOR DISTANCE
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+Objective: 31.403033354407434
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a woman holding a pizza in a kitchen
+Imageid: 396691, extracted triplets: ['woman hold pizza'], mapped triplets: ['man hold sandwich', 'man hold cake', 'man hold banana']
+Objective: 31.403033354407434
+PRIOR DISTANCE
+gt_woman hold banana=0.0
+gt_man hold cake=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=1.0
+gt_man hold cake=1.0
+Objective: 31.65119820334985
+gt_woman hold banana=0.0
+gt_man hold cake=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=0.0
+gt_man hold cake=1.0
+----------------------------
+Caption: a white microwave oven sitting on top of a table
+Imageid: 479612, extracted triplets: ['top of table'], mapped triplets: ['table of laptop', 'table of sandwich', 'table of fruit']
+Objective: 31.65119820334985
+PRIOR DISTANCE
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+Objective: 31.674385597912654
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+----------------------------

@@ -1,0 +1,34 @@
+Caption: a sandwich on a plate with a table
+Imageid: 360101, extracted triplets: ['sandwich on plate'], mapped triplets: ['pot on plate']
+Objective: 5.236530675142949
+PRIOR DISTANCE
+gt_pot on plate=0.0
+gt_pot on plate=0.0
+Objective: 5.256052653798363
+gt_pot on plate=0.0
+gt_pot on plate=0.0
+----------------------------
+Caption: a woman standing in a kitchen with a stove
+Imageid: 504747, extracted triplets: ['woman in counter', 'woman in handle', 'woman in bowl', 'woman in cabinet', 'woman in spoon', 'woman in pot', 'woman in container'], mapped triplets: ['man in chair', 'people in food', 'people in food', 'people in food']
+Objective: 5.256052653798363
+PRIOR DISTANCE
+gt_woman in chair=0.0
+gt_man in chair=0.0
+gt_woman in chair=1.0
+gt_man in chair=1.0
+gt_woman in chair=0.0
+gt_man in chair=0.0
+gt_man in chair=0.0
+gt_woman in chair=0.0
+gt_man in chair=0.0
+Objective: 5.256052653798363
+gt_woman in chair=0.0
+gt_man in chair=0.0
+gt_woman in chair=1.0
+gt_man in chair=1.0
+gt_woman in chair=0.0
+gt_man in chair=0.0
+gt_man in chair=0.0
+gt_woman in chair=0.0
+gt_man in chair=0.0
+----------------------------

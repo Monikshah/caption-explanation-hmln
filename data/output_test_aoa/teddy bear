@@ -1,0 +1,620 @@
+Caption: a little girl holding a teddy bear
+Imageid: 321333, extracted triplets: ['girl hold bear'], mapped triplets: ['child hold bear', 'woman hold bear', 'boy hold bear', 'girl hold bear']
+Objective: 109.09229186562925
+PRIOR DISTANCE
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_boy hold bear=1.0
+gt_child hold bear=0.0
+gt_girl hold bear=0.0
+Objective: 109.09662523668642
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_boy hold bear=1.0
+gt_child hold bear=0.0
+gt_girl hold bear=1.0
+----------------------------
+Caption: a man wearing a hat holding a teddy bear
+Imageid: 484312, extracted triplets: ['man wear hat', 'hat hold bear'], mapped triplets: ['man wear hat', 'man wear shirt', 'man wear suit', 'girl hold bear', 'child hold bear', 'woman hold bear', 'man hold bear', 'boy hold bear']
+Objective: 109.09662523668642
+PRIOR DISTANCE
+gt_man wear hat=0.0
+gt_man wear suit=1.0
+gt_woman wear shirt=1.0
+gt_man wear shirt=0.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man wear shirt=0.0
+gt_man wear hat=0.0
+gt_woman wear hat=1.0
+gt_man wear hat=1.0
+gt_man wear suit=0.0
+gt_man wear hat=0.0
+gt_man wear hat=1.0
+gt_woman wear hat=0.0
+gt_man wear suit=0.0
+gt_child hold bear=1.0
+gt_woman wear hat=0.0
+gt_man wear shirt=1.0
+gt_man wear hat=1.0
+gt_man wear shirt=0.0
+gt_man wear hat=0.0
+gt_man wear shirt=1.0
+gt_man wear shirt=1.0
+gt_woman wear hat=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man wear hat=1.0
+gt_man hold bear=1.0
+gt_man wear shirt=1.0
+gt_man wear shirt=0.0
+gt_woman wear shirt=1.0
+gt_man wear suit=0.0
+gt_man wear suit=1.0
+gt_man wear shirt=1.0
+gt_man wear hat=1.0
+gt_woman hold bear=1.0
+gt_woman hold bear=1.0
+gt_woman wear shirt=0.0
+gt_man wear suit=1.0
+gt_woman wear hat=1.0
+gt_woman wear hat=1.0
+gt_man wear shirt=0.0
+gt_man wear hat=0.0
+gt_man wear hat=1.0
+gt_man wear hat=0.0
+gt_woman wear shirt=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man wear shirt=0.0
+gt_man wear hat=1.0
+gt_man wear shirt=1.0
+gt_man wear shirt=1.0
+gt_man wear hat=0.0
+gt_man wear hat=0.0
+gt_woman wear shirt=1.0
+gt_woman wear hat=1.0
+gt_man wear shirt=0.0
+gt_man wear suit=0.0
+gt_man wear hat=0.0
+gt_woman wear shirt=0.0
+gt_woman wear hat=0.0
+gt_man wear hat=1.0
+gt_man wear shirt=1.0
+gt_boy hold bear=1.0
+gt_man wear suit=1.0
+gt_man hold bear=0.0
+gt_child hold bear=0.0
+gt_girl hold bear=1.0
+Objective: 109.15183918287046
+gt_man wear hat=0.0
+gt_man wear suit=1.0
+gt_woman wear shirt=1.0
+gt_man wear shirt=0.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man wear shirt=0.0
+gt_man wear hat=0.0
+gt_woman wear hat=1.0
+gt_man wear hat=1.0
+gt_man wear suit=0.0
+gt_man wear hat=0.0
+gt_man wear hat=1.0
+gt_woman wear hat=0.0
+gt_man wear suit=0.0
+gt_child hold bear=1.0
+gt_woman wear hat=0.0
+gt_man wear shirt=1.0
+gt_man wear hat=1.0
+gt_man wear shirt=0.0
+gt_man wear hat=0.0
+gt_man wear shirt=1.0
+gt_man wear shirt=1.0
+gt_woman wear hat=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man wear hat=1.0
+gt_man hold bear=1.0
+gt_man wear shirt=1.0
+gt_man wear shirt=0.0
+gt_woman wear shirt=1.0
+gt_man wear suit=0.0
+gt_man wear suit=1.0
+gt_man wear shirt=1.0
+gt_man wear hat=1.0
+gt_woman hold bear=1.0
+gt_woman hold bear=1.0
+gt_woman wear shirt=0.0
+gt_man wear suit=1.0
+gt_woman wear hat=1.0
+gt_woman wear hat=1.0
+gt_man wear shirt=0.0
+gt_man wear hat=0.0
+gt_man wear hat=1.0
+gt_man wear hat=0.0
+gt_woman wear shirt=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man wear shirt=0.0
+gt_man wear hat=1.0
+gt_man wear shirt=1.0
+gt_man wear shirt=1.0
+gt_man wear hat=0.0
+gt_man wear hat=0.0
+gt_woman wear shirt=1.0
+gt_woman wear hat=1.0
+gt_man wear shirt=0.0
+gt_man wear suit=0.0
+gt_man wear hat=0.0
+gt_woman wear shirt=0.0
+gt_woman wear hat=0.0
+gt_man wear hat=-0.0
+gt_man wear shirt=1.0
+gt_boy hold bear=-0.0
+gt_man wear suit=0.0
+gt_man hold bear=-0.0
+gt_child hold bear=0.0
+gt_girl hold bear=0.0
+----------------------------
+Caption: a man riding a motorcycle on a road
+Imageid: 175024, extracted triplets: ['man ride motorcycle'], mapped triplets: ['man ride motorcycle']
+Objective: 109.15183918287046
+PRIOR DISTANCE
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+Objective: 109.14121851879025
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+----------------------------
+Caption: a young boy laying on a bed with a teddy bear
+Imageid: 528575, extracted triplets: ['boy with teddybear'], mapped triplets: ['child with bear', 'man with bear', 'girl with bear', 'woman with bear']
+Objective: 109.14121851879025
+PRIOR DISTANCE
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_girl with bear=0.0
+gt_child with bear=0.0
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+Objective: 109.52730509600892
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_girl with bear=1.0
+gt_child with bear=1.0
+gt_woman with bear=1.0
+gt_woman with bear=1.0
+----------------------------
+Caption: a dog laying on a couch with a teddy bear
+Imageid: 205854, extracted triplets: ['dog with teddybear'], mapped triplets: ['girl with bear', 'woman with bear', 'man with bear', 'child with bear', 'dog with bear']
+Objective: 109.52730509600892
+PRIOR DISTANCE
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_girl with bear=1.0
+gt_child with bear=1.0
+gt_woman with bear=1.0
+gt_woman with bear=1.0
+Objective: 109.42295509754275
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_girl with bear=1.0
+gt_child with bear=0.0
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+----------------------------
+Caption: a teddy bear sitting at a desk with a computer
+Imageid: 411405, extracted triplets: ['desk with computer'], mapped triplets: ['desk with monitor', 'desk with laptop', 'desk with computer']
+Objective: 109.42295509754275
+PRIOR DISTANCE
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=-0.0
+gt_desk with monitor=1.0
+gt_desk with computer=1.0
+Objective: 109.60950194121386
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=-0.0
+gt_desk with monitor=1.0
+gt_desk with computer=1.0
+----------------------------
+Caption: two children sitting in a field with stuffed animals
+Imageid: 407042, extracted triplets: ['children with bear'], mapped triplets: ['girl with bear', 'woman with bear', 'man with bear', 'child with bear']
+Objective: 109.60950194121386
+PRIOR DISTANCE
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_girl with bear=1.0
+gt_child with bear=0.0
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+Objective: 109.55791129898392
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_girl with bear=1.0
+gt_child with bear=0.0
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+----------------------------
+Caption: a man holding a teddy bear in a room
+Imageid: 47886, extracted triplets: ['man hold bear'], mapped triplets: ['man hold bear', 'person hold dog', 'child hold bear', 'woman hold bear', 'boy hold bear']
+Objective: 109.55791129898392
+PRIOR DISTANCE
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_person hold dog=0.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man hold bear=1.0
+gt_person hold dog=0.0
+gt_woman hold bear=1.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_person hold dog=1.0
+gt_boy hold bear=-0.0
+gt_man hold bear=-0.0
+gt_child hold bear=0.0
+Objective: 109.47979263366595
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_person hold dog=0.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_man hold bear=1.0
+gt_person hold dog=0.0
+gt_woman hold bear=1.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=0.0
+gt_person hold dog=1.0
+gt_boy hold bear=1.0
+gt_man hold bear=0.0
+gt_child hold bear=0.0
+----------------------------
+Caption: a woman in a teddy bear costume in a park
+Imageid: 506872, extracted triplets: ['woman in park'], mapped triplets: ['woman in room', 'woman in bed']
+Objective: 109.47979263366595
+PRIOR DISTANCE
+gt_woman in room=0.0
+gt_woman in bed=1.0
+gt_woman in room=0.0
+gt_woman in bed=1.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_woman in room=0.0
+gt_woman in bed=0.0
+Objective: 109.47979263366595
+gt_woman in room=0.0
+gt_woman in bed=1.0
+gt_woman in room=0.0
+gt_woman in bed=1.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_woman in room=0.0
+gt_woman in bed=0.0
+----------------------------
+Caption: a little girl sitting in a chair with a teddy bear
+Imageid: 381051, extracted triplets: ['girl sit chair', 'chair with teddybear'], mapped triplets: ['woman sit couch', 'girl sit table', 'girl sit couch', 'child sit couch', 'girl sit chair', 'chair with bear', 'bed with bear']
+Objective: 109.47979263366595
+PRIOR DISTANCE
+gt_chair with bear=0.0
+gt_bed with bear=1.0
+gt_chair with bear=0.0
+gt_chair with bear=1.0
+gt_bed with bear=0.0
+gt_bed with bear=1.0
+gt_chair with bear=1.0
+Objective: 109.91356619725282
+gt_chair with bear=0.0
+gt_bed with bear=1.0
+gt_chair with bear=0.0
+gt_chair with bear=1.0
+gt_bed with bear=0.0
+gt_bed with bear=1.0
+gt_chair with bear=1.0
+----------------------------
+Caption: a little girl holding a teddy bear
+Imageid: 56405, extracted triplets: ['girl hold bear'], mapped triplets: ['girl hold bear', 'child hold bear', 'woman hold bear', 'boy hold bear']
+Objective: 109.91356619725282
+PRIOR DISTANCE
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_boy hold bear=1.0
+gt_child hold bear=0.0
+gt_girl hold bear=0.0
+Objective: 110.0178143514846
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_boy hold bear=0.0
+gt_child hold bear=0.0
+gt_girl hold bear=0.0
+----------------------------
+Caption: a woman standing next to a large teddy bear
+Imageid: 572226, extracted triplets: ['woman next to bear'], mapped triplets: ['woman next to bear']
+Objective: 110.0178143514846
+PRIOR DISTANCE
+Objective: 110.0178143514846
+----------------------------
+Caption: a dog laying on a bed with a teddy bear
+Imageid: 178818, extracted triplets: ['dog with bear'], mapped triplets: ['girl with bear', 'woman with bear', 'man with bear', 'basket with bear', 'bench with bear', 'dog with bear', 'photo with bear', 'chair with bear', 'table with bear', 'boy with bear', 'child with bear', 'bed with bear']
+Objective: 110.0178143514846
+PRIOR DISTANCE
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_chair with bear=0.0
+gt_bed with bear=1.0
+gt_table with bear=1.0
+gt_chair with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_chair with bear=1.0
+gt_man with bear=0.0
+gt_bed with bear=0.0
+gt_girl with bear=1.0
+gt_bench with bear=-0.0
+gt_boy with bear=0.0
+gt_table with bear=0.0
+gt_bed with bear=1.0
+gt_chair with bear=1.0
+gt_child with bear=0.0
+gt_woman with bear=1.0
+gt_woman with bear=1.0
+Objective: 108.41913787783461
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_chair with bear=0.0
+gt_bed with bear=1.0
+gt_table with bear=1.0
+gt_chair with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_chair with bear=1.0
+gt_man with bear=0.0
+gt_bed with bear=0.0
+gt_girl with bear=0.0
+gt_bench with bear=-0.0
+gt_boy with bear=1.0
+gt_table with bear=0.0
+gt_bed with bear=1.0
+gt_chair with bear=1.0
+gt_child with bear=0.0
+gt_woman with bear=1.0
+gt_woman with bear=1.0
+----------------------------
+Caption: a baby sitting next to two teddy bears
+Imageid: 504824, extracted triplets: ['baby next to teddybear'], mapped triplets: ['boy next to bear']
+Objective: 108.41913787783461
+PRIOR DISTANCE
+Objective: 108.41913787783461
+----------------------------
+Caption: a woman sitting in a chair with a teddy bear
+Imageid: 11115, extracted triplets: ['woman sit chair'], mapped triplets: ['girl sit chair', 'woman sit couch', 'woman sit bench']
+Objective: 108.41913787783461
+PRIOR DISTANCE
+Objective: 108.41913787783461
+----------------------------
+Caption: a man and two children sitting on a couch with a dog
+Imageid: 439774, extracted triplets: ['man sit couch', 'man with dog'], mapped triplets: ['woman sit couch', 'child sit couch', 'man sit couch', 'girl with bear', 'woman with bear', 'man with bear', 'child with bear', 'bed with animal', 'boy with bear']
+Objective: 108.41913787783461
+PRIOR DISTANCE
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_bed with animal=0.0
+gt_bed with animal=0.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_bed with animal=0.0
+gt_man with bear=0.0
+gt_girl with bear=0.0
+gt_boy with bear=1.0
+gt_child with bear=0.0
+gt_bed with animal=0.0
+gt_woman with bear=1.0
+gt_woman with bear=1.0
+Objective: 109.78790052626653
+gt_woman with bear=0.0
+gt_woman with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_child with bear=0.0
+gt_girl with bear=0.0
+gt_man with bear=1.0
+gt_bed with animal=0.0
+gt_bed with animal=0.0
+gt_girl with bear=0.0
+gt_man with bear=0.0
+gt_bed with animal=0.0
+gt_man with bear=0.0
+gt_girl with bear=1.0
+gt_boy with bear=0.0
+gt_child with bear=1.0
+gt_bed with animal=0.0
+gt_woman with bear=1.0
+gt_woman with bear=1.0
+----------------------------
+Caption: a baby sitting next to a large teddy bear
+Imageid: 22929, extracted triplets: ['baby next to bear'], mapped triplets: ['boy next to bear']
+Objective: 109.78790052626653
+PRIOR DISTANCE
+Objective: 109.78790052626653
+----------------------------
+Caption: a young boy holding a stuffed teddy bear
+Imageid: 299601, extracted triplets: ['boy hold bear'], mapped triplets: ['child hold bear', 'man hold bear', 'boy hold bear']
+Objective: 109.78790052626653
+PRIOR DISTANCE
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_man hold bear=1.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_boy hold bear=0.0
+gt_man hold bear=0.0
+gt_child hold bear=-0.0
+Objective: 109.79214438856798
+gt_woman hold bear=0.0
+gt_child hold bear=1.0
+gt_child hold bear=1.0
+gt_woman hold bear=0.0
+gt_man hold bear=1.0
+gt_woman hold bear=1.0
+gt_woman hold bear=0.0
+gt_boy hold bear=1.0
+gt_man hold bear=0.0
+gt_child hold bear=0.0
+----------------------------

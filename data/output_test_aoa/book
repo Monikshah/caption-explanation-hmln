@@ -1,0 +1,2326 @@
+Caption: a cow walking on the side of a street
+Imageid: 472795, extracted triplets: ['side of street'], mapped triplets: ['bench of street']
+Objective: 325.847514575885
+PRIOR DISTANCE
+Objective: 325.847514575885
+----------------------------
+Caption: a cat sitting on a chair next to a table
+Imageid: 26942, extracted triplets: ['cat sit chair', 'chair next to table'], mapped triplets: ['dog sit couch', 'cat sit box', 'cat sit chair', 'chair next to desk', 'table next to computer', 'chair next to table']
+Objective: 325.847514575885
+PRIOR DISTANCE
+gt_chair next to table=0.0
+gt_table next to computer=1.0
+Objective: 325.9414897682522
+gt_chair next to table=0.0
+gt_table next to computer=1.0
+----------------------------
+Caption: a woman holding a tray of food on a table
+Imageid: 295837, extracted triplets: ['woman hold tray'], mapped triplets: ['woman hold knife', 'woman hold glass', 'woman hold phone', 'woman hold camera', 'woman hold cup']
+Objective: 325.9414897682522
+PRIOR DISTANCE
+gt_woman hold glass=1.0
+gt_woman hold camera=-0.0
+gt_woman hold knife=1.0
+gt_woman hold cup=1.0
+gt_woman hold phone=0.0
+Objective: 325.4137351143453
+gt_woman hold glass=1.0
+gt_woman hold camera=-0.0
+gt_woman hold knife=1.0
+gt_woman hold cup=1.0
+gt_woman hold phone=0.0
+----------------------------
+Caption: a man holding a glass of wine
+Imageid: 484145, extracted triplets: ['man hold window'], mapped triplets: ['man hold glass', 'man hold phone', 'man hold room']
+Objective: 325.4137351143453
+PRIOR DISTANCE
+gt_man hold phone=1.0
+gt_man hold glass=1.0
+gt_woman hold glass=1.0
+gt_man hold glass=-0.0
+gt_woman hold phone=0.0
+gt_man hold phone=0.0
+Objective: 325.67004995269764
+gt_man hold phone=1.0
+gt_man hold glass=1.0
+gt_woman hold glass=1.0
+gt_man hold glass=1.0
+gt_woman hold phone=0.0
+gt_man hold phone=0.0
+----------------------------
+Caption: a dog wearing a red and white tie
+Imageid: 468541, extracted triplets: ['dog wear tie'], mapped triplets: ['cat wear collar']
+Objective: 325.67004995269764
+PRIOR DISTANCE
+gt_cat wear collar=0.0
+Objective: 325.8405409903049
+gt_cat wear collar=0.0
+----------------------------
+Caption: a pot of food with vegetables on a stove
+Imageid: 308430, extracted triplets: ['pot of food', 'pot with onion', 'pot with vegetable', 'pot with carrot'], mapped triplets: ['plate of food', 'bowl of food', 'plate with vegetable', 'plate with vegetable', 'pot with flower', 'plate with vegetable']
+Objective: 325.8405409903049
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_plate of food=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_bowl of food=-0.0
+gt_pot with flower=1.0
+Objective: 324.73922511964645
+gt_bowl of food=0.0
+gt_plate of food=1.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_plate with vegetable=1.0
+gt_plate of food=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_plate with vegetable=0.0
+gt_bowl of food=-0.0
+gt_pot with flower=1.0
+----------------------------
+Caption: a young child sitting at a table with a pair of scissors
+Imageid: 157102, extracted triplets: ['child at table', 'child with handle', 'child with spoon'], mapped triplets: ['girl at table', 'boy at table', 'man at table', 'person at table', 'child at table', 'boy with hand', 'girl with keyboard', 'cup with spoon']
+Objective: 324.73922511964645
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_cup with spoon=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_cup with spoon=0.0
+gt_child at table=0.0
+gt_boy with hand=1.0
+gt_girl at table=1.0
+gt_woman at table=0.0
+Objective: 324.6257382526608
+gt_woman at table=1.0
+gt_cup with spoon=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_cup with spoon=0.0
+gt_child at table=0.0
+gt_boy with hand=1.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+----------------------------
+Caption: a woman standing in a bathroom with a toilet and a sink
+Imageid: 262514, extracted triplets: ['woman with toilet'], mapped triplets: ['bathroom with toilet']
+Objective: 324.6257382526608
+PRIOR DISTANCE
+gt_bathroom with toilet=1.0
+Objective: 324.59710734049696
+gt_bathroom with toilet=1.0
+----------------------------
+Caption: a white toilet in a bathroom with a wall
+Imageid: 489624, extracted triplets: ['toilet in bathroom', 'toilet with wall'], mapped triplets: ['bathroom in toilet', 'room in room', 'bathroom with wall']
+Objective: 324.59710734049696
+PRIOR DISTANCE
+gt_bathroom with wall=0.0
+gt_bathroom in toilet=1.0
+gt_room in room=-0.0
+Objective: 324.76717728313304
+gt_bathroom with wall=0.0
+gt_bathroom in toilet=0.0
+gt_room in room=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 277440, extracted triplets: ['desk with laptop computer', 'laptop computer sit laptop', 'laptop computer sit plate', 'laptop computer sit monitor', 'laptop computer sit phone', 'laptop computer sit book', 'laptop computer sit box', 'laptop computer sit bottle', 'laptop computer sit paper', 'laptop computer sit keyboard', 'laptop computer sit table'], mapped triplets: ['desk with computer', 'laptop sit table', 'computer sit book', 'computer sit computer', 'computer sit computer', 'laptop sit desk', 'computer sit desk', 'computer sit book', 'laptop sit mouse', 'cat sit box', 'computer sit laptop', 'laptop sit bottle', 'laptop sit book', 'computer sit book', 'screen sit laptop', 'laptop sit desk', 'keyboard sit desk', 'laptop sit table', 'computer sit table']
+Objective: 324.76717728313304
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+Objective: 324.66848738370714
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+----------------------------
+Caption: a man holding a chocolate donut in his hand
+Imageid: 412604, extracted triplets: ['man in hand'], mapped triplets: ['man in hand', 'person in chair', 'woman in bed', 'boy in hand']
+Objective: 324.66848738370714
+PRIOR DISTANCE
+gt_man in hand=-0.0
+gt_boy in hand=0.0
+gt_woman in bed=1.0
+Objective: 324.76346229199504
+gt_man in hand=-0.0
+gt_boy in hand=0.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a sandwich on a plate with a knife on a table
+Imageid: 211326, extracted triplets: ['sandwich on plate', 'sandwich with knife', 'knife on table'], mapped triplets: ['food on plate', 'pizza on plate', 'cake on plate', 'fork on plate', 'fruit on plate', 'sandwich on plate', 'plate with pizza', 'plate with cake', 'knife on board', 'plant on table', 'flower on table', 'food on table', 'sandwich on table', 'pizza on table', 'cake on table', 'orange on table', 'banana on table', 'fruit on table', 'donut on table', 'vase on table', 'bottle on table', 'glass on table', 'phone on table', 'mouse on table', 'cat on table', 'bear on table', 'pot on table', 'vegetable on table', 'bowl on table', 'cup on table', 'fork on plate', 'plate on table', 'food on plate', 'pizza on plate', 'cake on plate', 'sandwich on plate', 'fruit on plate']
+Objective: 324.76346229199504
+PRIOR DISTANCE
+gt_sandwich on plate=0.0
+gt_sandwich on plate=0.0
+gt_plate on table=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_food on table=1.0
+gt_fork on plate=1.0
+gt_fork on plate=1.0
+gt_vegetable on table=0.0
+gt_cake on plate=1.0
+gt_cake on plate=1.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_banana on table=0.0
+gt_glass on table=0.0
+gt_cake on table=0.0
+gt_plate with pizza=0.0
+gt_vase on table=0.0
+gt_pizza on table=1.0
+gt_sandwich on table=0.0
+gt_food on plate=0.0
+gt_food on plate=0.0
+gt_fruit on table=0.0
+gt_vegetable on table=-0.0
+gt_bowl on table=1.0
+gt_knife on board=-0.0
+gt_plate with pizza=1.0
+gt_pizza on table=1.0
+gt_orange on table=1.0
+gt_sandwich on table=1.0
+gt_plate on table=1.0
+gt_food on table=0.0
+gt_phone on table=-0.0
+gt_fruit on table=0.0
+gt_bear on table=0.0
+gt_vase on table=0.0
+gt_flower on table=0.0
+gt_cake on table=-0.0
+gt_food on plate=1.0
+gt_food on plate=1.0
+gt_pizza on plate=1.0
+gt_pizza on plate=1.0
+gt_banana on table=1.0
+gt_bottle on table=1.0
+gt_plate with cake=0.0
+gt_cake on plate=1.0
+gt_cake on plate=1.0
+Objective: 325.6182420970508
+gt_sandwich on plate=0.0
+gt_sandwich on plate=0.0
+gt_plate on table=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_food on table=1.0
+gt_fork on plate=1.0
+gt_fork on plate=1.0
+gt_vegetable on table=0.0
+gt_cake on plate=1.0
+gt_cake on plate=1.0
+gt_flower on table=0.0
+gt_orange on table=1.0
+gt_banana on table=0.0
+gt_glass on table=0.0
+gt_cake on table=0.0
+gt_plate with pizza=0.0
+gt_vase on table=0.0
+gt_pizza on table=1.0
+gt_sandwich on table=0.0
+gt_food on plate=0.0
+gt_food on plate=0.0
+gt_fruit on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=1.0
+gt_knife on board=-0.0
+gt_plate with pizza=1.0
+gt_pizza on table=1.0
+gt_orange on table=1.0
+gt_sandwich on table=1.0
+gt_plate on table=1.0
+gt_food on table=1.0
+gt_phone on table=-0.0
+gt_fruit on table=0.0
+gt_bear on table=-0.0
+gt_vase on table=0.0
+gt_flower on table=-0.0
+gt_cake on table=-0.0
+gt_food on plate=1.0
+gt_food on plate=1.0
+gt_pizza on plate=1.0
+gt_pizza on plate=1.0
+gt_banana on table=1.0
+gt_bottle on table=1.0
+gt_plate with cake=0.0
+gt_cake on plate=0.0
+gt_cake on plate=0.0
+----------------------------
+Caption: a person sitting at a desk with a laptop computer
+Imageid: 324837, extracted triplets: ['person at desk', 'desk with laptop computer'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'woman at desk', 'man at desk', 'desk with computer', 'desk with laptop']
+Objective: 325.6182420970508
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=-0.0
+Objective: 324.23269928052304
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a bathroom with a toilet and a sink
+Imageid: 144798, extracted triplets: ['bathroom with toilet'], mapped triplets: ['bathroom with sink', 'bathroom with wall', 'bathroom with lid', 'bathroom with girl', 'toilet with bathroom', 'bathroom with mirror', 'bathroom with window', 'bathroom with toilet']
+Objective: 324.23269928052304
+PRIOR DISTANCE
+gt_bathroom with sink=0.0
+gt_bathroom with window=0.0
+gt_bathroom with wall=0.0
+gt_bathroom with lid=-0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with mirror=1.0
+gt_toilet with bathroom=1.0
+gt_bathroom with sink=0.0
+Objective: 323.8003852786239
+gt_bathroom with sink=0.0
+gt_bathroom with window=-0.0
+gt_bathroom with wall=0.0
+gt_bathroom with lid=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with mirror=1.0
+gt_toilet with bathroom=1.0
+gt_bathroom with sink=-0.0
+----------------------------
+Caption: a black dog laying on top of a bed in a room
+Imageid: 347650, extracted triplets: ['dog in shelf'], mapped triplets: ['dog in bed', 'dog in couch']
+Objective: 323.8003852786239
+PRIOR DISTANCE
+Objective: 323.8003852786239
+----------------------------
+Caption: a desk with a clock and a stack of books on it
+Imageid: 452881, extracted triplets: ['desk with clock'], mapped triplets: ['desk with computer', 'desk with lamp', 'desk with light', 'desk with laptop', 'desk with clock']
+Objective: 323.8003852786239
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with clock=-0.0
+gt_desk with light=1.0
+gt_desk with laptop=-0.0
+gt_desk with lamp=0.0
+Objective: 324.05694155168203
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with clock=-0.0
+gt_desk with light=1.0
+gt_desk with laptop=-0.0
+gt_desk with lamp=0.0
+----------------------------
+Caption: a desk with three computer monitors and a keyboard
+Imageid: 542509, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with computer', 'desk with keyboard']
+Objective: 324.05694155168203
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with keyboard=0.0
+Objective: 323.9543573452733
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with keyboard=-0.0
+----------------------------
+Caption: a person holding a sandwich in their hand
+Imageid: 93353, extracted triplets: ['person hold sandwich', 'person in hand'], mapped triplets: ['woman hold book', 'man hold plate', 'man in hand', 'book in hand', 'girl in hand', 'boy in hand']
+Objective: 323.9543573452733
+PRIOR DISTANCE
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man in hand=-0.0
+gt_boy in hand=0.0
+gt_girl in hand=-0.0
+gt_woman hold book=-0.0
+gt_book in hand=1.0
+gt_man hold plate=-0.0
+Objective: 323.9226495829761
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man in hand=-0.0
+gt_boy in hand=0.0
+gt_girl in hand=-0.0
+gt_woman hold book=-0.0
+gt_book in hand=1.0
+gt_man hold plate=0.0
+----------------------------
+Caption: a young boy sitting in a bed with a clock
+Imageid: 46433, extracted triplets: ['boy sit bed', 'boy with clock'], mapped triplets: ['man sit bed', 'girl sit bed', 'man with book']
+Objective: 323.9226495829761
+PRIOR DISTANCE
+gt_man with book=-0.0
+gt_woman with book=0.0
+Objective: 323.84964926993297
+gt_man with book=-0.0
+gt_woman with book=0.0
+----------------------------
+Caption: a black cat sitting on top of a toy box
+Imageid: 295051, extracted triplets: ['cat sit table', 'cat sit shelf', 'cat sit head', 'cat sit book'], mapped triplets: ['cat sit table', 'cat sit floor', 'bed sit shelf', 'cat sit shelf', 'cat sit head', 'cat sit book']
+Objective: 323.84964926993297
+PRIOR DISTANCE
+Objective: 323.84964926993297
+----------------------------
+Caption: a woman standing next to a box of flowers
+Imageid: 449485, extracted triplets: ['woman next to box', 'box of flower'], mapped triplets: ['pot next to box', 'pot of flower', 'vase of flower']
+Objective: 323.84964926993297
+PRIOR DISTANCE
+gt_vase of flower=0.0
+gt_pot of flower=-0.0
+gt_pot next to box=-0.0
+gt_vase of flower=0.0
+Objective: 324.92353208981206
+gt_vase of flower=0.0
+gt_pot of flower=-0.0
+gt_pot next to box=-0.0
+gt_vase of flower=-0.0
+----------------------------
+Caption: a bottle of wine and a plate of food on a table
+Imageid: 311690, extracted triplets: ['bottle of wine', 'plate on table'], mapped triplets: ['bottle of glass', 'vase of flower', 'food on table', 'sandwich on plate', 'pizza on plate', 'cake on plate', 'fork on plate', 'fruit on plate', 'plate on table']
+Objective: 324.92353208981206
+PRIOR DISTANCE
+gt_sandwich on plate=0.0
+gt_plate on table=0.0
+gt_food on table=1.0
+gt_fork on plate=1.0
+gt_bottle of glass=0.0
+gt_vase of flower=0.0
+gt_cake on plate=1.0
+gt_plate on table=1.0
+gt_food on table=1.0
+gt_bottle of glass=1.0
+gt_vase of flower=-0.0
+gt_pizza on plate=1.0
+gt_cake on plate=0.0
+Objective: 324.77862667123367
+gt_sandwich on plate=0.0
+gt_plate on table=0.0
+gt_food on table=1.0
+gt_fork on plate=1.0
+gt_bottle of glass=0.0
+gt_vase of flower=0.0
+gt_cake on plate=1.0
+gt_plate on table=1.0
+gt_food on table=1.0
+gt_bottle of glass=1.0
+gt_vase of flower=0.0
+gt_pizza on plate=1.0
+gt_cake on plate=0.0
+----------------------------
+Caption: a slice of pizza on a plate on a table
+Imageid: 95062, extracted triplets: ['slice on plate', 'slice on table'], mapped triplets: ['food on plate', 'sandwich on plate', 'pizza on plate', 'cake on plate', 'fork on plate', 'monitor on table', 'plant on table', 'flower on table', 'food on table', 'pot on table', 'pizza on table', 'vegetable on table', 'sandwich on table', 'cake on table', 'fruit on table', 'donut on table', 'bowl on table', 'mouse on table', 'phone on table', 'glass on table', 'vase on table', 'bear on table', 'keyboard on table', 'computer on table', 'clock on table']
+Objective: 324.77862667123367
+PRIOR DISTANCE
+gt_sandwich on plate=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_food on table=1.0
+gt_fork on plate=1.0
+gt_vegetable on table=0.0
+gt_cake on plate=1.0
+gt_flower on table=0.0
+gt_glass on table=0.0
+gt_cake on table=0.0
+gt_vase on table=0.0
+gt_pizza on table=1.0
+gt_sandwich on table=0.0
+gt_food on plate=0.0
+gt_fruit on table=0.0
+gt_vegetable on table=0.0
+gt_bowl on table=1.0
+gt_pizza on table=1.0
+gt_sandwich on table=1.0
+gt_food on table=1.0
+gt_phone on table=-0.0
+gt_fruit on table=0.0
+gt_bear on table=-0.0
+gt_vase on table=0.0
+gt_flower on table=-0.0
+gt_monitor on table=-0.0
+gt_cake on table=-0.0
+gt_food on plate=1.0
+gt_computer on table=1.0
+gt_keyboard on table=0.0
+gt_pizza on plate=1.0
+gt_cake on plate=0.0
+Objective: 324.6101176755126
+gt_sandwich on plate=0.0
+gt_phone on table=0.0
+gt_bowl on table=0.0
+gt_food on table=1.0
+gt_fork on plate=1.0
+gt_vegetable on table=0.0
+gt_cake on plate=1.0
+gt_flower on table=0.0
+gt_glass on table=0.0
+gt_cake on table=0.0
+gt_vase on table=0.0
+gt_pizza on table=1.0
+gt_sandwich on table=0.0
+gt_food on plate=0.0
+gt_fruit on table=0.0
+gt_vegetable on table=-0.0
+gt_bowl on table=1.0
+gt_pizza on table=1.0
+gt_sandwich on table=1.0
+gt_food on table=1.0
+gt_phone on table=-0.0
+gt_fruit on table=0.0
+gt_bear on table=-0.0
+gt_vase on table=0.0
+gt_flower on table=-0.0
+gt_monitor on table=-0.0
+gt_cake on table=-0.0
+gt_food on plate=1.0
+gt_computer on table=1.0
+gt_keyboard on table=-0.0
+gt_pizza on plate=1.0
+gt_cake on plate=0.0
+----------------------------
+Caption: a bottle of wine sitting next to a computer keyboard
+Imageid: 325211, extracted triplets: ['bottle next to computer keyboard'], mapped triplets: ['laptop next to keyboard']
+Objective: 324.6101176755126
+PRIOR DISTANCE
+gt_laptop next to keyboard=-0.0
+Objective: 324.5988795453981
+gt_laptop next to keyboard=-0.0
+----------------------------
+Caption: a man standing in front of a clock on a table
+Imageid: 334399, extracted triplets: ['clock on table'], mapped triplets: ['clock on table']
+Objective: 324.5988795453981
+PRIOR DISTANCE
+Objective: 324.5988795453981
+----------------------------
+Caption: a little girl sitting on a bed with a hat
+Imageid: 205636, extracted triplets: ['girl sit bed', 'girl with hat'], mapped triplets: ['girl sit girl', 'woman sit bed', 'girl sit bed', 'man with hat', 'child with umbrella', 'woman with umbrella', 'boy with helmet']
+Objective: 324.5988795453981
+PRIOR DISTANCE
+gt_woman with hat=1.0
+gt_man with hat=1.0
+gt_boy with helmet=0.0
+gt_woman with umbrella=0.0
+Objective: 324.7297457476086
+gt_woman with hat=1.0
+gt_man with hat=1.0
+gt_boy with helmet=0.0
+gt_woman with umbrella=0.0
+----------------------------
+Caption: a desk with a computer monitor and a keyboard
+Imageid: 571641, extracted triplets: ['desk with computer monitor'], mapped triplets: ['desk with computer']
+Objective: 324.7297457476086
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+Objective: 324.73843432516804
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 163348, extracted triplets: ['desk with laptop computer', 'laptop computer sit monitor', 'laptop computer sit cup', 'laptop computer sit shelf', 'laptop computer sit desk', 'laptop computer sit bag', 'laptop computer sit chair', 'laptop computer sit umbrella', 'laptop computer sit drawer', 'laptop computer sit sticker', 'laptop computer sit box', 'laptop computer sit book', 'laptop computer sit keyboard'], mapped triplets: ['desk with computer', 'computer sit computer', 'laptop sit desk', 'laptop sit desk', 'cup sit table', 'laptop sit table', 'computer sit computer', 'laptop sit table', 'computer sit desk', 'laptop sit desk', 'backpack sit desk', 'laptop sit desk', 'backpack sit chair', 'computer sit laptop', 'man sit chair', 'person sit chair', 'people sit chair', 'bear sit chair', 'dog sit chair', 'woman sit chair', 'boy sit chair', 'chair sit computer', 'chair sit room', 'chair sit tv', 'computer sit computer', 'screen sit laptop', 'laptop sit desk', 'computer sit desk', 'laptop sit couch', 'computer sit mouse', 'cat sit box', 'bed sit box', 'computer sit computer', 'book sit book', 'computer sit computer', 'keyboard sit desk']
+Objective: 324.73843432516804
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+Objective: 324.73226431731575
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+----------------------------
+Caption: a counter with bottles of beer and a man
+Imageid: 214224, extracted triplets: ['counter with bottle'], mapped triplets: ['desk with bottle']
+Objective: 324.73226431731575
+PRIOR DISTANCE
+gt_desk with bottle=0.0
+Objective: 324.6588717612086
+gt_desk with bottle=0.0
+----------------------------
+Caption: a man sitting on a couch in a living room
+Imageid: 476925, extracted triplets: ['man sit couch', 'man in room'], mapped triplets: ['dog sit couch', 'girl sit couch', 'pillow sit couch', 'dress sit couch', 'child sit couch', 'man sit couch', 'boy sit couch', 'people sit couch', 'man in room', 'person in room', 'woman in room', 'people in room', 'child in room', 'boy in room']
+Objective: 324.6588717612086
+PRIOR DISTANCE
+gt_people in room=0.0
+gt_boy in room=0.0
+gt_person in room=1.0
+gt_man in room=1.0
+gt_child in room=-0.0
+gt_people in room=-0.0
+Objective: 324.7054011281367
+gt_people in room=0.0
+gt_boy in room=0.0
+gt_person in room=1.0
+gt_man in room=1.0
+gt_child in room=-0.0
+gt_people in room=-0.0
+----------------------------
+Caption: a group of men sitting in a room with a table
+Imageid: 363594, extracted triplets: ['men sit in room', 'room with table'], mapped triplets: ['man sit room', 'dog sit room', 'room with room', 'table with table', 'room with table']
+Objective: 324.7054011281367
+PRIOR DISTANCE
+gt_room with table=1.0
+gt_room with table=-0.0
+gt_room with room=-0.0
+gt_table with table=-0.0
+Objective: 324.71505269614534
+gt_room with table=1.0
+gt_room with table=-0.0
+gt_room with room=-0.0
+gt_table with table=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 261453, extracted triplets: ['desk with laptop computer'], mapped triplets: ['desk with computer', 'desk with laptop']
+Objective: 324.71505269614534
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+Objective: 324.7180481034796
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a woman sitting in a bed in a living room
+Imageid: 113058, extracted triplets: ['woman in room'], mapped triplets: ['woman in bed', 'woman in chair', 'woman in computer', 'woman in desk', 'woman in glass', 'woman in jean', 'woman in jacket', 'woman in shirt', 'woman in sweater', 'woman in dress', 'blanket in room', 'cat in room', 'cabinet in room', 'ceiling in room', 'chair in room', 'clock in room', 'couch in room', 'desk in room', 'dog in room', 'flower in room', 'floor in room', 'lamp in room', 'laptop in room', 'light in room', 'mirror in room', 'picture in room', 'plant in room', 'rug in room', 'screen in room', 'shelf in room', 'stand in room', 'wall in room', 'window in room', 'tv in room', 'chair in computer', 'book in room', 'bench in room', 'bed in room', 'woman in room']
+Objective: 324.7180481034796
+PRIOR DISTANCE
+gt_people stand in room=1.0
+gt_desk in room=1.0
+gt_woman in sweater=0.0
+gt_woman in jacket=0.0
+gt_woman in dress=1.0
+gt_woman in chair=0.0
+gt_woman in shirt=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=1.0
+gt_stand in room=1.0
+gt_plant in room=1.0
+gt_dog stand in room=0.0
+gt_light in room=1.0
+gt_shelf in room=0.0
+gt_woman in jacket=0.0
+gt_boy stand in room=1.0
+gt_ceiling in room=1.0
+gt_blanket in room=0.0
+gt_woman in dress=-0.0
+gt_dog in room=-0.0
+gt_picture in room=-0.0
+gt_woman stand in room=1.0
+gt_woman in glass=0.0
+gt_screen in room=1.0
+gt_wall in room=1.0
+gt_cat in room=-0.0
+gt_book in room=1.0
+gt_tv in room=0.0
+gt_rug in room=1.0
+gt_floor in room=1.0
+gt_window in room=1.0
+gt_lamp in room=1.0
+gt_woman in jean=1.0
+gt_woman in sweater=1.0
+gt_man stand in room=1.0
+gt_woman in shirt=1.0
+gt_desk in room=0.0
+gt_laptop in room=1.0
+gt_chair in room=1.0
+gt_woman in bed=1.0
+gt_flower in room=1.0
+gt_clock in room=1.0
+Objective: 329.4452726152193
+gt_people stand in room=1.0
+gt_desk in room=1.0
+gt_woman in sweater=0.0
+gt_woman in jacket=0.0
+gt_woman in dress=1.0
+gt_woman in chair=0.0
+gt_woman in shirt=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=1.0
+gt_stand in room=1.0
+gt_plant in room=1.0
+gt_dog stand in room=0.0
+gt_light in room=1.0
+gt_shelf in room=1.0
+gt_woman in jacket=0.0
+gt_boy stand in room=1.0
+gt_ceiling in room=1.0
+gt_blanket in room=0.0
+gt_woman in dress=-0.0
+gt_dog in room=-0.0
+gt_picture in room=-0.0
+gt_woman stand in room=1.0
+gt_woman in glass=1.0
+gt_screen in room=1.0
+gt_wall in room=1.0
+gt_cat in room=-0.0
+gt_book in room=1.0
+gt_tv in room=1.0
+gt_rug in room=1.0
+gt_floor in room=1.0
+gt_window in room=1.0
+gt_lamp in room=1.0
+gt_woman in jean=0.0
+gt_woman in sweater=1.0
+gt_man stand in room=1.0
+gt_woman in shirt=1.0
+gt_desk in room=0.0
+gt_laptop in room=1.0
+gt_chair in room=1.0
+gt_woman in bed=1.0
+gt_flower in room=1.0
+gt_clock in room=1.0
+----------------------------
+Caption: a young boy sitting at a desk with a laptop computer
+Imageid: 93175, extracted triplets: ['boy at desk', 'desk with laptop computer'], mapped triplets: ['boy at table', 'child at table', 'man at desk', 'desk with computer', 'desk with laptop']
+Objective: 329.4452726152193
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_desk with laptop=-0.0
+Objective: 329.1015039588291
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a group of people sitting in a living room playing a video game
+Imageid: 267408, extracted triplets: ['people sit room'], mapped triplets: ['woman sit room', 'man sit room', 'people sit room']
+Objective: 329.1015039588291
+PRIOR DISTANCE
+Objective: 329.1015039588291
+----------------------------
+Caption: a man and a woman laying in a bed
+Imageid: 50025, extracted triplets: ['woman in bed'], mapped triplets: ['girl in bed', 'woman in chair', 'woman in room', 'woman in bed']
+Objective: 329.1015039588291
+PRIOR DISTANCE
+gt_woman in chair=0.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+Objective: 329.0973897167841
+gt_woman in chair=0.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a desk with a computer monitor and a keyboard on it
+Imageid: 213538, extracted triplets: ['desk with computer monitor'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop']
+Objective: 329.0973897167841
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+Objective: 329.24481204508584
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 548423, extracted triplets: ['desk with laptop computer', 'laptop computer sit monitor', 'laptop computer sit phone', 'laptop computer sit box', 'laptop computer sit book', 'laptop computer sit player', 'laptop computer sit lamp', 'laptop computer sit mouse', 'laptop computer sit shelf'], mapped triplets: ['desk with computer', 'desk with laptop', 'computer sit computer', 'laptop sit screen', 'computer sit computer', 'screen sit laptop', 'laptop sit couch', 'cat sit box', 'computer sit book', 'laptop sit couch', 'computer sit laptop', 'computer sit desk', 'laptop sit desk', 'laptop sit mouse', 'computer sit mouse', 'laptop sit table', 'laptop sit bed', 'laptop sit couch', 'table sit shelf', 'laptop sit shelf', 'bed sit shelf', 'laptop sit desk']
+Objective: 329.24481204508584
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+Objective: 329.25429057019517
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a cat laying on top of a couch in a living room
+Imageid: 237772, extracted triplets: ['cat in room'], mapped triplets: ['cat in room', 'dog in room', 'computer in room', 'mirror in room', 'rug in room', 'bicycle in room', 'room in room', 'woman in room', 'picture in room', 'blanket in room', 'flower in room', 'tv in room', 'room in tv', 'chair in room', 'couch in room', 'ceiling in room', 'floor in room', 'boy in room', 'person in room', 'window in room', 'stand in room', 'screen in room', 'clock in room', 'lamp in room', 'people in room', 'shelf in room', 'tree in room', 'desk in room', 'cabinet in room', 'shelf in room', 'light in room', 'bed in room', 'table in room', 'plant in room', 'bike in room']
+Objective: 329.25429057019517
+PRIOR DISTANCE
+gt_people stand in room=1.0
+gt_desk in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=1.0
+gt_computer in room=-0.0
+gt_stand in room=1.0
+gt_bike in room=1.0
+gt_table in room=0.0
+gt_plant in room=1.0
+gt_room in room=-0.0
+gt_dog stand in room=0.0
+gt_light in room=1.0
+gt_shelf in room=1.0
+gt_shelf in room=1.0
+gt_boy in room=0.0
+gt_tree in room=0.0
+gt_boy stand in room=1.0
+gt_ceiling in room=1.0
+gt_person in room=1.0
+gt_blanket in room=0.0
+gt_dog in room=-0.0
+gt_picture in room=-0.0
+gt_woman stand in room=1.0
+gt_screen in room=1.0
+gt_cat in room=-0.0
+gt_tv in room=1.0
+gt_bicycle in room=0.0
+gt_rug in room=1.0
+gt_floor in room=1.0
+gt_window in room=1.0
+gt_lamp in room=1.0
+gt_man stand in room=1.0
+gt_desk in room=0.0
+gt_people in room=-0.0
+gt_chair in room=1.0
+gt_flower in room=1.0
+gt_clock in room=1.0
+Objective: 329.3795825634171
+gt_people stand in room=1.0
+gt_desk in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=1.0
+gt_computer in room=-0.0
+gt_stand in room=1.0
+gt_bike in room=1.0
+gt_table in room=0.0
+gt_plant in room=1.0
+gt_room in room=-0.0
+gt_dog stand in room=0.0
+gt_light in room=1.0
+gt_shelf in room=1.0
+gt_shelf in room=1.0
+gt_boy in room=0.0
+gt_tree in room=0.0
+gt_boy stand in room=1.0
+gt_ceiling in room=1.0
+gt_person in room=1.0
+gt_blanket in room=0.0
+gt_dog in room=-0.0
+gt_picture in room=-0.0
+gt_woman stand in room=1.0
+gt_screen in room=1.0
+gt_cat in room=-0.0
+gt_tv in room=1.0
+gt_bicycle in room=0.0
+gt_rug in room=1.0
+gt_floor in room=1.0
+gt_window in room=1.0
+gt_lamp in room=1.0
+gt_man stand in room=1.0
+gt_desk in room=0.0
+gt_people in room=-0.0
+gt_chair in room=1.0
+gt_flower in room=1.0
+gt_clock in room=1.0
+----------------------------
+Caption: a teddy bear sitting at a desk with a computer
+Imageid: 411405, extracted triplets: ['desk with computer'], mapped triplets: ['desk with computer', 'bed with computer', 'laptop with computer', 'computer with computer', 'desk with laptop', 'table with computer']
+Objective: 329.3795825634171
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_computer with computer=-0.0
+gt_desk with laptop=-0.0
+gt_laptop with computer=0.0
+Objective: 329.61164299819
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_computer with computer=-0.0
+gt_desk with laptop=-0.0
+gt_laptop with computer=0.0
+----------------------------
+Caption: a desk with two computers and a chair
+Imageid: 567657, extracted triplets: ['desk with computer', 'desk with laptop'], mapped triplets: ['desk with computer', 'bed with computer', 'laptop with computer', 'table with computer', 'desk with laptop', 'desk with computer', 'desk with laptop']
+Objective: 329.61164299819
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with laptop=-0.0
+gt_laptop with computer=0.0
+Objective: 329.39355305382736
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with laptop=-0.0
+gt_laptop with computer=0.0
+----------------------------
+Caption: a donut and a cup of coffee on a table with a book
+Imageid: 256973, extracted triplets: ['cup on table', 'table with book'], mapped triplets: ['laptop on bed', 'monitor on table', 'bag on table', 'mouse on table', 'phone on table', 'vase on table', 'pot on table', 'computer on table', 'cup on table', 'desk with book', 'table with computer', 'desk with keyboard', 'table with book']
+Objective: 329.39355305382736
+PRIOR DISTANCE
+gt_phone on table=0.0
+gt_desk with keyboard=0.0
+gt_vase on table=0.0
+gt_phone on table=-0.0
+gt_table with book=0.0
+gt_vase on table=0.0
+gt_monitor on table=-0.0
+gt_computer on table=1.0
+gt_desk with keyboard=-0.0
+gt_desk with book=1.0
+Objective: 329.66692831212686
+gt_phone on table=0.0
+gt_desk with keyboard=0.0
+gt_vase on table=0.0
+gt_phone on table=-0.0
+gt_table with book=1.0
+gt_vase on table=0.0
+gt_monitor on table=-0.0
+gt_computer on table=1.0
+gt_desk with keyboard=0.0
+gt_desk with book=1.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 302030, extracted triplets: ['desk with laptop computer', 'laptop computer sit monitor', 'laptop computer sit picture', 'laptop computer sit shelf', 'laptop computer sit pillow', 'laptop computer sit phone', 'laptop computer sit knob', 'laptop computer sit flower', 'laptop computer sit pant', 'laptop computer sit sticker', 'laptop computer sit box', 'laptop computer sit book', 'laptop computer sit paper', 'laptop computer sit keyboard', 'laptop computer sit lamp'], mapped triplets: ['desk with computer', 'desk with laptop', 'computer sit computer', 'laptop sit monitor', 'computer sit book', 'computer sit desk', 'keyboard sit computer', 'screen sit laptop', 'computer sit laptop', 'computer sit mouse', 'woman sit computer', 'computer sit computer', 'computer sit book', 'vase sit picture', 'tv sit picture', 'laptop sit shelf', 'computer sit shelf', 'laptop sit bed', 'pillow sit bed', 'computer sit computer', 'screen sit laptop', 'laptop sit couch', 'computer sit computer', 'computer sit laptop', 'vase sit flower', 'laptop sit couch', 'computer sit laptop', 'shirt sit computer', 'laptop sit couch', 'computer sit computer', 'cat sit box', 'computer sit desk', 'computer sit book', 'computer sit book', 'computer sit computer', 'keyboard sit computer', 'laptop sit desk', 'computer sit desk', 'lamp sit table']
+Objective: 329.66692831212686
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+Objective: 329.6766314147817
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 379475, extracted triplets: ['desk with laptop computer', 'laptop computer sit lid', 'laptop computer sit sign', 'laptop computer sit screen', 'laptop computer sit desk', 'laptop computer sit picture', 'laptop computer sit table', 'laptop computer sit man'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop', 'laptop sit desk', 'computer sit laptop', 'woman sit sign', 'computer sit laptop', 'screen sit laptop', 'laptop sit table', 'man sit desk', 'chair sit desk', 'computer sit computer', 'laptop sit desk', 'laptop sit shelf', 'computer sit laptop', 'bed sit picture', 'laptop sit table', 'computer sit table', 'man sit chair', 'man sit desk', 'man sit computer']
+Objective: 329.6766314147817
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=0.0
+Objective: 329.5887211713095
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 187001, extracted triplets: ['man at table'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 329.5887211713095
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+Objective: 329.3446674179388
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 13985, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'person at table', 'child at table', 'man at table', 'desk with computer', 'laptop with computer']
+Objective: 329.3446674179388
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_laptop with computer=0.0
+Objective: 329.3259000511697
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_laptop with computer=0.0
+----------------------------
+Caption: a desk with two computer monitors and a keyboard
+Imageid: 137967, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop']
+Objective: 329.3259000511697
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+Objective: 329.3878908463963
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 382041, extracted triplets: ['man on skateboard'], mapped triplets: ['man on chair', 'man on floor', 'man on table', 'people on chair', 'person on table', 'woman on chair']
+Objective: 329.3878908463963
+PRIOR DISTANCE
+gt_man on table=0.0
+gt_person on table=0.0
+Objective: 329.3263680819744
+gt_man on table=0.0
+gt_person on table=1.0
+----------------------------
+Caption: a man sitting on a bench reading a book
+Imageid: 241373, extracted triplets: ['man sit bench', 'bench read book'], mapped triplets: ['man sit desk', 'woman sit bench', 'man sit bench', 'bed read book', 'floor read book', 'bench read book']
+Objective: 329.3263680819744
+PRIOR DISTANCE
+gt_bench read book=1.0
+gt_floor read book=0.0
+gt_bed read book=1.0
+Objective: 329.42205934239036
+gt_bench read book=1.0
+gt_floor read book=0.0
+gt_bed read book=1.0
+----------------------------
+Caption: a bathroom with a toilet and a sink
+Imageid: 484587, extracted triplets: ['bathroom with toilet'], mapped triplets: ['bathroom with sink', 'bathroom with wall', 'bathroom with lid', 'bathroom with girl', 'bathroom with toilet']
+Objective: 329.42205934239036
+PRIOR DISTANCE
+gt_bathroom with sink=0.0
+gt_bathroom with wall=0.0
+gt_bathroom with lid=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with sink=-0.0
+Objective: 329.43571954377677
+gt_bathroom with sink=0.0
+gt_bathroom with wall=0.0
+gt_bathroom with lid=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with sink=-0.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 257421, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'man with laptop', 'desk with laptop', 'room with laptop']
+Objective: 329.43571954377677
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_room with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with laptop=-0.0
+Objective: 329.3405187541159
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_room with laptop=-0.0
+gt_woman with laptop=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a dog laying on a chair in a room
+Imageid: 268052, extracted triplets: ['dog in room'], mapped triplets: ['dog in couch', 'dog in bed', 'dog in chair', 'dog in window', 'dog in book', 'dog in grass', 'dog in room']
+Objective: 329.3405187541159
+PRIOR DISTANCE
+gt_dog in room=-0.0
+Objective: 329.3395376802206
+gt_dog in room=-0.0
+----------------------------
+Caption: a woman sitting at a table talking on a cell phone
+Imageid: 125129, extracted triplets: ['woman at table'], mapped triplets: ['girl at table', 'woman at table', 'person at table', 'woman at desk', 'child at table', 'people at table']
+Objective: 329.3395376802206
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+Objective: 329.1757813025508
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+----------------------------
+Caption: a person holding a cell phone in their hand
+Imageid: 129707, extracted triplets: ['person hold screen', 'person hold button', 'person in hand'], mapped triplets: ['woman hold phone', 'man hold phone', 'woman hold book', 'man hold phone', 'man in hand', 'girl in hand', 'boy in hand']
+Objective: 329.1757813025508
+PRIOR DISTANCE
+gt_man hold phone=1.0
+gt_man hold phone=1.0
+gt_man in hand=-0.0
+gt_boy in hand=0.0
+gt_girl in hand=-0.0
+gt_woman hold book=-0.0
+gt_woman hold phone=0.0
+gt_woman hold phone=0.0
+gt_woman hold phone=0.0
+gt_man hold phone=0.0
+gt_man hold phone=0.0
+Objective: 329.2393214840643
+gt_man hold phone=1.0
+gt_man hold phone=1.0
+gt_man in hand=-0.0
+gt_boy in hand=0.0
+gt_girl in hand=-0.0
+gt_woman hold book=-0.0
+gt_woman hold phone=0.0
+gt_woman hold phone=0.0
+gt_woman hold phone=0.0
+gt_man hold phone=0.0
+gt_man hold phone=0.0
+----------------------------
+Caption: a dog laying on a bed in a room
+Imageid: 529256, extracted triplets: ['dog in room'], mapped triplets: ['dog in couch', 'computer in room', 'mirror in room', 'rug in room', 'bicycle in room', 'room in room', 'wall in room', 'dog in bed', 'woman in room', 'picture in room', 'cat in room', 'blanket in room', 'flower in room', 'tv in room', 'room in tv', 'tree in room', 'window in room', 'stand in room', 'screen in room', 'clock in room', 'floor in room', 'boy in room', 'man in room', 'person in room', 'chair in room', 'couch in room', 'ceiling in room', 'lamp in room', 'people in room', 'shelf in room', 'cabinet in room', 'plant in room', 'bed in room', 'banana in room', 'room in chair', 'room in window', 'table in room', 'bike in room', 'light in room', 'dog in room']
+Objective: 329.2393214840643
+PRIOR DISTANCE
+gt_people stand in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=1.0
+gt_computer in room=-0.0
+gt_stand in room=1.0
+gt_banana in room=1.0
+gt_bike in room=1.0
+gt_table in room=0.0
+gt_plant in room=1.0
+gt_room in room=-0.0
+gt_dog stand in room=0.0
+gt_light in room=1.0
+gt_shelf in room=1.0
+gt_boy in room=0.0
+gt_tree in room=0.0
+gt_boy stand in room=1.0
+gt_room in chair=-0.0
+gt_ceiling in room=1.0
+gt_person in room=1.0
+gt_blanket in room=0.0
+gt_dog in room=-0.0
+gt_picture in room=-0.0
+gt_woman stand in room=1.0
+gt_screen in room=1.0
+gt_wall in room=1.0
+gt_cat in room=-0.0
+gt_tv in room=1.0
+gt_bicycle in room=0.0
+gt_rug in room=1.0
+gt_floor in room=1.0
+gt_window in room=1.0
+gt_lamp in room=1.0
+gt_man stand in room=1.0
+gt_man in room=1.0
+gt_people in room=-0.0
+gt_chair in room=1.0
+gt_flower in room=1.0
+gt_clock in room=1.0
+Objective: 329.4668851257168
+gt_people stand in room=1.0
+gt_people in room=0.0
+gt_table in room=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=1.0
+gt_computer in room=-0.0
+gt_stand in room=1.0
+gt_banana in room=1.0
+gt_bike in room=1.0
+gt_table in room=0.0
+gt_plant in room=1.0
+gt_room in room=-0.0
+gt_dog stand in room=0.0
+gt_light in room=1.0
+gt_shelf in room=1.0
+gt_boy in room=0.0
+gt_tree in room=0.0
+gt_boy stand in room=1.0
+gt_room in chair=-0.0
+gt_ceiling in room=1.0
+gt_person in room=1.0
+gt_blanket in room=0.0
+gt_dog in room=-0.0
+gt_picture in room=-0.0
+gt_woman stand in room=1.0
+gt_screen in room=1.0
+gt_wall in room=1.0
+gt_cat in room=-0.0
+gt_tv in room=1.0
+gt_bicycle in room=0.0
+gt_rug in room=1.0
+gt_floor in room=1.0
+gt_window in room=1.0
+gt_lamp in room=1.0
+gt_man stand in room=1.0
+gt_man in room=1.0
+gt_people in room=-0.0
+gt_chair in room=1.0
+gt_flower in room=1.0
+gt_clock in room=1.0
+----------------------------
+Caption: a man taking a picture of himself in a mirror
+Imageid: 150117, extracted triplets: ['man take picture', 'man in mirror'], mapped triplets: ['woman take picture', 'man in chair', 'woman in bed']
+Objective: 329.4668851257168
+PRIOR DISTANCE
+gt_woman in chair=0.0
+gt_woman take picture=1.0
+gt_woman in bed=1.0
+Objective: 329.7230927577675
+gt_woman in chair=0.0
+gt_woman take picture=0.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a cat sitting on top of a toilet
+Imageid: 9170, extracted triplets: ['cat sit rack', 'cat sit handle'], mapped triplets: ['cat sit floor', 'cat sit couch']
+Objective: 329.7230927577675
+PRIOR DISTANCE
+Objective: 329.7230927577675
+----------------------------
+Caption: a woman and two children sitting at a table eating food
+Imageid: 153231, extracted triplets: ['woman at table'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table']
+Objective: 329.7230927577675
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+Objective: 329.76331891025205
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=-0.0
+gt_girl at table=1.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+----------------------------
+Caption: a desk with a computer sitting on top of it
+Imageid: 472109, extracted triplets: ['desk with computer', 'computer sit laptop', 'computer sit monitor', 'computer sit shelf', 'computer sit phone', 'computer sit desk', 'computer sit tower', 'computer sit cabinet', 'computer sit box', 'computer sit book', 'computer sit bottle', 'computer sit keyboard'], mapped triplets: ['desk with computer', 'desk with laptop', 'table with computer', 'computer sit mouse', 'computer sit keyboard', 'screen sit laptop', 'keyboard sit computer', 'computer sit computer', 'laptop sit mouse', 'laptop sit monitor', 'laptop sit desk', 'laptop sit screen', 'computer sit laptop', 'laptop sit monitor', 'computer sit laptop', 'computer sit computer', 'keyboard sit computer', 'screen sit laptop', 'mouse sit computer', 'laptop sit shelf', 'computer sit desk', 'laptop sit desk', 'computer sit laptop', 'laptop sit table', 'laptop sit desk', 'computer sit computer', 'computer sit laptop', 'man sit computer', 'computer sit mouse', 'laptop sit mouse', 'computer sit table', 'computer sit desk', 'computer sit computer', 'computer sit laptop', 'computer sit desk', 'keyboard sit computer', 'computer sit mouse', 'computer sit book', 'computer sit computer', 'keyboard sit computer', 'mouse sit computer', 'screen sit laptop', 'computer sit laptop', 'computer sit mouse', 'computer sit desk', 'laptop sit mouse', 'computer sit table', 'laptop sit desk', 'computer sit mouse', 'keyboard sit desk', 'laptop sit mouse', 'computer sit computer', 'computer sit book', 'computer sit desk', 'computer sit laptop', 'laptop sit bed', 'computer sit laptop', 'computer sit book', 'computer sit laptop', 'bottle sit laptop', 'computer sit laptop', 'keyboard sit computer']
+Objective: 329.76331891025205
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+Objective: 329.7798511416715
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 22371, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table', 'laptop with computer', 'desk with computer', 'table with computer']
+Objective: 329.7798511416715
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=-0.0
+gt_girl at table=1.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_laptop with computer=0.0
+Objective: 329.85289985820714
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_laptop with computer=0.0
+----------------------------
+Caption: a man sitting on a couch with a laptop
+Imageid: 166478, extracted triplets: ['man sit couch', 'man with laptop'], mapped triplets: ['dog sit couch', 'girl sit couch', 'pillow sit couch', 'dress sit couch', 'woman sit couch', 'child sit couch', 'people sit couch', 'man sit couch', 'bed with computer', 'laptop with computer', 'man with laptop']
+Objective: 329.85289985820714
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_laptop with computer=0.0
+Objective: 329.85871535409603
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_laptop with computer=0.0
+----------------------------
+Caption: a gray cat sitting on top of a wooden table
+Imageid: 546378, extracted triplets: ['cat sit head', 'cat sit book', 'cat sit cat', 'cat sit chair', 'cat sit bench', 'cat sit wall', 'cat sit table'], mapped triplets: ['cat sit head', 'cat sit book', 'cat sit cat', 'bear sit bear', 'computer sit computer', 'dog sit dog', 'person sit person', 'woman sit woman', 'girl sit girl', 'pizza sit pizza', 'dog sit couch', 'person sit chair', 'cat sit chair', 'cat sit couch', 'woman sit bench', 'cat sit floor', 'cat sit room', 'dog sit table', 'plant sit table', 'bottle sit table', 'vase sit table', 'mouse sit table', 'cup sit table', 'pot sit table', 'bowl sit table', 'glass sit table', 'box sit table', 'chair sit table', 'cat sit table']
+Objective: 329.85871535409603
+PRIOR DISTANCE
+gt_person sit person=-0.0
+Objective: 329.8527503723526
+gt_person sit person=-0.0
+----------------------------
+Caption: a cat sitting on top of a desk
+Imageid: 435922, extracted triplets: ['cat sit desk', 'cat sit table', 'cat sit floor'], mapped triplets: ['laptop sit desk', 'chair sit desk', 'computer sit desk', 'keyboard sit desk', 'woman sit desk', 'girl sit desk', 'mouse sit desk', 'cat sit desk', 'backpack sit desk', 'bear sit desk', 'ball sit desk', 'rug sit desk', 'cat sit table', 'dog sit floor', 'bed sit floor', 'cat sit floor']
+Objective: 329.8527503723526
+PRIOR DISTANCE
+Objective: 329.8527503723526
+----------------------------
+Caption: a person laying on the floor with two stuffed animals
+Imageid: 567886, extracted triplets: ['person with teddybear', 'person with bear'], mapped triplets: ['man with bear', 'child with bear', 'woman with bear', 'man with bear', 'woman with bird', 'man with cat', 'woman with child', 'man with dog', 'cat with person', 'man with man', 'woman with cat', 'man with bear']
+Objective: 329.8527503723526
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_man with man=1.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_woman with dog=0.0
+gt_cat with person=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+Objective: 329.8530766121644
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_man with man=1.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_man with bear=0.0
+gt_woman with dog=0.0
+gt_cat with person=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+----------------------------
+Caption: a man sitting at a table with a sandwich on a plate
+Imageid: 179720, extracted triplets: ['man at table', 'man with sandwich', 'sandwich on plate'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table', 'plate with sandwich', 'food on plate', 'pizza on plate', 'cake on plate', 'fork on plate', 'fruit on plate', 'sandwich on plate']
+Objective: 329.8530766121644
+PRIOR DISTANCE
+gt_plate with sandwich=0.0
+gt_sandwich on plate=0.0
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_fork on plate=1.0
+gt_child at table=1.0
+gt_cake on plate=1.0
+gt_person at table=1.0
+gt_food on plate=0.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_plate with sandwich=1.0
+gt_food on plate=1.0
+gt_pizza on plate=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_cake on plate=0.0
+Objective: 329.2321728094294
+gt_plate with sandwich=0.0
+gt_sandwich on plate=0.0
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_fork on plate=1.0
+gt_child at table=1.0
+gt_cake on plate=1.0
+gt_person at table=1.0
+gt_food on plate=0.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_plate with sandwich=1.0
+gt_food on plate=1.0
+gt_pizza on plate=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_cake on plate=0.0
+----------------------------
+Caption: a man and a woman sitting on a couch playing a video game
+Imageid: 55223, extracted triplets: ['woman sit couch'], mapped triplets: ['girl sit couch', 'woman sit bench', 'woman sit floor', 'woman sit room', 'woman sit table', 'woman sit bed', 'woman sit couch']
+Objective: 329.2321728094294
+PRIOR DISTANCE
+gt_woman sit table=1.0
+Objective: 329.2321728094294
+gt_woman sit table=1.0
+----------------------------
+Caption: a computer monitor sitting on top of a desk
+Imageid: 127865, extracted triplets: ['computer monitor sit bed', 'computer monitor sit desk', 'computer monitor sit paper', 'computer monitor sit basket', 'computer monitor sit wall', 'computer monitor sit suitcase'], mapped triplets: ['computer sit computer', 'bed sit bed', 'computer sit desk', 'laptop sit desk', 'computer sit book', 'screen sit laptop', 'computer sit table', 'computer sit desk', 'computer sit laptop', 'wall sit room', 'computer sit laptop', 'suitcase sit shoe']
+Objective: 329.2321728094294
+PRIOR DISTANCE
+Objective: 329.2321728094294
+----------------------------
+Caption: a man and a young boy on a skateboard
+Imageid: 426878, extracted triplets: ['man on skateboard'], mapped triplets: ['man on chair', 'man on floor', 'man on bed', 'man on couch', 'man on motorcycle', 'man on laptop', 'man on shelf', 'man on bench']
+Objective: 329.2321728094294
+PRIOR DISTANCE
+gt_woman on couch=1.0
+gt_man on laptop=1.0
+gt_man on couch=-0.0
+gt_woman on bench=0.0
+gt_woman on bed=1.0
+gt_man on motorcycle=0.0
+gt_man on laptop=1.0
+gt_man on bench=1.0
+Objective: 329.26743071863126
+gt_woman on couch=1.0
+gt_man on laptop=1.0
+gt_man on couch=-0.0
+gt_woman on bench=0.0
+gt_woman on bed=1.0
+gt_man on motorcycle=0.0
+gt_man on laptop=1.0
+gt_man on bench=1.0
+----------------------------
+Caption: a man and a woman sitting on a surfboard in the water
+Imageid: 361804, extracted triplets: ['woman sit on surfboard'], mapped triplets: ['woman sit bench', 'woman sit floor', 'woman sit table', 'woman sit bed', 'woman sit room', 'woman sit couch', 'woman sit bathroom', 'woman sit chair', 'woman sit desk']
+Objective: 329.26743071863126
+PRIOR DISTANCE
+gt_woman sit table=1.0
+Objective: 329.26743071863126
+gt_woman sit table=1.0
+----------------------------
+Caption: a group of people sitting in a living room playing a video game
+Imageid: 435807, extracted triplets: ['people sit in wall', 'people sit in table', 'people sit in shelf', 'people sit in floor', 'people sit in screen'], mapped triplets: ['people sit room', 'people sit chair', 'people sit bench', 'people sit couch', 'people sit man', 'people sit table', 'people sit room', 'people sit bench', 'people sit chair', 'people sit couch', 'people sit man', 'people sit in table', 'people sit man', 'people sit bench', 'dog sit room', 'woman sit floor', 'man sit floor', 'child sit floor', 'dog sit floor', 'people sit room', 'bed sit floor', 'person sit chair', 'person sit tv', 'people sit chair', 'people sit room', 'people sit couch', 'people sit bench', 'people sit table', 'people sit umbrella', 'people sit man', 'woman sit screen']
+Objective: 329.26743071863126
+PRIOR DISTANCE
+gt_people sit man=1.0
+gt_people sit man=1.0
+gt_people sit man=1.0
+gt_people sit man=1.0
+Objective: 329.2352018245683
+gt_people sit man=1.0
+gt_people sit man=1.0
+gt_people sit man=1.0
+gt_people sit man=1.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 31016, extracted triplets: ['desk with laptop computer', 'laptop computer sit cup', 'laptop computer sit picture', 'laptop computer sit mouse', 'laptop computer sit book'], mapped triplets: ['desk with computer', 'desk with laptop', 'laptop sit desk', 'cup sit table', 'computer sit laptop', 'bed sit picture', 'computer sit mouse', 'laptop sit mouse', 'computer sit mouse', 'computer sit computer', 'book sit book']
+Objective: 329.2352018245683
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+Objective: 329.2992500453196
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a bathroom with a toilet and a sink
+Imageid: 151832, extracted triplets: ['bathroom with toilet'], mapped triplets: ['bathroom with sink', 'bathroom with wall', 'bathroom with lid', 'bathroom with girl', 'bathroom with mirror', 'bathroom with window', 'bathroom with toilet']
+Objective: 329.2992500453196
+PRIOR DISTANCE
+gt_bathroom with sink=0.0
+gt_bathroom with window=-0.0
+gt_bathroom with wall=0.0
+gt_bathroom with lid=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with mirror=1.0
+gt_bathroom with sink=-0.0
+Objective: 329.32533530270507
+gt_bathroom with sink=0.0
+gt_bathroom with window=-0.0
+gt_bathroom with wall=0.0
+gt_bathroom with lid=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with mirror=1.0
+gt_bathroom with sink=-0.0
+----------------------------
+Caption: a man and a dog sitting in the back seat of a car
+Imageid: 307993, extracted triplets: ['dog sit seat', 'seat of car'], mapped triplets: ['dog sit couch', 'dog sit bed', 'dog sit seat', 'seat of car']
+Objective: 329.32533530270507
+PRIOR DISTANCE
+gt_dog sit seat=1.0
+gt_seat of car=1.0
+Objective: 329.26170019916964
+gt_dog sit seat=1.0
+gt_seat of car=1.0
+----------------------------
+Caption: a messy room with a bed and a desk
+Imageid: 211112, extracted triplets: ['room with bed'], mapped triplets: ['room with light', 'room with lamp', 'room with pillow', 'room with cat', 'room with tv', 'room with plant', 'room with bed']
+Objective: 329.26170019916964
+PRIOR DISTANCE
+gt_room with cat=-0.0
+gt_room with pillow=1.0
+gt_room with plant=1.0
+gt_room with bed=0.0
+gt_room with tv=1.0
+gt_room with light=0.0
+Objective: 329.133294128131
+gt_room with cat=-0.0
+gt_room with pillow=1.0
+gt_room with plant=1.0
+gt_room with bed=0.0
+gt_room with tv=1.0
+gt_room with light=0.0
+----------------------------
+Caption: a desk with two computer monitors and a keyboard
+Imageid: 255165, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop', 'desk with monitor']
+Objective: 329.133294128131
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with monitor=1.0
+gt_desk with keyboard=-0.0
+Objective: 329.04744192423266
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=-0.0
+----------------------------
+Caption: a vase with flowers on a table in a room
+Imageid: 421923, extracted triplets: ['vase with flower'], mapped triplets: ['desk with flower', 'pot with flower', 'table with flower', 'vase with flower']
+Objective: 329.04744192423266
+PRIOR DISTANCE
+gt_pot with flower=1.0
+gt_vase with flower=-0.0
+gt_desk with flower=-0.0
+gt_table with flower=1.0
+Objective: 329.2985218380687
+gt_pot with flower=1.0
+gt_vase with flower=-0.0
+gt_desk with flower=-0.0
+gt_table with flower=1.0
+----------------------------
+Caption: a man holding a tennis racket in front of a sign
+Imageid: 251140, extracted triplets: ['man hold racket'], mapped triplets: ['player hold bat']
+Objective: 329.2985218380687
+PRIOR DISTANCE
+gt_player hold bat=1.0
+Objective: 329.29993247826036
+gt_player hold bat=1.0
+----------------------------
+Caption: a woman and two children eating a donut
+Imageid: 84674, extracted triplets: ['woman eat donut'], mapped triplets: ['woman eat food', 'people eat food']
+Objective: 329.29993247826036
+PRIOR DISTANCE
+gt_woman eat food=0.0
+gt_people eat food=1.0
+gt_people eat food=0.0
+gt_woman eat food=1.0
+Objective: 329.248049285134
+gt_woman eat food=0.0
+gt_people eat food=1.0
+gt_people eat food=0.0
+gt_woman eat food=1.0
+----------------------------
+Caption: a person sitting on a bed with a dog
+Imageid: 536038, extracted triplets: ['person sit bed', 'person with dog'], mapped triplets: ['man sit bed', 'woman sit bed', 'girl sit bed', 'person sit chair', 'person sit bed', 'man with cat', 'woman with dog']
+Objective: 329.248049285134
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+Objective: 329.26336263846645
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+----------------------------
+Caption: a woman sitting on a couch with a laptop
+Imageid: 250344, extracted triplets: ['woman sit couch', 'woman with laptop'], mapped triplets: ['girl sit couch', 'woman sit bench', 'woman sit bed', 'woman sit room', 'woman sit table', 'child sit couch', 'woman sit bathroom', 'woman sit chair', 'woman sit desk', 'woman sit couch', 'woman with screen', 'laptop with computer', 'woman with laptop']
+Objective: 329.26336263846645
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman sit table=1.0
+gt_woman with laptop=0.0
+gt_laptop with computer=0.0
+Objective: 329.2819732027245
+gt_woman with laptop=1.0
+gt_woman sit table=1.0
+gt_woman with laptop=0.0
+gt_laptop with computer=0.0
+----------------------------
+Caption: a television sitting on top of a wooden shelf
+Imageid: 247123, extracted triplets: ['television sit stand', 'television sit box', 'television sit book', 'television sit screen', 'television sit paper', 'television sit drawer', 'television sit shelf'], mapped triplets: ['tv sit stand', 'tv sit floor', 'tv sit table', 'tv sit room', 'tv sit shelf', 'tv sit picture', 'tv sit stand', 'tv sit table', 'tv sit table', 'book sit shelf', 'tv sit stand', 'tv sit stand', 'food sit paper', 'tv sit stand', 'box sit drawer', 'tv sit shelf', 'tv sit stand']
+Objective: 329.2819732027245
+PRIOR DISTANCE
+Objective: 329.2819732027245
+----------------------------
+Caption: a man and a baby laying in a bed
+Imageid: 317999, extracted triplets: ['baby in bed'], mapped triplets: ['boy in bed', 'girl in bed', 'woman in bed', 'animal in bed', 'bear in bed', 'bed in lamp']
+Objective: 329.2819732027245
+PRIOR DISTANCE
+gt_animal in bed=1.0
+gt_bed in lamp=1.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+gt_bear in bed=1.0
+Objective: 329.3285203765653
+gt_animal in bed=1.0
+gt_bed in lamp=1.0
+gt_girl in bed=1.0
+gt_woman in bed=1.0
+gt_bear in bed=0.0
+----------------------------
+Caption: a glass of beer and a keyboard on a table
+Imageid: 115846, extracted triplets: ['keyboard on table'], mapped triplets: ['keyboard on laptop', 'table on table', 'keyboard on table']
+Objective: 329.3285203765653
+PRIOR DISTANCE
+gt_vegetable on table=0.0
+gt_table on table=1.0
+gt_vegetable on table=-0.0
+gt_keyboard on laptop=-0.0
+gt_keyboard on table=-0.0
+gt_table on table=1.0
+Objective: 329.3104932485204
+gt_vegetable on table=0.0
+gt_table on table=1.0
+gt_vegetable on table=-0.0
+gt_keyboard on laptop=-0.0
+gt_keyboard on table=-0.0
+gt_table on table=1.0
+----------------------------
+Caption: a woman sitting at a desk with a laptop computer
+Imageid: 147415, extracted triplets: ['woman at desk', 'desk with laptop computer'], mapped triplets: ['woman at table', 'man at table', 'person at table', 'girl at table', 'boy at table', 'child at table', 'woman at desk', 'desk with computer', 'desk with keyboard', 'desk with laptop', 'table with computer', 'table with laptop']
+Objective: 329.3104932485204
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_child at table=1.0
+gt_table with laptop=0.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=0.0
+gt_table with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+Objective: 329.132235746283
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_child at table=1.0
+gt_table with laptop=0.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=0.0
+gt_table with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=-0.0
+----------------------------
+Caption: a woman standing at a table with a glass of wine
+Imageid: 164548, extracted triplets: ['woman at table', 'woman with bottle'], mapped triplets: ['girl at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table', 'woman with book', 'woman with bottle']
+Objective: 329.132235746283
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_woman with book=0.0
+Objective: 328.9932488806553
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_woman with book=1.0
+----------------------------
+Caption: a library with books and a table with books
+Imageid: 426172, extracted triplets: ['table with book'], mapped triplets: ['desk with book', 'desk with picture', 'desk with cup', 'desk with computer', 'desk with vase', 'desk with drawer', 'desk with flower', 'desk with tv', 'desk with board', 'desk with mouse', 'desk with bottle', 'desk with phone', 'desk with paper', 'desk with desk', 'desk with umbrella', 'desk with keyboard', 'desk with light', 'desk with laptop', 'desk with book', 'desk with lamp', 'table with book']
+Objective: 328.9932488806553
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with light=1.0
+gt_desk with drawer=-0.0
+gt_desk with tv=0.0
+gt_desk with umbrella=-0.0
+gt_table with book=1.0
+gt_desk with phone=-0.0
+gt_desk with cup=1.0
+gt_desk with paper=1.0
+gt_desk with mouse=-0.0
+gt_desk with desk=0.0
+gt_desk with laptop=-0.0
+gt_desk with flower=-0.0
+gt_desk with lamp=0.0
+gt_desk with bottle=0.0
+gt_desk with keyboard=-0.0
+gt_desk with book=1.0
+gt_desk with book=1.0
+gt_desk with board=1.0
+Objective: 329.28441411322626
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with light=1.0
+gt_desk with drawer=-0.0
+gt_desk with tv=1.0
+gt_desk with umbrella=-0.0
+gt_table with book=0.0
+gt_desk with phone=0.0
+gt_desk with cup=1.0
+gt_desk with paper=1.0
+gt_desk with mouse=-0.0
+gt_desk with desk=0.0
+gt_desk with laptop=-0.0
+gt_desk with flower=-0.0
+gt_desk with lamp=0.0
+gt_desk with bottle=0.0
+gt_desk with keyboard=0.0
+gt_desk with book=1.0
+gt_desk with book=1.0
+gt_desk with board=0.0
+----------------------------
+Caption: a group of people sitting at a desk with laptops
+Imageid: 189376, extracted triplets: ['people at desk', 'desk with laptop'], mapped triplets: ["('people', 'table') at ('man', 'desk')", 'desk with computer', 'table with laptop', 'desk with laptop']
+Objective: 329.28441411322626
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_desk with computer=1.0
+gt_table with laptop=1.0
+gt_desk with laptop=-0.0
+Objective: 329.11746827092406
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_desk with computer=1.0
+gt_table with laptop=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a suitcase on a bed with a cell phone
+Imageid: 192212, extracted triplets: ['suitcase on bed', 'suitcase with phone'], mapped triplets: ['luggage on floor', 'suitcase on floor', 'paper on bed', 'blanket on bed', 'pillow on bed', 'shirt on bed', 'person on bed', 'child on bed', 'woman on bed', 'bed on bed', 'suitcase on bed', 'desk with phone']
+Objective: 329.11746827092406
+PRIOR DISTANCE
+gt_pillow on bed=0.0
+gt_paper on bed=1.0
+gt_suitcase on floor=1.0
+gt_blanket on bed=-0.0
+gt_child on bed=1.0
+gt_suitcase on bed=-0.0
+gt_desk with phone=0.0
+gt_woman on bed=1.0
+gt_bed on bed=0.0
+gt_pillow on bed=1.0
+Objective: 329.4673955866557
+gt_pillow on bed=0.0
+gt_paper on bed=1.0
+gt_suitcase on floor=1.0
+gt_blanket on bed=-0.0
+gt_child on bed=1.0
+gt_suitcase on bed=-0.0
+gt_desk with phone=0.0
+gt_woman on bed=1.0
+gt_bed on bed=0.0
+gt_pillow on bed=1.0
+----------------------------
+Caption: a man and two children sitting on a couch with a dog
+Imageid: 439774, extracted triplets: ['man sit couch', 'man with dog'], mapped triplets: ['woman sit couch', 'man sit room', 'man sit couch', 'man with cat', 'woman with dog', 'man with dog']
+Objective: 329.4673955866557
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+Objective: 329.4714396858559
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+----------------------------
+Caption: a woman sitting at a table with a box of pizza
+Imageid: 286981, extracted triplets: ['woman at table', 'woman with box', 'box of pizza'], mapped triplets: ['girl at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'woman with book', 'woman with laptop', 'people with box', 'woman with box', 'box of donut', 'box of pizza']
+Objective: 329.4714396858559
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_box of pizza=1.0
+gt_person at table=1.0
+gt_box of donut=0.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_box of pizza=0.0
+gt_child at table=0.0
+gt_box of donut=-0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_woman with book=1.0
+Objective: 329.75150573285276
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_box of pizza=1.0
+gt_person at table=1.0
+gt_box of donut=0.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_box of pizza=0.0
+gt_child at table=0.0
+gt_box of donut=-0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_woman with book=1.0
+----------------------------
+Caption: a man standing in a kitchen with a counter
+Imageid: 25860, extracted triplets: ['man with counter'], mapped triplets: ['man with man', 'counter with food']
+Objective: 329.75150573285276
+PRIOR DISTANCE
+gt_man with man=1.0
+gt_counter with food=-0.0
+Objective: 329.8262057373529
+gt_man with man=1.0
+gt_counter with food=-0.0
+----------------------------
+Caption: a black and white cat sitting on top of a shelf
+Imageid: 214184, extracted triplets: ['cat sit box', 'cat sit book', 'cat sit fur', 'cat sit statue', 'cat sit cat', 'cat sit wall', 'cat sit mirror', 'cat sit shelf'], mapped triplets: ['cat sit floor', 'cat sit couch', 'cat sit bed', 'cat sit box', 'cat sit book', 'cat sit bed', 'cat sit rug', 'man sit statue', 'cat sit cat', 'cat sit mouse', 'cat sit floor', 'cat sit room', 'cat sit window', 'cat sit box', 'cat sit mirror', 'cat sit floor', 'tv sit shelf', 'cat sit shelf']
+Objective: 329.8262057373529
+PRIOR DISTANCE
+Objective: 329.8262057373529
+----------------------------
+Caption: a desk with two computer monitors and a keyboard
+Imageid: 267175, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop', 'table with computer']
+Objective: 329.8262057373529
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=0.0
+Objective: 329.94452114214135
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=0.0
+----------------------------
+Caption: a woman sitting at a table with a pizza
+Imageid: 25603, extracted triplets: ['woman at table', 'woman with pizza'], mapped triplets: ['girl at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table', 'woman with cake', 'woman with laptop']
+Objective: 329.94452114214135
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+Objective: 329.9064044412935
+gt_people at table=0.0
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 245664, extracted triplets: ['desk with laptop computer', 'laptop computer sit monitor', 'laptop computer sit book', 'laptop computer sit paper'], mapped triplets: ['desk with computer', 'desk with laptop', 'computer sit computer', 'laptop sit monitor', 'laptop sit desk', 'computer sit desk', 'computer sit book', 'computer sit book', 'screen sit laptop']
+Objective: 329.9064044412935
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+Objective: 329.9451473915323
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a group of children sitting in a room with a black dogs
+Imageid: 502240, extracted triplets: ['children sit floor', 'children sit shelf'], mapped triplets: ['child sit floor', 'woman sit floor', 'dog sit floor', 'tv sit floor', 'clock sit floor', 'couch sit floor', 'bed sit floor', 'book sit shelf', 'bed sit shelf']
+Objective: 329.9451473915323
+PRIOR DISTANCE
+Objective: 329.9451473915323
+----------------------------
+Caption: a group of people standing in a field with a dog
+Imageid: 482021, extracted triplets: ['people in field', 'people with dog'], mapped triplets: ['bench in field', 'people in field', 'man with dog', 'woman with dog']
+Objective: 329.9451473915323
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_bench in field=1.0
+gt_people in field=1.0
+Objective: 330.08720177451994
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_bench in field=1.0
+gt_people in field=1.0
+----------------------------
+Caption: a bowl of food sitting on top of a table
+Imageid: 269395, extracted triplets: ['bowl sit plate', 'bowl sit fruit', 'bowl sit banana'], mapped triplets: ['vase sit bowl', 'sandwich sit plate', 'bowl sit plate', 'bowl sit table', 'banana sit table', 'bowl sit plate', 'banana sit paper']
+Objective: 330.08720177451994
+PRIOR DISTANCE
+gt_banana sit paper=0.0
+Objective: 329.9663788957378
+gt_banana sit paper=0.0
+----------------------------
+Caption: a laptop computer sitting on top of a desk
+Imageid: 97964, extracted triplets: ['laptop computer sit monitor', 'laptop computer sit desk', 'laptop computer sit table', 'laptop computer sit cabinet', 'laptop computer sit box', 'laptop computer sit bottle'], mapped triplets: ['computer sit computer', 'laptop sit desk', 'computer sit desk', 'laptop sit table', 'chair sit desk', 'laptop sit table', 'plant sit table', 'laptop sit shelf', 'computer sit desk', 'laptop sit couch', 'cat sit box', 'laptop sit bottle']
+Objective: 329.9663788957378
+PRIOR DISTANCE
+Objective: 329.9663788957378
+----------------------------
+Caption: a man standing on the side of a street with a traffic light
+Imageid: 34900, extracted triplets: ['man on side', 'side of street'], mapped triplets: ['man on chair', 'man on floor', 'man on table', 'man on bed', 'man on couch', 'woman on chair', 'chair on floor', 'bench of street']
+Objective: 329.9663788957378
+PRIOR DISTANCE
+gt_man on table=0.0
+gt_woman on couch=1.0
+gt_chair on floor=1.0
+gt_man on couch=-0.0
+gt_woman on bed=1.0
+Objective: 329.9922175447828
+gt_man on table=0.0
+gt_woman on couch=1.0
+gt_chair on floor=1.0
+gt_man on couch=-0.0
+gt_woman on bed=1.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 562628, extracted triplets: ['desk with laptop computer', 'laptop computer sit monitor', 'laptop computer sit hat', 'laptop computer sit desk', 'laptop computer sit paper', 'laptop computer sit shelf'], mapped triplets: ['desk with computer', 'desk with keyboard', 'desk with laptop', 'computer sit computer', 'laptop sit screen', 'laptop sit hat', 'computer sit computer', 'laptop sit table', 'computer sit desk', 'computer sit book', 'keyboard sit computer', 'laptop sit table', 'computer sit computer', 'table sit shelf']
+Objective: 329.9922175447828
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=0.0
+Objective: 329.9298608523297
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=-0.0
+gt_desk with keyboard=0.0
+----------------------------
+Caption: a cat sitting on top of a desk with a stuffed animal
+Imageid: 94651, extracted triplets: ['cat sit monitor', 'cat sit shelf', 'cat sit desk', 'cat sit chair', 'cat sit head', 'cat sit book', 'desk with cat'], mapped triplets: ['cat sit computer', 'computer sit monitor', 'cat sit bed', 'cat sit box', 'cat sit couch', 'cat sit floor', 'cat sit rug', 'tv sit shelf', 'cat sit shelf', 'cat sit desk', 'dog sit couch', 'dog sit bed', 'cat sit chair', 'cat sit head', 'cat sit book', 'desk with cat']
+Objective: 329.9298608523297
+PRIOR DISTANCE
+gt_desk with cat=1.0
+Objective: 330.02257352795897
+gt_desk with cat=0.0
+----------------------------
+Caption: a keyboard and a keyboard on a desk
+Imageid: 564382, extracted triplets: ['keyboard on desk'], mapped triplets: ['keyboard on table', 'computer on desk', 'monitor on table', 'mouse on desk', 'keyboard on laptop', 'desk on computer', 'desk on desk', 'desk on laptop', 'computer on table', 'keyboard on desk']
+Objective: 330.02257352795897
+PRIOR DISTANCE
+gt_computer on desk=0.0
+gt_computer on desk=1.0
+gt_keyboard on laptop=-0.0
+gt_monitor on table=-0.0
+gt_computer on table=1.0
+gt_keyboard on table=-0.0
+gt_keyboard on desk=-0.0
+Objective: 330.0268698846059
+gt_computer on desk=0.0
+gt_computer on desk=1.0
+gt_keyboard on laptop=-0.0
+gt_monitor on table=-0.0
+gt_computer on table=1.0
+gt_keyboard on table=0.0
+gt_keyboard on desk=-0.0
+----------------------------
+Caption: a pizza sitting on top of a plate on a table
+Imageid: 137938, extracted triplets: ['pizza on table'], mapped triplets: ['pizza on plate', 'food on table', 'sandwich on table', 'pizza on table']
+Objective: 330.0268698846059
+PRIOR DISTANCE
+gt_food on table=1.0
+gt_pizza on table=1.0
+gt_sandwich on table=0.0
+gt_pizza on table=1.0
+gt_sandwich on table=1.0
+gt_food on table=1.0
+gt_pizza on plate=0.0
+Objective: 330.4610081111354
+gt_food on table=1.0
+gt_pizza on table=1.0
+gt_sandwich on table=0.0
+gt_pizza on table=1.0
+gt_sandwich on table=1.0
+gt_food on table=1.0
+gt_pizza on plate=1.0
+----------------------------
+Caption: a man sitting at a desk with a laptop computer
+Imageid: 231991, extracted triplets: ['man at desk', 'desk with laptop computer'], mapped triplets: ['man at table', 'person at table', 'woman at table', 'boy at table', 'child at table', 'man at desk', 'desk with computer', 'desk with laptop']
+Objective: 330.4610081111354
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_desk with laptop=-0.0
+Objective: 330.5618179400467
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_desk with computer=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: two children playing a video game in a living room
+Imageid: 28688, extracted triplets: ['children play tv', 'children in room'], mapped triplets: ['child play couch', 'man play tv', 'child in room', 'people in room', 'person in room', 'boy in room', 'woman in room', 'man in room']
+Objective: 330.5618179400467
+PRIOR DISTANCE
+gt_people in room=0.0
+gt_boy in room=0.0
+gt_person in room=1.0
+gt_man in room=1.0
+gt_child in room=-0.0
+gt_people in room=-0.0
+Objective: 330.6549622663614
+gt_people in room=0.0
+gt_boy in room=0.0
+gt_person in room=1.0
+gt_man in room=1.0
+gt_child in room=-0.0
+gt_people in room=-0.0
+----------------------------
+Caption: a man taking a picture of himself with a camera
+Imageid: 409331, extracted triplets: ['man take camera', 'man with camera'], mapped triplets: ['people with camera']
+Objective: 330.6549622663614
+PRIOR DISTANCE
+gt_people with camera=0.0
+Objective: 330.6344351297018
+gt_people with camera=1.0
+----------------------------
+Caption: a man sitting on a chair with a dog
+Imageid: 200572, extracted triplets: ['man sit chair', 'chair with dog'], mapped triplets: ['man sit desk', 'woman sit bench', 'backpack sit chair', 'person sit chair', 'people sit chair', 'woman sit chair', 'man sit chair', 'bed with cat', 'bed with pillow']
+Objective: 330.6344351297018
+PRIOR DISTANCE
+gt_bed with cat=1.0
+gt_bed with pillow=1.0
+Objective: 330.5740417115131
+gt_bed with cat=1.0
+gt_bed with pillow=1.0
+----------------------------
+Caption: a man sitting at a table with two slices of pizza
+Imageid: 117061, extracted triplets: ['man at table', 'man with pizza'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'person at table', 'child at table', 'man at table', 'room with pizza', 'plate with pizza']
+Objective: 330.5740417115131
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_plate with pizza=0.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_plate with pizza=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+Objective: 330.6302742596133
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_plate with pizza=0.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_plate with pizza=1.0
+gt_boy at table=0.0
+gt_child at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+----------------------------
+Caption: a black cat sitting on the floor next to a laptop
+Imageid: 39589, extracted triplets: ['cat sit carpet', 'cat sit box'], mapped triplets: ['cat sit rug', 'cat sit box']
+Objective: 330.6302742596133
+PRIOR DISTANCE
+Objective: 330.6302742596133
+----------------------------
+Caption: two men playing a video game in a living room
+Imageid: 120792, extracted triplets: ['men in room'], mapped triplets: ['man in room', 'people in room', 'person in room']
+Objective: 330.6302742596133
+PRIOR DISTANCE
+gt_people in room=0.0
+gt_person in room=1.0
+gt_man in room=1.0
+gt_people in room=-0.0
+Objective: 330.6255583761333
+gt_people in room=0.0
+gt_person in room=1.0
+gt_man in room=1.0
+gt_people in room=-0.0
+----------------------------
+Caption: a woman sitting on a bed with a laptop
+Imageid: 3716, extracted triplets: ['woman with laptop'], mapped triplets: ['woman with laptop']
+Objective: 330.6255583761333
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+Objective: 330.62705519708476
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+----------------------------
+Caption: a desk with a laptop computer sitting on top of it
+Imageid: 261780, extracted triplets: ['desk with laptop computer', 'laptop computer sit book', 'laptop computer sit clock', 'laptop computer sit keyboard', 'laptop computer sit mouse', 'laptop computer sit plant', 'laptop computer sit shelf', 'laptop computer sit table'], mapped triplets: ['desk with computer', 'table with computer', 'computer sit book', 'book sit computer', 'computer sit book', 'keyboard sit computer', 'computer sit desk', 'laptop sit mouse', 'computer sit mouse', 'computer sit table', 'laptop sit shelf', 'computer sit shelf', 'laptop sit table', 'plant sit table', 'vase sit table', 'tv sit table', 'pizza sit table', 'mouse sit table', 'computer sit table', 'phone sit table', 'cup sit table', 'pot sit table', 'bowl sit table', 'glass sit table', 'box sit table', 'chair sit table', 'couch sit table']
+Objective: 330.62705519708476
+PRIOR DISTANCE
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+Objective: 330.657970568798
+gt_desk with computer=0.0
+gt_desk with computer=1.0
+----------------------------
+Caption: a plate with a sandwich and two cups of coffee on a table
+Imageid: 45775, extracted triplets: ['plate with bread'], mapped triplets: ['plate with vegetable', 'plate with apple', 'plate with sandwich', 'plate with bowl', 'plate with tomato', 'plate with glass', 'plate with fruit', 'plate with cake', 'plate with pizza', 'plate with food', 'plate with bread']
+Objective: 330.657970568798
+PRIOR DISTANCE
+gt_plate with sandwich=0.0
+gt_plate with food=0.0
+gt_plate with vegetable=1.0
+gt_plate with fruit=0.0
+gt_plate with glass=1.0
+gt_plate with pizza=0.0
+gt_plate with bread=0.0
+gt_plate with bowl=0.0
+gt_plate with apple=0.0
+gt_plate with vegetable=0.0
+gt_plate with bowl=1.0
+gt_plate with pizza=1.0
+gt_plate with bread=1.0
+gt_plate with glass=0.0
+gt_plate with apple=1.0
+gt_plate with tomato=1.0
+gt_plate with food=1.0
+gt_plate with fruit=-0.0
+gt_plate with sandwich=1.0
+gt_plate with cake=0.0
+Objective: 331.3347958484638
+gt_plate with sandwich=0.0
+gt_plate with food=0.0
+gt_plate with vegetable=1.0
+gt_plate with fruit=0.0
+gt_plate with glass=1.0
+gt_plate with pizza=0.0
+gt_plate with bread=0.0
+gt_plate with bowl=0.0
+gt_plate with apple=0.0
+gt_plate with vegetable=1.0
+gt_plate with bowl=1.0
+gt_plate with pizza=1.0
+gt_plate with bread=1.0
+gt_plate with glass=0.0
+gt_plate with apple=1.0
+gt_plate with tomato=0.0
+gt_plate with food=1.0
+gt_plate with fruit=-0.0
+gt_plate with sandwich=1.0
+gt_plate with cake=0.0
+----------------------------
+Caption: a group of people sitting at a table with candles
+Imageid: 560744, extracted triplets: ['people at table', 'people with candle'], mapped triplets: ['girl at table', 'boy at table', 'woman at table', 'man at table', 'person at table', 'child at table', 'people at table', 'cake with candle', 'people with people']
+Objective: 331.3347958484638
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_cake with candle=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_cake with candle=-0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_people with people=1.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+Objective: 331.294652880675
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_cake with candle=1.0
+gt_person at table=1.0
+gt_person at table=-0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_cake with candle=-0.0
+gt_people at table=1.0
+gt_child at table=0.0
+gt_people with people=1.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+gt_woman at table=1.0
+----------------------------

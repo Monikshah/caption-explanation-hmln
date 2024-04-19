@@ -1,0 +1,3216 @@
+Caption: a cat sitting on a chair next to a table
+Imageid: 26942, extracted triplets: ['cat sit chair', 'chair next to table'], mapped triplets: ['woman sit couch', 'dog sit rug', 'man sit chair', 'cat sit chair', 'chair next to desk', 'bed next to table', 'chair next to table']
+Objective: 223.02621884198473
+PRIOR DISTANCE
+gt_chair next to table=0.0
+gt_chair next to desk=0.0
+gt_dog sit rug=0.0
+gt_chair next to desk=0.0
+gt_chair next to desk=0.0
+gt_chair next to desk=0.0
+gt_chair next to desk=0.0
+gt_bed next to table=0.0
+gt_chair next to desk=1.0
+gt_bed next to table=-0.0
+gt_chair next to table=-0.0
+Objective: 223.40888963930385
+gt_chair next to table=0.0
+gt_chair next to desk=0.0
+gt_dog sit rug=0.0
+gt_chair next to desk=0.0
+gt_chair next to desk=0.0
+gt_chair next to desk=0.0
+gt_chair next to desk=0.0
+gt_bed next to table=0.0
+gt_chair next to desk=1.0
+gt_bed next to table=-0.0
+gt_chair next to table=-0.0
+----------------------------
+Caption: a woman petting a cat sitting on a window
+Imageid: 353136, extracted triplets: ['woman pet cat', 'cat sit window'], mapped triplets: ['woman pet cat', 'cat sit window']
+Objective: 223.40888963930385
+PRIOR DISTANCE
+gt_woman pet cat=1.0
+gt_woman pet cat=1.0
+gt_cat sit window=1.0
+gt_woman pet cat=1.0
+Objective: 223.38180424201144
+gt_woman pet cat=1.0
+gt_woman pet cat=1.0
+gt_cat sit window=1.0
+gt_woman pet cat=1.0
+----------------------------
+Caption: a cat sitting in front of a window
+Imageid: 31176, extracted triplets: ['cat sit window'], mapped triplets: ['cat sit window']
+Objective: 223.38180424201144
+PRIOR DISTANCE
+gt_cat sit window=1.0
+Objective: 223.44915763806011
+gt_cat sit window=0.0
+----------------------------
+Caption: a cat laying in a bathroom sink
+Imageid: 181859, extracted triplets: ['cat in bathroom'], mapped triplets: ['cat in bathroom', 'sink in bathroom', 'bathroom in bathroom']
+Objective: 223.44915763806011
+PRIOR DISTANCE
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_cat in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_cat in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_cat in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=1.0
+gt_cat in bathroom=0.0
+Objective: 223.55451362003512
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_cat in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_cat in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_bathroom in bathroom=0.0
+gt_cat in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_bathroom in bathroom=1.0
+gt_cat in bathroom=0.0
+----------------------------
+Caption: a cat sleeping on a bed under a blanket
+Imageid: 177262, extracted triplets: ['cat under blanket'], mapped triplets: []
+Objective: 223.55451362003512
+PRIOR DISTANCE
+Objective: 223.55451362003512
+----------------------------
+Caption: a man sitting on a couch with a cat and a laptop
+Imageid: 177015, extracted triplets: ['man sit on couch', 'man with cat'], mapped triplets: ['person sit couch', 'man sit room', 'man sit on couch', 'man with dog', 'person with cat', 'woman with cat', 'man with cat']
+Objective: 223.55451362003512
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_person with cat=1.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_woman sit on couch=1.0
+gt_woman with dog=1.0
+gt_man sit on couch=1.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_woman sit on couch=0.0
+gt_man with cat=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_person with cat=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_person with cat=1.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman sit on couch=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_man with dog=1.0
+gt_woman with dog=1.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman sit on couch=1.0
+gt_man sit on couch=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man sit on couch=1.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=0.0
+gt_man with dog=1.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_woman with cat=1.0
+gt_woman with cat=1.0
+gt_man sit on couch=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_man sit on couch=1.0
+gt_woman with dog=1.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman sit on couch=1.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=1.0
+gt_man with dog=0.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=-0.0
+gt_person with cat=-0.0
+gt_woman sit on couch=1.0
+gt_woman with cat=-0.0
+gt_woman with cat=-0.0
+Objective: 223.967493810783
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_person with cat=1.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_woman sit on couch=1.0
+gt_woman with dog=1.0
+gt_man sit on couch=1.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_woman sit on couch=0.0
+gt_man with cat=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_person with cat=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_person with cat=1.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman sit on couch=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_man with dog=1.0
+gt_woman with dog=1.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman sit on couch=1.0
+gt_man sit on couch=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man sit on couch=1.0
+gt_woman sit on couch=0.0
+gt_man sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=0.0
+gt_man with dog=1.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_woman with cat=1.0
+gt_woman with cat=1.0
+gt_man sit on couch=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_man sit on couch=1.0
+gt_woman with dog=1.0
+gt_man sit on couch=0.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman sit on couch=1.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman sit on couch=1.0
+gt_man with dog=0.0
+gt_woman sit on couch=0.0
+gt_man with dog=0.0
+gt_man sit on couch=-0.0
+gt_person with cat=-0.0
+gt_woman sit on couch=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+----------------------------
+Caption: a man sleeping in bed with two cats on it
+Imageid: 12085, extracted triplets: ['man in bed'], mapped triplets: ['person in bed', 'boy in bed', 'woman in bed', 'girl in bed', 'man in bed']
+Objective: 223.967493810783
+PRIOR DISTANCE
+gt_man in bed=0.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_man in bed=1.0
+gt_boy in bed=1.0
+gt_girl in bed=0.0
+gt_person in bed=1.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_man in bed=0.0
+gt_man in bed=0.0
+gt_girl in bed=1.0
+gt_man in bed=0.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+gt_man in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=-0.0
+gt_man in bed=1.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+Objective: 224.18174366114803
+gt_man in bed=0.0
+gt_girl in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_person in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=0.0
+gt_man in bed=1.0
+gt_boy in bed=1.0
+gt_girl in bed=0.0
+gt_person in bed=1.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_man in bed=0.0
+gt_man in bed=0.0
+gt_girl in bed=1.0
+gt_man in bed=0.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+gt_man in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_woman in bed=0.0
+gt_girl in bed=-0.0
+gt_man in bed=1.0
+gt_woman in bed=1.0
+gt_woman in bed=1.0
+----------------------------
+Caption: a black cat sitting next to a bathroom sink
+Imageid: 416668, extracted triplets: ['cat next to sink', 'cat next to faucet'], mapped triplets: ['toilet next to sink', 'cat next to sink', 'cat next to sink']
+Objective: 224.18174366114803
+PRIOR DISTANCE
+gt_toilet next to sink=1.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=1.0
+Objective: 224.17736453700974
+gt_toilet next to sink=1.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=0.0
+gt_toilet next to sink=1.0
+----------------------------
+Caption: a cat sitting in a basket next to a table
+Imageid: 300471, extracted triplets: ['cat sit basket'], mapped triplets: ['cat sit basket']
+Objective: 224.17736453700974
+PRIOR DISTANCE
+Objective: 224.17736453700974
+----------------------------
+Caption: a cat sitting on an office chair
+Imageid: 519764, extracted triplets: ['cat sit on chair'], mapped triplets: ['cat sit chair', 'cat sit on chair']
+Objective: 224.17736453700974
+PRIOR DISTANCE
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=1.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=1.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+Objective: 224.18104141004304
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=1.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=1.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+gt_cat sit on chair=0.0
+----------------------------
+Caption: a woman laying on a couch with a black cat
+Imageid: 436676, extracted triplets: ['woman with cat'], mapped triplets: ['person with cat', 'woman with cat']
+Objective: 224.18104141004304
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_person with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=1.0
+gt_person with cat=-0.0
+gt_woman with cat=0.0
+Objective: 223.91647087997865
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_person with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=1.0
+gt_person with cat=-0.0
+gt_woman with cat=0.0
+----------------------------
+Caption: a cat sitting on a bed next to a laptop
+Imageid: 290843, extracted triplets: ['cat sit bed', 'bed next to laptop'], mapped triplets: ['cat sit couch', 'bed sit bed', 'cat sit bed', 'couch next to laptop', 'desk next to laptop']
+Objective: 223.91647087997865
+PRIOR DISTANCE
+gt_couch next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_couch next to laptop=1.0
+gt_couch next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_couch next to laptop=-0.0
+gt_desk next to laptop=1.0
+Objective: 223.9203659366296
+gt_couch next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_couch next to laptop=1.0
+gt_couch next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_couch next to laptop=-0.0
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a black cat sitting next to a toy computer monitor
+Imageid: 295051, extracted triplets: ['cat next to computer toy monitor'], mapped triplets: ['cat next to screen', 'cat next to laptop', 'cat next to monitor', 'cat next to computer']
+Objective: 223.9203659366296
+PRIOR DISTANCE
+gt_cat next to screen=0.0
+gt_cat next to screen=0.0
+gt_cat next to screen=0.0
+gt_cat next to laptop=0.0
+gt_cat next to laptop=1.0
+gt_cat next to screen=0.0
+gt_cat next to laptop=-0.0
+gt_cat next to monitor=-0.0
+Objective: 223.96711054700012
+gt_cat next to screen=0.0
+gt_cat next to screen=0.0
+gt_cat next to screen=0.0
+gt_cat next to laptop=0.0
+gt_cat next to laptop=1.0
+gt_cat next to screen=0.0
+gt_cat next to laptop=-0.0
+gt_cat next to monitor=-0.0
+----------------------------
+Caption: a cat walking on a sidewalk with a flock of pigeons
+Imageid: 9041, extracted triplets: ['sidewalk with bird'], mapped triplets: []
+Objective: 223.96711054700012
+PRIOR DISTANCE
+Objective: 223.96711054700012
+----------------------------
+Caption: a living room with a dog sitting in a table
+Imageid: 526414, extracted triplets: ['dog sit table'], mapped triplets: ['man sit table', 'fruit sit table']
+Objective: 223.96711054700012
+PRIOR DISTANCE
+gt_man sit table=0.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=0.0
+gt_man sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=0.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=0.0
+gt_man sit table=1.0
+gt_man sit table=0.0
+gt_woman sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_man sit table=0.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+Objective: 223.96711054700012
+gt_man sit table=0.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=0.0
+gt_man sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=0.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=0.0
+gt_man sit table=1.0
+gt_man sit table=0.0
+gt_woman sit table=1.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_man sit table=0.0
+gt_man sit table=1.0
+gt_woman sit table=1.0
+gt_woman sit table=1.0
+----------------------------
+Caption: a cat sitting on top of a wooden bench
+Imageid: 559047, extracted triplets: ['cat sit post', 'cat sit house', 'cat sit tree', 'cat sit bench', 'cat sit roof'], mapped triplets: ['cat sit hat', 'cat sit shelf', 'cat sit rail', 'cat sit window', 'cat sit bench', 'cat sit umbrella', 'cat sit plant', 'cat sit suitcase', 'cat sit screen', 'cat sit box', 'cat sit curb', 'cat sit pot', 'cat sit sink', 'cat sit paper', 'cat sit wall', 'cat sit roof', 'cat sit rug', 'cat sit couch', 'cat sit boot', 'cat sit bathroom', 'cat sit grass', 'cat sit bowl', 'cat sit vase', 'cat sit chair', 'cat sit desk', 'cat sit car', 'cat sit blanket', 'cat sit floor', 'cat sit basket', 'cat sit book', 'cat sit cup', 'cat sit toilet', 'cat sit tail', 'cat sit sign', 'cat sit mouse', 'cat sit bed', 'cat sit plate', 'cat sit shoe', 'cat sit door', 'cat sit tree', 'cat sit lamp', 'cat sit bag', 'cat sit tv', 'cat sit towel', 'cat sit banana', 'cat sit counter', 'cat sit flower', 'cat sit table', 'cat sit stone', 'cat sit seat', 'cat sit cabinet', 'cat sit bottle', 'cat sit monitor', 'cat sit step', 'cat sit mirror', 'cat sit vegetable', 'cat sit tie', 'cat sit phone', 'cat sit glass', 'cat sit computer', 'cat sit bike', 'cat sit picture', 'cat sit pillow', 'cat sit head', 'cat sit couch', 'cat sit plant', 'cat sit tree', 'cat sit chair', 'cat sit couch', 'cat sit bench', 'cat sit roof']
+Objective: 223.96711054700012
+PRIOR DISTANCE
+gt_cat sit tv=0.0
+gt_cat sit sink=1.0
+gt_cat sit tv=0.0
+gt_cat sit seat=0.0
+gt_cat sit tv=0.0
+gt_cat sit pot=0.0
+gt_cat sit window=0.0
+gt_cat sit pot=0.0
+gt_cat sit seat=0.0
+gt_cat sit tv=0.0
+Objective: 224.38395176878544
+gt_cat sit tv=0.0
+gt_cat sit sink=1.0
+gt_cat sit tv=0.0
+gt_cat sit seat=0.0
+gt_cat sit tv=0.0
+gt_cat sit pot=0.0
+gt_cat sit window=1.0
+gt_cat sit pot=0.0
+gt_cat sit seat=0.0
+gt_cat sit tv=0.0
+----------------------------
+Caption: a cat eating an apple in front of a table
+Imageid: 127556, extracted triplets: ['cat eat apple'], mapped triplets: []
+Objective: 224.38395176878544
+PRIOR DISTANCE
+Objective: 224.38395176878544
+----------------------------
+Caption: a person holding a pizza on a pan
+Imageid: 9002, extracted triplets: ['person hold pizza'], mapped triplets: ['woman hold cat', 'man hold cat']
+Objective: 224.38395176878544
+PRIOR DISTANCE
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+Objective: 224.24221565694404
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+----------------------------
+Caption: a woman laying on a bike next to a cat in a car
+Imageid: 9801, extracted triplets: ['woman next to cat', 'cat in car'], mapped triplets: ['man next to woman', 'woman next to cat', 'cat in car']
+Objective: 224.24221565694404
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=1.0
+gt_cat in car=1.0
+Objective: 224.25469325155964
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=1.0
+gt_cat in car=1.0
+----------------------------
+Caption: a black and white photo of a cat walking
+Imageid: 201918, extracted triplets: ['photo of cat'], mapped triplets: ['photo of cat']
+Objective: 224.25469325155964
+PRIOR DISTANCE
+gt_photo of cat=1.0
+Objective: 224.6322992478684
+gt_photo of cat=1.0
+----------------------------
+Caption: a cat sitting on a desk next to a laptop computer
+Imageid: 55466, extracted triplets: ['cat sit book', 'cat sit table', 'cat sit laptop', 'cat sit desk', 'cat sit keyboard', 'cat sit monitor', 'desk next to laptop computer'], mapped triplets: ['cat sit book', 'cat sit couch', 'cat sit chair', 'cat sit table', 'cat sit computer', 'animal sit laptop', 'cat sit laptop', 'cat sit desk', 'keyboard sit desk', 'desk sit desk', 'cat sit keyboard', 'cat sit computer', 'animal sit laptop', 'cat sit monitor', 'desk next to monitor', 'table next to laptop']
+Objective: 224.6322992478684
+PRIOR DISTANCE
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to monitor=1.0
+gt_table next to laptop=0.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_desk next to monitor=1.0
+Objective: 224.6700489312745
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to monitor=1.0
+gt_table next to laptop=0.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_desk next to monitor=1.0
+----------------------------
+Caption: a black and white cat sitting on a desk next to a computer
+Imageid: 93948, extracted triplets: ['cat sit book', 'cat sit plate', 'cat sit computer', 'cat sit mouse', 'cat sit letter', 'cat sit table', 'cat sit laptop', 'cat sit paper', 'cat sit keyboard', 'cat sit desk', 'desk next to computer'], mapped triplets: ['cat sit book', 'cake sit plate', 'sandwich sit plate', 'cat sit plate', 'cat sit computer', 'cat sit bear', 'dog sit cat', 'cat sit mouse', 'cat sit paper', 'cat sit couch', 'cat sit chair', 'cat sit table', 'cat sit computer', 'animal sit laptop', 'cat sit laptop', 'cat sit paper', 'cat sit keyboard', 'cat sit desk', 'keyboard sit desk', 'desk sit desk', 'desk next to laptop', 'desk next to monitor']
+Objective: 224.6700489312745
+PRIOR DISTANCE
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+Objective: 224.70416960647646
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a cat laying next to a laptop computer
+Imageid: 197458, extracted triplets: ['cat next to laptop computer'], mapped triplets: ['cat next to laptop']
+Objective: 224.70416960647646
+PRIOR DISTANCE
+gt_cat next to laptop=0.0
+gt_cat next to laptop=1.0
+gt_cat next to laptop=-0.0
+Objective: 224.72870708172917
+gt_cat next to laptop=0.0
+gt_cat next to laptop=1.0
+gt_cat next to laptop=-0.0
+----------------------------
+Caption: a woman sitting on a motorcycle
+Imageid: 449879, extracted triplets: ['woman sit motorcycle'], mapped triplets: ['cat sit motorcycle', 'woman sit laptop']
+Objective: 224.72870708172917
+PRIOR DISTANCE
+Objective: 224.72870708172917
+----------------------------
+Caption: a person holding a cat laying on a couch
+Imageid: 581033, extracted triplets: ['person hold cat'], mapped triplets: ['woman hold cat', 'man hold cat']
+Objective: 224.72870708172917
+PRIOR DISTANCE
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+Objective: 225.0779834913349
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+----------------------------
+Caption: a cat sitting on top of a black table
+Imageid: 147425, extracted triplets: ['cat sit head', 'cat sit cat', 'cat sit wall'], mapped triplets: ['cat sit head', 'cat sit cat', 'cat sit counter', 'cat sit cabinet', 'cat sit shelf', 'cat sit wall']
+Objective: 225.0779834913349
+PRIOR DISTANCE
+Objective: 225.0779834913349
+----------------------------
+Caption: a woman laying on a bed with a cat
+Imageid: 75055, extracted triplets: ['woman with cat'], mapped triplets: ['person with cat', 'woman with cat']
+Objective: 225.0779834913349
+PRIOR DISTANCE
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_person with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=1.0
+gt_person with cat=-0.0
+gt_woman with cat=0.0
+Objective: 225.11276880074826
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_person with cat=0.0
+gt_person with cat=1.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=0.0
+gt_woman with cat=1.0
+gt_person with cat=-0.0
+gt_woman with cat=0.0
+----------------------------
+Caption: a bathroom with a toilet and a sink and a shower curtain
+Imageid: 347740, extracted triplets: ['bathroom with toilet'], mapped triplets: ['bathroom with toilet']
+Objective: 225.11276880074826
+PRIOR DISTANCE
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=-0.0
+Objective: 225.1269357163339
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with toilet=-0.0
+----------------------------
+Caption: a cat standing next to a car
+Imageid: 172330, extracted triplets: ['cat next to car'], mapped triplets: ['cat next to car']
+Objective: 225.1269357163339
+PRIOR DISTANCE
+gt_cat next to car=0.0
+gt_cat next to car=1.0
+Objective: 225.16829820839425
+gt_cat next to car=0.0
+gt_cat next to car=1.0
+----------------------------
+Caption: a black and white cat laying on a table with a banana
+Imageid: 66413, extracted triplets: ['cat with banana'], mapped triplets: ['cat with banana', 'carpet with banana']
+Objective: 225.16829820839425
+PRIOR DISTANCE
+gt_cat with banana=0.0
+gt_cat with banana=0.0
+gt_carpet with banana=0.0
+gt_cat with banana=0.0
+gt_carpet with banana=-0.0
+Objective: 223.15658931287783
+gt_cat with banana=0.0
+gt_cat with banana=0.0
+gt_carpet with banana=0.0
+gt_cat with banana=0.0
+gt_carpet with banana=-0.0
+----------------------------
+Caption: a cat laying on top of a laptop on a table
+Imageid: 43289, extracted triplets: ['cat on table'], mapped triplets: ['bear on table', 'cat on table']
+Objective: 223.15658931287783
+PRIOR DISTANCE
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_bear on table=0.0
+gt_cat on table=1.0
+gt_bear on table=0.0
+gt_cat on table=1.0
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_cat on table=1.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_cat on table=0.0
+gt_cat on table=1.0
+gt_bear on table=1.0
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_bear on table=-0.0
+Objective: 223.16522338847304
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_bear on table=0.0
+gt_cat on table=1.0
+gt_bear on table=0.0
+gt_cat on table=1.0
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_cat on table=1.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_cat on table=0.0
+gt_cat on table=1.0
+gt_bear on table=1.0
+gt_bear on table=0.0
+gt_cat on table=0.0
+gt_bear on table=0.0
+gt_bear on table=-0.0
+----------------------------
+Caption: a cat laying on a couch in a living room
+Imageid: 237772, extracted triplets: ['cat in room'], mapped triplets: ['animal in bed', 'dog in bed', 'cat in room']
+Objective: 223.16522338847304
+PRIOR DISTANCE
+gt_animal in bed=0.0
+gt_cat in room=1.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_dog in bed=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_animal in bed=1.0
+gt_dog in bed=1.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_dog in bed=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_animal in bed=-0.0
+gt_dog in bed=1.0
+gt_cat in room=1.0
+Objective: 223.29046449694192
+gt_animal in bed=0.0
+gt_cat in room=1.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_dog in bed=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_animal in bed=1.0
+gt_dog in bed=1.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_dog in bed=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_animal in bed=-0.0
+gt_dog in bed=1.0
+gt_cat in room=1.0
+----------------------------
+Caption: a cat wearing a tie laying on a bed
+Imageid: 406395, extracted triplets: ['cat wear tie', 'tie lay on bed'], mapped triplets: ['cat wear collar', 'cat wear tie', 'cat lay bed']
+Objective: 223.29046449694192
+PRIOR DISTANCE
+gt_cat wear collar=1.0
+gt_cat wear collar=1.0
+gt_cat wear collar=0.0
+gt_cat wear collar=0.0
+gt_cat wear collar=1.0
+gt_cat wear collar=1.0
+gt_cat wear tie=0.0
+gt_cat wear collar=-0.0
+Objective: 222.65012088695246
+gt_cat wear collar=1.0
+gt_cat wear collar=1.0
+gt_cat wear collar=0.0
+gt_cat wear collar=0.0
+gt_cat wear collar=1.0
+gt_cat wear collar=1.0
+gt_cat wear tie=1.0
+gt_cat wear collar=0.0
+----------------------------
+Caption: a cat sitting on an orange chair next to a cat
+Imageid: 222146, extracted triplets: ['cat next to cat'], mapped triplets: ['cat next to cat', 'dog next to dog', 'box next to box', 'bag next to bag', 'bed next to bed']
+Objective: 222.65012088695246
+PRIOR DISTANCE
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_dog next to dog=0.0
+gt_bed next to bed=0.0
+gt_dog next to dog=0.0
+gt_bag next to bag=1.0
+gt_bed next to bed=0.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_box next to box=0.0
+gt_dog next to dog=1.0
+gt_dog next to dog=0.0
+gt_cat next to cat=1.0
+gt_dog next to dog=1.0
+gt_box next to box=-0.0
+gt_bag next to bag=-0.0
+gt_bed next to bed=1.0
+Objective: 222.90739161040173
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_dog next to dog=0.0
+gt_bed next to bed=0.0
+gt_dog next to dog=0.0
+gt_bag next to bag=1.0
+gt_bed next to bed=0.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_box next to box=0.0
+gt_dog next to dog=1.0
+gt_dog next to dog=0.0
+gt_cat next to cat=1.0
+gt_dog next to dog=1.0
+gt_box next to box=-0.0
+gt_bag next to bag=-0.0
+gt_bed next to bed=1.0
+----------------------------
+Caption: a cat laying under a blanket on a bed
+Imageid: 284605, extracted triplets: ['cat under blanket'], mapped triplets: []
+Objective: 222.90739161040173
+PRIOR DISTANCE
+Objective: 222.90739161040173
+----------------------------
+Caption: a cat sitting on a couch with lights on
+Imageid: 126145, extracted triplets: ['cat sit couch', 'couch with light'], mapped triplets: ['cat sit couch', 'animal sit laptop', 'couch sit couch', 'room with lamp']
+Objective: 222.90739161040173
+PRIOR DISTANCE
+gt_room with lamp=1.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+Objective: 222.90739161040173
+gt_room with lamp=1.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+gt_room with lamp=0.0
+----------------------------
+Caption: a black and white cat sitting on top of a suitcase
+Imageid: 482994, extracted triplets: ['cat sit suitcase', 'cat sit carpet', 'cat sit wall', 'cat sit curtain'], mapped triplets: ['cat sit suitcase', 'cat sit rug', 'cat sit couch', 'cat sit counter', 'cat sit cabinet', 'cat sit shelf', 'cat sit wall', 'cat sit window', 'cat sit curtain']
+Objective: 222.90739161040173
+PRIOR DISTANCE
+gt_cat sit window=1.0
+Objective: 222.96546019145694
+gt_cat sit window=0.0
+----------------------------
+Caption: three pictures of a cat flying a bird flying
+Imageid: 227878, extracted triplets: ['cat fly bird'], mapped triplets: []
+Objective: 222.96546019145694
+PRIOR DISTANCE
+Objective: 222.96546019145694
+----------------------------
+Caption: a black cat standing next to a bottle of wine
+Imageid: 199940, extracted triplets: ['cat next to bottle', 'bottle of wine'], mapped triplets: ['cat next to vase', 'cat next to plate', 'cat next to bowl', 'cat next to glass', 'cat next to bottle', 'container of food']
+Objective: 222.96546019145694
+PRIOR DISTANCE
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=1.0
+gt_cat next to bottle=0.0
+gt_container of food=1.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=1.0
+gt_cat next to plate=1.0
+gt_container of food=1.0
+gt_cat next to bottle=-0.0
+gt_cat next to plate=1.0
+Objective: 222.87127129940467
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=1.0
+gt_cat next to bottle=0.0
+gt_container of food=1.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_container of food=1.0
+gt_cat next to plate=1.0
+gt_container of food=1.0
+gt_cat next to bottle=-0.0
+gt_cat next to plate=1.0
+----------------------------
+Caption: an orange and white cat laying on a bed next to a book
+Imageid: 190690, extracted triplets: ['cat next to book'], mapped triplets: ['cat next to book']
+Objective: 222.87127129940467
+PRIOR DISTANCE
+Objective: 222.87127129940467
+----------------------------
+Caption: a cat sitting on top of a bed
+Imageid: 491757, extracted triplets: ['cat sit lamp', 'cat sit pillow', 'cat sit shade'], mapped triplets: ['cat sit vase', 'cat sit lamp', 'cat sit pillow', 'cat sit umbrella']
+Objective: 222.87127129940467
+PRIOR DISTANCE
+Objective: 222.87127129940467
+----------------------------
+Caption: a cat looking out of a window at a dog
+Imageid: 22892, extracted triplets: ['window at dog'], mapped triplets: ['dog at cat', 'dog at window']
+Objective: 222.87127129940467
+PRIOR DISTANCE
+gt_dog at window=0.0
+Objective: 222.87127129940467
+gt_dog at window=0.0
+----------------------------
+Caption: a cat sitting on top of a wooden bench
+Imageid: 412807, extracted triplets: ['cat sit bench', 'cat sit cat', 'cat sit bag'], mapped triplets: ['cat sit chair', 'cat sit couch', 'cat sit bench', 'cat sit cat', 'cat sit bag']
+Objective: 222.87127129940467
+PRIOR DISTANCE
+Objective: 222.87127129940467
+----------------------------
+Caption: a black cat sitting on the floor next to a knife
+Imageid: 321014, extracted triplets: ['cat sit cat', 'cat sit knife', 'cat sit window', 'cat sit floor', 'cat sit room', 'cat next to knife'], mapped triplets: ['cat sit cat', 'cat sit window', 'dog sit floor', 'cat sit floor', 'cat sit room', 'cat next to animal']
+Objective: 222.87127129940467
+PRIOR DISTANCE
+gt_cat sit window=0.0
+gt_cat next to animal=-0.0
+Objective: 222.78588660074618
+gt_cat sit window=1.0
+gt_cat next to animal=-0.0
+----------------------------
+Caption: a dog sleeping on a chair in a room
+Imageid: 268052, extracted triplets: ['chair in room'], mapped triplets: ['couch in room', 'bag in room', 'tv in room', 'bed in room', 'window in room', 'desk in room', 'rug in room', 'blanket in room', 'book in room', 'woman in room', 'man in room', 'chair in room']
+Objective: 222.78588660074618
+PRIOR DISTANCE
+gt_desk in room=1.0
+gt_blanket in room=1.0
+gt_book in room=0.0
+gt_tv in room=1.0
+gt_rug in room=1.0
+gt_window in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_chair in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_chair in room=1.0
+gt_man in room=1.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_bed in room=0.0
+gt_rug in room=0.0
+gt_man in room=0.0
+gt_tv in room=1.0
+gt_desk in room=0.0
+gt_bed in room=1.0
+gt_blanket in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_book in room=0.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_man in room=1.0
+gt_chair in room=0.0
+gt_tv in room=0.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_desk in room=1.0
+gt_man in room=1.0
+gt_rug in room=0.0
+gt_tv in room=0.0
+gt_window in room=1.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_rug in room=1.0
+gt_book in room=0.0
+gt_window in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_bed in room=1.0
+gt_chair in room=1.0
+gt_tv in room=0.0
+gt_tv in room=1.0
+gt_bed in room=1.0
+gt_chair in room=0.0
+gt_window in room=1.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_tv in room=1.0
+gt_book in room=1.0
+gt_couch in room=0.0
+gt_desk in room=0.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_window in room=0.0
+gt_bed in room=0.0
+gt_tv in room=0.0
+gt_desk in room=0.0
+gt_book in room=0.0
+gt_rug in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_couch in room=1.0
+gt_tv in room=0.0
+gt_rug in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_desk in room=0.0
+gt_bed in room=0.0
+gt_chair in room=1.0
+gt_man in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_chair in room=1.0
+gt_desk in room=0.0
+gt_man in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bag in room=0.0
+gt_man in room=0.0
+gt_tv in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_blanket in room=0.0
+gt_rug in room=0.0
+gt_book in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_desk in room=1.0
+gt_man in room=0.0
+gt_bed in room=0.0
+gt_chair in room=1.0
+gt_window in room=0.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_tv in room=0.0
+gt_chair in room=1.0
+gt_book in room=0.0
+gt_rug in room=0.0
+gt_desk in room=1.0
+gt_bed in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_desk in room=0.0
+gt_window in room=0.0
+gt_bag in room=0.0
+gt_tv in room=1.0
+gt_book in room=0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_blanket in room=0.0
+gt_rug in room=0.0
+gt_chair in room=0.0
+gt_bed in room=0.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_window in room=1.0
+gt_bag in room=1.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_window in room=0.0
+gt_tv in room=0.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_book in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_tv in room=0.0
+gt_chair in room=1.0
+gt_bed in room=0.0
+gt_desk in room=0.0
+gt_window in room=0.0
+gt_rug in room=1.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_tv in room=1.0
+gt_desk in room=1.0
+gt_blanket in room=-0.0
+gt_couch in room=-0.0
+gt_book in room=1.0
+gt_window in room=1.0
+gt_man in room=1.0
+gt_bag in room=-0.0
+gt_bed in room=-0.0
+gt_chair in room=1.0
+Objective: 222.92788740247278
+gt_desk in room=1.0
+gt_blanket in room=1.0
+gt_book in room=0.0
+gt_tv in room=1.0
+gt_rug in room=1.0
+gt_window in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_chair in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_chair in room=1.0
+gt_man in room=1.0
+gt_desk in room=0.0
+gt_chair in room=0.0
+gt_bed in room=0.0
+gt_rug in room=0.0
+gt_man in room=0.0
+gt_tv in room=1.0
+gt_desk in room=0.0
+gt_bed in room=1.0
+gt_blanket in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_book in room=0.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_man in room=1.0
+gt_chair in room=0.0
+gt_tv in room=0.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_desk in room=1.0
+gt_man in room=1.0
+gt_rug in room=0.0
+gt_tv in room=0.0
+gt_window in room=1.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_rug in room=1.0
+gt_book in room=0.0
+gt_window in room=0.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_bed in room=1.0
+gt_chair in room=1.0
+gt_tv in room=0.0
+gt_tv in room=1.0
+gt_bed in room=1.0
+gt_chair in room=0.0
+gt_window in room=1.0
+gt_man in room=0.0
+gt_desk in room=0.0
+gt_tv in room=1.0
+gt_book in room=1.0
+gt_couch in room=0.0
+gt_desk in room=0.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_window in room=0.0
+gt_bed in room=0.0
+gt_tv in room=0.0
+gt_desk in room=0.0
+gt_book in room=0.0
+gt_rug in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_couch in room=1.0
+gt_tv in room=0.0
+gt_rug in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_desk in room=0.0
+gt_bed in room=0.0
+gt_chair in room=1.0
+gt_man in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_chair in room=0.0
+gt_chair in room=1.0
+gt_desk in room=0.0
+gt_man in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bag in room=0.0
+gt_man in room=0.0
+gt_tv in room=0.0
+gt_chair in room=0.0
+gt_couch in room=0.0
+gt_blanket in room=0.0
+gt_rug in room=0.0
+gt_book in room=1.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_desk in room=1.0
+gt_man in room=0.0
+gt_bed in room=0.0
+gt_chair in room=1.0
+gt_window in room=0.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_tv in room=0.0
+gt_chair in room=1.0
+gt_book in room=0.0
+gt_rug in room=0.0
+gt_desk in room=1.0
+gt_bed in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_desk in room=0.0
+gt_window in room=0.0
+gt_bag in room=0.0
+gt_tv in room=1.0
+gt_book in room=0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_blanket in room=0.0
+gt_rug in room=0.0
+gt_chair in room=0.0
+gt_bed in room=0.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_window in room=1.0
+gt_bag in room=1.0
+gt_man in room=0.0
+gt_man in room=0.0
+gt_window in room=0.0
+gt_tv in room=0.0
+gt_desk in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_chair in room=0.0
+gt_book in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_tv in room=0.0
+gt_chair in room=1.0
+gt_bed in room=0.0
+gt_desk in room=0.0
+gt_window in room=0.0
+gt_rug in room=1.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_tv in room=1.0
+gt_desk in room=0.0
+gt_blanket in room=0.0
+gt_couch in room=-0.0
+gt_book in room=1.0
+gt_window in room=1.0
+gt_man in room=0.0
+gt_bag in room=-0.0
+gt_bed in room=-0.0
+gt_chair in room=1.0
+----------------------------
+Caption: a black and white cat laying on a desk next to a laptop
+Imageid: 137412, extracted triplets: ['desk next to laptop'], mapped triplets: ['desk next to monitor', 'table next to laptop', 'desk next to laptop']
+Objective: 222.92788740247278
+PRIOR DISTANCE
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_table next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_table next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+Objective: 222.92890724989832
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_table next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_table next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a woman wearing sunglasses talking on a cell phone
+Imageid: 99874, extracted triplets: ['woman wear sunglass'], mapped triplets: ['woman wear glass']
+Objective: 222.92890724989832
+PRIOR DISTANCE
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=1.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+Objective: 222.9341101891868
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=1.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear glass=-0.0
+----------------------------
+Caption: a black cat sitting on a wooden chair
+Imageid: 499937, extracted triplets: ['cat sit on chair'], mapped triplets: ['cat sit chair']
+Objective: 222.9341101891868
+PRIOR DISTANCE
+Objective: 222.9341101891868
+----------------------------
+Caption: a black and white cat sitting on top of a refrigerator
+Imageid: 303706, extracted triplets: ['cat sit wall'], mapped triplets: ['cat sit counter', 'cat sit cabinet', 'cat sit shelf', 'cat sit wall']
+Objective: 222.9341101891868
+PRIOR DISTANCE
+Objective: 222.9341101891868
+----------------------------
+Caption: a dog laying on top of a bed with a person
+Imageid: 424432, extracted triplets: ['dog with hand', 'dog with head', 'dog with face'], mapped triplets: ['umbrella with paw', 'floor with paw', 'man with dog', 'dog with collar', 'couch with dog', 'grass with dog', 'woman with hand', 'cat with hand', 'dog with cat', 'bed with head', 'grass with dog', 'couch with dog', 'man with dog', 'grass with dog']
+Objective: 222.9341101891868
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with hand=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_bed with head=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_dog with collar=1.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_dog with collar=1.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_dog with collar=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_dog with collar=0.0
+gt_dog with collar=0.0
+gt_bed with head=0.0
+gt_man with dog=1.0
+gt_man with dog=1.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with hand=0.0
+gt_grass with dog=1.0
+gt_grass with dog=1.0
+gt_grass with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_bed with head=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_bed with head=1.0
+gt_man with dog=1.0
+gt_man with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with hand=1.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_dog with collar=0.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with hand=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_bed with head=1.0
+gt_dog with collar=1.0
+gt_umbrella with paw=-0.0
+gt_couch with dog=1.0
+gt_couch with dog=1.0
+gt_floor with paw=1.0
+Objective: 223.1162835365642
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with hand=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_bed with head=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_dog with collar=1.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_dog with collar=1.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_grass with dog=0.0
+gt_dog with collar=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_dog with collar=0.0
+gt_dog with collar=0.0
+gt_bed with head=0.0
+gt_man with dog=1.0
+gt_man with dog=1.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with hand=0.0
+gt_grass with dog=1.0
+gt_grass with dog=1.0
+gt_grass with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_bed with head=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_bed with head=1.0
+gt_man with dog=1.0
+gt_man with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with hand=1.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_dog with collar=0.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_couch with dog=0.0
+gt_couch with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with hand=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_bed with head=1.0
+gt_dog with collar=1.0
+gt_umbrella with paw=-0.0
+gt_couch with dog=1.0
+gt_couch with dog=1.0
+gt_floor with paw=1.0
+----------------------------
+Caption: a cat laying on the floor next to a bicycle
+Imageid: 458119, extracted triplets: ['cat next to bicycle'], mapped triplets: ['cat next to bike']
+Objective: 223.1162835365642
+PRIOR DISTANCE
+gt_cat next to bike=0.0
+gt_cat next to bike=0.0
+gt_cat next to bike=1.0
+Objective: 223.3089618473062
+gt_cat next to bike=0.0
+gt_cat next to bike=0.0
+gt_cat next to bike=1.0
+----------------------------
+Caption: a black and white cat sitting on a chair
+Imageid: 437126, extracted triplets: ['cat sit couch'], mapped triplets: ['cat sit couch', 'animal sit laptop', 'couch sit couch']
+Objective: 223.3089618473062
+PRIOR DISTANCE
+Objective: 223.3089618473062
+----------------------------
+Caption: a cat laying on a blue couch next to a pink teddy bear
+Imageid: 167602, extracted triplets: ['cat next to bear'], mapped triplets: ['cat next to animal', 'bear next to cat', 'cat next to bear']
+Objective: 223.3089618473062
+PRIOR DISTANCE
+gt_cat next to animal=-0.0
+Objective: 223.31697413825356
+gt_cat next to animal=-0.0
+----------------------------
+Caption: a cat sitting on the beach with a dead bird
+Imageid: 529626, extracted triplets: ['cat sit beach', 'cat with feather'], mapped triplets: ['cat sit bench', 'cat sit umbrella', 'cat sit plant', 'cat sit grass', 'cat with bird', 'cat with feather']
+Objective: 223.31697413825356
+PRIOR DISTANCE
+gt_cat with bird=0.0
+gt_cat with bird=0.0
+Objective: 223.22849560535496
+gt_cat with bird=0.0
+gt_cat with bird=0.0
+----------------------------
+Caption: a person holding a cat eating a donut with sprinkles
+Imageid: 418563, extracted triplets: ['cat eat donut'], mapped triplets: []
+Objective: 223.22849560535496
+PRIOR DISTANCE
+Objective: 223.22849560535496
+----------------------------
+Caption: a black cat sitting in front of a window
+Imageid: 398810, extracted triplets: ['cat sit door', 'cat sit wall', 'cat sit window'], mapped triplets: ['dog sit door', 'cat sit door', 'cat sit counter', 'cat sit cabinet', 'cat sit shelf', 'cat sit wall', 'cat sit window']
+Objective: 223.22849560535496
+PRIOR DISTANCE
+gt_cat sit window=1.0
+Objective: 223.22252484971352
+gt_cat sit window=1.0
+----------------------------
+Caption: a cat sitting on top of a refrigerator
+Imageid: 243344, extracted triplets: ['cat sit ceiling', 'cat sit wall'], mapped triplets: ['cat sit counter', 'cat sit counter', 'cat sit cabinet', 'cat sit shelf', 'cat sit wall']
+Objective: 223.22252484971352
+PRIOR DISTANCE
+Objective: 223.22252484971352
+----------------------------
+Caption: a cat sitting on top of a wooden bench
+Imageid: 546378, extracted triplets: ['cat sit table', 'cat sit book', 'cat sit head', 'cat sit letter', 'cat sit wall', 'cat sit chair', 'cat sit bench'], mapped triplets: ['cat sit couch', 'cat sit chair', 'cat sit table', 'cat sit book', 'cat sit head', 'cat sit paper', 'cat sit counter', 'cat sit cabinet', 'cat sit shelf', 'cat sit wall', 'woman sit couch', 'dog sit rug', 'man sit chair', 'cat sit chair', 'cat sit chair', 'cat sit couch', 'cat sit bench']
+Objective: 223.22252484971352
+PRIOR DISTANCE
+gt_dog sit rug=0.0
+Objective: 223.22252484971352
+gt_dog sit rug=0.0
+----------------------------
+Caption: a black and white cat sitting in a window
+Imageid: 182683, extracted triplets: ['cat sit window'], mapped triplets: ['cat sit window']
+Objective: 223.22252484971352
+PRIOR DISTANCE
+gt_cat sit window=1.0
+Objective: 223.23333133396102
+gt_cat sit window=1.0
+----------------------------
+Caption: a cat laying next to a laptop computer
+Imageid: 78420, extracted triplets: ['cat next to laptop computer'], mapped triplets: ['cat next to laptop']
+Objective: 223.23333133396102
+PRIOR DISTANCE
+gt_cat next to laptop=0.0
+gt_cat next to laptop=1.0
+gt_cat next to laptop=-0.0
+Objective: 223.0971411817962
+gt_cat next to laptop=0.0
+gt_cat next to laptop=1.0
+gt_cat next to laptop=-0.0
+----------------------------
+Caption: a black cat sitting under an umbrella on the floor
+Imageid: 424220, extracted triplets: ['cat under umbrella', 'umbrella on floor'], mapped triplets: ['cat under umbrella', 'couch on floor', 'mirror on floor', 'dog on floor', 'boy on floor', 'bag on floor', 'cat on floor', 'suitcase on floor', 'laptop on floor', 'bowl on floor', 'woman on floor', 'mouse on floor', 'shoe on floor', 'rug on floor']
+Objective: 223.0971411817962
+PRIOR DISTANCE
+gt_dog on floor=0.0
+gt_suitcase on floor=0.0
+gt_shoe on floor=1.0
+gt_rug on floor=0.0
+gt_laptop on floor=0.0
+gt_dog on floor=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_mouse on floor=0.0
+gt_cat on floor=0.0
+gt_cat on floor=1.0
+gt_bag on floor=1.0
+gt_cat on floor=0.0
+gt_cat under umbrella=0.0
+gt_suitcase on floor=0.0
+gt_couch on floor=0.0
+gt_dog on floor=0.0
+gt_couch on floor=1.0
+gt_suitcase on floor=0.0
+gt_bag on floor=0.0
+gt_cat under umbrella=0.0
+gt_laptop on floor=1.0
+gt_dog on floor=0.0
+gt_shoe on floor=0.0
+gt_boy on floor=0.0
+gt_mirror on floor=0.0
+gt_mirror on floor=1.0
+gt_dog on floor=0.0
+gt_cat on floor=0.0
+gt_laptop on floor=0.0
+gt_cat on floor=0.0
+gt_rug on floor=1.0
+gt_mirror on floor=1.0
+gt_cat under umbrella=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_rug on floor=0.0
+gt_dog on floor=0.0
+gt_rug on floor=1.0
+gt_rug on floor=1.0
+gt_dog on floor=0.0
+gt_cat on floor=1.0
+gt_dog on floor=0.0
+gt_suitcase on floor=0.0
+gt_bag on floor=0.0
+gt_laptop on floor=1.0
+gt_dog on floor=1.0
+gt_dog on floor=0.0
+gt_laptop on floor=0.0
+gt_laptop on floor=0.0
+gt_mirror on floor=0.0
+gt_suitcase on floor=0.0
+gt_laptop on floor=1.0
+gt_dog on floor=1.0
+gt_rug on floor=0.0
+gt_cat on floor=0.0
+gt_laptop on floor=0.0
+gt_mirror on floor=0.0
+gt_bag on floor=1.0
+gt_shoe on floor=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_laptop on floor=0.0
+gt_dog on floor=0.0
+gt_rug on floor=0.0
+gt_cat on floor=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_bag on floor=0.0
+gt_laptop on floor=0.0
+gt_cat on floor=0.0
+gt_dog on floor=0.0
+gt_dog on floor=0.0
+gt_dog on floor=1.0
+gt_shoe on floor=1.0
+gt_cat under umbrella=-0.0
+gt_couch on floor=-0.0
+gt_mouse on floor=-0.0
+gt_rug on floor=1.0
+gt_dog on floor=1.0
+gt_mirror on floor=0.0
+gt_bowl on floor=1.0
+gt_bag on floor=1.0
+gt_suitcase on floor=0.0
+gt_cat on floor=0.0
+gt_laptop on floor=0.0
+Objective: 224.50718340974493
+gt_dog on floor=0.0
+gt_suitcase on floor=0.0
+gt_shoe on floor=1.0
+gt_rug on floor=0.0
+gt_laptop on floor=0.0
+gt_dog on floor=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_mouse on floor=0.0
+gt_cat on floor=0.0
+gt_cat on floor=1.0
+gt_bag on floor=1.0
+gt_cat on floor=0.0
+gt_cat under umbrella=0.0
+gt_suitcase on floor=0.0
+gt_couch on floor=0.0
+gt_dog on floor=0.0
+gt_couch on floor=1.0
+gt_suitcase on floor=0.0
+gt_bag on floor=0.0
+gt_cat under umbrella=0.0
+gt_laptop on floor=1.0
+gt_dog on floor=0.0
+gt_shoe on floor=0.0
+gt_boy on floor=0.0
+gt_mirror on floor=0.0
+gt_mirror on floor=1.0
+gt_dog on floor=0.0
+gt_cat on floor=0.0
+gt_laptop on floor=0.0
+gt_cat on floor=0.0
+gt_rug on floor=1.0
+gt_mirror on floor=1.0
+gt_cat under umbrella=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_rug on floor=0.0
+gt_dog on floor=0.0
+gt_rug on floor=1.0
+gt_rug on floor=1.0
+gt_dog on floor=0.0
+gt_cat on floor=1.0
+gt_dog on floor=0.0
+gt_suitcase on floor=0.0
+gt_bag on floor=0.0
+gt_laptop on floor=1.0
+gt_dog on floor=1.0
+gt_dog on floor=0.0
+gt_laptop on floor=0.0
+gt_laptop on floor=0.0
+gt_mirror on floor=0.0
+gt_suitcase on floor=0.0
+gt_laptop on floor=1.0
+gt_dog on floor=1.0
+gt_rug on floor=0.0
+gt_cat on floor=0.0
+gt_laptop on floor=0.0
+gt_mirror on floor=0.0
+gt_bag on floor=1.0
+gt_shoe on floor=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_laptop on floor=0.0
+gt_dog on floor=0.0
+gt_rug on floor=0.0
+gt_cat on floor=0.0
+gt_cat on floor=0.0
+gt_suitcase on floor=0.0
+gt_bag on floor=0.0
+gt_laptop on floor=0.0
+gt_cat on floor=0.0
+gt_dog on floor=0.0
+gt_dog on floor=0.0
+gt_dog on floor=1.0
+gt_shoe on floor=1.0
+gt_cat under umbrella=0.0
+gt_couch on floor=-0.0
+gt_mouse on floor=-0.0
+gt_rug on floor=1.0
+gt_dog on floor=1.0
+gt_mirror on floor=0.0
+gt_bowl on floor=1.0
+gt_bag on floor=1.0
+gt_suitcase on floor=0.0
+gt_cat on floor=0.0
+gt_laptop on floor=0.0
+----------------------------
+Caption: a cat laying in a suitcase on a bed
+Imageid: 30607, extracted triplets: ['cat on bed'], mapped triplets: ['blanket on bed', 'pillow on bed', 'bed on bed', 'dog on bed', 'cat on bed']
+Objective: 224.50718340974493
+PRIOR DISTANCE
+gt_pillow on bed=0.0
+gt_blanket on bed=0.0
+gt_cat on bed=1.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_dog on bed=0.0
+gt_bed on bed=1.0
+gt_cat on bed=1.0
+gt_pillow on bed=0.0
+gt_bed on bed=0.0
+gt_dog on bed=0.0
+gt_blanket on bed=1.0
+gt_cat on bed=1.0
+gt_pillow on bed=1.0
+gt_bed on bed=1.0
+gt_dog on bed=0.0
+gt_cat on bed=0.0
+gt_pillow on bed=1.0
+gt_blanket on bed=0.0
+gt_bed on bed=0.0
+gt_bed on bed=0.0
+gt_dog on bed=0.0
+gt_cat on bed=0.0
+gt_cat on bed=0.0
+gt_dog on bed=0.0
+gt_pillow on bed=1.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_bed on bed=1.0
+gt_bed on bed=1.0
+gt_bed on bed=1.0
+gt_dog on bed=1.0
+gt_bed on bed=0.0
+gt_cat on bed=0.0
+gt_pillow on bed=0.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_bed on bed=1.0
+gt_dog on bed=0.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_cat on bed=1.0
+gt_blanket on bed=0.0
+gt_dog on bed=1.0
+gt_pillow on bed=-0.0
+gt_bed on bed=-0.0
+Objective: 224.04587351082046
+gt_pillow on bed=0.0
+gt_blanket on bed=0.0
+gt_cat on bed=1.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_dog on bed=0.0
+gt_bed on bed=1.0
+gt_cat on bed=1.0
+gt_pillow on bed=0.0
+gt_bed on bed=0.0
+gt_dog on bed=0.0
+gt_blanket on bed=1.0
+gt_cat on bed=1.0
+gt_pillow on bed=1.0
+gt_bed on bed=1.0
+gt_dog on bed=0.0
+gt_cat on bed=0.0
+gt_pillow on bed=1.0
+gt_blanket on bed=0.0
+gt_bed on bed=0.0
+gt_bed on bed=0.0
+gt_dog on bed=0.0
+gt_cat on bed=0.0
+gt_cat on bed=0.0
+gt_dog on bed=0.0
+gt_pillow on bed=1.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_bed on bed=1.0
+gt_bed on bed=1.0
+gt_bed on bed=1.0
+gt_dog on bed=1.0
+gt_bed on bed=0.0
+gt_cat on bed=0.0
+gt_pillow on bed=0.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_bed on bed=1.0
+gt_dog on bed=0.0
+gt_bed on bed=0.0
+gt_pillow on bed=0.0
+gt_cat on bed=1.0
+gt_blanket on bed=0.0
+gt_dog on bed=1.0
+gt_pillow on bed=-0.0
+gt_bed on bed=-0.0
+----------------------------
+Caption: a black cat sitting in a bowl
+Imageid: 146767, extracted triplets: ['cat sit bowl'], mapped triplets: ['cat sit bowl']
+Objective: 224.04587351082046
+PRIOR DISTANCE
+Objective: 224.04587351082046
+----------------------------
+Caption: a cat looking at a bird next to a bike tire
+Imageid: 573881, extracted triplets: ['cat at bird', 'bird next to bike tire'], mapped triplets: ['cat at bird', 'bird next to cat', 'bike next to wheel']
+Objective: 224.04587351082046
+PRIOR DISTANCE
+gt_bird next to cat=0.0
+gt_bird next to cat=1.0
+Objective: 224.04806396051524
+gt_bird next to cat=0.0
+gt_bird next to cat=1.0
+----------------------------
+Caption: a cat sitting on a table next to a glass of wine
+Imageid: 237764, extracted triplets: ['cat sit table', 'cat next to glass', 'glass of wine'], mapped triplets: ['cat sit couch', 'cat sit chair', 'cat sit table', 'cat next to animal', 'bottle next to glass', 'cat next to glass', 'table of cup']
+Objective: 224.04806396051524
+PRIOR DISTANCE
+gt_bottle next to glass=0.0
+gt_table of cup=1.0
+gt_bottle next to glass=0.0
+gt_bottle next to glass=0.0
+gt_bottle next to glass=0.0
+gt_bottle next to glass=0.0
+gt_table of cup=1.0
+gt_table of cup=1.0
+gt_bottle next to glass=1.0
+gt_table of cup=1.0
+gt_table of cup=1.0
+gt_table of cup=0.0
+gt_cat next to animal=-0.0
+Objective: 224.16087338067663
+gt_bottle next to glass=0.0
+gt_table of cup=1.0
+gt_bottle next to glass=0.0
+gt_bottle next to glass=0.0
+gt_bottle next to glass=0.0
+gt_bottle next to glass=0.0
+gt_table of cup=1.0
+gt_table of cup=1.0
+gt_bottle next to glass=1.0
+gt_table of cup=1.0
+gt_table of cup=1.0
+gt_table of cup=0.0
+gt_cat next to animal=-0.0
+----------------------------
+Caption: a cat sitting on a desk next to a laptop computer
+Imageid: 237399, extracted triplets: ['cat sit paper', 'cat sit computer', 'cat sit desk', 'cat sit laptop', 'cat sit keyboard', 'desk next to laptop computer'], mapped triplets: ['cat sit paper', 'cat sit computer', 'cat sit desk', 'keyboard sit desk', 'desk sit desk', 'cat sit computer', 'animal sit laptop', 'cat sit laptop', 'cat sit keyboard', 'desk next to monitor', 'table next to laptop']
+Objective: 224.16087338067663
+PRIOR DISTANCE
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to monitor=1.0
+gt_table next to laptop=0.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_desk next to monitor=1.0
+Objective: 224.1105088253109
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to monitor=1.0
+gt_table next to laptop=0.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_desk next to monitor=1.0
+----------------------------
+Caption: a cat sitting on a window sill next to a vase
+Imageid: 194120, extracted triplets: ['cat sit window', 'cat next to vase'], mapped triplets: ['cat sit window', 'cat next to plate', 'cat next to bowl', 'cat next to vase']
+Objective: 224.1105088253109
+PRIOR DISTANCE
+gt_cat next to plate=1.0
+gt_cat sit window=1.0
+gt_cat next to plate=1.0
+Objective: 223.9421443266993
+gt_cat next to plate=1.0
+gt_cat sit window=1.0
+gt_cat next to plate=1.0
+----------------------------
+Caption: a black and white cat sitting on a couch next to a laptop
+Imageid: 453400, extracted triplets: ['cat sit couch', 'couch next to laptop'], mapped triplets: ['cat sit couch', 'animal sit laptop', 'couch sit couch', 'couch next to laptop', 'desk next to laptop', 'table next to laptop', 'book next to laptop']
+Objective: 223.9421443266993
+PRIOR DISTANCE
+gt_table next to laptop=1.0
+gt_couch next to laptop=1.0
+gt_book next to laptop=0.0
+gt_book next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_table next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_book next to laptop=1.0
+gt_table next to laptop=1.0
+gt_couch next to laptop=1.0
+gt_couch next to laptop=0.0
+gt_book next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_couch next to laptop=-0.0
+gt_desk next to laptop=1.0
+gt_book next to laptop=1.0
+Objective: 223.8562892883987
+gt_table next to laptop=1.0
+gt_couch next to laptop=1.0
+gt_book next to laptop=0.0
+gt_book next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_table next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_book next to laptop=1.0
+gt_table next to laptop=1.0
+gt_couch next to laptop=1.0
+gt_couch next to laptop=0.0
+gt_book next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+gt_table next to laptop=1.0
+gt_table next to laptop=-0.0
+gt_couch next to laptop=-0.0
+gt_desk next to laptop=1.0
+gt_book next to laptop=1.0
+----------------------------
+Caption: a black and white cat sitting next to a black plate
+Imageid: 440067, extracted triplets: ['cat next to plate'], mapped triplets: ['table next to bowl', 'cat next to plate']
+Objective: 223.8562892883987
+PRIOR DISTANCE
+gt_table next to bowl=0.0
+gt_table next to bowl=0.0
+gt_table next to bowl=1.0
+gt_table next to bowl=1.0
+gt_cat next to plate=1.0
+gt_cat next to plate=1.0
+gt_table next to bowl=1.0
+Objective: 224.06639797872242
+gt_table next to bowl=0.0
+gt_table next to bowl=0.0
+gt_table next to bowl=1.0
+gt_table next to bowl=1.0
+gt_cat next to plate=1.0
+gt_cat next to plate=1.0
+gt_table next to bowl=1.0
+----------------------------
+Caption: a cat sitting on a bed next to a piece of cake
+Imageid: 254838, extracted triplets: ['cat sit bed', 'bed next to plate'], mapped triplets: ['cat sit couch', 'bed sit bed', 'cat sit bed', 'bed next to pillow', 'table next to bowl']
+Objective: 224.06639797872242
+PRIOR DISTANCE
+gt_bed next to pillow=0.0
+gt_table next to bowl=0.0
+gt_bed next to pillow=0.0
+gt_bed next to pillow=1.0
+gt_bed next to pillow=1.0
+gt_bed next to pillow=0.0
+gt_bed next to pillow=1.0
+gt_table next to bowl=0.0
+gt_table next to bowl=1.0
+gt_table next to bowl=1.0
+gt_bed next to pillow=0.0
+gt_bed next to pillow=-0.0
+gt_table next to bowl=1.0
+Objective: 224.08910903333148
+gt_bed next to pillow=0.0
+gt_table next to bowl=0.0
+gt_bed next to pillow=0.0
+gt_bed next to pillow=1.0
+gt_bed next to pillow=1.0
+gt_bed next to pillow=0.0
+gt_bed next to pillow=1.0
+gt_table next to bowl=0.0
+gt_table next to bowl=1.0
+gt_table next to bowl=1.0
+gt_bed next to pillow=0.0
+gt_bed next to pillow=-0.0
+gt_table next to bowl=1.0
+----------------------------
+Caption: a young boy sitting on a couch next to a cat
+Imageid: 84362, extracted triplets: ['boy sit couch', 'couch next to cat'], mapped triplets: ['man sit couch', 'person sit couch', 'boy sit couch', 'bed next to cat', 'couch next to cat']
+Objective: 224.08910903333148
+PRIOR DISTANCE
+gt_couch next to cat=1.0
+gt_bed next to cat=0.0
+gt_bed next to cat=1.0
+gt_couch next to cat=0.0
+gt_bed next to cat=-0.0
+gt_couch next to cat=1.0
+Objective: 224.11445424077272
+gt_couch next to cat=1.0
+gt_bed next to cat=0.0
+gt_bed next to cat=1.0
+gt_couch next to cat=0.0
+gt_bed next to cat=-0.0
+gt_couch next to cat=1.0
+----------------------------
+Caption: a black and white cat sitting next to bottles of wine
+Imageid: 37729, extracted triplets: ['cat next to bottle'], mapped triplets: ['cat next to vase', 'cat next to plate', 'cat next to bowl', 'cat next to glass', 'cat next to bottle']
+Objective: 224.11445424077272
+PRIOR DISTANCE
+gt_cat next to bottle=0.0
+gt_cat next to plate=1.0
+gt_cat next to bottle=-0.0
+gt_cat next to plate=1.0
+Objective: 223.97918319201068
+gt_cat next to bottle=0.0
+gt_cat next to plate=1.0
+gt_cat next to bottle=-0.0
+gt_cat next to plate=1.0
+----------------------------
+Caption: a cat sitting on top of a toilet in a bathroom
+Imageid: 465591, extracted triplets: ['cat sit mirror', 'cat sit cabinet', 'cat sit rack', 'toilet in bathroom'], mapped triplets: ['cat sit mirror', 'cat sit shelf', 'cat sit cabinet', 'cat sit couch', 'dog sit rug', 'sink in bathroom', 'towel in bathroom', 'toilet in bathroom']
+Objective: 223.97918319201068
+PRIOR DISTANCE
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_towel in bathroom=1.0
+gt_toilet in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=0.0
+gt_dog sit rug=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_towel in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_towel in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_toilet in bathroom=0.0
+Objective: 223.98066127237885
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_towel in bathroom=1.0
+gt_toilet in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=0.0
+gt_dog sit rug=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_towel in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=1.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+gt_sink in bathroom=1.0
+gt_towel in bathroom=1.0
+gt_sink in bathroom=0.0
+gt_toilet in bathroom=1.0
+----------------------------
+Caption: a cat and a dog sitting on the floor in a room
+Imageid: 189806, extracted triplets: ['dog in room'], mapped triplets: ['animal in bed', 'dog in bed']
+Objective: 223.98066127237885
+PRIOR DISTANCE
+gt_animal in bed=0.0
+gt_dog in bed=0.0
+gt_animal in bed=1.0
+gt_dog in bed=1.0
+gt_dog in bed=0.0
+gt_animal in bed=-0.0
+gt_dog in bed=1.0
+Objective: 223.96096985541573
+gt_animal in bed=0.0
+gt_dog in bed=0.0
+gt_animal in bed=1.0
+gt_dog in bed=1.0
+gt_dog in bed=0.0
+gt_animal in bed=-0.0
+gt_dog in bed=1.0
+----------------------------
+Caption: a black and white cat sitting next to a pair of shoes
+Imageid: 235274, extracted triplets: ['cat next to shoe', 'cat next to cat'], mapped triplets: ['cat next to boot', 'cat next to shoe', 'cat next to cat', 'dog next to dog', 'box next to box', 'bag next to bag', 'bed next to bed']
+Objective: 223.96096985541573
+PRIOR DISTANCE
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_dog next to dog=0.0
+gt_bed next to bed=0.0
+gt_dog next to dog=0.0
+gt_bag next to bag=1.0
+gt_bed next to bed=0.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_box next to box=0.0
+gt_dog next to dog=1.0
+gt_dog next to dog=0.0
+gt_cat next to cat=1.0
+gt_dog next to dog=1.0
+gt_box next to box=-0.0
+gt_bag next to bag=-0.0
+gt_bed next to bed=1.0
+Objective: 224.0689413777646
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_box next to box=0.0
+gt_dog next to dog=0.0
+gt_dog next to dog=0.0
+gt_bed next to bed=0.0
+gt_dog next to dog=0.0
+gt_bag next to bag=1.0
+gt_bed next to bed=0.0
+gt_bag next to bag=1.0
+gt_bag next to bag=1.0
+gt_box next to box=0.0
+gt_dog next to dog=1.0
+gt_dog next to dog=0.0
+gt_cat next to cat=1.0
+gt_dog next to dog=1.0
+gt_box next to box=-0.0
+gt_bag next to bag=-0.0
+gt_bed next to bed=1.0
+----------------------------
+Caption: a cat standing next to a box of pizza
+Imageid: 535602, extracted triplets: ['cat next to box', 'box of pizza'], mapped triplets: ['cat next to box', 'container of food', 'bowl of food']
+Objective: 224.0689413777646
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_cat next to box=1.0
+gt_container of food=0.0
+gt_bowl of food=1.0
+gt_container of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_container of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_cat next to box=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_container of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_container of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_cat next to box=-0.0
+Objective: 224.22321044987763
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_cat next to box=1.0
+gt_container of food=0.0
+gt_bowl of food=1.0
+gt_container of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_container of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_cat next to box=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_container of food=0.0
+gt_container of food=0.0
+gt_bowl of food=0.0
+gt_bowl of food=1.0
+gt_container of food=1.0
+gt_bowl of food=1.0
+gt_bowl of food=0.0
+gt_container of food=1.0
+gt_bowl of food=0.0
+gt_bowl of food=0.0
+gt_cat next to box=-0.0
+----------------------------
+Caption: a black cat sitting on a shelf filled with books
+Imageid: 214184, extracted triplets: ['cat sit shelf', 'shelf with book'], mapped triplets: ['cat sit cabinet', 'cat sit shelf', 'desk with computer', 'desk with keyboard', 'desk with laptop', 'desk with monitor', 'desk with paper', 'shelf with book']
+Objective: 224.22321044987763
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with paper=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_shelf with book=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=1.0
+gt_desk with keyboard=0.0
+gt_desk with paper=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_shelf with book=0.0
+gt_desk with paper=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=0.0
+gt_shelf with book=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with paper=0.0
+gt_shelf with book=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_shelf with book=0.0
+gt_desk with paper=0.0
+gt_desk with keyboard=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=1.0
+gt_desk with paper=0.0
+gt_desk with keyboard=0.0
+gt_desk with paper=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with paper=0.0
+gt_desk with monitor=0.0
+gt_shelf with book=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with paper=0.0
+gt_shelf with book=1.0
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with paper=1.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_shelf with book=1.0
+gt_desk with paper=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=0.0
+gt_desk with paper=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_shelf with book=0.0
+gt_desk with paper=0.0
+gt_desk with laptop=0.0
+gt_desk with paper=0.0
+gt_desk with paper=1.0
+gt_desk with monitor=-0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=-0.0
+gt_desk with laptop=0.0
+Objective: 224.10290410319809
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with paper=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_shelf with book=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=1.0
+gt_desk with keyboard=0.0
+gt_desk with paper=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_shelf with book=0.0
+gt_desk with paper=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=0.0
+gt_shelf with book=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with paper=0.0
+gt_shelf with book=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_shelf with book=0.0
+gt_desk with paper=0.0
+gt_desk with keyboard=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=1.0
+gt_desk with paper=0.0
+gt_desk with keyboard=0.0
+gt_desk with paper=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_desk with paper=0.0
+gt_desk with monitor=0.0
+gt_shelf with book=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with paper=0.0
+gt_shelf with book=1.0
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with paper=1.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_shelf with book=1.0
+gt_desk with paper=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_shelf with book=0.0
+gt_desk with paper=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_shelf with book=0.0
+gt_desk with paper=0.0
+gt_desk with laptop=0.0
+gt_desk with paper=0.0
+gt_desk with paper=1.0
+gt_desk with monitor=-0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=-0.0
+gt_desk with laptop=0.0
+----------------------------
+Caption: a black and white cat sitting in a red suitcase
+Imageid: 97156, extracted triplets: ['cat sit suitcase'], mapped triplets: ['cat sit suitcase']
+Objective: 224.10290410319809
+PRIOR DISTANCE
+Objective: 224.10290410319809
+----------------------------
+Caption: a cat sitting on the hood of a car
+Imageid: 327177, extracted triplets: ['cat sit on windshield'], mapped triplets: ['cat sit window']
+Objective: 224.10290410319809
+PRIOR DISTANCE
+gt_cat sit window=1.0
+Objective: 224.1031470924722
+gt_cat sit window=1.0
+----------------------------
+Caption: a black and white cat sitting on a desk
+Imageid: 94651, extracted triplets: ['cat sit desk'], mapped triplets: ['cat sit desk', 'keyboard sit desk', 'desk sit desk']
+Objective: 224.1031470924722
+PRIOR DISTANCE
+Objective: 224.1031470924722
+----------------------------
+Caption: a man holding a cat and a backpack
+Imageid: 570107, extracted triplets: ['man hold cat'], mapped triplets: ['woman hold cat', 'man hold cat']
+Objective: 224.1031470924722
+PRIOR DISTANCE
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+Objective: 223.82937247481985
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+gt_woman hold cat=1.0
+----------------------------
+Caption: a black cat sitting on top of a red suitcase
+Imageid: 66271, extracted triplets: ['cat sit suitcase'], mapped triplets: ['cat sit suitcase']
+Objective: 223.82937247481985
+PRIOR DISTANCE
+Objective: 223.82937247481985
+----------------------------
+Caption: a black cat sitting on top of a laptop computer
+Imageid: 566644, extracted triplets: ['cat sit cup', 'cat sit apple', 'cat sit bottle', 'cat sit basket', 'cat sit head', 'cat sit table', 'cat sit laptop', 'cat sit screen'], mapped triplets: ['cat sit cup', 'cat sit cake', 'fruit sit cat', 'cat sit bottle', 'cat sit basket', 'cat sit head', 'cat sit couch', 'cat sit chair', 'cat sit table', 'cat sit computer', 'animal sit laptop', 'cat sit laptop', 'cat sit screen']
+Objective: 223.82937247481985
+PRIOR DISTANCE
+Objective: 223.82937247481985
+----------------------------
+Caption: a cat standing on the hood of a car
+Imageid: 466156, extracted triplets: ['cat on car'], mapped triplets: ['cat on car']
+Objective: 223.82937247481985
+PRIOR DISTANCE
+gt_cat on car=0.0
+Objective: 223.92063862281736
+gt_cat on car=0.0
+----------------------------
+Caption: a black cat sitting on the floor next to a book
+Imageid: 39589, extracted triplets: ['cat sit carpet', 'cat next to book'], mapped triplets: ['cat sit rug', 'cat sit couch', 'cat next to book']
+Objective: 223.92063862281736
+PRIOR DISTANCE
+Objective: 223.92063862281736
+----------------------------
+Caption: an orange cat wearing a tie sitting on a table
+Imageid: 281598, extracted triplets: ['tie sit on table'], mapped triplets: ['tie sit cat', 'fruit sit table']
+Objective: 223.92063862281736
+PRIOR DISTANCE
+Objective: 223.92063862281736
+----------------------------
+Caption: a cat standing next to a bowl on a table
+Imageid: 258998, extracted triplets: ['cat next to bowl', 'bowl on table'], mapped triplets: ['cat next to bowl', 'fruit on table', 'mouse on table', 'glass on table', 'carrot on table', 'vase on table', 'plate on table', 'tv on table', 'bag on table', 'plant on table', 'cup on table', 'bowl on table']
+Objective: 223.92063862281736
+PRIOR DISTANCE
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_vase on table=0.0
+gt_fruit on table=0.0
+gt_bowl on table=0.0
+gt_plate on table=1.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_tv on table=0.0
+gt_fruit on table=0.0
+gt_plate on table=1.0
+gt_carrot on table=0.0
+gt_cup on table=0.0
+gt_mouse on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=0.0
+gt_fruit on table=0.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_bowl on table=0.0
+gt_fruit on table=1.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_cup on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=0.0
+gt_bag on table=0.0
+gt_plate on table=0.0
+gt_fruit on table=1.0
+gt_cup on table=1.0
+gt_fruit on table=1.0
+gt_vase on table=0.0
+gt_mouse on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_cup on table=1.0
+gt_plate on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=0.0
+gt_plant on table=1.0
+gt_cup on table=0.0
+gt_vase on table=1.0
+gt_tv on table=1.0
+gt_cup on table=1.0
+gt_bowl on table=0.0
+gt_plate on table=0.0
+gt_cup on table=0.0
+gt_vase on table=0.0
+gt_glass on table=0.0
+gt_cup on table=0.0
+gt_bowl on table=0.0
+gt_fruit on table=0.0
+gt_plate on table=0.0
+gt_plant on table=0.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_vase on table=0.0
+gt_cup on table=0.0
+gt_fruit on table=1.0
+gt_carrot on table=0.0
+gt_mouse on table=0.0
+gt_plate on table=1.0
+gt_vase on table=1.0
+gt_bag on table=1.0
+gt_bag on table=1.0
+gt_bowl on table=0.0
+gt_carrot on table=0.0
+gt_cup on table=0.0
+gt_glass on table=0.0
+gt_mouse on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=0.0
+gt_vase on table=0.0
+gt_fruit on table=1.0
+gt_vase on table=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_tv on table=1.0
+gt_plant on table=1.0
+gt_glass on table=0.0
+gt_plate on table=1.0
+gt_fruit on table=0.0
+gt_glass on table=1.0
+gt_cup on table=0.0
+gt_bowl on table=1.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_fruit on table=1.0
+gt_mouse on table=0.0
+gt_tv on table=1.0
+gt_fruit on table=1.0
+gt_cup on table=0.0
+gt_glass on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=0.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_carrot on table=0.0
+gt_fruit on table=0.0
+gt_bowl on table=0.0
+gt_bag on table=1.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_vase on table=0.0
+gt_mouse on table=0.0
+gt_tv on table=0.0
+gt_glass on table=1.0
+gt_carrot on table=0.0
+gt_fruit on table=1.0
+gt_cup on table=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_bowl on table=1.0
+gt_cup on table=1.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_cup on table=0.0
+gt_carrot on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=0.0
+gt_cup on table=1.0
+gt_glass on table=1.0
+gt_fruit on table=0.0
+gt_tv on table=1.0
+gt_glass on table=0.0
+gt_bowl on table=0.0
+gt_tv on table=-0.0
+gt_bag on table=1.0
+gt_mouse on table=-0.0
+gt_plate on table=1.0
+gt_cup on table=0.0
+gt_carrot on table=0.0
+gt_fruit on table=0.0
+gt_plant on table=1.0
+Objective: 223.41502189811695
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_vase on table=0.0
+gt_fruit on table=0.0
+gt_bowl on table=0.0
+gt_plate on table=1.0
+gt_fruit on table=0.0
+gt_vase on table=0.0
+gt_tv on table=0.0
+gt_fruit on table=0.0
+gt_plate on table=1.0
+gt_carrot on table=0.0
+gt_cup on table=0.0
+gt_mouse on table=0.0
+gt_fruit on table=1.0
+gt_bag on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=0.0
+gt_fruit on table=0.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_bowl on table=0.0
+gt_fruit on table=1.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_cup on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=0.0
+gt_bag on table=0.0
+gt_plate on table=0.0
+gt_fruit on table=1.0
+gt_cup on table=1.0
+gt_fruit on table=1.0
+gt_vase on table=0.0
+gt_mouse on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_cup on table=1.0
+gt_plate on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=0.0
+gt_plant on table=1.0
+gt_cup on table=0.0
+gt_vase on table=1.0
+gt_tv on table=1.0
+gt_cup on table=1.0
+gt_bowl on table=0.0
+gt_plate on table=0.0
+gt_cup on table=0.0
+gt_vase on table=0.0
+gt_glass on table=0.0
+gt_cup on table=0.0
+gt_bowl on table=0.0
+gt_fruit on table=0.0
+gt_plate on table=0.0
+gt_plant on table=0.0
+gt_plate on table=0.0
+gt_glass on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_vase on table=0.0
+gt_cup on table=0.0
+gt_fruit on table=1.0
+gt_carrot on table=0.0
+gt_mouse on table=0.0
+gt_plate on table=1.0
+gt_vase on table=1.0
+gt_bag on table=1.0
+gt_bag on table=1.0
+gt_bowl on table=0.0
+gt_carrot on table=0.0
+gt_cup on table=0.0
+gt_glass on table=0.0
+gt_mouse on table=0.0
+gt_vase on table=0.0
+gt_bowl on table=0.0
+gt_vase on table=0.0
+gt_fruit on table=1.0
+gt_vase on table=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_tv on table=1.0
+gt_plant on table=1.0
+gt_glass on table=0.0
+gt_plate on table=1.0
+gt_fruit on table=0.0
+gt_glass on table=1.0
+gt_cup on table=0.0
+gt_bowl on table=1.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_fruit on table=1.0
+gt_mouse on table=0.0
+gt_tv on table=1.0
+gt_fruit on table=1.0
+gt_cup on table=0.0
+gt_glass on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=0.0
+gt_plate on table=0.0
+gt_plate on table=0.0
+gt_carrot on table=0.0
+gt_fruit on table=0.0
+gt_bowl on table=0.0
+gt_bag on table=1.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_vase on table=0.0
+gt_mouse on table=0.0
+gt_tv on table=0.0
+gt_glass on table=1.0
+gt_carrot on table=0.0
+gt_fruit on table=1.0
+gt_cup on table=0.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_bowl on table=1.0
+gt_cup on table=1.0
+gt_plate on table=0.0
+gt_bowl on table=0.0
+gt_glass on table=0.0
+gt_cup on table=0.0
+gt_carrot on table=0.0
+gt_vase on table=1.0
+gt_bowl on table=0.0
+gt_cup on table=1.0
+gt_glass on table=1.0
+gt_fruit on table=0.0
+gt_tv on table=1.0
+gt_glass on table=1.0
+gt_bowl on table=0.0
+gt_tv on table=-0.0
+gt_bag on table=1.0
+gt_mouse on table=-0.0
+gt_plate on table=1.0
+gt_cup on table=0.0
+gt_carrot on table=0.0
+gt_fruit on table=-0.0
+gt_plant on table=1.0
+----------------------------
+Caption: a cat sitting on a window sill looking out
+Imageid: 377000, extracted triplets: ['cat sit window'], mapped triplets: ['cat sit window']
+Objective: 223.41502189811695
+PRIOR DISTANCE
+gt_cat sit window=1.0
+Objective: 223.42102707328746
+gt_cat sit window=1.0
+----------------------------
+Caption: a cat laying on a desk next to a keyboard
+Imageid: 268885, extracted triplets: ['desk next to keyboard'], mapped triplets: ['desk next to laptop', 'desk next to monitor']
+Objective: 223.42102707328746
+PRIOR DISTANCE
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+Objective: 223.42674827319462
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+----------------------------
+Caption: a black cat sitting on a desk next to a computer monitor
+Imageid: 198641, extracted triplets: ['cat sit computer', 'cat sit laptop', 'cat sit keyboard', 'cat sit monitor', 'desk next to computer monitor'], mapped triplets: ['cat sit computer', 'cat sit computer', 'animal sit laptop', 'cat sit laptop', 'cat sit keyboard', 'cat sit computer', 'animal sit laptop', 'cat sit monitor', 'desk next to laptop', 'desk next to monitor']
+Objective: 223.42674827319462
+PRIOR DISTANCE
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+Objective: 223.52182639720718
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=0.0
+gt_desk next to laptop=1.0
+gt_desk next to monitor=1.0
+gt_desk next to laptop=1.0
+----------------------------

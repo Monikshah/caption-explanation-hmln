@@ -1,0 +1,906 @@
+Caption: a zebra is standing in the grass in a field
+Imageid: 180447, extracted triplets: ['zebra in grass', 'zebra in field'], mapped triplets: ['zebra in grass', 'animal in grass', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.59576956813718
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.0210854335417
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing in the snow
+Imageid: 75162, extracted triplets: ['zebra in snow'], mapped triplets: ['zebra in snow']
+Objective: 48.0210854335417
+PRIOR DISTANCE
+Objective: 48.0210854335417
+----------------------------
+Caption: a giraffe and a zebra in a zoo
+Imageid: 123836, extracted triplets: ['zebra in animal', 'zebra in giraffe'], mapped triplets: ['giraffe in grass', 'elephant in grass', 'zebra in grass', 'animal in grass', 'animal in grass', 'zebra in giraffe']
+Objective: 48.0210854335417
+PRIOR DISTANCE
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_elephant in grass=-0.0
+gt_giraffe in grass=1.0
+gt_zebra in grass=-0.0
+Objective: 48.16042018327812
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_elephant in grass=-0.0
+gt_giraffe in grass=1.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a group of zebras and a zebra standing in a water
+Imageid: 309100, extracted triplets: ['zebra in water'], mapped triplets: ['zebra in grass']
+Objective: 48.16042018327812
+PRIOR DISTANCE
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=-0.0
+Objective: 48.06484998385942
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a group of zebras and a zebra standing in a field
+Imageid: 545129, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.06484998385942
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.69411871180982
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing next to a fence
+Imageid: 371004, extracted triplets: ['zebra next to fence'], mapped triplets: ['zebra next to field', 'zebra next to grass', 'zebra next to wall', 'zebra next to fence']
+Objective: 48.69411871180982
+PRIOR DISTANCE
+gt_zebra next to fence=0.0
+gt_zebra next to grass=1.0
+Objective: 48.6688023258208
+gt_zebra next to fence=0.0
+gt_zebra next to grass=0.0
+----------------------------
+Caption: a giraffe and a zebra in a field
+Imageid: 238700, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.6688023258208
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.180253168120345
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing next to a tree
+Imageid: 60340, extracted triplets: ['zebra next to tree'], mapped triplets: ['zebra next to tree', 'giraffe next to tree']
+Objective: 48.180253168120345
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=-0.0
+gt_zebra next to tree=0.0
+Objective: 48.130734292454136
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=-0.0
+gt_zebra next to tree=1.0
+----------------------------
+Caption: a black and white photo of a man riding a horse
+Imageid: 82740, extracted triplets: ['photo of man', 'man ride horse'], mapped triplets: ['field of grass']
+Objective: 48.130734292454136
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=1.0
+Objective: 48.23187609614903
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=1.0
+----------------------------
+Caption: a zebra standing in the grass in a field
+Imageid: 526560, extracted triplets: ['zebra in grass', 'zebra in field'], mapped triplets: ['zebra in grass', 'animal in grass', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.23187609614903
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.25004079441608
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a close up of a zebra eating grass
+Imageid: 581253, extracted triplets: ['zebra eat grass'], mapped triplets: ['zebra eat grass', 'grass eat grass']
+Objective: 48.25004079441608
+PRIOR DISTANCE
+gt_zebra eat grass=0.0
+gt_zebra eat grass=1.0
+gt_zebra eat grass=1.0
+gt_zebra eat grass=1.0
+gt_grass eat grass=1.0
+Objective: 47.99587407932725
+gt_zebra eat grass=0.0
+gt_zebra eat grass=1.0
+gt_zebra eat grass=1.0
+gt_zebra eat grass=1.0
+gt_grass eat grass=1.0
+----------------------------
+Caption: a zebra eating grass in a field
+Imageid: 408542, extracted triplets: ['zebra eat grass', 'zebra in field'], mapped triplets: ['zebra eat grass', 'grass eat grass', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 47.99587407932725
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra eat grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_zebra eat grass=1.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra eat grass=1.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra eat grass=1.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_grass eat grass=1.0
+gt_zebra in grass=-0.0
+Objective: 48.1286198050376
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra eat grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_zebra eat grass=1.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra eat grass=1.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra eat grass=1.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_grass eat grass=1.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: two zebras and a zebra standing in a field
+Imageid: 258331, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.1286198050376
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.19316187094817
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a group of birds and a zebra in a field
+Imageid: 164104, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.19316187094817
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.20346852418865
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing in the grass in a fence
+Imageid: 419371, extracted triplets: ['zebra in grass', 'zebra in fence'], mapped triplets: ['zebra in grass', 'animal in grass', 'zebra in fence']
+Objective: 48.20346852418865
+PRIOR DISTANCE
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in fence=1.0
+gt_zebra in grass=-0.0
+Objective: 48.17173511102469
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in fence=1.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra laying on the ground in a field
+Imageid: 376278, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.17173511102469
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.1031004429548
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing in the grass in a field
+Imageid: 362275, extracted triplets: ['zebra in grass', 'zebra in field'], mapped triplets: ['zebra in grass', 'animal in grass', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.1031004429548
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.003340313683786
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a group of zebras and a zebra standing in a field
+Imageid: 107814, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.003340313683786
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.620611050502234
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: two zebras and a giraffe standing next to a zoo
+Imageid: 544975, extracted triplets: ['giraffe next to giraffe', 'giraffe next to zebra'], mapped triplets: ['zebra next to zebra', 'giraffe next to zebra']
+Objective: 48.620611050502234
+PRIOR DISTANCE
+Objective: 48.620611050502234
+----------------------------
+Caption: two zebras and a zebra standing in a field
+Imageid: 439834, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.620611050502234
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.02247857050361
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: two zebras and a zebra standing in a field
+Imageid: 425573, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.02247857050361
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.41848751788328
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing in the grass in a field
+Imageid: 509656, extracted triplets: ['zebra in grass', 'zebra in field'], mapped triplets: ['zebra in grass', 'animal in grass', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.41848751788328
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.266557525217166
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra is walking in the grass in a field
+Imageid: 528011, extracted triplets: ['zebra in grass', 'zebra in field'], mapped triplets: ['zebra in grass', 'animal in grass', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.266557525217166
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.33334356682714
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra laying on the ground next to a tree
+Imageid: 134167, extracted triplets: ['zebra next to tree'], mapped triplets: ['zebra next to tree', 'giraffe next to tree']
+Objective: 48.33334356682714
+PRIOR DISTANCE
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=-0.0
+gt_zebra next to tree=1.0
+Objective: 48.36207760029751
+gt_giraffe next to tree=1.0
+gt_giraffe next to tree=0.0
+gt_giraffe next to tree=0.0
+gt_zebra next to tree=0.0
+----------------------------
+Caption: a herd of zebras and a zebra in a field
+Imageid: 80328, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.36207760029751
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.0972665911716
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a man standing next to a zebra in a field
+Imageid: 556341, extracted triplets: ['man next to zebra', 'zebra in field'], mapped triplets: ['woman next to zebra', 'animal next to zebra', 'zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.0972665911716
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.509096661516935
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a group of animals and a zebra standing in a field
+Imageid: 301467, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.509096661516935
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.881322718096975
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a zebra standing in the dirt in a field
+Imageid: 569931, extracted triplets: ['zebra in field'], mapped triplets: ['zebra in grass', 'horse in field', 'animal in field', 'animal in grass', 'zebra in field']
+Objective: 48.881322718096975
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+Objective: 48.46815170930161
+gt_horse in field=0.0
+gt_zebra in grass=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_zebra in grass=0.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_zebra in grass=-0.0
+----------------------------
+Caption: a man is standing next to a giraffe in a field
+Imageid: 230679, extracted triplets: ['man next to giraffe', 'giraffe in field'], mapped triplets: ['animal next to zebra', 'zebra in field', 'horse in field', 'animal in field', 'giraffe in field']
+Objective: 48.46815170930161
+PRIOR DISTANCE
+gt_horse in field=0.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_giraffe in field=0.0
+Objective: 48.44084560871014
+gt_horse in field=0.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_giraffe in field=1.0
+gt_horse in field=0.0
+gt_zebra in field=0.0
+gt_animal in field=-0.0
+gt_giraffe in field=0.0
+----------------------------

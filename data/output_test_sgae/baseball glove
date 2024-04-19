@@ -1,0 +1,790 @@
+Caption: a group of children playing baseball on a field
+Imageid: 147980, extracted triplets: ['children play baseball', 'children on field'], mapped triplets: ['boy play ball', 'player on field', 'boy on field']
+Objective: 46.27002874009274
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_boy on field=0.0
+gt_player on field=0.0
+gt_boy on field=0.0
+gt_boy play ball=1.0
+gt_player on field=0.0
+gt_boy on field=1.0
+Objective: 46.334617335464905
+gt_player on field=0.0
+gt_boy on field=0.0
+gt_player on field=0.0
+gt_boy on field=0.0
+gt_boy play ball=1.0
+gt_player on field=0.0
+gt_boy on field=1.0
+----------------------------
+Caption: a baseball player holding a bat on a field
+Imageid: 393031, extracted triplets: ['baseball player hold bat', 'baseball player on field'], mapped triplets: ['player hold bat', 'person hold bat', 'player on field field']
+Objective: 46.334617335464905
+PRIOR DISTANCE
+gt_player hold bat=0.0
+gt_player hold bat=1.0
+gt_player hold bat=0.0
+gt_player hold bat=0.0
+gt_person hold bat=1.0
+Objective: 46.04792522920099
+gt_player hold bat=0.0
+gt_player hold bat=1.0
+gt_player hold bat=0.0
+gt_player hold bat=0.0
+gt_person hold bat=1.0
+----------------------------
+Caption: a baseball player swinging a bat at a ball
+Imageid: 385514, extracted triplets: ['baseball player swing bat'], mapped triplets: ['player swing bat', 'person swing bat']
+Objective: 46.04792522920099
+PRIOR DISTANCE
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=1.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=-0.0
+gt_person swing bat=0.0
+Objective: 45.49260910612727
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=1.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=-0.0
+gt_person swing bat=1.0
+----------------------------
+Caption: a group of people playing baseball in a field
+Imageid: 300655, extracted triplets: ['people in field'], mapped triplets: ['player in field', 'child in field', 'man in field', 'girl in field']
+Objective: 45.49260910612727
+PRIOR DISTANCE
+gt_child in field=0.0
+gt_man in field=0.0
+gt_player in field=0.0
+gt_woman in field=0.0
+gt_woman in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_child in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_man in field=1.0
+gt_player in field=0.0
+gt_child in field=1.0
+gt_man in field=1.0
+Objective: 45.27674617633068
+gt_child in field=0.0
+gt_man in field=0.0
+gt_player in field=0.0
+gt_woman in field=0.0
+gt_woman in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_man in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_child in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_man in field=1.0
+gt_player in field=0.0
+gt_child in field=1.0
+gt_man in field=1.0
+----------------------------
+Caption: a baseball player swinging a bat at a ball
+Imageid: 307967, extracted triplets: ['baseball player swing bat'], mapped triplets: ['player swing bat', 'person swing bat']
+Objective: 45.27674617633068
+PRIOR DISTANCE
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=1.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=-0.0
+gt_person swing bat=1.0
+Objective: 45.131082118458245
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=1.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=-0.0
+gt_person swing bat=1.0
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 332096, extracted triplets: ['baseball player on field'], mapped triplets: ['player on field']
+Objective: 45.131082118458245
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+Objective: 45.13280230665927
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+----------------------------
+Caption: a young boy holding a baseball bat at a ball
+Imageid: 54593, extracted triplets: ['boy hold baseball bat', 'boy at ball'], mapped triplets: ['child hold bat', 'boy hold bat', 'player at ball', 'man at ball', 'person at ball']
+Objective: 45.13280230665927
+PRIOR DISTANCE
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+Objective: 44.499985253255936
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+----------------------------
+Caption: a little girl wearing a baseball glove and a field
+Imageid: 162415, extracted triplets: ['girl wear glove'], mapped triplets: ['girl wear glove']
+Objective: 44.499985253255936
+PRIOR DISTANCE
+gt_girl wear glove=1.0
+Objective: 44.49837589161254
+gt_girl wear glove=1.0
+----------------------------
+Caption: a baseball player swinging a bat at a ball
+Imageid: 237814, extracted triplets: ['baseball player at ball'], mapped triplets: ['player at ball', 'man at ball', 'person at ball']
+Objective: 44.49837589161254
+PRIOR DISTANCE
+Objective: 44.49837589161254
+----------------------------
+Caption: a young boy is standing next to a car
+Imageid: 408364, extracted triplets: ['boy next to car'], mapped triplets: []
+Objective: 44.49837589161254
+PRIOR DISTANCE
+Objective: 44.49837589161254
+----------------------------
+Caption: a man holding a baseball bat on a field
+Imageid: 332407, extracted triplets: ['man on field'], mapped triplets: ['player on field', 'boy on field', 'man on field']
+Objective: 44.49837589161254
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_boy on field=0.0
+gt_man on field=0.0
+gt_player on field=0.0
+gt_woman on field=0.0
+gt_man on field=0.0
+gt_woman on field=0.0
+gt_boy on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_man on field=1.0
+gt_player on field=0.0
+gt_boy on field=1.0
+Objective: 44.415228118428864
+gt_player on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_boy on field=0.0
+gt_man on field=0.0
+gt_player on field=0.0
+gt_woman on field=0.0
+gt_man on field=0.0
+gt_woman on field=0.0
+gt_boy on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_man on field=1.0
+gt_player on field=0.0
+gt_boy on field=1.0
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 240147, extracted triplets: ['player throw ball'], mapped triplets: ['woman throw ball', 'boy throw ball', 'man throw ball', 'player throw ball']
+Objective: 44.415228118428864
+PRIOR DISTANCE
+gt_man throw ball=1.0
+gt_woman throw ball=1.0
+gt_woman throw ball=1.0
+gt_woman throw ball=0.0
+gt_woman throw ball=0.0
+gt_woman throw ball=1.0
+gt_woman throw ball=1.0
+gt_boy throw ball=1.0
+gt_man throw ball=-0.0
+gt_player throw ball=0.0
+Objective: 43.7336468051523
+gt_man throw ball=1.0
+gt_woman throw ball=1.0
+gt_woman throw ball=1.0
+gt_woman throw ball=0.0
+gt_woman throw ball=0.0
+gt_woman throw ball=1.0
+gt_woman throw ball=1.0
+gt_boy throw ball=1.0
+gt_man throw ball=-0.0
+gt_player throw ball=1.0
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 46331, extracted triplets: ['baseball player throw ball'], mapped triplets: ['player throw ball']
+Objective: 43.7336468051523
+PRIOR DISTANCE
+gt_player throw ball=1.0
+Objective: 43.65057093336954
+gt_player throw ball=1.0
+----------------------------
+Caption: a baseball player is sitting on a field
+Imageid: 548361, extracted triplets: ['baseball player sit ball', 'baseball player sit catcher', 'baseball player sit fence', 'baseball player sit stand', 'baseball player sit field', 'baseball player sit dirt', 'baseball player sit grass'], mapped triplets: ['woman sit glove', 'man sit bench', 'woman sit glove', 'man sit bench', 'woman sit bench', 'boy sit bench', 'man sit bench', 'girl sit bench', 'man sit bench', 'man sit bench', 'boy sit bench', 'man sit bench']
+Objective: 43.65057093336954
+PRIOR DISTANCE
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_girl sit bench=1.0
+Objective: 43.65057093336954
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_girl sit bench=1.0
+----------------------------
+Caption: a group of people standing in a baseball game
+Imageid: 404088, extracted triplets: ['people in catcher', 'people in glove', 'people in uniform', 'people in helmet'], mapped triplets: ['player in glove', 'person in glove', 'person in glove', 'hand in glove', 'glove in hand', 'boy in uniform', 'man in uniform', 'woman in uniform', 'player in uniform', 'boy in cap', 'boy in hat']
+Objective: 43.65057093336954
+PRIOR DISTANCE
+gt_man in uniform=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in uniform=0.0
+gt_boy in hat=1.0
+gt_player in uniform=0.0
+gt_boy in uniform=1.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_player in uniform=0.0
+gt_man in uniform=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in uniform=0.0
+gt_player in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_man in uniform=0.0
+gt_boy in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=-0.0
+gt_hand in glove=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_boy in cap=1.0
+gt_boy in hat=1.0
+gt_glove in hand=-0.0
+gt_player in glove=1.0
+gt_player in uniform=1.0
+gt_boy in uniform=0.0
+Objective: 43.634909119869995
+gt_man in uniform=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in uniform=0.0
+gt_boy in hat=1.0
+gt_player in uniform=0.0
+gt_boy in uniform=1.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_player in uniform=0.0
+gt_man in uniform=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in uniform=0.0
+gt_player in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_man in uniform=0.0
+gt_boy in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=-0.0
+gt_hand in glove=0.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_boy in cap=1.0
+gt_boy in hat=1.0
+gt_glove in hand=-0.0
+gt_player in glove=1.0
+gt_player in uniform=1.0
+gt_boy in uniform=-0.0
+----------------------------
+Caption: a group of people standing in a baseball game
+Imageid: 479948, extracted triplets: ['people in catcher', 'people in field', 'people in stand', 'people in man', 'people in dirt', 'people in person', 'people in shirt', 'people in grass', 'people in wall', 'people in glove'], mapped triplets: ['player in glove', 'person in glove', 'player in field', 'child in field', 'man in field', 'girl in field', 'woman in stand', 'man in uniform', 'woman in uniform', 'player in uniform', 'boy in dirt', 'player in dirt', 'child in field', 'boy in uniform', 'man in uniform', 'woman in uniform', 'player in uniform', 'boy in shirt', 'player in shirt', 'man in background', 'woman in stand', 'person in glove', 'hand in glove', 'glove in hand']
+Objective: 43.634909119869995
+PRIOR DISTANCE
+gt_man in uniform=1.0
+gt_man in uniform=1.0
+gt_boy in shirt=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_child in field=0.0
+gt_child in field=0.0
+gt_boy in shirt=0.0
+gt_boy in uniform=0.0
+gt_man in field=0.0
+gt_boy in dirt=1.0
+gt_player in uniform=0.0
+gt_player in uniform=0.0
+gt_player in shirt=1.0
+gt_boy in uniform=1.0
+gt_player in field=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in field=0.0
+gt_boy in shirt=0.0
+gt_player in uniform=0.0
+gt_player in uniform=0.0
+gt_woman in field=1.0
+gt_man in uniform=1.0
+gt_man in uniform=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_man in field=1.0
+gt_boy in shirt=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_boy in shirt=1.0
+gt_boy in shirt=1.0
+gt_woman in field=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in uniform=0.0
+gt_player in uniform=1.0
+gt_player in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_child in field=0.0
+gt_child in field=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_man in field=0.0
+gt_boy in uniform=0.0
+gt_man in field=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=0.0
+gt_man in field=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=-0.0
+gt_man in uniform=-0.0
+gt_player in field=0.0
+gt_hand in glove=0.0
+gt_boy in shirt=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_boy in dirt=1.0
+gt_child in field=1.0
+gt_child in field=1.0
+gt_man in field=1.0
+gt_man in background=-0.0
+gt_glove in hand=-0.0
+gt_player in glove=1.0
+gt_player in uniform=1.0
+gt_player in uniform=1.0
+gt_boy in uniform=-0.0
+gt_player in shirt=-0.0
+Objective: 42.314042703435774
+gt_man in uniform=1.0
+gt_man in uniform=1.0
+gt_boy in shirt=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_child in field=0.0
+gt_child in field=0.0
+gt_boy in shirt=0.0
+gt_boy in uniform=0.0
+gt_man in field=0.0
+gt_boy in dirt=1.0
+gt_player in uniform=0.0
+gt_player in uniform=0.0
+gt_player in shirt=1.0
+gt_boy in uniform=1.0
+gt_player in field=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in field=0.0
+gt_boy in shirt=0.0
+gt_player in uniform=0.0
+gt_player in uniform=0.0
+gt_woman in field=1.0
+gt_man in uniform=1.0
+gt_man in uniform=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_man in field=1.0
+gt_boy in shirt=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_boy in shirt=1.0
+gt_boy in shirt=1.0
+gt_woman in field=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in uniform=0.0
+gt_player in uniform=1.0
+gt_player in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_woman in uniform=1.0
+gt_child in field=0.0
+gt_child in field=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_man in field=0.0
+gt_boy in uniform=0.0
+gt_man in field=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=0.0
+gt_man in field=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_boy in shirt=0.0
+gt_boy in shirt=1.0
+gt_man in uniform=0.0
+gt_man in uniform=0.0
+gt_man in uniform=1.0
+gt_man in uniform=1.0
+gt_player in field=0.0
+gt_hand in glove=0.0
+gt_boy in shirt=1.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_woman in uniform=0.0
+gt_boy in dirt=1.0
+gt_child in field=1.0
+gt_child in field=1.0
+gt_man in field=1.0
+gt_man in background=-0.0
+gt_glove in hand=-0.0
+gt_player in glove=1.0
+gt_player in uniform=1.0
+gt_player in uniform=1.0
+gt_boy in uniform=-0.0
+gt_player in shirt=0.0
+----------------------------
+Caption: a baseball player holding a bat on a field
+Imageid: 515241, extracted triplets: ['baseball player hold bat', 'baseball player on field'], mapped triplets: ['player hold bat', 'person hold bat', 'player on field']
+Objective: 42.314042703435774
+PRIOR DISTANCE
+gt_player hold bat=0.0
+gt_player on field=0.0
+gt_player hold bat=1.0
+gt_player on field=0.0
+gt_player hold bat=0.0
+gt_player on field=0.0
+gt_player hold bat=0.0
+gt_person hold bat=1.0
+Objective: 43.22859649868481
+gt_player hold bat=0.0
+gt_player on field=0.0
+gt_player hold bat=1.0
+gt_player on field=0.0
+gt_player hold bat=0.0
+gt_player on field=0.0
+gt_player hold bat=0.0
+gt_person hold bat=1.0
+----------------------------
+Caption: a baseball player swinging a bat at a ball
+Imageid: 412419, extracted triplets: ['baseball player at ball'], mapped triplets: ['player at ball', 'man at ball', 'person at ball']
+Objective: 43.22859649868481
+PRIOR DISTANCE
+Objective: 43.22859649868481
+----------------------------
+Caption: a young boy is holding a baseball glove
+Imageid: 407298, extracted triplets: ['boy hold baseball glove'], mapped triplets: ['player hold glove', 'catcher hold glove', 'child hold glove', 'girl hold glove', 'woman hold glove', 'person hold glove']
+Objective: 43.22859649868481
+PRIOR DISTANCE
+gt_woman hold glove=1.0
+gt_woman hold glove=1.0
+gt_player hold glove=1.0
+Objective: 43.40805117901932
+gt_woman hold glove=1.0
+gt_woman hold glove=1.0
+gt_player hold glove=1.0
+----------------------------
+Caption: a young boy throwing a baseball bat at a ball
+Imageid: 568132, extracted triplets: ['boy throw baseball bat', 'boy at ball'], mapped triplets: ['player throw ball', 'player at ball', 'man at ball', 'person at ball']
+Objective: 43.40805117901932
+PRIOR DISTANCE
+gt_player throw ball=0.0
+Objective: 43.42246154751911
+gt_player throw ball=0.0
+----------------------------
+Caption: a baseball player holding a bat at a ball
+Imageid: 442165, extracted triplets: ['baseball player hold bat', 'catcher at ball'], mapped triplets: ['player hold bat', 'person hold bat', 'player at ball', 'person at ball', 'man at ball']
+Objective: 43.42246154751911
+PRIOR DISTANCE
+gt_player hold bat=0.0
+gt_player hold bat=1.0
+gt_player hold bat=0.0
+gt_player hold bat=0.0
+gt_person hold bat=1.0
+Objective: 43.24774572268656
+gt_player hold bat=0.0
+gt_player hold bat=1.0
+gt_player hold bat=0.0
+gt_player hold bat=0.0
+gt_person hold bat=1.0
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 252220, extracted triplets: ['baseball player throw ball', 'baseball player on field'], mapped triplets: ['player throw ball', 'player on field']
+Objective: 43.24774572268656
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player throw ball=0.0
+Objective: 43.26163196039061
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player throw ball=0.0
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 399991, extracted triplets: ['baseball player throw ball', 'baseball player on field'], mapped triplets: ['player throw ball', 'player on field']
+Objective: 43.26163196039061
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player throw ball=0.0
+Objective: 43.183321765579514
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player throw ball=0.0
+----------------------------
+Caption: a young boy is holding a baseball bat
+Imageid: 438721, extracted triplets: ['boy hold bat'], mapped triplets: ['child hold bat', 'person hold bat', 'boy hold bat']
+Objective: 43.183321765579514
+PRIOR DISTANCE
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+gt_person hold bat=1.0
+Objective: 43.2480953255328
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+gt_person hold bat=1.0
+----------------------------
+Caption: a baseball player swinging a bat at a ball
+Imageid: 143346, extracted triplets: ['baseball player at ball'], mapped triplets: ['player at ball', 'man at ball', 'person at ball']
+Objective: 43.2480953255328
+PRIOR DISTANCE
+Objective: 43.2480953255328
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 399790, extracted triplets: ['baseball player throw ball', 'baseball player on field'], mapped triplets: ['player throw ball', 'player on field field']
+Objective: 43.2480953255328
+PRIOR DISTANCE
+gt_player throw ball=0.0
+Objective: 43.25016390124081
+gt_player throw ball=0.0
+----------------------------
+Caption: a young boy swinging a baseball bat at a ball
+Imageid: 522273, extracted triplets: ['boy at ball'], mapped triplets: ['player at ball', 'man at ball', 'person at ball']
+Objective: 43.25016390124081
+PRIOR DISTANCE
+Objective: 43.25016390124081
+----------------------------
+Caption: a man standing on a baseball field with a ball
+Imageid: 24553, extracted triplets: ['man on baseball field', 'man with ball'], mapped triplets: ['man on field', 'player on field', 'player with ball', 'boy with ball']
+Objective: 43.25016390124081
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_man on field=0.0
+gt_player on field=0.0
+gt_woman on field=0.0
+gt_man on field=0.0
+gt_woman on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_man on field=1.0
+gt_player on field=0.0
+gt_boy with ball=1.0
+gt_player with ball=1.0
+Objective: 43.095376499031566
+gt_player on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_man on field=0.0
+gt_player on field=0.0
+gt_woman on field=0.0
+gt_man on field=0.0
+gt_woman on field=0.0
+gt_man on field=1.0
+gt_woman on field=0.0
+gt_man on field=1.0
+gt_player on field=0.0
+gt_boy with ball=1.0
+gt_player with ball=1.0
+----------------------------
+Caption: a baseball player swinging a bat at a game
+Imageid: 460361, extracted triplets: ['baseball player swing bat'], mapped triplets: ['player swing bat', 'person swing bat']
+Objective: 43.095376499031566
+PRIOR DISTANCE
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=1.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=-0.0
+gt_person swing bat=1.0
+Objective: 42.9489511363173
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=1.0
+gt_player swing bat=0.0
+gt_player swing bat=0.0
+gt_player swing bat=-0.0
+gt_person swing bat=1.0
+----------------------------
+Caption: a baseball player throwing a ball on a field
+Imageid: 153797, extracted triplets: ['baseball player throw ball', 'baseball player on field'], mapped triplets: ['player throw ball', 'player on field']
+Objective: 42.9489511363173
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player throw ball=0.0
+Objective: 43.24139986884791
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player on field=0.0
+gt_player throw ball=0.0
+----------------------------
+Caption: a young boy holding a baseball bat at a game
+Imageid: 43657, extracted triplets: ['boy hold baseball bat'], mapped triplets: ['child hold bat', 'boy hold bat']
+Objective: 43.24139986884791
+PRIOR DISTANCE
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+Objective: 43.276694053203286
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=0.0
+gt_boy hold bat=0.0
+gt_boy hold bat=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+----------------------------
+Caption: a wooden bench sitting next to a park
+Imageid: 181572, extracted triplets: ['bench next to park'], mapped triplets: []
+Objective: 43.276694053203286
+PRIOR DISTANCE
+Objective: 43.276694053203286
+----------------------------

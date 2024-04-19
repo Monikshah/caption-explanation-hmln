@@ -1,0 +1,826 @@
+Caption: a parking meter in front of a wall with graffiti
+Imageid: 51961, extracted triplets: ['wall with wall', 'wall with fence', 'wall with sign'], mapped triplets: ['build with window', 'street with house', 'pole with sign']
+Objective: 27.200302312167025
+PRIOR DISTANCE
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_pole with sign=1.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_build with window=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_street with house=0.0
+gt_pole with sign=0.0
+gt_pole with sign=1.0
+gt_build with window=1.0
+gt_pole with sign=-0.0
+gt_street with house=0.0
+Objective: 27.073593097196433
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_pole with sign=1.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_build with window=0.0
+gt_build with window=0.0
+gt_pole with sign=0.0
+gt_build with window=0.0
+gt_street with house=0.0
+gt_pole with sign=0.0
+gt_pole with sign=1.0
+gt_build with window=1.0
+gt_pole with sign=-0.0
+gt_street with house=0.0
+----------------------------
+Caption: a young boy holding a bike next to a parking meter
+Imageid: 258078, extracted triplets: ['boy hold bike'], mapped triplets: []
+Objective: 27.073593097196433
+PRIOR DISTANCE
+Objective: 27.073593097196433
+----------------------------
+Caption: a parking meter on the side of a street
+Imageid: 370678, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 27.073593097196433
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 27.0689617892046
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a parking meter on the side of a street
+Imageid: 476339, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 27.0689617892046
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 27.07239143412327
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a bus parked in front of a building at night
+Imageid: 173797, extracted triplets: ['bus in front', 'front of building'], mapped triplets: ['truck in bed', 'window of build']
+Objective: 27.07239143412327
+PRIOR DISTANCE
+gt_window of build=0.0
+gt_window of build=0.0
+gt_window of build=0.0
+gt_window of build=1.0
+gt_truck in bed=1.0
+gt_truck in bed=1.0
+gt_truck in bed=1.0
+gt_window of build=0.0
+gt_window of build=0.0
+gt_truck in bed=1.0
+Objective: 27.107889669072353
+gt_window of build=0.0
+gt_window of build=0.0
+gt_window of build=0.0
+gt_window of build=1.0
+gt_truck in bed=1.0
+gt_truck in bed=1.0
+gt_truck in bed=1.0
+gt_window of build=0.0
+gt_window of build=0.0
+gt_truck in bed=1.0
+----------------------------
+Caption: a car parked in a parking lot next to a fence
+Imageid: 321195, extracted triplets: ['car next to fence'], mapped triplets: ['car next to build']
+Objective: 27.107889669072353
+PRIOR DISTANCE
+gt_car next to build=1.0
+gt_car next to build=0.0
+gt_car next to build=0.0
+gt_car next to build=1.0
+gt_car next to build=0.0
+gt_car next to build=1.0
+gt_car next to build=-0.0
+Objective: 27.121879937231235
+gt_car next to build=1.0
+gt_car next to build=0.0
+gt_car next to build=0.0
+gt_car next to build=1.0
+gt_car next to build=0.0
+gt_car next to build=1.0
+gt_car next to build=-0.0
+----------------------------
+Caption: a yellow fire hydrant on the side of a street
+Imageid: 149371, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 27.121879937231235
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+Objective: 27.135526699673846
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a parking meter on the side of a street
+Imageid: 326317, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 27.135526699673846
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+Objective: 27.12663856581375
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: an empty intersection with a street sign on the corner
+Imageid: 332545, extracted triplets: ['street sign on photo', 'street sign on pole', 'street sign on build', 'street sign on street', 'street sign on window'], mapped triplets: ['sign on street', 'pole on street', 'lamp on street', 'truck on street', 'bus on street', 'car on street', 'sign on street', 'pole on street', 'lamp on street', 'truck on street', 'bus on street', 'car on street', 'sign on bus']
+Objective: 27.12663856581375
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_sign on bus=0.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_sign on bus=1.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_lamp on street=-0.0
+gt_lamp on street=-0.0
+gt_car on street=-0.0
+gt_car on street=-0.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+Objective: 27.36911502070807
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_sign on bus=0.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_sign on bus=1.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_sign on street=0.0
+gt_sign on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_car on street=0.0
+gt_car on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_sign on street=1.0
+gt_sign on street=1.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_sign on street=-0.0
+gt_sign on street=-0.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_lamp on street=-0.0
+gt_lamp on street=-0.0
+gt_car on street=-0.0
+gt_car on street=-0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+----------------------------
+Caption: a man in a green shirt throwing a frisbee
+Imageid: 203669, extracted triplets: ['man in shirt', 'man throw frisbee'], mapped triplets: ['man in vest', 'man in jacket', 'woman in dress']
+Objective: 27.36911502070807
+PRIOR DISTANCE
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_man in vest=1.0
+gt_woman in dress=1.0
+gt_woman in jacket=0.0
+gt_woman in dress=1.0
+gt_man in jacket=1.0
+gt_man in jacket=1.0
+gt_woman in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_woman in jacket=0.0
+gt_man in vest=0.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_man in vest=1.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=0.0
+gt_woman in dress=1.0
+gt_woman in jacket=1.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_man in vest=0.0
+gt_man in jacket=0.0
+gt_man in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=0.0
+gt_man in vest=0.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_man in jacket=1.0
+gt_man in jacket=1.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=0.0
+gt_man in vest=0.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_woman in dress=1.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_man in jacket=1.0
+gt_man in vest=1.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=1.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_woman in dress=1.0
+gt_woman in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in vest=1.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=1.0
+gt_woman in jacket=1.0
+gt_man in jacket=0.0
+gt_woman in jacket=1.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in vest=0.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_man in jacket=0.0
+gt_man in vest=-0.0
+gt_woman in dress=1.0
+gt_man in jacket=0.0
+Objective: 27.509971223777445
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_man in vest=1.0
+gt_woman in dress=1.0
+gt_woman in jacket=0.0
+gt_woman in dress=1.0
+gt_man in jacket=1.0
+gt_man in jacket=1.0
+gt_woman in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_woman in jacket=0.0
+gt_man in vest=0.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_man in vest=1.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=0.0
+gt_woman in dress=1.0
+gt_woman in jacket=1.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_man in vest=0.0
+gt_man in jacket=0.0
+gt_man in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=0.0
+gt_man in vest=0.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_man in jacket=1.0
+gt_man in jacket=1.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=0.0
+gt_man in vest=0.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_woman in dress=1.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_man in jacket=1.0
+gt_man in vest=1.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_man in vest=0.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=1.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_woman in dress=1.0
+gt_woman in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in vest=1.0
+gt_man in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=1.0
+gt_woman in jacket=1.0
+gt_man in jacket=0.0
+gt_woman in jacket=1.0
+gt_man in jacket=0.0
+gt_woman in dress=0.0
+gt_woman in jacket=0.0
+gt_woman in dress=0.0
+gt_man in jacket=0.0
+gt_man in vest=0.0
+gt_woman in jacket=1.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_man in jacket=0.0
+gt_man in vest=-0.0
+gt_woman in dress=1.0
+gt_man in jacket=1.0
+----------------------------
+Caption: a dog sitting on a sidewalk next to a street
+Imageid: 435069, extracted triplets: ['dog sit sidewalk', 'sidewalk next to pole', 'sidewalk next to sidewalk'], mapped triplets: ['man sit bench', 'people sit bench', 'sign sit sidewalk', 'street next to sidewalk']
+Objective: 27.509971223777445
+PRIOR DISTANCE
+gt_street next to sidewalk=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+Objective: 27.509971223777445
+gt_street next to sidewalk=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+----------------------------
+Caption: a black and white photo of cars parked on a city street
+Imageid: 424998, extracted triplets: ['photo of car', 'photo of truck'], mapped triplets: ['car of house', 'door of bus']
+Objective: 27.509971223777445
+PRIOR DISTANCE
+gt_door of bus=0.0
+gt_door of bus=0.0
+gt_door of bus=0.0
+gt_door of bus=-0.0
+Objective: 27.500774200993593
+gt_door of bus=0.0
+gt_door of bus=0.0
+gt_door of bus=0.0
+gt_door of bus=-0.0
+----------------------------
+Caption: a dog tied to a pole on a sidewalk
+Imageid: 370175, extracted triplets: ['dog to pole', 'dog on sidewalk'], mapped triplets: ['motorcycle to pole', 'people on sidewalk', 'tree on sidewalk', 'umbrella on sidewalk', 'wheel on sidewalk', 'man on sidewalk', 'woman on sidewalk', 'bench on sidewalk', 'box on sidewalk']
+Objective: 27.500774200993593
+PRIOR DISTANCE
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_umbrella on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_box on sidewalk=1.0
+gt_wheel on sidewalk=0.0
+Objective: 27.20379458612229
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_umbrella on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_box on sidewalk=1.0
+gt_wheel on sidewalk=0.0
+----------------------------
+Caption: a green bench sitting on the side of a street
+Imageid: 75173, extracted triplets: ['bench sit on side'], mapped triplets: []
+Objective: 27.20379458612229
+PRIOR DISTANCE
+Objective: 27.20379458612229
+----------------------------

@@ -1,0 +1,1736 @@
+Caption: a group of people riding bikes down a city street
+Imageid: 462565, extracted triplets: ['people ride bicycle', 'people ride bike'], mapped triplets: ['people ride bicycle', 'people ride bike', 'woman ride bicycle', 'man ride bicycle', 'person ride bike', 'boy ride bike', 'woman ride bike', 'man ride bike', 'people ride bike']
+Objective: 356.9392921735107
+PRIOR DISTANCE
+gt_man ride bike=1.0
+gt_boy ride bike=1.0
+gt_man ride bicycle=1.0
+gt_people ride bicycle=0.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+gt_person ride bike=0.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 357.42705265256296
+gt_man ride bike=1.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_people ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=1.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: a man and a woman sitting on a bench with a dog
+Imageid: 334321, extracted triplets: ['woman sit bench', 'woman with dog'], mapped triplets: ['woman sit couch', 'woman sit table', 'person sit bench', 'people sit bench', 'woman sit bench', 'person with dog', 'girl with dog', 'woman with dog']
+Objective: 357.42705265256296
+PRIOR DISTANCE
+gt_person with dog=-0.0
+gt_girl with dog=1.0
+Objective: 357.27806880769117
+gt_person with dog=-0.0
+gt_girl with dog=1.0
+----------------------------
+Caption: a group of people playing frisbee in a city
+Imageid: 455859, extracted triplets: ['people in building', 'people in sidewalk', 'people in people', 'people in pole', 'people in fence', 'people in man'], mapped triplets: ['people in room', 'people in build', 'people in street', 'woman in street', 'man in street', 'person in street', 'man in man', 'people in snow', 'woman in fence', 'man in man', 'man in shirt', 'man in uniform', 'person in shirt', 'man in ski', 'man in grass', 'man in sock', 'man in person', 'man in hat', 'man in short', 'man in table', 'man in field', 'man in street', 'man in door', 'man in helmet', 'man in toilet', 'man in tie', 'man in vest', 'man in pant', 'man in snow', 'man in jacket', 'man in frisbee', 'man in skier', 'man in sunglass', 'man in surfboard', 'man in bed', 'man in glass', 'man in sand', 'man in horse', 'man in air', 'man in bag', 'man in suit', 'man in sign', 'man in motorcycle']
+Objective: 357.27806880769117
+PRIOR DISTANCE
+gt_woman in man=0.0
+gt_woman in man=0.0
+gt_man in toilet=0.0
+gt_woman in toilet=1.0
+gt_man in jacket=0.0
+gt_man in shirt=0.0
+gt_people in room=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_man in pant=1.0
+gt_man in ski=1.0
+gt_man in person=0.0
+gt_man in frisbee=0.0
+gt_man in glass=-0.0
+gt_man in sunglass=1.0
+gt_woman in uniform=1.0
+gt_man in short=-0.0
+gt_man in skier=-0.0
+gt_man in skier=-0.0
+gt_man in air=-0.0
+gt_man in motorcycle=-0.0
+gt_woman in pant=1.0
+gt_woman in grass=1.0
+gt_man in suit=0.0
+gt_people in street=-0.0
+gt_woman in short=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=-0.0
+gt_man in uniform=1.0
+gt_woman in sunglass=0.0
+gt_man in helmet=0.0
+gt_man in snow=1.0
+gt_man in vest=1.0
+gt_man in street=1.0
+gt_man in street=1.0
+gt_woman in glass=0.0
+gt_people in snow=-0.0
+gt_man in tie=1.0
+gt_man in shirt=1.0
+gt_woman in shirt=-0.0
+gt_man in sock=1.0
+gt_man in bed=-0.0
+gt_man in field=1.0
+gt_person in shirt=1.0
+Objective: 356.1696922264013
+gt_woman in man=0.0
+gt_woman in man=0.0
+gt_man in toilet=0.0
+gt_woman in toilet=1.0
+gt_man in jacket=0.0
+gt_man in shirt=0.0
+gt_people in room=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_man in pant=1.0
+gt_man in ski=1.0
+gt_man in person=0.0
+gt_man in frisbee=0.0
+gt_man in glass=-0.0
+gt_man in sunglass=1.0
+gt_woman in uniform=1.0
+gt_man in short=-0.0
+gt_man in skier=-0.0
+gt_man in skier=-0.0
+gt_man in air=-0.0
+gt_man in motorcycle=-0.0
+gt_woman in pant=1.0
+gt_woman in grass=1.0
+gt_man in suit=-0.0
+gt_people in street=-0.0
+gt_woman in short=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=-0.0
+gt_man in uniform=1.0
+gt_woman in sunglass=0.0
+gt_man in helmet=1.0
+gt_man in snow=1.0
+gt_man in vest=1.0
+gt_man in street=0.0
+gt_man in street=0.0
+gt_woman in glass=0.0
+gt_people in snow=-0.0
+gt_man in tie=1.0
+gt_man in shirt=1.0
+gt_woman in shirt=-0.0
+gt_man in sock=0.0
+gt_man in bed=-0.0
+gt_man in field=1.0
+gt_person in shirt=1.0
+----------------------------
+Caption: a person walking down a beach with a child
+Imageid: 64710, extracted triplets: ['person with child'], mapped triplets: ['people with child', 'woman with child', 'person with child', 'woman with girl']
+Objective: 356.1696922264013
+PRIOR DISTANCE
+gt_woman with girl=1.0
+gt_person with child=-0.0
+gt_woman with child=0.0
+Objective: 355.92716498077857
+gt_woman with girl=1.0
+gt_person with child=-0.0
+gt_woman with child=-0.0
+----------------------------
+Caption: a group of people standing in front of a building with a clock
+Imageid: 43635, extracted triplets: ['building with clock'], mapped triplets: ["('tower', 'clock') with ('room', 'window')"]
+Objective: 355.92716498077857
+PRIOR DISTANCE
+Objective: 355.92716498077857
+----------------------------
+Caption: a person riding skis down a snow covered slope
+Imageid: 279209, extracted triplets: ['person ride skis'], mapped triplets: ['person ride ski', 'people ride ski']
+Objective: 355.92716498077857
+PRIOR DISTANCE
+gt_people ride ski=0.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+Objective: 355.7518475921403
+gt_people ride ski=0.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+----------------------------
+Caption: a clock on the side of a building
+Imageid: 214527, extracted triplets: ['clock on side', 'side of building'], mapped triplets: ['clock on tower', 'child on sidewalk', 'sidewalk of build', 'bench of build', 'pole of build', 'truck of build', 'light of build', 'stair of build']
+Objective: 355.7518475921403
+PRIOR DISTANCE
+gt_clock on tower=-0.0
+gt_light of build=1.0
+gt_stair of build=1.0
+Objective: 355.59912252838006
+gt_clock on tower=0.0
+gt_light of build=1.0
+gt_stair of build=1.0
+----------------------------
+Caption: a young boy sitting on the floor next to a skidding
+Imageid: 415727, extracted triplets: ['boy next to carpet', 'boy next to shoe'], mapped triplets: ['person next to bag', 'man next to bag', 'person next to bag']
+Objective: 355.59912252838006
+PRIOR DISTANCE
+Objective: 355.59912252838006
+----------------------------
+Caption: two people walking down a street with a frisbee
+Imageid: 14257, extracted triplets: ['people with frisbee'], mapped triplets: ['dog with frisbee', 'field with frisbee']
+Objective: 355.59912252838006
+PRIOR DISTANCE
+gt_field with frisbee=0.0
+Objective: 356.06909461109876
+gt_field with frisbee=0.0
+----------------------------
+Caption: a man sitting in the snow with a snowboard
+Imageid: 146272, extracted triplets: ['man sit snow', 'man with snowboard'], mapped triplets: ['person sit snow', 'man sit snow', 'person with snowboard', 'mountain with snowboard', 'snow with snowboard', 'man with snowboard']
+Objective: 356.06909461109876
+PRIOR DISTANCE
+gt_person with snowboard=-0.0
+gt_mountain with snowboard=0.0
+Objective: 356.03569975696007
+gt_person with snowboard=-0.0
+gt_mountain with snowboard=1.0
+----------------------------
+Caption: a young boy holding a baseball bat at a ball
+Imageid: 54593, extracted triplets: ['boy hold baseball bat', 'boy at ball'], mapped triplets: ['child hold bat', 'boy hold bat', 'man at ball', 'girl at ball', 'bat at ball', 'boy at ball']
+Objective: 356.03569975696007
+PRIOR DISTANCE
+gt_bat at ball=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+Objective: 356.0307491181865
+gt_bat at ball=0.0
+gt_child hold bat=1.0
+gt_boy hold bat=1.0
+----------------------------
+Caption: a group of people standing in a field with buses
+Imageid: 263011, extracted triplets: ['people in field', 'people with bus'], mapped triplets: ['woman in field', 'horse in field', 'cow in field', 'child in field', 'people in field', 'person with car', 'van with people', 'train with people', 'boat with people', 'plane with people', 'people with man', 'bus with people', 'ocean with people', 'people with bus']
+Objective: 356.0307491181865
+PRIOR DISTANCE
+gt_ocean with people=-0.0
+gt_boat with people=1.0
+gt_plane with people=-0.0
+gt_people with bus=1.0
+gt_people in field=1.0
+gt_child in field=0.0
+gt_van with people=0.0
+gt_cow in field=1.0
+gt_person with car=0.0
+Objective: 354.752421461106
+gt_ocean with people=-0.0
+gt_boat with people=1.0
+gt_plane with people=-0.0
+gt_people with bus=1.0
+gt_people in field=1.0
+gt_child in field=1.0
+gt_van with people=1.0
+gt_cow in field=1.0
+gt_person with car=0.0
+----------------------------
+Caption: a dog walking in the snow with a red hat
+Imageid: 128528, extracted triplets: ['dog in snow', 'dog with hat'], mapped triplets: ['pole in snow', 'tree in snow', 'person in snow', 'dog in snow', 'person with helmet', 'boy with helmet', 'girl with helmet', 'child with helmet']
+Objective: 354.752421461106
+PRIOR DISTANCE
+gt_boy with helmet=-0.0
+gt_person in snow=1.0
+gt_person with helmet=1.0
+gt_tree in snow=-0.0
+gt_dog in snow=0.0
+gt_pole in snow=-0.0
+gt_girl with helmet=0.0
+Objective: 354.8194602367363
+gt_boy with helmet=-0.0
+gt_person in snow=0.0
+gt_person with helmet=1.0
+gt_tree in snow=0.0
+gt_dog in snow=0.0
+gt_pole in snow=-0.0
+gt_girl with helmet=1.0
+----------------------------
+Caption: a man riding a horse in the woods
+Imageid: 23034, extracted triplets: ['man ride horse'], mapped triplets: ['man ride horse']
+Objective: 354.8194602367363
+PRIOR DISTANCE
+gt_woman ride horse=-0.0
+Objective: 354.8194602367363
+gt_woman ride horse=-0.0
+----------------------------
+Caption: a group of people standing in the snow with snowboards
+Imageid: 162902, extracted triplets: ['people in snow', 'people with snowboard'], mapped triplets: ['woman in snow', 'child in snow', 'person in snow', 'dog in snow', 'man in snow', 'people in snow', 'person with snowboard', 'mountain with snowboard', 'snow with snowboard', 'woman with snowboard']
+Objective: 354.8194602367363
+PRIOR DISTANCE
+gt_person with snowboard=-0.0
+gt_person in snow=0.0
+gt_mountain with snowboard=1.0
+gt_dog in snow=0.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+Objective: 355.01883662192137
+gt_person with snowboard=-0.0
+gt_person in snow=1.0
+gt_mountain with snowboard=1.0
+gt_dog in snow=0.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+----------------------------
+Caption: a man riding a skateboard down a city street
+Imageid: 408449, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'people ride skateboard', 'man ride skateboard']
+Objective: 355.01883662192137
+PRIOR DISTANCE
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=1.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+Objective: 355.39609076699844
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+----------------------------
+Caption: a bench sitting next to a bench in a park
+Imageid: 58851, extracted triplets: ['bench next to bench', 'bench in park'], mapped triplets: ['bench next to wall', 'bench next to bike', 'bench in tree']
+Objective: 355.39609076699844
+PRIOR DISTANCE
+gt_bench next to wall=1.0
+gt_bench next to bike=1.0
+Objective: 355.54232853180696
+gt_bench next to wall=1.0
+gt_bench next to bike=1.0
+----------------------------
+Caption: a large airplane flying over a crowd of people on a beach
+Imageid: 28157, extracted triplets: ['airplane over crowd', 'crowd of people', 'airplane on beach'], mapped triplets: ['umbrella over people', 'people of people', 'field of people', 'bus of people', 'people of bench', 'photo of people', 'child on beach', 'vehicle on street']
+Objective: 355.54232853180696
+PRIOR DISTANCE
+gt_bus of people=1.0
+gt_child on beach=1.0
+gt_vehicle on street=1.0
+gt_umbrella over people=1.0
+gt_people of people=1.0
+gt_field of people=1.0
+gt_photo of people=1.0
+Objective: 356.2520216060119
+gt_bus of people=1.0
+gt_child on beach=1.0
+gt_vehicle on street=1.0
+gt_umbrella over people=1.0
+gt_people of people=1.0
+gt_field of people=1.0
+gt_photo of people=1.0
+----------------------------
+Caption: a group of people standing in front of a bus
+Imageid: 393647, extracted triplets: ['front of bus'], mapped triplets: ['woman of bus', 'bus of bus', 'door of bus']
+Objective: 356.2520216060119
+PRIOR DISTANCE
+gt_bus of bus=1.0
+gt_door of bus=-0.0
+gt_woman of bus=1.0
+Objective: 356.29641231091944
+gt_bus of bus=1.0
+gt_door of bus=-0.0
+gt_woman of bus=1.0
+----------------------------
+Caption: a crowd of people flying kites in a field
+Imageid: 118432, extracted triplets: ['crowd of people', 'crowd fly kite', 'crowd in field'], mapped triplets: ['people of people', 'field of people', 'bus of people', 'people fly kite', 'people in field']
+Objective: 356.29641231091944
+PRIOR DISTANCE
+gt_bus of people=1.0
+gt_people in field=1.0
+gt_people of people=1.0
+gt_field of people=1.0
+gt_people fly kite=-0.0
+Objective: 356.3125830856576
+gt_bus of people=1.0
+gt_people in field=1.0
+gt_people of people=1.0
+gt_field of people=1.0
+gt_people fly kite=0.0
+----------------------------
+Caption: a group of people riding bikes down a street
+Imageid: 354929, extracted triplets: ['people ride bicycle', 'people ride bike'], mapped triplets: ['people ride bike', 'woman ride bicycle', 'man ride bicycle', 'people ride bicycle', 'person ride bike', 'boy ride bike', 'woman ride bike', 'man ride bike', 'people ride bike']
+Objective: 356.3125830856576
+PRIOR DISTANCE
+gt_man ride bike=1.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_people ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=1.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 356.10034067606375
+gt_man ride bike=0.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_people ride bicycle=0.0
+gt_woman ride bicycle=-0.0
+gt_woman ride bicycle=-0.0
+gt_person ride bike=0.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: two men standing next to a bus with umbrellas
+Imageid: 73702, extracted triplets: ['men next to truck'], mapped triplets: ['man next to bike', 'people next to bus']
+Objective: 356.10034067606375
+PRIOR DISTANCE
+gt_people next to bus=1.0
+gt_man next to bike=-0.0
+Objective: 356.2086143680867
+gt_people next to bus=1.0
+gt_man next to bike=-0.0
+----------------------------
+Caption: a young boy sitting on a skateboard on the street
+Imageid: 386204, extracted triplets: ['boy sit skateboard', 'boy on street'], mapped triplets: ['man sit skateboard', 'man on sidewalk', 'child on sidewalk']
+Objective: 356.2086143680867
+PRIOR DISTANCE
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=0.0
+Objective: 356.1942747701299
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=0.0
+----------------------------
+Caption: a blue and yellow train at a train station
+Imageid: 138073, extracted triplets: ['train at train station'], mapped triplets: ['people at bus']
+Objective: 356.1942747701299
+PRIOR DISTANCE
+gt_people at bus=-0.0
+Objective: 356.2608211006255
+gt_people at bus=-0.0
+----------------------------
+Caption: a woman holding a dog in a backpack
+Imageid: 265916, extracted triplets: ['woman hold dog', 'woman in backpack'], mapped triplets: ['woman hold bear', 'woman hold horse', 'woman hold cow', 'man hold dog', 'woman in bag', 'backpack in chair']
+Objective: 356.2608211006255
+PRIOR DISTANCE
+gt_backpack in chair=1.0
+gt_woman hold bear=0.0
+Objective: 356.2091733937431
+gt_backpack in chair=1.0
+gt_woman hold bear=0.0
+----------------------------
+Caption: a woman riding a horse in a field
+Imageid: 51773, extracted triplets: ['woman ride horse', 'woman in field'], mapped triplets: ['woman ride horse', 'woman in field', 'person in field', 'people in field', 'child in field']
+Objective: 356.2091733937431
+PRIOR DISTANCE
+gt_woman ride horse=-0.0
+gt_people in field=1.0
+gt_child in field=1.0
+gt_person in field=0.0
+Objective: 356.2935224828126
+gt_woman ride horse=-0.0
+gt_people in field=1.0
+gt_child in field=0.0
+gt_person in field=0.0
+----------------------------
+Caption: a woman holding a bag of apples and a dog
+Imageid: 391940, extracted triplets: ['woman hold bag'], mapped triplets: ['woman hold bag', 'woman hold laptop', 'woman hold umbrella', 'woman hold glass', 'woman hold phone', 'woman hold computer']
+Objective: 356.2935224828126
+PRIOR DISTANCE
+gt_woman hold phone=0.0
+gt_woman hold phone=1.0
+gt_woman hold umbrella=1.0
+gt_woman hold laptop=1.0
+Objective: 356.2902953712876
+gt_woman hold phone=0.0
+gt_woman hold phone=1.0
+gt_woman hold umbrella=1.0
+gt_woman hold laptop=1.0
+----------------------------
+Caption: a man sitting on a bench talking on a cell phone
+Imageid: 422200, extracted triplets: ['man sit bench'], mapped triplets: ['woman sit bench', 'person sit bench', 'man sit bench']
+Objective: 356.2902953712876
+PRIOR DISTANCE
+Objective: 356.2902953712876
+----------------------------
+Caption: a woman walking down a street with a red fire hydrant
+Imageid: 168337, extracted triplets: ['woman with hydrant'], mapped triplets: ['woman with umbrella', 'person with umbrella']
+Objective: 356.2902953712876
+PRIOR DISTANCE
+gt_woman with umbrella=1.0
+gt_person with umbrella=1.0
+Objective: 356.61384437813575
+gt_woman with umbrella=1.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: a pile of luggage sitting on the side of a building
+Imageid: 240784, extracted triplets: ['side of building'], mapped triplets: ['sidewalk of build', 'bench of build', 'pole of build', 'truck of build', 'light of build', 'stair of build']
+Objective: 356.61384437813575
+PRIOR DISTANCE
+gt_light of build=1.0
+gt_stair of build=1.0
+Objective: 356.55389267403916
+gt_light of build=1.0
+gt_stair of build=1.0
+----------------------------
+Caption: a woman standing on skis in the snow
+Imageid: 114158, extracted triplets: ['woman on skis', 'woman in snow'], mapped triplets: ['person on ski', 'woman on ski', 'people on ski', 'woman in snow', 'people in snow']
+Objective: 356.55389267403916
+PRIOR DISTANCE
+gt_people on ski=1.0
+gt_woman on ski=1.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_people in snow=-0.0
+gt_person on ski=1.0
+Objective: 356.4794935985956
+gt_people on ski=1.0
+gt_woman on ski=1.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_people in snow=-0.0
+gt_person on ski=1.0
+----------------------------
+Caption: a man and a woman sitting on a bench
+Imageid: 558064, extracted triplets: ['woman sit bench'], mapped triplets: ['woman sit couch', 'person sit bench', 'people sit bench', 'woman sit bench']
+Objective: 356.4794935985956
+PRIOR DISTANCE
+Objective: 356.4794935985956
+----------------------------
+Caption: a man and a dog jumping in the air to catch a frisbee
+Imageid: 126538, extracted triplets: ['dog jump ball', 'dog jump umbrella'], mapped triplets: []
+Objective: 356.4794935985956
+PRIOR DISTANCE
+Objective: 356.4794935985956
+----------------------------
+Caption: a man flying a kite on the beach
+Imageid: 225786, extracted triplets: ['man fly kite', 'man on beach'], mapped triplets: ['man fly kite', 'person fly kite', 'boy fly kite', 'child on beach', 'man on beach']
+Objective: 356.4794935985956
+PRIOR DISTANCE
+gt_boy fly kite=1.0
+gt_man on beach=1.0
+gt_child on beach=1.0
+gt_man fly kite=0.0
+gt_person fly kite=1.0
+Objective: 356.5911183373375
+gt_boy fly kite=1.0
+gt_man on beach=1.0
+gt_child on beach=1.0
+gt_man fly kite=0.0
+gt_person fly kite=1.0
+----------------------------
+Caption: a man standing on a boat in the water
+Imageid: 217468, extracted triplets: ['man on boat', 'boat in water'], mapped triplets: ['boy on boat', 'person on boat', 'man on boat', 'beach in water', 'surfboard in water', 'boat in water']
+Objective: 356.5911183373375
+PRIOR DISTANCE
+gt_boy on boat=0.0
+gt_woman on boat=-0.0
+gt_person on boat=1.0
+gt_beach in water=1.0
+gt_boat in water=1.0
+gt_man on boat=0.0
+gt_surfboard in water=0.0
+Objective: 357.2179479890811
+gt_boy on boat=1.0
+gt_woman on boat=-0.0
+gt_person on boat=0.0
+gt_beach in water=1.0
+gt_boat in water=0.0
+gt_man on boat=0.0
+gt_surfboard in water=0.0
+----------------------------
+Caption: a man standing on skis in the snow
+Imageid: 248701, extracted triplets: ['man on skis', 'man in snow'], mapped triplets: ['person on ski', 'man on ski', 'people in snow', 'person in snow', 'child in snow', 'woman in snow', 'man in snow']
+Objective: 357.2179479890811
+PRIOR DISTANCE
+gt_man on ski=0.0
+gt_man on skier=1.0
+gt_person in snow=1.0
+gt_woman on ski=1.0
+gt_person on skier=-0.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+gt_person on ski=1.0
+Objective: 356.9695984399482
+gt_man on ski=1.0
+gt_man on skier=1.0
+gt_person in snow=0.0
+gt_woman on ski=1.0
+gt_person on skier=-0.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+gt_person on ski=1.0
+----------------------------
+Caption: a woman wearing a hat holding a bunch of bananas
+Imageid: 42091, extracted triplets: ['woman wear hat', 'hat hold banana'], mapped triplets: ['man wear hat', 'man hold banana']
+Objective: 356.9695984399482
+PRIOR DISTANCE
+gt_man wear hat=1.0
+Objective: 357.1168699615509
+gt_man wear hat=1.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 570678, extracted triplets: ['man ride snowboard', 'man ride snow'], mapped triplets: ['boy ride skateboard', 'person ride ski', 'man ride snowboard', 'man ride snow', 'ski ride snow']
+Objective: 357.1168699615509
+PRIOR DISTANCE
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride ski=1.0
+gt_boy ride skateboard=1.0
+Objective: 357.2453279195405
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_person ride ski=1.0
+gt_boy ride skateboard=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a table
+Imageid: 262148, extracted triplets: ['man on skateboard', 'man on table'], mapped triplets: ['boy on skateboard', 'person on skateboard', 'people on skateboard', 'man on skateboard', 'man on couch', 'woman on laptop', 'man on table']
+Objective: 357.2453279195405
+PRIOR DISTANCE
+gt_boy on skateboard=1.0
+gt_woman on couch=0.0
+gt_people on skateboard=0.0
+gt_man on table=1.0
+gt_person on skateboard=-0.0
+gt_man on couch=-0.0
+gt_man on skateboard=0.0
+Objective: 357.34275177407073
+gt_boy on skateboard=1.0
+gt_woman on couch=0.0
+gt_people on skateboard=1.0
+gt_man on table=1.0
+gt_person on skateboard=1.0
+gt_man on couch=-0.0
+gt_man on skateboard=1.0
+----------------------------
+Caption: a group of people riding bikes down a street
+Imageid: 455675, extracted triplets: ['people ride bicycle', 'people ride bike'], mapped triplets: ['people ride bike', 'woman ride bicycle', 'man ride bicycle', 'people ride bicycle', 'person ride bike', 'boy ride bike', 'woman ride bike', 'man ride bike', 'people ride bike']
+Objective: 357.34275177407073
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_people ride bicycle=0.0
+gt_woman ride bicycle=-0.0
+gt_woman ride bicycle=-0.0
+gt_person ride bike=0.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 357.38631860055625
+gt_man ride bike=1.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_people ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=1.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: a motorcycle parked next to a tent in a field
+Imageid: 48924, extracted triplets: ['motorcycle next to bag'], mapped triplets: ['person next to bag']
+Objective: 357.38631860055625
+PRIOR DISTANCE
+Objective: 357.38631860055625
+----------------------------
+Caption: a person riding skis down a snow covered slope
+Imageid: 396542, extracted triplets: ['person ride skis'], mapped triplets: ['person ride ski', 'people ride ski']
+Objective: 357.38631860055625
+PRIOR DISTANCE
+gt_people ride ski=1.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+Objective: 357.6283848750552
+gt_people ride ski=0.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+----------------------------
+Caption: a woman laying on a beach under an umbrella on the beach
+Imageid: 250619, extracted triplets: ['woman under umbrella', 'umbrella on beach'], mapped triplets: ['people under umbrella', 'girl under umbrella', 'woman under umbrella', 'man under umbrella', 'child on beach', 'woman on beach', 'umbrella on beach']
+Objective: 357.6283848750552
+PRIOR DISTANCE
+gt_child on beach=1.0
+gt_woman under umbrella=1.0
+gt_woman under umbrella=1.0
+gt_umbrella on beach=0.0
+gt_people under umbrella=0.0
+Objective: 357.99731730867046
+gt_child on beach=1.0
+gt_woman under umbrella=0.0
+gt_woman under umbrella=0.0
+gt_umbrella on beach=0.0
+gt_people under umbrella=0.0
+----------------------------
+Caption: two people standing on the beach with an umbrella
+Imageid: 243955, extracted triplets: ['people on beach', 'people with umbrella'], mapped triplets: ['child on beach', 'woman on beach', 'people on beach', 'woman with umbrella', 'child with umbrella', 'person with umbrella', 'man with umbrella', 'people with umbrella']
+Objective: 357.99731730867046
+PRIOR DISTANCE
+gt_people with umbrella=1.0
+gt_child on beach=1.0
+gt_man with umbrella=-0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_people on beach=1.0
+gt_person with umbrella=1.0
+Objective: 357.91170855865175
+gt_people with umbrella=1.0
+gt_child on beach=1.0
+gt_man with umbrella=-0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_people on beach=0.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: a man and a woman riding on the back of an elephant
+Imageid: 132796, extracted triplets: ['woman ride luggage'], mapped triplets: ['woman ride bag']
+Objective: 357.91170855865175
+PRIOR DISTANCE
+gt_woman ride bag=1.0
+Objective: 357.99878768842825
+gt_woman ride bag=1.0
+----------------------------
+Caption: a woman standing next to a pile of luggage
+Imageid: 130419, extracted triplets: ['woman next to bag', 'woman next to suitcase'], mapped triplets: ['person next to bag', 'person next to bag', 'person next to suitcase', 'woman next to suitcase']
+Objective: 357.99878768842825
+PRIOR DISTANCE
+gt_woman next to suitcase=1.0
+Objective: 358.00007400876854
+gt_woman next to suitcase=1.0
+----------------------------
+Caption: a group of people sitting on the beach
+Imageid: 22118, extracted triplets: ['people sit beach'], mapped triplets: ['boat sit beach', 'people sit sand', 'surfboard sit beach', 'woman sit beach']
+Objective: 358.00007400876854
+PRIOR DISTANCE
+Objective: 358.00007400876854
+----------------------------
+Caption: a group of people sitting on the beach under umbrellas
+Imageid: 406899, extracted triplets: ['people sit beach', 'people under umbrella'], mapped triplets: ['boat sit beach', 'people sit sand', 'man sit beach', 'surfboard sit beach', 'woman sit beach', 'people under umbrella', 'girl under umbrella', 'woman under umbrella', 'man under umbrella']
+Objective: 358.00007400876854
+PRIOR DISTANCE
+gt_woman under umbrella=0.0
+gt_woman under umbrella=0.0
+gt_people under umbrella=0.0
+Objective: 358.01719736966544
+gt_woman under umbrella=-0.0
+gt_woman under umbrella=-0.0
+gt_people under umbrella=0.0
+----------------------------
+Caption: a group of children standing on skis in the snow
+Imageid: 121839, extracted triplets: ['children on skis', 'children in snow'], mapped triplets: ['child on ski', 'people on snowboard', 'child in snow', 'people in snow']
+Objective: 358.01719736966544
+PRIOR DISTANCE
+gt_people on snowboard=0.0
+gt_child in snow=-0.0
+gt_people in snow=-0.0
+Objective: 358.2885175661174
+gt_people on snowboard=0.0
+gt_child in snow=-0.0
+gt_people in snow=-0.0
+----------------------------
+Caption: a woman sitting at a table with a cake with candles
+Imageid: 163710, extracted triplets: ['woman at table', 'woman with cake', 'cake with candle'], mapped triplets: ['woman at table', 'girl at table', 'people at table', 'man at table', 'woman with laptop', 'woman with umbrella', 'woman with backpack', 'woman with suitcase', 'table with cake', 'table with candle']
+Objective: 358.2885175661174
+PRIOR DISTANCE
+gt_woman with suitcase=-0.0
+gt_people at table=0.0
+gt_woman with laptop=1.0
+gt_man at table=0.0
+gt_woman with backpack=0.0
+gt_table with candle=1.0
+gt_table with cake=0.0
+gt_woman with umbrella=1.0
+Objective: 357.28214684054876
+gt_woman with suitcase=0.0
+gt_people at table=1.0
+gt_woman with laptop=1.0
+gt_man at table=0.0
+gt_woman with backpack=0.0
+gt_table with candle=1.0
+gt_table with cake=0.0
+gt_woman with umbrella=1.0
+----------------------------
+Caption: a black cat standing next to a bottle of wine
+Imageid: 199940, extracted triplets: ['cat next to bottle', 'bottle of wine'], mapped triplets: ['couch next to cat', 'cat next to suitcase', 'table of bottle']
+Objective: 357.28214684054876
+PRIOR DISTANCE
+Objective: 357.28214684054876
+----------------------------
+Caption: two people standing on skis on a snow covered mountain
+Imageid: 50159, extracted triplets: ['people on skis', 'people on mountain'], mapped triplets: ['person on ski', 'people on snowboard', 'people on snow', 'people on rock', 'people on beach', 'people on mountain']
+Objective: 357.28214684054876
+PRIOR DISTANCE
+gt_people on snowboard=0.0
+gt_people on snowboard=0.0
+gt_people on snow=0.0
+gt_person on skier=-0.0
+gt_person on ski=1.0
+gt_people on beach=0.0
+Objective: 357.2368883011392
+gt_people on snowboard=0.0
+gt_people on snowboard=0.0
+gt_people on snow=0.0
+gt_person on skier=-0.0
+gt_person on ski=1.0
+gt_people on beach=0.0
+----------------------------
+Caption: a man holding a bag of scissors
+Imageid: 254167, extracted triplets: ['man hold bag'], mapped triplets: ['man hold backpack', 'man hold suitcase']
+Objective: 357.2368883011392
+PRIOR DISTANCE
+gt_man hold backpack=-0.0
+gt_man hold suitcase=-0.0
+Objective: 357.1586281372847
+gt_man hold backpack=-0.0
+gt_man hold suitcase=-0.0
+----------------------------
+Caption: a group of people standing around a crowd of people
+Imageid: 436348, extracted triplets: ['crowd of people'], mapped triplets: ['people of people', 'room of people', 'field of people', 'people of mountain', 'people of build', 'people of bench']
+Objective: 357.1586281372847
+PRIOR DISTANCE
+gt_room of people=1.0
+gt_people of people=1.0
+gt_field of people=1.0
+Objective: 357.25803872775367
+gt_room of people=1.0
+gt_people of people=1.0
+gt_field of people=1.0
+----------------------------
+Caption: a black truck driving down a city street
+Imageid: 365745, extracted triplets: ['truck drive sign', 'truck drive streetlight', 'truck drive building', 'truck drive pole'], mapped triplets: ['bus drive street', 'car drive street', 'truck drive street', 'bus drive road', 'bus drive street', 'car drive street', 'bus drive street', 'bus drive street', 'car drive street']
+Objective: 357.25803872775367
+PRIOR DISTANCE
+Objective: 357.25803872775367
+----------------------------
+Caption: a person holding an umbrella standing on a park bench
+Imageid: 105622, extracted triplets: ['person hold umbrella', 'umbrella on park bench'], mapped triplets: ['woman hold umbrella', 'man hold umbrella', 'girl hold umbrella', 'people hold umbrella', 'person hold umbrella', 'girl on bench', 'bench on bench', 'umbrella on field', 'umbrella on beach', 'umbrella on sidewalk']
+Objective: 357.25803872775367
+PRIOR DISTANCE
+gt_girl hold umbrella=1.0
+gt_bench on bench=0.0
+gt_umbrella on sidewalk=-0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_people hold umbrella=0.0
+gt_umbrella on beach=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=1.0
+Objective: 357.25992948503017
+gt_girl hold umbrella=1.0
+gt_bench on bench=1.0
+gt_umbrella on sidewalk=-0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_people hold umbrella=1.0
+gt_umbrella on beach=0.0
+gt_person hold umbrella=1.0
+gt_man hold umbrella=0.0
+----------------------------
+Caption: a man standing on skis in the snow
+Imageid: 199553, extracted triplets: ['man on skis', 'man in snow'], mapped triplets: ['person on ski', 'boy on ski', 'woman on ski', 'people on ski', 'person in snow', 'people in ski', 'man in snow']
+Objective: 357.25992948503017
+PRIOR DISTANCE
+gt_people on ski=1.0
+gt_person in snow=0.0
+gt_people in skier=1.0
+gt_woman on ski=1.0
+gt_people in ski=1.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_man in snow=1.0
+gt_person on ski=1.0
+gt_boy on ski=-0.0
+Objective: 357.3435835597809
+gt_people on ski=1.0
+gt_person in snow=1.0
+gt_people in skier=1.0
+gt_woman on ski=1.0
+gt_people in ski=1.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_man in snow=1.0
+gt_person on ski=1.0
+gt_boy on ski=-0.0
+----------------------------
+Caption: a bus with a bike on the front of it
+Imageid: 128119, extracted triplets: ['bus with bike', 'bike on front'], mapped triplets: ['bus with bike', 'person with car', 'bicycle on front']
+Objective: 357.3435835597809
+PRIOR DISTANCE
+gt_bus with bike=1.0
+gt_person with car=0.0
+Objective: 357.4299903149981
+gt_bus with bike=1.0
+gt_person with car=1.0
+----------------------------
+Caption: a group of people riding motorcycles down a street
+Imageid: 270175, extracted triplets: ['people ride motorcycles'], mapped triplets: ['people ride bicycle', 'people ride motorcycle']
+Objective: 357.4299903149981
+PRIOR DISTANCE
+gt_people ride bicycle=0.0
+Objective: 357.40053554062393
+gt_people ride bicycle=0.0
+----------------------------
+Caption: a man standing next to a train with luggage
+Imageid: 137727, extracted triplets: ['man next to train', 'train with luggage'], mapped triplets: ['man next to person', 'people next to train', 'man next to train', 'train with bag', 'room with luggage', 'train with luggage']
+Objective: 357.40053554062393
+PRIOR DISTANCE
+gt_train with bag=-0.0
+gt_room with luggage=-0.0
+gt_man next to train=1.0
+gt_train with luggage=1.0
+Objective: 357.4499485725642
+gt_train with bag=-0.0
+gt_room with luggage=-0.0
+gt_man next to train=0.0
+gt_train with luggage=1.0
+----------------------------
+Caption: two chairs and an umbrella on the beach
+Imageid: 348896, extracted triplets: ['umbrella on beach'], mapped triplets: ['child on beach', 'kite on beach', 'surfboard on beach', 'boat on beach', 'woman on beach', 'umbrella on beach']
+Objective: 357.4499485725642
+PRIOR DISTANCE
+gt_child on beach=1.0
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+Objective: 357.4692997605143
+gt_child on beach=1.0
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 315742, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['people at table', 'boy at table', 'girl at table', 'woman at table', 'man at table', 'person with laptop', 'people with laptop', 'room with laptop', 'desk with laptop', 'chair with laptop', 'woman with laptop', 'girl with laptop']
+Objective: 357.4692997605143
+PRIOR DISTANCE
+gt_boy at table=1.0
+gt_girl with laptop=0.0
+gt_people at table=1.0
+gt_woman with laptop=1.0
+gt_man at table=0.0
+gt_desk with laptop=1.0
+gt_room with laptop=1.0
+gt_chair with laptop=0.0
+Objective: 357.4631513859555
+gt_boy at table=1.0
+gt_girl with laptop=0.0
+gt_people at table=1.0
+gt_woman with laptop=1.0
+gt_man at table=0.0
+gt_desk with laptop=1.0
+gt_room with laptop=1.0
+gt_chair with laptop=0.0
+----------------------------
+Caption: a clock on a pole in a city street
+Imageid: 438535, extracted triplets: ['clock on pole', 'pole in sidewalk'], mapped triplets: ['clock on tower', 'pole on street', 'pole in build', 'sidewalk in build']
+Objective: 357.4631513859555
+PRIOR DISTANCE
+gt_clock on tower=0.0
+gt_pole on street=0.0
+Objective: 357.14248081595446
+gt_clock on tower=0.0
+gt_pole on street=0.0
+----------------------------
+Caption: a man taking a picture of himself in a mirror
+Imageid: 150117, extracted triplets: ['man take picture', 'man in mirror'], mapped triplets: ['bus in mirror', 'man in person', 'person in mirror']
+Objective: 357.14248081595446
+PRIOR DISTANCE
+gt_man in person=0.0
+gt_bus in mirror=1.0
+Objective: 357.32407802844943
+gt_man in person=0.0
+gt_bus in mirror=1.0
+----------------------------
+Caption: a desk with a banana and a computer on it
+Imageid: 267932, extracted triplets: ['desk with banana'], mapped triplets: ['desk with laptop', 'desk with computer', 'desk with drawer']
+Objective: 357.32407802844943
+PRIOR DISTANCE
+gt_desk with drawer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=1.0
+Objective: 357.36080247898053
+gt_desk with drawer=0.0
+gt_desk with computer=1.0
+gt_desk with laptop=1.0
+----------------------------
+Caption: two men standing in a room with a camera
+Imageid: 90646, extracted triplets: ['men in room'], mapped triplets: ['people in room', 'man in room', 'woman in room']
+Objective: 357.36080247898053
+PRIOR DISTANCE
+gt_people in room=1.0
+gt_man in room=0.0
+Objective: 357.40235261771
+gt_people in room=1.0
+gt_man in room=1.0
+----------------------------
+Caption: a suitcase with luggage on top of it
+Imageid: 559656, extracted triplets: ['luggage on top'], mapped triplets: ['suitcase on floor', 'backpack on desk']
+Objective: 357.40235261771
+PRIOR DISTANCE
+gt_suitcase on floor=1.0
+gt_backpack on desk=1.0
+Objective: 357.1939538680508
+gt_suitcase on floor=1.0
+gt_backpack on desk=1.0
+----------------------------
+Caption: a man and a little girl on a skateboard
+Imageid: 572182, extracted triplets: ['girl on skateboard'], mapped triplets: ['boy on skateboard', 'person on skateboard', 'girl on skateboard']
+Objective: 357.1939538680508
+PRIOR DISTANCE
+gt_boy on skateboard=1.0
+gt_person on skateboard=1.0
+gt_girl on skateboard=1.0
+Objective: 357.23350142784034
+gt_boy on skateboard=1.0
+gt_person on skateboard=0.0
+gt_girl on skateboard=1.0
+----------------------------
+Caption: a group of people sitting in a room watching a television
+Imageid: 68864, extracted triplets: ['people sit room', 'room watch television'], mapped triplets: ['people sit room']
+Objective: 357.23350142784034
+PRIOR DISTANCE
+Objective: 357.23350142784034
+----------------------------
+Caption: a woman sitting in a couch talking on a cell phone
+Imageid: 283012, extracted triplets: ['woman sit couch'], mapped triplets: ['man sit couch', 'woman sit table', 'woman sit bench', 'woman sit couch']
+Objective: 357.23350142784034
+PRIOR DISTANCE
+Objective: 357.23350142784034
+----------------------------
+Caption: a train with a bike parked next to a train
+Imageid: 495349, extracted triplets: ['train with bike', 'bike next to train'], mapped triplets: ['woman with bike', 'train with luggage', 'bicycle next to bench', 'man next to train', 'man next to bus']
+Objective: 357.23350142784034
+PRIOR DISTANCE
+gt_man next to train=0.0
+gt_bicycle next to bench=1.0
+gt_train with luggage=1.0
+gt_man next to bus=-0.0
+Objective: 357.2027928301609
+gt_man next to train=0.0
+gt_bicycle next to bench=1.0
+gt_train with luggage=1.0
+gt_man next to bus=-0.0
+----------------------------
+Caption: a group of people riding elephants in the river
+Imageid: 179114, extracted triplets: ['people ride elephant'], mapped triplets: ['man ride elephant', 'boy ride elephant', 'woman ride elephant', 'people ride elephant']
+Objective: 357.2027928301609
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_people ride elephant=1.0
+Objective: 357.2635122494783
+gt_woman ride elephant=1.0
+gt_woman ride elephant=1.0
+gt_man ride elephant=1.0
+gt_people ride elephant=1.0
+----------------------------
+Caption: three people riding skis down a snow covered slope
+Imageid: 560439, extracted triplets: ['people ride skis'], mapped triplets: ['people ride ski', 'person ride ski']
+Objective: 357.2635122494783
+PRIOR DISTANCE
+gt_people ride ski=1.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+Objective: 357.5158206949775
+gt_people ride ski=0.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+----------------------------
+Caption: a man riding skis down a snow covered slope
+Imageid: 292590, extracted triplets: ['man ride snowboard'], mapped triplets: ['boy ride skateboard', 'person ride ski', 'man ride ski', 'man ride skier', 'man ride snowboard']
+Objective: 357.5158206949775
+PRIOR DISTANCE
+gt_man ride skier=0.0
+gt_man ride skier=0.0
+gt_man ride snowboard=1.0
+gt_person ride ski=1.0
+gt_boy ride skateboard=1.0
+gt_man ride ski=0.0
+Objective: 357.54296904221724
+gt_man ride skier=1.0
+gt_man ride skier=1.0
+gt_man ride snowboard=1.0
+gt_person ride ski=1.0
+gt_boy ride skateboard=1.0
+gt_man ride ski=1.0
+----------------------------
+Caption: a man riding a skateboard on a ramp at a skate park
+Imageid: 84000, extracted triplets: ['man ride skateboard', 'man at park'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'people ride skateboard', 'man ride skateboard', 'man at beach', 'people at beach']
+Objective: 357.54296904221724
+PRIOR DISTANCE
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at beach=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+Objective: 357.9411127418282
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_people at beach=1.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+----------------------------
+Caption: a young girl sitting in front of a laptop computer
+Imageid: 170436, extracted triplets: ['girl sit chair'], mapped triplets: ['woman sit couch', 'woman sit chair']
+Objective: 357.9411127418282
+PRIOR DISTANCE
+Objective: 357.9411127418282
+----------------------------
+Caption: a group of people sitting in a room with laptops
+Imageid: 466818, extracted triplets: ['people sit room', 'people with laptop'], mapped triplets: ['people sit room', 'woman with laptop', 'chair with laptop', 'girl with laptop', 'desk with laptop', 'table with laptop', 'room with laptop', 'man with laptop', 'people with laptop']
+Objective: 357.9411127418282
+PRIOR DISTANCE
+gt_girl with laptop=0.0
+gt_woman with laptop=1.0
+gt_woman with laptop=1.0
+gt_desk with laptop=1.0
+gt_table with laptop=1.0
+gt_man with laptop=1.0
+gt_room with laptop=1.0
+gt_chair with laptop=0.0
+Objective: 357.9789907079868
+gt_girl with laptop=0.0
+gt_woman with laptop=1.0
+gt_woman with laptop=1.0
+gt_desk with laptop=1.0
+gt_table with laptop=1.0
+gt_man with laptop=1.0
+gt_room with laptop=1.0
+gt_chair with laptop=0.0
+----------------------------
+Caption: a group of people standing in front of a bus
+Imageid: 10014, extracted triplets: ['front of bus'], mapped triplets: ['bus of bus', 'sidewalk of bus', 'door of bus', 'skateboard of bus', 'bicycle of bus', 'bike of bus', 'line of bus']
+Objective: 357.9789907079868
+PRIOR DISTANCE
+gt_bus of bus=0.0
+gt_door of bus=-0.0
+gt_line of bus=1.0
+Objective: 357.892888757728
+gt_bus of bus=0.0
+gt_door of bus=-0.0
+gt_line of bus=1.0
+----------------------------
+Caption: a yellow and blue fire hydrant on the side of a street
+Imageid: 72397, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 357.892888757728
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+Objective: 357.9903860365399
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a man sitting on a pile of luggage
+Imageid: 60700, extracted triplets: ['man sit bag', 'man sit suitcase', 'man sit backpack', 'man sit luggage'], mapped triplets: ['dog sit bag', 'backpack sit suitcase', 'man sit backpack', 'man sit bag', 'backpack sit suitcase', 'man sit backpack', 'woman sit backpack', 'people sit bag', 'person sit bench', 'backpack sit suitcase', 'backpack sit desk', 'backpack sit chair', 'backpack sit bench', 'backpack sit cup', 'man sit backpack', 'people sit luggage']
+Objective: 357.9903860365399
+PRIOR DISTANCE
+Objective: 357.9903860365399
+----------------------------
+Caption: a man holding a white frisbee in a room
+Imageid: 143554, extracted triplets: ['man hold frisbee'], mapped triplets: ['man hold frisbee']
+Objective: 357.9903860365399
+PRIOR DISTANCE
+gt_man hold frisbee=-0.0
+Objective: 357.94686525882554
+gt_man hold frisbee=-0.0
+----------------------------
+Caption: a man riding skis down a snow covered slope
+Imageid: 400886, extracted triplets: ['man ride skis'], mapped triplets: ['person ride ski', 'people ride ski']
+Objective: 357.94686525882554
+PRIOR DISTANCE
+gt_people ride ski=0.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+Objective: 357.9570399291179
+gt_people ride ski=0.0
+gt_person ride ski=1.0
+gt_people ride skier=1.0
+----------------------------
+Caption: a man taking a picture of himself in a mirror
+Imageid: 516786, extracted triplets: ['man in mirror'], mapped triplets: ['man in man', 'woman in hat', 'person in shirt', 'man in shirt', 'man in uniform', 'man in hat', 'man in tie', 'man in vest', 'man in pant', 'man in jacket', 'man in sunglass', 'man in glass', 'man in bag', 'man in suit']
+Objective: 357.9570399291179
+PRIOR DISTANCE
+gt_woman in man=0.0
+gt_man in jacket=0.0
+gt_man in shirt=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_man in pant=1.0
+gt_man in glass=-0.0
+gt_man in sunglass=1.0
+gt_woman in uniform=1.0
+gt_woman in pant=1.0
+gt_man in suit=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=-0.0
+gt_man in uniform=1.0
+gt_woman in sunglass=0.0
+gt_man in vest=1.0
+gt_woman in glass=0.0
+gt_man in tie=1.0
+gt_man in shirt=1.0
+gt_woman in shirt=-0.0
+gt_person in shirt=1.0
+Objective: 358.85265647451354
+gt_woman in man=0.0
+gt_man in jacket=0.0
+gt_man in shirt=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_man in pant=1.0
+gt_man in glass=-0.0
+gt_man in sunglass=1.0
+gt_woman in uniform=1.0
+gt_woman in pant=1.0
+gt_man in suit=-0.0
+gt_man in jacket=1.0
+gt_woman in jacket=-0.0
+gt_man in uniform=1.0
+gt_woman in sunglass=0.0
+gt_man in vest=1.0
+gt_woman in glass=0.0
+gt_man in tie=1.0
+gt_man in shirt=1.0
+gt_woman in shirt=-0.0
+gt_person in shirt=1.0
+----------------------------
+Caption: a group of people sitting on a bench
+Imageid: 392878, extracted triplets: ['people sit bench'], mapped triplets: ['woman sit bench', 'person sit bench', 'people sit bench']
+Objective: 358.85265647451354
+PRIOR DISTANCE
+Objective: 358.85265647451354
+----------------------------
+Caption: a man standing in a field with a herd of cows
+Imageid: 414228, extracted triplets: ['man in field', 'man with cow', 'man with sheep'], mapped triplets: ['woman in field', 'person in field', 'people in field', 'child in field', 'frisbee in field', 'hydrant in field', 'kite in field', 'chair in field', 'man in field', 'person with dog', 'woman with child', 'people with elephant', 'people with man', 'person with dog']
+Objective: 358.85265647451354
+PRIOR DISTANCE
+gt_person with dog=-0.0
+gt_person with dog=-0.0
+gt_frisbee in field=-0.0
+gt_hydrant in field=1.0
+gt_people with elephant=1.0
+gt_people in field=1.0
+gt_chair in field=0.0
+gt_kite in field=0.0
+gt_child in field=0.0
+gt_person in field=0.0
+gt_woman with child=-0.0
+gt_man in field=1.0
+Objective: 358.97454576656025
+gt_person with dog=-0.0
+gt_person with dog=-0.0
+gt_frisbee in field=1.0
+gt_hydrant in field=1.0
+gt_people with elephant=1.0
+gt_people in field=1.0
+gt_chair in field=-0.0
+gt_kite in field=0.0
+gt_child in field=1.0
+gt_person in field=0.0
+gt_woman with child=-0.0
+gt_man in field=1.0
+----------------------------
+Caption: a man riding a skateboard on a street
+Imageid: 152258, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'man ride skateboard', 'person ride skateboard', 'people ride skateboard', 'backpack ride skateboard']
+Objective: 358.97454576656025
+PRIOR DISTANCE
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+gt_backpack ride skateboard=1.0
+Objective: 359.1447891778531
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+gt_backpack ride skateboard=1.0
+----------------------------
+Caption: a man riding a skateboard on a ledge
+Imageid: 177567, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'woman ride skateboard', 'person ride skateboard', 'people ride skateboard', 'man ride skateboard']
+Objective: 359.1447891778531
+PRIOR DISTANCE
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+Objective: 359.1507208561759
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=1.0
+gt_man ride skateboard=-0.0
+----------------------------
+Caption: a group of people sitting on the beach with an umbrella
+Imageid: 319051, extracted triplets: ['people sit beach', 'people with umbrella'], mapped triplets: ['boat sit beach', 'people sit sand', 'surfboard sit beach', 'woman sit beach', 'woman with umbrella', 'child with umbrella', 'person with umbrella', 'man with umbrella', 'people with umbrella']
+Objective: 359.1507208561759
+PRIOR DISTANCE
+gt_people with umbrella=1.0
+gt_man with umbrella=-0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_person with umbrella=1.0
+Objective: 358.9744975499308
+gt_people with umbrella=1.0
+gt_man with umbrella=-0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: a messy room with a bed and a desk
+Imageid: 211112, extracted triplets: ['room with bed'], mapped triplets: ['room with picture', 'room with window', 'room with towel', 'room with tv', 'room with stair', 'room with dog', 'room with floor', 'room with desk', 'room with door', 'room with suitcase', 'room with pillow', 'room with man', 'room with backpack', 'room with table', 'room with chair', 'room with luggage', 'room with plant', 'room with bed', 'room with laptop', 'room with book']
+Objective: 358.9744975499308
+PRIOR DISTANCE
+gt_bathroom with dog=0.0
+gt_bathroom with tv=0.0
+gt_room with window=0.0
+gt_bathroom with plant=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with window=0.0
+gt_bathroom with door=0.0
+gt_bathroom with towel=0.0
+gt_room with door=-0.0
+gt_room with stair=-0.0
+gt_room with window=-0.0
+gt_room with luggage=-0.0
+gt_room with picture=1.0
+gt_room with desk=1.0
+gt_room with towel=-0.0
+gt_room with table=-0.0
+gt_room with suitcase=-0.0
+gt_room with man=1.0
+gt_room with floor=-0.0
+gt_room with pillow=1.0
+gt_room with tv=0.0
+gt_room with plant=0.0
+gt_room with laptop=1.0
+gt_room with chair=0.0
+gt_room with bed=0.0
+gt_room with backpack=0.0
+Objective: 359.85412038895873
+gt_bathroom with dog=0.0
+gt_bathroom with tv=0.0
+gt_room with window=0.0
+gt_bathroom with plant=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with window=0.0
+gt_bathroom with door=0.0
+gt_bathroom with towel=0.0
+gt_room with door=-0.0
+gt_room with stair=-0.0
+gt_room with window=-0.0
+gt_room with luggage=-0.0
+gt_room with picture=1.0
+gt_room with desk=1.0
+gt_room with towel=-0.0
+gt_room with table=-0.0
+gt_room with suitcase=-0.0
+gt_room with man=1.0
+gt_room with floor=0.0
+gt_room with pillow=1.0
+gt_room with tv=0.0
+gt_room with plant=1.0
+gt_room with laptop=1.0
+gt_room with chair=1.0
+gt_room with bed=0.0
+gt_room with backpack=0.0
+----------------------------
+Caption: two people standing on skis on a snow covered mountain
+Imageid: 21979, extracted triplets: ['people on skis', 'people on mountain'], mapped triplets: ['person on ski', 'people on snowboard', 'people on snow', 'people on beach', 'people on mountain']
+Objective: 359.85412038895873
+PRIOR DISTANCE
+gt_people on snowboard=0.0
+gt_people on snowboard=0.0
+gt_people on snow=0.0
+gt_person on skier=-0.0
+gt_person on ski=1.0
+gt_people on beach=0.0
+Objective: 359.8079683230833
+gt_people on snowboard=0.0
+gt_people on snowboard=0.0
+gt_people on snow=0.0
+gt_person on skier=-0.0
+gt_person on ski=1.0
+gt_people on beach=0.0
+----------------------------
+Caption: a man sitting on a bench in a park
+Imageid: 302842, extracted triplets: ['man sit bench', 'man in park'], mapped triplets: ['person sit bench', 'people sit bench', 'man sit bench', 'man in street', 'person in field']
+Objective: 359.8079683230833
+PRIOR DISTANCE
+gt_person in field=0.0
+gt_man in street=0.0
+Objective: 359.55847532280234
+gt_person in field=1.0
+gt_man in street=1.0
+----------------------------
+Caption: two buses parked on the side of a city street
+Imageid: 42408, extracted triplets: ['side of bus', 'side of sign', 'side of sidewalk', 'side of people', 'side of person', 'side of car', 'side of street', 'side of light'], mapped triplets: ['sidewalk of bus', 'bus of bus', 'mountain of sign', 'motorcycle of sign', 'sidewalk of street', 'people of people', 'people of skier', 'people of ski', 'people of bench', 'people of statue', 'people of mountain', 'people of build', 'person of woman', 'person of man', 'seat of car', 'car of car', 'sidewalk of street', 'light of build']
+Objective: 359.55847532280234
+PRIOR DISTANCE
+gt_bus of bus=0.0
+gt_people of skier=1.0
+gt_people of skier=1.0
+gt_seat of car=0.0
+gt_car of car=1.0
+gt_light of build=1.0
+gt_people of ski=0.0
+gt_sidewalk of street=1.0
+gt_sidewalk of street=1.0
+gt_people of people=1.0
+Objective: 359.1836821845963
+gt_bus of bus=0.0
+gt_people of skier=1.0
+gt_people of skier=1.0
+gt_seat of car=0.0
+gt_car of car=1.0
+gt_light of build=1.0
+gt_people of ski=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_people of people=1.0
+----------------------------
+Caption: a group of people sitting on the beach under an umbrella
+Imageid: 150224, extracted triplets: ['people sit on beach', 'people under umbrella'], mapped triplets: ['people sit sand', 'boat sit beach', 'man under umbrella', 'woman under umbrella', 'girl under umbrella', 'people under umbrella']
+Objective: 359.1836821845963
+PRIOR DISTANCE
+gt_woman under umbrella=0.0
+gt_woman under umbrella=0.0
+gt_people under umbrella=0.0
+Objective: 359.18519745421713
+gt_woman under umbrella=0.0
+gt_woman under umbrella=0.0
+gt_people under umbrella=0.0
+----------------------------
+Caption: a person walking down a street with a suitcase
+Imageid: 312878, extracted triplets: ['person with suitcase'], mapped triplets: ['person with umbrella', 'person with dog', 'woman with suitcase']
+Objective: 359.18519745421713
+PRIOR DISTANCE
+gt_woman with suitcase=0.0
+gt_person with dog=-0.0
+gt_person with umbrella=1.0
+Objective: 358.9377666901938
+gt_woman with suitcase=0.0
+gt_person with dog=-0.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: three people sitting on a bench in the water
+Imageid: 152543, extracted triplets: ['people sit bench', 'people in water'], mapped triplets: ['person sit bench', 'woman sit bench', 'man sit bench', 'people sit bench', 'people in sand', 'people in snow', 'elephant in water', 'boat in water', 'person in water', 'beach in water', 'surfboard in water', 'people in water']
+Objective: 358.9377666901938
+PRIOR DISTANCE
+gt_people in water=-0.0
+gt_elephant in water=1.0
+gt_person in water=1.0
+gt_beach in water=1.0
+gt_boat in water=0.0
+gt_people in snow=-0.0
+gt_surfboard in water=0.0
+Objective: 358.99156052576996
+gt_people in water=1.0
+gt_elephant in water=1.0
+gt_person in water=1.0
+gt_beach in water=1.0
+gt_boat in water=0.0
+gt_people in snow=-0.0
+gt_surfboard in water=0.0
+----------------------------
+Caption: a person walking in the rain with an umbrella
+Imageid: 208408, extracted triplets: ['person with umbrella'], mapped triplets: ['woman with umbrella', 'child with umbrella', 'man with umbrella', 'person with umbrella', 'people with umbrella']
+Objective: 358.99156052576996
+PRIOR DISTANCE
+gt_people with umbrella=1.0
+gt_man with umbrella=-0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_person with umbrella=1.0
+Objective: 359.0205568020634
+gt_people with umbrella=1.0
+gt_man with umbrella=-0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: a group of people standing in a field with elephants
+Imageid: 469777, extracted triplets: ['people in field', 'people with elephant'], mapped triplets: ['woman in field', 'horse in field', 'cow in field', 'hydrant in field', 'child in field', 'chair in field', 'people in field', 'people with man', 'elephant with people', 'people with elephant']
+Objective: 359.0205568020634
+PRIOR DISTANCE
+gt_hydrant in field=1.0
+gt_people with elephant=1.0
+gt_people in field=1.0
+gt_chair in field=-0.0
+gt_child in field=1.0
+gt_cow in field=-0.0
+Objective: 358.9727591274003
+gt_hydrant in field=1.0
+gt_people with elephant=1.0
+gt_people in field=1.0
+gt_chair in field=-0.0
+gt_child in field=1.0
+gt_cow in field=-0.0
+----------------------------
+Caption: a sign on the side of a street
+Imageid: 282098, extracted triplets: ['sign on side', 'side of street'], mapped triplets: ['sign on pole', 'sign on street', 'sign on grass', 'sign on man', 'sidewalk of street']
+Objective: 358.9727591274003
+PRIOR DISTANCE
+gt_sign on man=1.0
+gt_sign on street=0.0
+gt_sign on man=-0.0
+gt_sign on pole=1.0
+gt_sidewalk of street=0.0
+Objective: 359.066876622765
+gt_sign on man=1.0
+gt_sign on street=0.0
+gt_sign on man=0.0
+gt_sign on pole=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a group of people standing in the snow with skis
+Imageid: 129548, extracted triplets: ['people in snow', 'people with skis'], mapped triplets: ['child in snow', 'woman in snow', 'man in snow', 'person in snow', 'dog in snow', 'people in snow', 'person with ski', 'ski with people']
+Objective: 359.066876622765
+PRIOR DISTANCE
+gt_person in snow=1.0
+gt_dog in snow=0.0
+gt_person with ski=1.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+Objective: 359.0581034202336
+gt_person in snow=1.0
+gt_dog in snow=0.0
+gt_person with ski=1.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+----------------------------
+Caption: two men riding bikes down a road
+Imageid: 4069, extracted triplets: ['men ride bicycle', 'men ride bike'], mapped triplets: ['man ride bicycle', 'people ride bike', 'man ride bike', 'boy ride bike', 'person ride bike', 'people ride bike', 'woman ride bike']
+Objective: 359.0581034202336
+PRIOR DISTANCE
+gt_man ride bike=1.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=1.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 359.41933543417525
+gt_man ride bike=1.0
+gt_boy ride bike=0.0
+gt_man ride bicycle=1.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=1.0
+gt_people ride bike=-0.0
+gt_people ride bike=-0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: a dog sitting on the floor next to a pole
+Imageid: 435069, extracted triplets: ['dog sit sidewalk', 'dog next to pole'], mapped triplets: ['people sit street', 'dog next to chair']
+Objective: 359.41933543417525
+PRIOR DISTANCE
+Objective: 359.41933543417525
+----------------------------
+Caption: a dog pulling a backpack on the sidewalk
+Imageid: 370175, extracted triplets: ['dog pull backpack', 'dog on sidewalk'], mapped triplets: ['man pull luggage', 'woman pull suitcase', 'child on sidewalk', 'dog on street', 'dog on sidewalk']
+Objective: 359.41933543417525
+PRIOR DISTANCE
+gt_woman pull suitcase=1.0
+gt_dog on street=1.0
+gt_man pull luggage=0.0
+gt_dog on sidewalk=0.0
+Objective: 359.96981273968845
+gt_woman pull suitcase=1.0
+gt_dog on street=1.0
+gt_man pull luggage=0.0
+gt_dog on sidewalk=1.0
+----------------------------
+Caption: a group of people standing in a field with a dog
+Imageid: 482021, extracted triplets: ['people in field', 'people with dog'], mapped triplets: ['woman in field', 'horse in field', 'cow in field', 'frisbee in field', 'hydrant in field', 'child in field', 'dog in field', 'people in field', 'person with dog', 'woman with dog', 'girl with dog', 'man with dog', 'people with person', 'people with dog']
+Objective: 359.96981273968845
+PRIOR DISTANCE
+gt_people with dog=1.0
+gt_person with dog=-0.0
+gt_frisbee in field=1.0
+gt_hydrant in field=1.0
+gt_girl with dog=1.0
+gt_people in field=1.0
+gt_dog in field=-0.0
+gt_child in field=1.0
+gt_cow in field=-0.0
+gt_man with dog=0.0
+Objective: 359.65658409632545
+gt_people with dog=1.0
+gt_person with dog=-0.0
+gt_frisbee in field=1.0
+gt_hydrant in field=1.0
+gt_girl with dog=1.0
+gt_people in field=1.0
+gt_dog in field=0.0
+gt_child in field=1.0
+gt_cow in field=-0.0
+gt_man with dog=0.0
+----------------------------
+Caption: a group of people riding motorcycles down a street
+Imageid: 42970, extracted triplets: ['people ride motorcycles'], mapped triplets: ['people ride bicycle', 'people ride motorcycle']
+Objective: 359.65658409632545
+PRIOR DISTANCE
+gt_people ride bicycle=0.0
+Objective: 359.6646580947594
+gt_people ride bicycle=0.0
+----------------------------
+Caption: a man riding a snowboard down a snow covered slope
+Imageid: 358090, extracted triplets: ['man ride snowboard', 'man ride snow'], mapped triplets: ['boy ride skateboard', 'girl ride skateboard', 'people ride skateboard', 'man ride snowboard', 'man ride snow', 'person ride wave', 'ski ride snow']
+Objective: 359.6646580947594
+PRIOR DISTANCE
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_boy ride skateboard=1.0
+Objective: 359.4945821544044
+gt_girl ride skateboard=1.0
+gt_people ride skateboard=0.0
+gt_man ride snowboard=1.0
+gt_man ride snowboard=1.0
+gt_boy ride skateboard=1.0
+----------------------------
+Caption: a man holding a cat in his hand
+Imageid: 570107, extracted triplets: ['man hold cat'], mapped triplets: ['couch hold cat']
+Objective: 359.4945821544044
+PRIOR DISTANCE
+Objective: 359.4945821544044
+----------------------------
+Caption: a man sitting in a boat in the water
+Imageid: 194756, extracted triplets: ['man sit boat', 'man in water'], mapped triplets: ['person sit bench', 'woman sit boat', 'people in water', 'person in water', 'boat in water', 'elephant in water', 'people in water', 'beach in water', 'surfboard in water', 'boy in water']
+Objective: 359.4945821544044
+PRIOR DISTANCE
+gt_people in water=1.0
+gt_people in water=1.0
+gt_boy in water=1.0
+gt_elephant in water=1.0
+gt_person in water=1.0
+gt_beach in water=1.0
+gt_boat in water=0.0
+gt_surfboard in water=0.0
+Objective: 359.5015469206744
+gt_people in water=1.0
+gt_people in water=1.0
+gt_boy in water=1.0
+gt_elephant in water=1.0
+gt_person in water=1.0
+gt_beach in water=1.0
+gt_boat in water=0.0
+gt_surfboard in water=0.0
+----------------------------
+Caption: a woman riding skis down a snow covered slope
+Imageid: 192932, extracted triplets: ['woman ride skis'], mapped triplets: ['person ride ski']
+Objective: 359.5015469206744
+PRIOR DISTANCE
+gt_person ride ski=1.0
+Objective: 359.5151362105522
+gt_person ride ski=1.0
+----------------------------
+Caption: two people standing in the snow on skis
+Imageid: 357478, extracted triplets: ['people in snow', 'people on skis'], mapped triplets: ['child in snow', 'woman in snow', 'person in snow', 'man in snow', 'dog in snow', 'people in skier', 'people in ski', 'people in snow', 'person on ski', 'boy on ski', 'people on skier']
+Objective: 359.5151362105522
+PRIOR DISTANCE
+gt_person in snow=1.0
+gt_people in skier=1.0
+gt_people in skier=1.0
+gt_dog in snow=0.0
+gt_people in ski=1.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+gt_person on ski=1.0
+gt_boy on ski=-0.0
+Objective: 359.7284211088221
+gt_person in snow=1.0
+gt_people in skier=1.0
+gt_people in skier=1.0
+gt_dog in snow=0.0
+gt_people in ski=1.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_child in snow=-0.0
+gt_man in snow=1.0
+gt_people in snow=-0.0
+gt_person on ski=1.0
+gt_boy on ski=-0.0
+----------------------------
+Caption: two people standing on skis on a snow covered slope
+Imageid: 85144, extracted triplets: ['people on skis', 'people on ski'], mapped triplets: ['person on ski', 'people on snowboard', 'person on ski', 'people on snowboard', 'people on ski']
+Objective: 359.7284211088221
+PRIOR DISTANCE
+gt_people on ski=1.0
+gt_people on snowboard=0.0
+gt_people on snowboard=0.0
+gt_person on skier=-0.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_person on ski=1.0
+gt_person on ski=1.0
+Objective: 359.69955147065605
+gt_people on ski=1.0
+gt_people on snowboard=0.0
+gt_people on snowboard=0.0
+gt_person on skier=-0.0
+gt_person on skier=-0.0
+gt_people on skier=1.0
+gt_person on ski=1.0
+gt_person on ski=1.0
+----------------------------
+Caption: a man and a woman sitting on a bench looking at their cell phones
+Imageid: 443299, extracted triplets: ['woman sit bench'], mapped triplets: ['person sit bench', 'woman sit couch', 'girl sit bench', 'woman sit chair', 'woman sit bench']
+Objective: 359.69955147065605
+PRIOR DISTANCE
+Objective: 359.69955147065605
+----------------------------
+Caption: a group of people sitting on benches in a street
+Imageid: 16249, extracted triplets: ['people sit bench'], mapped triplets: ['person sit bench', 'woman sit bench', 'man sit bench', 'people sit bench']
+Objective: 359.69955147065605
+PRIOR DISTANCE
+Objective: 359.69955147065605
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 576363, extracted triplets: ['luggage at luggage', 'luggage at floor', 'luggage at window', 'luggage at sign'], mapped triplets: ['bench at field']
+Objective: 359.69955147065605
+PRIOR DISTANCE
+Objective: 359.69955147065605
+----------------------------
+Caption: a woman holding a tennis ball on a tennis court
+Imageid: 346934, extracted triplets: ['woman hold ball'], mapped triplets: ['woman hold umbrella', 'woman hold bag']
+Objective: 359.69955147065605
+PRIOR DISTANCE
+gt_woman hold umbrella=1.0
+Objective: 359.70623845114494
+gt_woman hold umbrella=1.0
+----------------------------
+Caption: a young man sitting on a bench reading a book
+Imageid: 341921, extracted triplets: ['bench read bag', 'bench read paper', 'bench read box'], mapped triplets: ['man read paper']
+Objective: 359.70623845114494
+PRIOR DISTANCE
+gt_man read paper=-0.0
+Objective: 359.7157048039822
+gt_man read paper=0.0
+----------------------------

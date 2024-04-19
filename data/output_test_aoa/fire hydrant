@@ -1,0 +1,1140 @@
+Caption: a group of people riding bikes down a city street
+Imageid: 462565, extracted triplets: ['people ride bicycle', 'people ride bike'], mapped triplets: ['person ride bike', 'woman ride bicycle', 'man ride bike', 'person ride bike', 'woman ride bicycle']
+Objective: 123.64951742260762
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+gt_man ride bike=1.0
+gt_person ride bike=1.0
+gt_person ride bike=1.0
+Objective: 122.57672862474156
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_man ride bike=1.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+----------------------------
+Caption: a green bench sitting next to a yellow fire hydrant
+Imageid: 4760, extracted triplets: ['bench next to hydrant'], mapped triplets: []
+Objective: 122.57672862474156
+PRIOR DISTANCE
+Objective: 122.57672862474156
+----------------------------
+Caption: a red fire hydrant on the side of a street
+Imageid: 38048, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street']
+Objective: 122.57672862474156
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.99365114084351
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a street sign on the side of a city street
+Imageid: 499537, extracted triplets: ['street sign on side'], mapped triplets: []
+Objective: 122.99365114084351
+PRIOR DISTANCE
+Objective: 122.99365114084351
+----------------------------
+Caption: a black truck parked on the side of a city street
+Imageid: 511583, extracted triplets: ['truck on side'], mapped triplets: ['truck on street']
+Objective: 122.99365114084351
+PRIOR DISTANCE
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_truck on street=1.0
+Objective: 123.01490689536024
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_truck on street=1.0
+----------------------------
+Caption: a traffic light and a street signs on a pole
+Imageid: 199257, extracted triplets: ['street signs on pole'], mapped triplets: ['sign on pole']
+Objective: 123.01490689536024
+PRIOR DISTANCE
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=0.0
+Objective: 122.64711630981233
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=0.0
+----------------------------
+Caption: a red fire hydrant on the side of a sidewalk
+Imageid: 427376, extracted triplets: ['side of sidewalk'], mapped triplets: ['sidewalk of street']
+Objective: 122.64711630981233
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+Objective: 122.49272443777457
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a green fire hydrant on the side of a street
+Imageid: 327149, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'curb of street']
+Objective: 122.49272443777457
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.72078863554461
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a red fire hydrant sitting on the side of a street
+Imageid: 211487, extracted triplets: ['side of street'], mapped triplets: ['curb of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.72078863554461
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.7038825149811
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a woman walking down a street with a red fire hydrant
+Imageid: 168337, extracted triplets: ['woman with hydrant'], mapped triplets: ['street with hydrant', 'sidewalk with hydrant']
+Objective: 122.7038825149811
+PRIOR DISTANCE
+gt_sidewalk with hydrant=0.0
+gt_street with hydrant=0.0
+Objective: 122.65933763524978
+gt_sidewalk with hydrant=0.0
+gt_street with hydrant=0.0
+----------------------------
+Caption: a man doing a trick on a skateboard over a fire hydrant
+Imageid: 406070, extracted triplets: ['man on skateboard', 'man over hydrant'], mapped triplets: ['man on sidewalk', 'person on sidewalk', 'man on skateboard', 'sign over hydrant', 'umbrella over hydrant']
+Objective: 122.65933763524978
+PRIOR DISTANCE
+gt_man on skateboard=0.0
+gt_man on sidewalk=1.0
+gt_man on skateboard=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_man on skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on skateboard=1.0
+gt_umbrella over hydrant=0.0
+gt_sign over hydrant=1.0
+Objective: 122.47712986600902
+gt_man on skateboard=0.0
+gt_man on sidewalk=1.0
+gt_man on skateboard=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_man on skateboard=0.0
+gt_person on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on skateboard=1.0
+gt_umbrella over hydrant=0.0
+gt_sign over hydrant=1.0
+----------------------------
+Caption: a red fire hydrant on the side of a street
+Imageid: 344909, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.47712986600902
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_sidewalk of street=0.0
+Objective: 122.50296103851802
+gt_light of street=1.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a yellow fire hydrant sitting on the side of a street
+Imageid: 149371, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.50296103851802
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.48108017817401
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a traffic light on the side of a street
+Imageid: 358817, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street']
+Objective: 122.48108017817401
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.49579358977027
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a red fire hydrant sitting on the side of a street
+Imageid: 523194, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.49579358977027
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.36952950086146
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=-0.0
+----------------------------
+Caption: a red fire hydrant with a pole on the side of it
+Imageid: 313888, extracted triplets: ['pole on side'], mapped triplets: ['pole on sidewalk']
+Objective: 122.36952950086146
+PRIOR DISTANCE
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=0.0
+gt_pole on sidewalk=1.0
+Objective: 122.32765678124709
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=0.0
+gt_pole on sidewalk=0.0
+----------------------------
+Caption: a woman sitting on the sidewalk looking at a cell phone
+Imageid: 214454, extracted triplets: ['woman sit on sidewalk'], mapped triplets: ['man sit sidewalk']
+Objective: 122.32765678124709
+PRIOR DISTANCE
+Objective: 122.32765678124709
+----------------------------
+Caption: a person walking in the snow with an umbrella
+Imageid: 339678, extracted triplets: ['person in snow', 'person with umbrella'], mapped triplets: ['man in suit', 'dog in snow', 'house in snow', 'tree in snow', 'man with umbrella', 'person with umbrella', 'bench with umbrella', 'people with umbrella', 'girl with umbrella', 'woman with umbrella', 'hydrant with umbrella']
+Objective: 122.32765678124709
+PRIOR DISTANCE
+gt_man in suit=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=0.0
+gt_man with umbrella=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=1.0
+gt_bench with umbrella=0.0
+gt_man in suit=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=0.0
+gt_man in suit=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=1.0
+gt_dog in snow=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=-0.0
+gt_dog in snow=0.0
+gt_hydrant with umbrella=0.0
+gt_bench with umbrella=0.0
+gt_man with umbrella=0.0
+gt_tree in snow=0.0
+gt_person with umbrella=1.0
+Objective: 121.87377657592694
+gt_man in suit=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=0.0
+gt_man with umbrella=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man in suit=0.0
+gt_man in suit=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=1.0
+gt_bench with umbrella=0.0
+gt_man in suit=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=0.0
+gt_man in suit=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=1.0
+gt_dog in snow=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man in suit=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_man in suit=-0.0
+gt_dog in snow=0.0
+gt_hydrant with umbrella=0.0
+gt_bench with umbrella=0.0
+gt_man with umbrella=-0.0
+gt_tree in snow=0.0
+gt_person with umbrella=-0.0
+----------------------------
+Caption: a person riding a motorcycle down a city street
+Imageid: 253964, extracted triplets: ['person ride motorcycle'], mapped triplets: ['man ride motorcycle', 'person ride bike']
+Objective: 121.87377657592694
+PRIOR DISTANCE
+gt_person ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+Objective: 121.86086178170434
+gt_person ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=1.0
+----------------------------
+Caption: a yellow truck parked in front of a building
+Imageid: 328301, extracted triplets: ['truck in light', 'truck in headlight', 'truck in car'], mapped triplets: ['truck in hydrant', 'van in hydrant', 'car in build', 'van in hydrant', 'bike in car']
+Objective: 121.86086178170434
+PRIOR DISTANCE
+Objective: 121.86086178170434
+----------------------------
+Caption: a bird sitting on the top of a parking lot
+Imageid: 542625, extracted triplets: ['bird sit tree', 'bird sit pole', 'bird sit building', 'bird sit flower'], mapped triplets: ['house sit tree', 'leaf sit tree', 'man sit pole', 'sign sit pole']
+Objective: 121.86086178170434
+PRIOR DISTANCE
+Objective: 121.86086178170434
+----------------------------
+Caption: a man walking down a city street with an umbrella
+Imageid: 65208, extracted triplets: ['man with umbrella'], mapped triplets: ['man with umbrella', 'person with umbrella', 'people with umbrella', 'girl with umbrella', 'woman with umbrella', 'bench with umbrella']
+Objective: 121.86086178170434
+PRIOR DISTANCE
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=1.0
+gt_bench with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=1.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_bench with umbrella=0.0
+gt_man with umbrella=-0.0
+gt_person with umbrella=-0.0
+Objective: 122.06790673355133
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=1.0
+gt_bench with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=1.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_bench with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: a building with a fire truck in front of it
+Imageid: 35012, extracted triplets: ['building with firetruck'], mapped triplets: ['build with truck']
+Objective: 122.06790673355133
+PRIOR DISTANCE
+gt_build with truck=0.0
+gt_build with truck=1.0
+gt_build with truck=1.0
+gt_build with truck=1.0
+Objective: 122.06873461963897
+gt_build with truck=0.0
+gt_build with truck=1.0
+gt_build with truck=1.0
+gt_build with truck=1.0
+----------------------------
+Caption: a red fire hydrant on the side of a street
+Imageid: 35105, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.06873461963897
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=-0.0
+Objective: 122.2342934607004
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a red fire hydrant on the side of a street
+Imageid: 105912, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'bus of street', 'curb of street', 'street of sign', 'build of street', 'photo of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.2342934607004
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_build of street=0.0
+gt_bus of street=0.0
+gt_bus of street=1.0
+gt_street of sign=1.0
+gt_build of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_photo of street=0.0
+gt_build of street=1.0
+gt_bus of street=0.0
+gt_tree of street=1.0
+gt_build of street=-0.0
+gt_sign of street=-0.0
+gt_street of sign=0.0
+gt_curb of street=1.0
+gt_photo of street=0.0
+gt_sidewalk of street=0.0
+gt_bus of street=0.0
+Objective: 122.14446610139886
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_build of street=0.0
+gt_bus of street=0.0
+gt_bus of street=1.0
+gt_street of sign=1.0
+gt_build of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_photo of street=0.0
+gt_build of street=1.0
+gt_bus of street=0.0
+gt_tree of street=1.0
+gt_build of street=-0.0
+gt_sign of street=-0.0
+gt_street of sign=0.0
+gt_curb of street=1.0
+gt_photo of street=0.0
+gt_sidewalk of street=0.0
+gt_bus of street=0.0
+----------------------------
+Caption: a yellow and blue fire hydrant on the side of a street
+Imageid: 72397, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.14446610139886
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.06455218275406
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=-0.0
+----------------------------
+Caption: a yellow scooter parked next to a yellow fire hydrant
+Imageid: 269784, extracted triplets: ['scooter next to hydrant'], mapped triplets: ['bike next to hydrant', 'car next to hydrant', 'truck next to hydrant']
+Objective: 122.06455218275406
+PRIOR DISTANCE
+gt_truck next to hydrant=0.0
+Objective: 122.08507343987043
+gt_truck next to hydrant=0.0
+----------------------------
+Caption: a red and white fire hydrant on the side of a street
+Imageid: 469803, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street', 'light of street', 'tree of street']
+Objective: 122.08507343987043
+PRIOR DISTANCE
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=-0.0
+Objective: 122.27696246854364
+gt_light of street=1.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_tree of street=1.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=-0.0
+----------------------------
+Caption: a street sign on the side of a road
+Imageid: 433892, extracted triplets: ['street sign on side', 'side of road'], mapped triplets: ['sign on sidewalk', 'pole on sidewalk', 'sign of street', 'curb of street', 'sidewalk of street']
+Objective: 122.27696246854364
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sign on sidewalk=0.0
+gt_sidewalk of street=0.0
+gt_pole on sidewalk=1.0
+gt_sign on sidewalk=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_pole on sidewalk=0.0
+gt_sign of street=-0.0
+gt_pole on sidewalk=0.0
+gt_curb of street=1.0
+gt_sign on sidewalk=1.0
+gt_sidewalk of street=-0.0
+Objective: 122.2692138839666
+gt_curb of street=0.0
+gt_sign on sidewalk=0.0
+gt_sidewalk of street=0.0
+gt_pole on sidewalk=1.0
+gt_sign on sidewalk=1.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_pole on sidewalk=0.0
+gt_sign of street=-0.0
+gt_pole on sidewalk=0.0
+gt_curb of street=1.0
+gt_sign on sidewalk=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a green and white fire hydrant on the side of a street
+Imageid: 159203, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street']
+Objective: 122.2692138839666
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.4234150443481
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a yellow fire hydrant on the side of a street
+Imageid: 15667, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street']
+Objective: 122.4234150443481
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.40674668421923
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a woman walking a white dog on a street
+Imageid: 93853, extracted triplets: ['woman walk dog', 'dog on street'], mapped triplets: ['woman walk dog', 'people walk dog', 'dog on sidewalk', 'person on street', 'dog on street']
+Objective: 122.40674668421923
+PRIOR DISTANCE
+gt_woman walk dog=0.0
+gt_person on street=0.0
+gt_woman walk dog=1.0
+gt_dog on sidewalk=1.0
+gt_people walk dog=1.0
+gt_dog on street=0.0
+gt_woman walk dog=0.0
+gt_dog on street=0.0
+gt_people walk dog=0.0
+gt_woman walk dog=0.0
+gt_dog on sidewalk=0.0
+gt_dog on street=0.0
+gt_people walk dog=0.0
+gt_person on street=0.0
+gt_person on street=1.0
+gt_people walk dog=-0.0
+gt_woman walk dog=1.0
+gt_dog on street=0.0
+Objective: 122.5211625428307
+gt_woman walk dog=0.0
+gt_person on street=0.0
+gt_woman walk dog=1.0
+gt_dog on sidewalk=1.0
+gt_people walk dog=1.0
+gt_dog on street=0.0
+gt_woman walk dog=0.0
+gt_dog on street=0.0
+gt_people walk dog=0.0
+gt_woman walk dog=0.0
+gt_dog on sidewalk=0.0
+gt_dog on street=0.0
+gt_people walk dog=0.0
+gt_person on street=0.0
+gt_person on street=1.0
+gt_people walk dog=0.0
+gt_woman walk dog=1.0
+gt_dog on street=0.0
+----------------------------
+Caption: a white fire hydrant on the side of a street
+Imageid: 215124, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'sidewalk of street']
+Objective: 122.5211625428307
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_sidewalk of street=0.0
+Objective: 122.53971484134881
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a man standing on the sidewalk next to a street
+Imageid: 158744, extracted triplets: ['man on sidewalk', 'man next to street'], mapped triplets: ['woman on sidewalk', 'person on sidewalk', 'people on sidewalk', 'man on sidewalk', 'man next to woman', 'woman next to man']
+Objective: 122.53971484134881
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man next to woman=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_person on sidewalk=1.0
+gt_man next to woman=1.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=-0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man next to woman=0.0
+Objective: 123.1139927613446
+gt_man next to woman=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man next to woman=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_person on sidewalk=1.0
+gt_man next to woman=1.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=-0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man next to woman=0.0
+----------------------------
+Caption: a man standing on the side of a street with a traffic light
+Imageid: 34900, extracted triplets: ['man on side', 'side of street'], mapped triplets: ['man on sidewalk', 'person on sidewalk', 'man on bench', 'person on bench', 'curb of street', 'sidewalk of street']
+Objective: 123.1139927613446
+PRIOR DISTANCE
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_person on bench=0.0
+gt_person on sidewalk=1.0
+gt_person on bench=1.0
+gt_man on bench=0.0
+gt_sidewalk of street=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_sidewalk of street=0.0
+gt_man on sidewalk=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+Objective: 122.05729616733548
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_person on bench=0.0
+gt_person on sidewalk=1.0
+gt_person on bench=1.0
+gt_man on bench=0.0
+gt_sidewalk of street=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_sidewalk of street=0.0
+gt_man on sidewalk=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a little girl standing next to a fire hydrant
+Imageid: 176466, extracted triplets: ['girl next to light', 'girl next to car', 'girl next to sign', 'girl next to hydrant'], mapped triplets: ['woman next to bicycle', 'woman next to bicycle', 'woman next to bicycle', 'man next to woman', 'woman next to hydrant', 'girl next to hydrant']
+Objective: 122.05729616733548
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_woman next to bicycle=0.0
+gt_woman next to bicycle=0.0
+gt_woman next to bicycle=0.0
+gt_girl next to hydrant=1.0
+gt_man next to woman=0.0
+Objective: 122.16248881094661
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_woman next to bicycle=0.0
+gt_woman next to bicycle=0.0
+gt_woman next to bicycle=0.0
+gt_girl next to hydrant=1.0
+gt_man next to woman=0.0
+----------------------------
+Caption: a stop sign next to a tree on a street
+Imageid: 165298, extracted triplets: ['tree on street'], mapped triplets: ['tree on sidewalk', 'sign on street', 'hydrant on sidewalk', 'build on street', 'road on street', 'light on street', 'car on street', 'dog on street', 'house on street', 'horse on street', 'cone on street', 'wall on street', 'window on street', 'motorcycle on street', 'man on street', 'person on street', 'bus on street', 'people on street', 'photo on street', 'street on street']
+Objective: 122.16248881094661
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_motorcycle on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_bus on street=0.0
+gt_woman on street=1.0
+gt_horse on street=1.0
+gt_photo on street=1.0
+gt_person on street=0.0
+gt_car on street=0.0
+gt_sign on street=1.0
+gt_people on street=0.0
+gt_motorcycle on street=1.0
+gt_light on street=0.0
+gt_build on street=0.0
+gt_light on street=1.0
+gt_people on street=0.0
+gt_hydrant on sidewalk=0.0
+gt_motorcycle on street=1.0
+gt_sign on street=0.0
+gt_horse on street=1.0
+gt_tree on sidewalk=0.0
+gt_people on street=1.0
+gt_build on street=0.0
+gt_man on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_hydrant on sidewalk=1.0
+gt_bus on street=0.0
+gt_build on street=0.0
+gt_dog on street=0.0
+gt_light on street=1.0
+gt_tree on sidewalk=0.0
+gt_car on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_hydrant on sidewalk=0.0
+gt_woman on street=1.0
+gt_photo on street=0.0
+gt_dog on street=0.0
+gt_man on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_street on street=1.0
+gt_photo on street=0.0
+gt_dog on street=0.0
+gt_motorcycle on street=1.0
+gt_light on street=0.0
+gt_build on street=1.0
+gt_man on street=0.0
+gt_photo on street=0.0
+gt_person on street=0.0
+gt_car on street=0.0
+gt_bus on street=1.0
+gt_person on street=1.0
+gt_build on street=1.0
+gt_window on street=1.0
+gt_bus on street=0.0
+gt_house on street=1.0
+gt_man on street=0.0
+gt_people on street=-0.0
+gt_light on street=1.0
+gt_car on street=-0.0
+gt_woman on street=1.0
+gt_photo on street=0.0
+gt_wall on street=0.0
+gt_horse on street=1.0
+gt_sign on street=-0.0
+gt_cone on street=1.0
+gt_tree on sidewalk=1.0
+gt_dog on street=0.0
+gt_hydrant on sidewalk=0.0
+Objective: 119.04210308559922
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_motorcycle on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_bus on street=0.0
+gt_woman on street=1.0
+gt_horse on street=1.0
+gt_photo on street=1.0
+gt_person on street=0.0
+gt_car on street=0.0
+gt_sign on street=1.0
+gt_people on street=0.0
+gt_motorcycle on street=1.0
+gt_light on street=0.0
+gt_build on street=0.0
+gt_light on street=1.0
+gt_people on street=0.0
+gt_hydrant on sidewalk=0.0
+gt_motorcycle on street=1.0
+gt_sign on street=0.0
+gt_horse on street=1.0
+gt_tree on sidewalk=0.0
+gt_people on street=1.0
+gt_build on street=0.0
+gt_man on street=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_hydrant on sidewalk=1.0
+gt_bus on street=0.0
+gt_build on street=0.0
+gt_dog on street=0.0
+gt_light on street=1.0
+gt_tree on sidewalk=0.0
+gt_car on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_hydrant on sidewalk=0.0
+gt_woman on street=1.0
+gt_photo on street=0.0
+gt_dog on street=0.0
+gt_man on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_street on street=1.0
+gt_photo on street=0.0
+gt_dog on street=0.0
+gt_motorcycle on street=1.0
+gt_light on street=0.0
+gt_build on street=1.0
+gt_man on street=0.0
+gt_photo on street=0.0
+gt_person on street=0.0
+gt_car on street=0.0
+gt_bus on street=1.0
+gt_person on street=1.0
+gt_build on street=-0.0
+gt_window on street=1.0
+gt_bus on street=0.0
+gt_house on street=0.0
+gt_man on street=1.0
+gt_people on street=-0.0
+gt_light on street=1.0
+gt_car on street=-0.0
+gt_woman on street=1.0
+gt_photo on street=0.0
+gt_wall on street=0.0
+gt_horse on street=0.0
+gt_sign on street=-0.0
+gt_cone on street=1.0
+gt_tree on sidewalk=1.0
+gt_dog on street=0.0
+gt_hydrant on sidewalk=0.0
+----------------------------
+Caption: a man standing on top of a traffic light on a street
+Imageid: 212288, extracted triplets: ['man on hat'], mapped triplets: ['person on bench']
+Objective: 119.04210308559922
+PRIOR DISTANCE
+gt_person on bench=0.0
+gt_person on bench=1.0
+Objective: 119.04210308559922
+gt_person on bench=0.0
+gt_person on bench=1.0
+----------------------------
+Caption: a yellow fire hydrant on the side of a street
+Imageid: 539904, extracted triplets: ['side of street'], mapped triplets: ['sign of street', 'curb of street', 'sidewalk of street']
+Objective: 119.04210308559922
+PRIOR DISTANCE
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=-0.0
+Objective: 119.32584520321836
+gt_curb of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sign of street=-0.0
+gt_curb of street=1.0
+gt_sidewalk of street=0.0
+----------------------------

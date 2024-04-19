@@ -1,0 +1,282 @@
+Caption: a microwave oven sitting on top of a table
+Imageid: 209048, extracted triplets: ['top of table'], mapped triplets: ['table of laptop', 'table of sandwich', 'table of fruit']
+Objective: 30.37564726457115
+PRIOR DISTANCE
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+Objective: 30.508749721342717
+gt_table of sandwich=0.0
+gt_table of fruit=0.0
+gt_table of fruit=1.0
+----------------------------
+Caption: a man holding a cup of coffee in front of a refrigerator
+Imageid: 85390, extracted triplets: ['man hold cup'], mapped triplets: ['man hold tray', 'man hold sandwich', 'man hold pizza', 'man hold banana', 'man hold counter', 'man hold cake']
+Objective: 30.508749721342717
+PRIOR DISTANCE
+gt_man hold pizza=0.0
+gt_woman hold banana=0.0
+gt_man hold cake=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=0.0
+gt_man hold tray=-0.0
+gt_man hold cake=1.0
+Objective: 30.706686993917476
+gt_man hold pizza=0.0
+gt_woman hold banana=0.0
+gt_man hold cake=1.0
+gt_woman hold banana=0.0
+gt_man hold sandwich=-0.0
+gt_man hold banana=0.0
+gt_man hold tray=1.0
+gt_man hold cake=1.0
+----------------------------
+Caption: a man sitting at a kitchen table with a laptop computer
+Imageid: 187001, extracted triplets: ['man with laptop computer'], mapped triplets: ['desk with laptop']
+Objective: 30.706686993917476
+PRIOR DISTANCE
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+Objective: 30.721354919264204
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: three laptop computers sitting on top of a counter
+Imageid: 174567, extracted triplets: ['laptop computers sit monitor', 'laptop computers sit screen', 'laptop computers sit keyboard', 'laptop computers sit laptop', 'laptop computers sit counter', 'laptop computers sit desk', 'laptop computers sit lid', 'laptop computers sit handle'], mapped triplets: ['laptop sit table', 'laptop sit table', 'laptop sit table', 'box sit counter', 'laptop sit table', 'laptop sit table', 'laptop sit table']
+Objective: 30.721354919264204
+PRIOR DISTANCE
+Objective: 30.721354919264204
+----------------------------
+Caption: two people sitting on a couch with their laptops
+Imageid: 250344, extracted triplets: ['people sit couch', 'people with laptop'], mapped triplets: ['people sit couch', 'desk with laptop']
+Objective: 30.721354919264204
+PRIOR DISTANCE
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+Objective: 30.70836167571083
+gt_desk with laptop=1.0
+gt_desk with laptop=-0.0
+----------------------------
+Caption: a man standing in a kitchen with a plate of food
+Imageid: 554445, extracted triplets: ['plate of spoon', 'plate of cup', 'plate of drawer', 'plate of bag', 'plate of table', 'plate of counter', 'plate of tray', 'plate of cabinet', 'plate of bottle'], mapped triplets: ['plate of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'pot of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'plate of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'pot of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'plate of food', 'table of laptop', 'table of fruit', 'table of sandwich', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'pot of food', 'plate of food', 'pot of food', 'plate of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'pot of food', 'plate of food', 'bowl of fruit', 'bowl of vegetable', 'bowl of orange', 'pot of food']
+Objective: 30.70836167571083
+PRIOR DISTANCE
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_table of sandwich=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_table of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_bowl of fruit=1.0
+gt_bowl of fruit=1.0
+gt_bowl of fruit=1.0
+gt_bowl of fruit=1.0
+gt_bowl of fruit=1.0
+gt_bowl of fruit=1.0
+gt_bowl of fruit=1.0
+gt_table of fruit=1.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of vegetable=1.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+Objective: 30.931781099859606
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_pot of food=0.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_table of sandwich=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_table of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_plate of food=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_bowl of orange=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_bowl of fruit=0.0
+gt_table of fruit=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_pot of food=1.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of vegetable=0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_bowl of orange=-0.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+gt_plate of food=1.0
+----------------------------

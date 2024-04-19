@@ -1,0 +1,304 @@
+Caption: a parking meter on the side of a street
+Imageid: 370678, extracted triplets: ['side of street'], mapped triplets: []
+Objective: 27.200302312167025
+PRIOR DISTANCE
+Objective: 27.200302312167025
+----------------------------
+Caption: a parking meter on the side of a street
+Imageid: 476339, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 27.200302312167025
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 27.19379684443762
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a bus parked on the side of a city street
+Imageid: 173797, extracted triplets: ['bus on side', 'side of street'], mapped triplets: ['bus on street']
+Objective: 27.19379684443762
+PRIOR DISTANCE
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_bus on street=1.0
+gt_bus on street=0.0
+Objective: 27.19379684443762
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_bus on street=1.0
+gt_bus on street=0.0
+----------------------------
+Caption: a yellow fire hydrant sitting on the side of a street
+Imageid: 149371, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street']
+Objective: 27.19379684443762
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=1.0
+Objective: 27.21992356186955
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a parking meter with a bike on the side of it
+Imageid: 326317, extracted triplets: ['bike on side'], mapped triplets: ['motorcycle on street', 'bus on street', 'truck on street', 'car on street']
+Objective: 27.21992356186955
+PRIOR DISTANCE
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on street=0.0
+gt_car on street=0.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_motorcycle on street=1.0
+gt_car on street=-0.0
+Objective: 27.352897887614382
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_truck on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on street=0.0
+gt_car on street=0.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_motorcycle on street=1.0
+gt_car on street=-0.0
+----------------------------
+Caption: a bird sitting on the top of a parking lot
+Imageid: 542625, extracted triplets: ['bird sit bird', 'bird sit flower', 'bird sit tire', 'bird sit truck', 'bird sit bush', 'bird sit door', 'bird sit mirror', 'bird sit car', 'bird sit fence'], mapped triplets: ['man sit man', 'car sit car', 'people sit bus', 'people sit bench', 'sign sit tree', 'man sit sign', 'man sit bench', 'people sit bench']
+Objective: 27.352897887614382
+PRIOR DISTANCE
+gt_man sit man=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+Objective: 27.352897887614382
+gt_man sit man=1.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+----------------------------
+Caption: a stop sign on the side of a street with street signs
+Imageid: 347172, extracted triplets: ['side of street', 'street with street signs'], mapped triplets: ['sidewalk of street', 'pole with sign']
+Objective: 27.352897887614382
+PRIOR DISTANCE
+gt_pole with sign=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_pole with sign=0.0
+gt_pole with sign=1.0
+gt_sidewalk of street=0.0
+gt_pole with sign=-0.0
+Objective: 27.27175333856031
+gt_pole with sign=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_pole with sign=0.0
+gt_pole with sign=1.0
+gt_sidewalk of street=0.0
+gt_pole with sign=-0.0
+----------------------------
+Caption: a man throwing a frisbee in front of a fence
+Imageid: 203669, extracted triplets: ['man throw frisbee'], mapped triplets: []
+Objective: 27.27175333856031
+PRIOR DISTANCE
+Objective: 27.27175333856031
+----------------------------
+Caption: a yellow scooter parked next to a yellow fire hydrant
+Imageid: 269784, extracted triplets: ['scooter next to hydrant'], mapped triplets: ['street next to pole', 'street next to sidewalk']
+Objective: 27.27175333856031
+PRIOR DISTANCE
+gt_street next to pole=0.0
+gt_street next to pole=0.0
+Objective: 27.02982780276052
+gt_street next to pole=0.0
+gt_street next to pole=0.0
+----------------------------
+Caption: three people standing next to a sign with a snowboard
+Imageid: 281102, extracted triplets: ['people next to sign', 'sign with snowboard'], mapped triplets: ['street next to pole', 'street next to sidewalk', 'sign next to sidewalk', 'pole with sign']
+Objective: 27.02982780276052
+PRIOR DISTANCE
+gt_pole with sign=0.0
+gt_street next to pole=0.0
+gt_pole with sign=0.0
+gt_sign next to sidewalk=1.0
+gt_pole with sign=1.0
+gt_pole with sign=-0.0
+gt_sign next to sidewalk=-0.0
+gt_street next to pole=0.0
+Objective: 27.27022481537662
+gt_pole with sign=0.0
+gt_street next to pole=0.0
+gt_pole with sign=0.0
+gt_sign next to sidewalk=1.0
+gt_pole with sign=1.0
+gt_pole with sign=-0.0
+gt_sign next to sidewalk=-0.0
+gt_street next to pole=0.0
+----------------------------
+Caption: a dog sitting on the floor next to a pole
+Imageid: 435069, extracted triplets: ['dog sit sidewalk', 'dog next to pole'], mapped triplets: ['man sit bench', 'people sit bench', 'sign sit sidewalk', 'street next to pole']
+Objective: 27.27022481537662
+PRIOR DISTANCE
+gt_street next to pole=0.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_street next to pole=0.0
+Objective: 27.232643163845214
+gt_street next to pole=0.0
+gt_man sit bench=1.0
+gt_man sit bench=1.0
+gt_street next to pole=0.0
+----------------------------
+Caption: a black and white photo of cars parked on a city street
+Imageid: 424998, extracted triplets: ['photo of car'], mapped triplets: ['car of house']
+Objective: 27.232643163845214
+PRIOR DISTANCE
+Objective: 27.232643163845214
+----------------------------
+Caption: a parking meter with a sticker on the side of it
+Imageid: 34482, extracted triplets: ['sticker on side'], mapped triplets: ['wheel on sidewalk', 'umbrella on sidewalk', 'tree on sidewalk', 'bench on sidewalk', 'box on sidewalk']
+Objective: 27.232643163845214
+PRIOR DISTANCE
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_umbrella on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_box on sidewalk=1.0
+gt_wheel on sidewalk=0.0
+Objective: 27.223210924778563
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_umbrella on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_box on sidewalk=0.0
+gt_wheel on sidewalk=0.0
+----------------------------
+Caption: a dog pulling a backpack on the sidewalk
+Imageid: 370175, extracted triplets: ['dog pull backpack', 'dog on sidewalk'], mapped triplets: ['woman on sidewalk', 'umbrella on sidewalk', 'man on sidewalk', 'tree on sidewalk', 'people on sidewalk', 'bench on sidewalk', 'box on sidewalk']
+Objective: 27.223210924778563
+PRIOR DISTANCE
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_umbrella on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_box on sidewalk=0.0
+Objective: 26.960816760727404
+gt_man on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_umbrella on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=0.0
+gt_woman on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_man on sidewalk=0.0
+gt_people on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_tree on sidewalk=0.0
+gt_bench on sidewalk=1.0
+gt_umbrella on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_box on sidewalk=1.0
+----------------------------
+Caption: a brown dog laying on the side of a sidewalk
+Imageid: 351351, extracted triplets: ['side of sidewalk'], mapped triplets: ['sidewalk of street']
+Objective: 26.960816760727404
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+Objective: 26.976918475812678
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+gt_sidewalk of street=0.0
+----------------------------
+Caption: a green bench sitting next to a parking meter
+Imageid: 75173, extracted triplets: ['bench next to pole'], mapped triplets: []
+Objective: 26.976918475812678
+PRIOR DISTANCE
+Objective: 26.976918475812678
+----------------------------

@@ -1,0 +1,1566 @@
+Caption: a cow standing in the street in front of a restaurant
+Imageid: 472795, extracted triplets: ['cow in street', 'cow in road', 'cow in sidewalk', 'cow in door', 'cow in window', 'cow in curb', 'cow in wall'], mapped triplets: ['animal in field', 'cow in field', 'cow in street', 'animal in field', 'cow in street', 'cow in road', 'animal in background', 'cow in field', 'animal in background', 'animal in field', 'animal in background', 'animal in field', 'cow in field', 'animal in background', 'cow in background']
+Objective: 84.90661130878047
+PRIOR DISTANCE
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in street=-0.0
+gt_cow in street=-0.0
+gt_cow in background=1.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+gt_animal in field=0.0
+Objective: 84.91680564853229
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in street=-0.0
+gt_cow in street=-0.0
+gt_cow in background=1.0
+gt_animal in field=1.0
+gt_animal in field=1.0
+gt_animal in field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a cow standing in a street with a
+Imageid: 182784, extracted triplets: ['cow in street'], mapped triplets: ['animal in field', 'cow in field', 'cow in street']
+Objective: 84.91680564853229
+PRIOR DISTANCE
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in street=-0.0
+gt_animal in field=1.0
+Objective: 84.93787777600059
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_cow in street=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a black and white cow standing in a field of grass
+Imageid: 535292, extracted triplets: ['cow in field', 'field of grass'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field', 'field of cow', 'grass of grass', 'field of grass', 'grass of field', 'cow of grass']
+Objective: 84.93787777600059
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_field of cow=0.0
+gt_bench in field=0.0
+gt_field of grass=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of grass=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_field of cow=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_field of grass=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of cow=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_dog in field=0.0
+gt_field of cow=-0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_field of grass=0.0
+gt_people in field=-0.0
+gt_grass of field=1.0
+gt_animal in field=1.0
+Objective: 85.2271984073837
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_field of cow=0.0
+gt_bench in field=0.0
+gt_field of grass=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of grass=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_field of cow=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_field of grass=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of cow=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_dog in field=0.0
+gt_field of cow=-0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_field of grass=1.0
+gt_people in field=-0.0
+gt_grass of field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a herd of sheep grazing on a field of grass
+Imageid: 183181, extracted triplets: ['sheep on field', 'field of grass'], mapped triplets: ['zebra on field', 'sheep on field', 'cow on field', 'woman on field', 'giraffe on field', 'animal on field', 'field of cow', 'grass of grass', 'field of grass', 'grass of field', 'cow of grass']
+Objective: 85.2271984073837
+PRIOR DISTANCE
+gt_woman on field=0.0
+gt_field of cow=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of cow=0.0
+gt_woman on field=0.0
+gt_field of grass=1.0
+gt_field of cow=1.0
+gt_sheep on field=0.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_sheep on field=-0.0
+gt_field of cow=-0.0
+gt_animal on field=-0.0
+gt_field of grass=1.0
+gt_grass of field=1.0
+Objective: 84.44389838971736
+gt_woman on field=0.0
+gt_field of cow=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of cow=0.0
+gt_woman on field=0.0
+gt_field of grass=1.0
+gt_field of cow=1.0
+gt_sheep on field=0.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_sheep on field=-0.0
+gt_field of cow=-0.0
+gt_animal on field=1.0
+gt_field of grass=1.0
+gt_grass of field=1.0
+----------------------------
+Caption: a herd of cows grazing in a field of grass
+Imageid: 152740, extracted triplets: ['field of grass'], mapped triplets: ['field of cow', 'grass of grass', 'field of grass', 'grass of field', 'cow of grass']
+Objective: 84.44389838971736
+PRIOR DISTANCE
+gt_field of cow=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of cow=0.0
+gt_field of grass=1.0
+gt_field of cow=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_field of cow=-0.0
+gt_field of grass=1.0
+gt_grass of field=1.0
+Objective: 85.04231704325166
+gt_field of cow=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of cow=0.0
+gt_field of grass=1.0
+gt_field of cow=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_field of cow=-0.0
+gt_field of grass=1.0
+gt_grass of field=1.0
+----------------------------
+Caption: a black and white dog standing next to a cow
+Imageid: 90366, extracted triplets: ['dog next to cow'], mapped triplets: ['dog next to cow', 'man next to cow', 'woman next to cow']
+Objective: 85.04231704325166
+PRIOR DISTANCE
+gt_man next to cow=0.0
+gt_dog next to cow=0.0
+gt_dog next to cow=1.0
+gt_woman next to cow=1.0
+gt_woman next to cow=1.0
+gt_man next to cow=1.0
+Objective: 85.66494099430138
+gt_man next to cow=0.0
+gt_dog next to cow=0.0
+gt_dog next to cow=1.0
+gt_woman next to cow=1.0
+gt_woman next to cow=1.0
+gt_man next to cow=1.0
+----------------------------
+Caption: a brown cow laying down in the grass with a
+Imageid: 76155, extracted triplets: ['cow in grass'], mapped triplets: ['animal in grass', 'cow in field', 'horse in grass', 'zebra in grass', 'cow in grass']
+Objective: 85.66494099430138
+PRIOR DISTANCE
+gt_horse in grass=1.0
+gt_cow in field=1.0
+gt_horse in grass=0.0
+gt_cow in grass=1.0
+gt_cow in field=1.0
+gt_zebra in grass=1.0
+gt_cow in grass=-0.0
+Objective: 85.6630500849882
+gt_horse in grass=1.0
+gt_cow in field=1.0
+gt_horse in grass=0.0
+gt_cow in grass=1.0
+gt_cow in field=1.0
+gt_zebra in grass=1.0
+gt_cow in grass=-0.0
+----------------------------
+Caption: a woman holding a child with a cow in a
+Imageid: 16005, extracted triplets: ['woman hold child', 'woman with cow'], mapped triplets: ['person hold cow', 'woman with child', 'cow with horse', 'woman with cow']
+Objective: 85.6630500849882
+PRIOR DISTANCE
+gt_woman with cow=0.0
+gt_woman with cow=1.0
+gt_woman with child=1.0
+gt_cow with horse=0.0
+Objective: 85.7439734136314
+gt_woman with cow=0.0
+gt_woman with cow=1.0
+gt_woman with child=1.0
+gt_cow with horse=0.0
+----------------------------
+Caption: a brown cow standing next to a tree
+Imageid: 310618, extracted triplets: ['cow next to tree'], mapped triplets: ['field next to mountain', 'grass next to tree']
+Objective: 85.7439734136314
+PRIOR DISTANCE
+gt_field next to mountain=1.0
+gt_grass next to tree=-0.0
+Objective: 85.71092557275833
+gt_field next to mountain=1.0
+gt_grass next to tree=-0.0
+----------------------------
+Caption: a person taking a picture of a dog on a television
+Imageid: 525297, extracted triplets: ['dog on television'], mapped triplets: ['dog on street']
+Objective: 85.71092557275833
+PRIOR DISTANCE
+gt_dog on street=0.0
+gt_dog on street=0.0
+gt_dog on street=1.0
+Objective: 85.69964140999507
+gt_dog on street=0.0
+gt_dog on street=0.0
+gt_dog on street=1.0
+----------------------------
+Caption: a man riding a horse in a field with cows
+Imageid: 573896, extracted triplets: ['man ride horse', 'man in field', 'man with cow'], mapped triplets: ['people ride motorcycle', 'man ride cow', 'man ride horse', 'giraffe in field', 'zebra in field', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in cow', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'man with cow', 'cow with man']
+Objective: 85.69964140999507
+PRIOR DISTANCE
+gt_people ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_woman ride horse=1.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_woman ride horse=0.0
+gt_man ride horse=1.0
+gt_people in field=0.0
+gt_people ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=0.0
+gt_man ride horse=0.0
+gt_bench in field=0.0
+gt_woman ride horse=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_people ride motorcycle=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_man ride horse=1.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_people ride motorcycle=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_woman with cow=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_cow with man=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+gt_man with cow=1.0
+Objective: 85.59552726884598
+gt_people ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_woman ride horse=1.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_woman ride horse=0.0
+gt_man ride horse=1.0
+gt_people in field=0.0
+gt_people ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=0.0
+gt_man ride horse=0.0
+gt_bench in field=0.0
+gt_woman ride horse=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_people ride motorcycle=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_man ride horse=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_people ride motorcycle=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_woman with cow=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_cow with man=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+gt_man with cow=1.0
+----------------------------
+Caption: a black and white cow standing in a pen
+Imageid: 573067, extracted triplets: ['cow in pen'], mapped triplets: ['cow in field', 'animal in field']
+Objective: 85.59552726884598
+PRIOR DISTANCE
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_animal in field=0.0
+Objective: 85.60341903503719
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a cow standing in a field with a
+Imageid: 222863, extracted triplets: ['cow in field'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field']
+Objective: 85.60341903503719
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+Objective: 86.57394408146358
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=-0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a white cow standing next to a black car
+Imageid: 459922, extracted triplets: ['cow next to car'], mapped triplets: ['cow next to cow', 'cow next to car']
+Objective: 86.57394408146358
+PRIOR DISTANCE
+Objective: 86.57394408146358
+----------------------------
+Caption: a cow and a calf standing on a dirt road
+Imageid: 346641, extracted triplets: ['calf on dirt road'], mapped triplets: ['animal on field']
+Objective: 86.57394408146358
+PRIOR DISTANCE
+gt_animal on field=1.0
+Objective: 86.58950343424907
+gt_animal on field=1.0
+----------------------------
+Caption: a herd of cows behind a fence in a field
+Imageid: 471179, extracted triplets: ['fence in field'], mapped triplets: ['bench in field', 'statue in field']
+Objective: 86.58950343424907
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_bench in field=1.0
+gt_statue in field=-0.0
+Objective: 86.47581587356363
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_bench in field=1.0
+gt_statue in field=0.0
+----------------------------
+Caption: a cow laying down next to a motorcycle on the
+Imageid: 277694, extracted triplets: ['cow next to motorcycle'], mapped triplets: []
+Objective: 86.47581587356363
+PRIOR DISTANCE
+Objective: 86.47581587356363
+----------------------------
+Caption: a herd of sheep grazing on hay in a field
+Imageid: 545867, extracted triplets: ['sheep in field'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in field', 'bird in field', 'dog in field', 'boy in field', 'woman in field', 'man in field', 'horse in field', 'bench in field', 'sheep in field']
+Objective: 86.47581587356363
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_boy in field=1.0
+gt_animal in field=1.0
+Objective: 85.76421546230837
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_boy in field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a cow standing in a field with a
+Imageid: 316041, extracted triplets: ['cow in field'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field']
+Objective: 85.76421546230837
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+Objective: 86.47430515624357
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=-0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a man sitting on a bench next to a goat
+Imageid: 569849, extracted triplets: ['man sit bench'], mapped triplets: ['people sit beach', 'man sit bench']
+Objective: 86.47430515624357
+PRIOR DISTANCE
+gt_man sit bench=1.0
+Objective: 86.47430515624357
+gt_man sit bench=1.0
+----------------------------
+Caption: a man standing next to two cows in a
+Imageid: 258911, extracted triplets: ['man next to cow'], mapped triplets: ['man next to elephant', 'man next to sheep', 'woman next to animal', 'girl next to cow', 'woman next to cow', 'man next to cow']
+Objective: 86.47430515624357
+PRIOR DISTANCE
+gt_man next to cow=0.0
+gt_man next to sheep=1.0
+gt_woman next to cow=1.0
+gt_woman next to cow=1.0
+gt_man next to cow=1.0
+Objective: 86.2603033125766
+gt_man next to cow=0.0
+gt_man next to sheep=0.0
+gt_woman next to cow=1.0
+gt_woman next to cow=1.0
+gt_man next to cow=1.0
+----------------------------
+Caption: a brown cow standing in a field under a tree
+Imageid: 8612, extracted triplets: ['cow in field', 'cow under tree'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field', 'cow under tree']
+Objective: 86.2603033125766
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=-0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+Objective: 86.28190448217167
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=-0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a black cow standing next to a fence in a
+Imageid: 220678, extracted triplets: ['cow next to fence'], mapped triplets: ['cow next to fence']
+Objective: 86.28190448217167
+PRIOR DISTANCE
+Objective: 86.28190448217167
+----------------------------
+Caption: a black and white cow standing in the water
+Imageid: 239198, extracted triplets: ['cow in water'], mapped triplets: ['cow in ocean', 'cow in water']
+Objective: 86.28190448217167
+PRIOR DISTANCE
+gt_cow in water=0.0
+gt_cow in ocean=1.0
+Objective: 86.5053060382301
+gt_cow in water=1.0
+gt_cow in ocean=1.0
+----------------------------
+Caption: a statue of a black and white cow in a
+Imageid: 77963, extracted triplets: ['statue of cow'], mapped triplets: ['photo of cow', 'field of cow', 'statue of cow']
+Objective: 86.5053060382301
+PRIOR DISTANCE
+gt_field of cow=0.0
+gt_field of cow=0.0
+gt_field of cow=1.0
+gt_photo of cow=0.0
+gt_field of cow=-0.0
+gt_statue of cow=-0.0
+Objective: 87.00626502390098
+gt_field of cow=0.0
+gt_field of cow=0.0
+gt_field of cow=1.0
+gt_photo of cow=0.0
+gt_field of cow=-0.0
+gt_statue of cow=0.0
+----------------------------
+Caption: a man standing in a field with a herd of sheep
+Imageid: 414228, extracted triplets: ['man in field', 'man with cow', 'man with sheep'], mapped triplets: ['giraffe in field', 'zebra in field', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in cow', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'man with cow', 'cow with man', 'man with cow', 'cow with man']
+Objective: 87.00626502390098
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_woman with cow=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=1.0
+gt_man with cow=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_woman with cow=1.0
+gt_woman with cow=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_cow with man=1.0
+gt_cow with man=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+gt_man with cow=1.0
+gt_man with cow=1.0
+Objective: 86.12709134809946
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_woman with cow=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=1.0
+gt_man with cow=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_woman with cow=1.0
+gt_woman with cow=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_cow with man=1.0
+gt_cow with man=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+gt_man with cow=1.0
+gt_man with cow=1.0
+----------------------------
+Caption: a man standing next to a cow in a field
+Imageid: 217393, extracted triplets: ['man next to cow', 'cow in field'], mapped triplets: ['man next to elephant', 'man next to sheep', 'woman next to animal', 'girl next to cow', 'woman next to cow', 'man next to cow', 'giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field']
+Objective: 86.12709134809946
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_man next to cow=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_man next to sheep=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_woman next to cow=1.0
+gt_woman next to cow=1.0
+gt_man next to cow=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+Objective: 86.22915296439784
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_man next to cow=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_man next to sheep=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_woman next to cow=-0.0
+gt_woman next to cow=-0.0
+gt_man next to cow=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a man on a dirt road with two cows on a
+Imageid: 455219, extracted triplets: ['dirt road with cow'], mapped triplets: ['road with cow']
+Objective: 86.22915296439784
+PRIOR DISTANCE
+gt_road with cow=-0.0
+Objective: 86.23669185970095
+gt_road with cow=-0.0
+----------------------------
+Caption: a black and white cow standing in a field with a
+Imageid: 378968, extracted triplets: ['cow in field'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field']
+Objective: 86.23669185970095
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+Objective: 86.22563105522327
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a cow standing in a field with a
+Imageid: 82935, extracted triplets: ['cow in field'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field']
+Objective: 86.22563105522327
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+Objective: 85.85864132991497
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+----------------------------
+Caption: a cow is standing in a stream of water
+Imageid: 573626, extracted triplets: ['cow in water'], mapped triplets: ['cow in ocean', 'cow in water']
+Objective: 85.85864132991497
+PRIOR DISTANCE
+gt_cow in water=1.0
+gt_cow in ocean=1.0
+Objective: 85.70371970654506
+gt_cow in water=1.0
+gt_cow in ocean=0.0
+----------------------------
+Caption: a cow with horns standing next to a cow
+Imageid: 235692, extracted triplets: ['cow with horn'], mapped triplets: ['grass with horn', 'cow with horn']
+Objective: 85.70371970654506
+PRIOR DISTANCE
+gt_cow with horn=0.0
+gt_grass with horn=0.0
+gt_cow with horn=1.0
+Objective: 85.69179993359455
+gt_cow with horn=0.0
+gt_grass with horn=0.0
+gt_cow with horn=1.0
+----------------------------
+Caption: a group of people standing in a field with a cow
+Imageid: 350959, extracted triplets: ['people in field', 'people with cow'], mapped triplets: ['person in cow', 'giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'cow in field', 'people in field', 'bird in field', 'dog in field', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'horse in field', 'bench in field', 'horse in grass', 'woman with cow', 'man with cow']
+Objective: 85.69179993359455
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_woman with cow=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_horse in grass=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_horse in grass=0.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_woman with cow=1.0
+gt_woman with cow=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+gt_man with cow=1.0
+Objective: 86.16453406080878
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_woman with cow=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_horse in grass=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_man with cow=0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_horse in grass=0.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man with cow=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_woman with cow=1.0
+gt_woman with cow=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+gt_man with cow=1.0
+----------------------------
+Caption: a group of people riding on the back of an elephant
+Imageid: 484175, extracted triplets: ['people ride shirt', 'people ride pant', 'people ride blanket'], mapped triplets: ['people ride motorcycle', 'people ride street', 'people ride field', 'people ride elephant', 'people ride motorcycle']
+Objective: 86.16453406080878
+PRIOR DISTANCE
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride elephant=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=1.0
+gt_people ride motorcycle=1.0
+gt_people ride motorcycle=1.0
+gt_people ride field=-0.0
+Objective: 86.32558901069861
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride elephant=0.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride elephant=0.0
+gt_people ride elephant=1.0
+gt_people ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people ride field=-0.0
+----------------------------
+Caption: a man on a horse in a field with a herd of elephants
+Imageid: 472732, extracted triplets: ['man on horse', 'man in field'], mapped triplets: ['people on horse', 'man on horse', 'giraffe in field', 'zebra in field', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in cow', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field']
+Objective: 86.32558901069861
+PRIOR DISTANCE
+gt_woman on horse=0.0
+gt_man on horse=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_man on horse=1.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man on horse=0.0
+gt_bench in field=0.0
+gt_people on horse=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman on horse=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man on horse=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_people on horse=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_man on horse=1.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people on horse=-0.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+Objective: 86.23236659176244
+gt_woman on horse=0.0
+gt_man on horse=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_man on horse=1.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man on horse=0.0
+gt_bench in field=0.0
+gt_people on horse=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman on horse=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_man on horse=0.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_people on horse=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_man on horse=1.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people on horse=-0.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a black and white cow standing in a field with a
+Imageid: 211618, extracted triplets: ['cow in field'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field']
+Objective: 86.23236659176244
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_dog in field=1.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+Objective: 85.43877960654439
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_dog in field=0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_people in field=-0.0
+gt_animal in field=0.0
+----------------------------
+Caption: a black cow standing in a field of tall grass
+Imageid: 251717, extracted triplets: ['cow in field', 'field of grass'], mapped triplets: ['giraffe in field', 'zebra in field', 'animal in grass', 'field in field', 'statue in field', 'people in field', 'bird in field', 'dog in field', 'field in fence', 'animal in field', 'sheep in field', 'woman in field', 'boy in field', 'man in field', 'bench in field', 'horse in field', 'cow in field', 'field of cow', 'grass of grass', 'field of grass', 'grass of field', 'cow of grass']
+Objective: 85.43877960654439
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_field of cow=0.0
+gt_bench in field=0.0
+gt_field of grass=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of grass=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_field of cow=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_field of grass=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of cow=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=0.0
+gt_zebra in field=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_dog in field=0.0
+gt_field of cow=-0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_field of grass=1.0
+gt_people in field=-0.0
+gt_grass of field=1.0
+gt_animal in field=0.0
+Objective: 86.39104268968462
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_field of cow=0.0
+gt_bench in field=0.0
+gt_field of grass=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of grass=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_field of cow=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_field of grass=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_field of cow=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=0.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_bench in field=1.0
+gt_man in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_giraffe in field=1.0
+gt_zebra in field=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_dog in field=1.0
+gt_field of cow=-0.0
+gt_field in field=1.0
+gt_statue in field=0.0
+gt_boy in field=1.0
+gt_field of grass=1.0
+gt_people in field=-0.0
+gt_grass of field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a cow and a calf standing in a field
+Imageid: 555337, extracted triplets: ['calf in field'], mapped triplets: ['cow in field', 'animal in field']
+Objective: 86.39104268968462
+PRIOR DISTANCE
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_animal in field=1.0
+Objective: 86.3935508113885
+gt_cow in field=1.0
+gt_cow in field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a white cow grazing in a field of grass
+Imageid: 282113, extracted triplets: ['field of grass'], mapped triplets: ['field of cow', 'grass of grass', 'field of grass', 'grass of field', 'cow of grass']
+Objective: 86.3935508113885
+PRIOR DISTANCE
+gt_field of cow=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of cow=0.0
+gt_field of grass=1.0
+gt_field of cow=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_field of cow=-0.0
+gt_field of grass=1.0
+gt_grass of field=1.0
+Objective: 86.05518028992441
+gt_field of cow=0.0
+gt_field of grass=0.0
+gt_field of grass=0.0
+gt_field of cow=0.0
+gt_field of grass=1.0
+gt_field of cow=1.0
+gt_cow of grass=-0.0
+gt_grass of grass=1.0
+gt_field of cow=-0.0
+gt_field of grass=1.0
+gt_grass of field=1.0
+----------------------------
+Caption: two cows in a field with a building in the background
+Imageid: 272212, extracted triplets: ['building in background'], mapped triplets: ['hill in background', 'mountain in background', 'wall in background', 'house in background', 'bike in background']
+Objective: 86.05518028992441
+PRIOR DISTANCE
+gt_bike in background=0.0
+gt_mountain in background=1.0
+gt_bike in background=1.0
+gt_mountain in background=1.0
+gt_wall in background=1.0
+gt_house in background=1.0
+gt_mountain in background=-0.0
+gt_hill in background=-0.0
+gt_bike in background=1.0
+Objective: 86.36801274490153
+gt_bike in background=0.0
+gt_mountain in background=1.0
+gt_bike in background=1.0
+gt_mountain in background=1.0
+gt_wall in background=1.0
+gt_house in background=1.0
+gt_mountain in background=-0.0
+gt_hill in background=-0.0
+gt_bike in background=1.0
+----------------------------

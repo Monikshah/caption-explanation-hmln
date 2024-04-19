@@ -1,0 +1,3488 @@
+Caption: a man and a woman sitting on a green bench with a white dog
+Imageid: 334321, extracted triplets: ['woman sit on bench', 'woman with dog'], mapped triplets: ['boy sit bench', 'person sit bench', 'woman sit chair', 'man sit bench', 'people sit bench', 'woman sit on bench', 'woman with woman', 'man with dog', 'girl with dog', 'person with dog', 'woman with cat', 'woman with child', 'woman with pillow', 'woman with laptop', 'woman with bike', 'woman with kite', 'woman with phone', 'woman with dog']
+Objective: 294.9946500100506
+PRIOR DISTANCE
+gt_woman sit on bench=1.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman sit on bench=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman sit on bench=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman sit on bench=0.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_man sit bench=1.0
+gt_woman sit on bench=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_woman sit on bench=0.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman sit on bench=1.0
+gt_woman with phone=1.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+Objective: 295.1020023473249
+gt_woman sit on bench=1.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman sit on bench=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman sit on bench=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman sit on bench=0.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_man sit bench=1.0
+gt_woman sit on bench=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_woman sit on bench=0.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman sit on bench=1.0
+gt_woman with phone=0.0
+gt_girl with dog=0.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a brown dog laying next to a pool
+Imageid: 341393, extracted triplets: ['dog next to water'], mapped triplets: ['boat next to water']
+Objective: 295.1020023473249
+PRIOR DISTANCE
+gt_boat next to water=0.0
+gt_boat next to water=-0.0
+Objective: 295.13183596631416
+gt_boat next to water=0.0
+gt_boat next to water=-0.0
+----------------------------
+Caption: a black dog sitting on the floor with a plate of food
+Imageid: 288955, extracted triplets: ['dog sit floor', 'dog with plate', 'plate of food'], mapped triplets: ['dog sit couch', 'cat sit floor', 'dog sit bed', 'child sit floor', 'dog sit floor', 'dog with bowl', 'plate of vegetable', 'plate of donut', 'plate of pizza', 'bowl of food']
+Objective: 295.13183596631416
+PRIOR DISTANCE
+gt_bowl of food=0.0
+gt_plate of vegetable=0.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_bowl of food=0.0
+gt_plate of pizza=0.0
+gt_plate of vegetable=1.0
+gt_bowl of food=0.0
+gt_plate of donut=0.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_plate of pizza=1.0
+gt_bowl of food=0.0
+gt_plate of donut=0.0
+gt_plate of vegetable=0.0
+gt_plate of pizza=0.0
+gt_bowl of food=0.0
+gt_plate of pizza=0.0
+gt_bowl of food=0.0
+gt_plate of pizza=1.0
+gt_bowl of food=0.0
+gt_plate of pizza=1.0
+gt_plate of donut=1.0
+gt_plate of vegetable=1.0
+gt_dog with bowl=-0.0
+gt_bowl of food=0.0
+gt_plate of pizza=0.0
+Objective: 296.0408729700333
+gt_bowl of food=0.0
+gt_plate of vegetable=0.0
+gt_plate of donut=1.0
+gt_plate of pizza=0.0
+gt_bowl of food=0.0
+gt_plate of pizza=0.0
+gt_plate of vegetable=1.0
+gt_bowl of food=0.0
+gt_plate of donut=0.0
+gt_bowl of food=1.0
+gt_bowl of food=1.0
+gt_plate of pizza=1.0
+gt_bowl of food=0.0
+gt_plate of donut=0.0
+gt_plate of vegetable=0.0
+gt_plate of pizza=0.0
+gt_bowl of food=0.0
+gt_plate of pizza=0.0
+gt_bowl of food=0.0
+gt_plate of pizza=1.0
+gt_bowl of food=0.0
+gt_plate of pizza=1.0
+gt_plate of donut=1.0
+gt_plate of vegetable=0.0
+gt_dog with bowl=-0.0
+gt_bowl of food=1.0
+gt_plate of pizza=0.0
+----------------------------
+Caption: a man standing next to a small dog in a kitchen
+Imageid: 329219, extracted triplets: ['man next to dog', 'dog in cabinet', 'dog in counter'], mapped triplets: ['man next to woman', 'woman next to dog', 'girl next to dog', 'boy next to dog', 'man next to dog', 'dog in chair']
+Objective: 296.0408729700333
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_boy next to dog=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_boy next to dog=1.0
+gt_man next to woman=-0.0
+gt_woman next to dog=1.0
+gt_woman next to dog=1.0
+gt_dog in chair=0.0
+Objective: 296.0842898633208
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_boy next to dog=0.0
+gt_man next to woman=1.0
+gt_man next to woman=0.0
+gt_boy next to dog=1.0
+gt_man next to woman=-0.0
+gt_woman next to dog=1.0
+gt_woman next to dog=1.0
+gt_dog in chair=0.0
+----------------------------
+Caption: a brown and white dog wearing a tie
+Imageid: 468541, extracted triplets: ['dog wear tie'], mapped triplets: ['dog wear collar', 'dog wear tag', 'dog wear hat', 'dog wear jacket', 'dog wear tie', 'dog wear vest']
+Objective: 296.0842898633208
+PRIOR DISTANCE
+gt_dog wear hat=0.0
+gt_dog wear hat=0.0
+gt_dog wear tag=0.0
+gt_dog wear collar=0.0
+gt_dog wear jacket=1.0
+gt_dog wear collar=1.0
+gt_dog wear tie=1.0
+gt_dog wear jacket=1.0
+gt_dog wear vest=1.0
+gt_dog wear collar=1.0
+gt_dog wear tag=-0.0
+gt_dog wear hat=1.0
+Objective: 296.1887529200196
+gt_dog wear hat=0.0
+gt_dog wear hat=0.0
+gt_dog wear tag=0.0
+gt_dog wear collar=0.0
+gt_dog wear jacket=1.0
+gt_dog wear collar=1.0
+gt_dog wear tie=1.0
+gt_dog wear jacket=1.0
+gt_dog wear vest=1.0
+gt_dog wear collar=1.0
+gt_dog wear tag=-0.0
+gt_dog wear hat=1.0
+----------------------------
+Caption: a dog catching a frisbee in its mouth on a beach
+Imageid: 88784, extracted triplets: ['dog catch frisbee', 'dog on beach'], mapped triplets: ['woman catch frisbee', 'dog catch frisbee', 'man catch frisbee', 'dog on sand', 'horse on beach', 'ball on sand', 'frisbee on beach', 'blanket on beach', 'surfboard on beach', 'umbrella on beach', 'sand on beach', 'kite on beach', 'dog on beach']
+Objective: 296.1887529200196
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_sand on beach=1.0
+gt_blanket on beach=0.0
+gt_umbrella on beach=0.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=0.0
+gt_dog on beach=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_man catch frisbee=0.0
+gt_man catch frisbee=1.0
+gt_sand on beach=1.0
+gt_umbrella on beach=0.0
+gt_dog catch frisbee=0.0
+gt_horse on beach=0.0
+gt_woman catch frisbee=-0.0
+gt_woman catch frisbee=-0.0
+gt_ball on sand=-0.0
+gt_horse on beach=1.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=0.0
+gt_blanket on beach=0.0
+gt_sand on beach=1.0
+gt_dog on sand=1.0
+gt_surfboard on beach=0.0
+gt_kite on beach=0.0
+gt_dog on beach=1.0
+gt_dog catch frisbee=1.0
+gt_man catch frisbee=1.0
+Objective: 297.07301481501514
+gt_surfboard on beach=1.0
+gt_sand on beach=1.0
+gt_blanket on beach=0.0
+gt_umbrella on beach=0.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=0.0
+gt_dog on beach=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_man catch frisbee=0.0
+gt_man catch frisbee=1.0
+gt_sand on beach=1.0
+gt_umbrella on beach=0.0
+gt_dog catch frisbee=0.0
+gt_horse on beach=0.0
+gt_woman catch frisbee=-0.0
+gt_woman catch frisbee=-0.0
+gt_ball on sand=-0.0
+gt_horse on beach=1.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=1.0
+gt_blanket on beach=0.0
+gt_sand on beach=1.0
+gt_dog on sand=1.0
+gt_surfboard on beach=0.0
+gt_kite on beach=0.0
+gt_dog on beach=1.0
+gt_dog catch frisbee=1.0
+gt_man catch frisbee=1.0
+----------------------------
+Caption: a dog holding a frisbee in its mouth
+Imageid: 347950, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball']
+Objective: 297.07301481501514
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+Objective: 297.23753775559726
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+----------------------------
+Caption: a person flying a kite in a field with a dog
+Imageid: 525619, extracted triplets: ['person fly kite', 'person in field', 'person with dog'], mapped triplets: ['woman fly kite', 'people fly kite', 'man fly kite', 'girl fly kite', 'person fly kite', 'people in field', 'woman in field', 'horse in field', 'grass in field', 'frisbee in field', 'sheep in field', 'fence in field', 'cow in field', 'road in field', 'person in field', 'child with dog', 'man with dog', 'woman with dog', 'boy with dog', 'people with dog', 'person with dog']
+Objective: 297.23753775559726
+PRIOR DISTANCE
+gt_people fly kite=1.0
+gt_person fly kite=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_people in field=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man fly kite=0.0
+gt_people in field=0.0
+gt_people fly kite=0.0
+gt_frisbee in field=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_road in field=1.0
+gt_people fly kite=0.0
+gt_woman in field=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_frisbee in field=0.0
+gt_girl fly kite=1.0
+gt_cow in field=1.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_girl fly kite=0.0
+gt_man fly kite=0.0
+gt_people fly kite=0.0
+gt_people in field=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_man with dog=0.0
+gt_people fly kite=1.0
+gt_fence in field=0.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_grass in field=1.0
+gt_woman in field=1.0
+gt_person fly kite=1.0
+gt_girl fly kite=-0.0
+gt_road in field=-0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man fly kite=0.0
+gt_cow in field=1.0
+gt_people fly kite=1.0
+gt_horse in field=-0.0
+gt_sheep in field=0.0
+gt_man with dog=1.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+Objective: 297.22072196397727
+gt_people fly kite=1.0
+gt_person fly kite=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_people in field=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man fly kite=0.0
+gt_people in field=0.0
+gt_people fly kite=0.0
+gt_frisbee in field=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_road in field=1.0
+gt_people fly kite=0.0
+gt_woman in field=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_frisbee in field=0.0
+gt_girl fly kite=1.0
+gt_cow in field=1.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_girl fly kite=0.0
+gt_man fly kite=0.0
+gt_people fly kite=0.0
+gt_people in field=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_man with dog=0.0
+gt_people fly kite=1.0
+gt_fence in field=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_grass in field=1.0
+gt_woman in field=1.0
+gt_person fly kite=1.0
+gt_girl fly kite=0.0
+gt_road in field=-0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man fly kite=0.0
+gt_cow in field=1.0
+gt_people fly kite=1.0
+gt_horse in field=-0.0
+gt_sheep in field=0.0
+gt_man with dog=1.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a brown dog sitting on the floor
+Imageid: 395402, extracted triplets: ['dog sit floor'], mapped triplets: ['dog sit couch', 'cat sit floor', 'dog sit bed', 'child sit floor', 'dog sit floor']
+Objective: 297.22072196397727
+PRIOR DISTANCE
+Objective: 297.22072196397727
+----------------------------
+Caption: a person holding a cat sitting on a chair
+Imageid: 295097, extracted triplets: ['person hold cat'], mapped triplets: ['man hold dog', 'woman hold cat']
+Objective: 297.22072196397727
+PRIOR DISTANCE
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+gt_woman hold dog=0.0
+gt_man hold dog=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+Objective: 297.21295927808774
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+gt_woman hold dog=0.0
+gt_man hold dog=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+----------------------------
+Caption: a dog on a leash sitting next to a person
+Imageid: 255209, extracted triplets: ['dog on dog', 'dog on collar'], mapped triplets: ['dog on dog', 'dog on bowl', 'dog on blanket']
+Objective: 297.21295927808774
+PRIOR DISTANCE
+gt_dog on dog=0.0
+gt_dog on dog=1.0
+Objective: 297.21295927808774
+gt_dog on dog=0.0
+gt_dog on dog=1.0
+----------------------------
+Caption: a black dog sitting on a chair in a room
+Imageid: 446522, extracted triplets: ['dog sit chair', 'dog in room'], mapped triplets: ['dog sit couch', 'child sit chair', 'dog sit chair', 'dog in couch', 'cat in room', 'couch in room', 'bed in room', 'dog in room']
+Objective: 297.21295927808774
+PRIOR DISTANCE
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog sit chair=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_dog sit chair=0.0
+gt_cat in room=1.0
+gt_bed in room=-0.0
+gt_couch in room=0.0
+Objective: 297.42189656084906
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog sit chair=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_dog sit chair=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+----------------------------
+Caption: a black and white cow standing next to a dog
+Imageid: 90366, extracted triplets: ['cow next to dog'], mapped triplets: ['dog next to cat', 'dog next to sheep']
+Objective: 297.42189656084906
+PRIOR DISTANCE
+Objective: 297.42189656084906
+----------------------------
+Caption: a dog standing in the snow with a stick
+Imageid: 163684, extracted triplets: ['dog in snow', 'dog with stick'], mapped triplets: ['dog in sand', 'kite in snow', 'mouth in snow', 'hydrant in snow', 'woman in snow', 'bench in snow', 'man in snow', 'person in snow', 'dog in snow', 'dog with frisbee', 'beach with stick']
+Objective: 297.42189656084906
+PRIOR DISTANCE
+gt_man in snow=0.0
+gt_dog with frisbee=0.0
+gt_kite in snow=0.0
+gt_bench in snow=1.0
+gt_kite in snow=1.0
+gt_hydrant in snow=0.0
+gt_dog with frisbee=0.0
+gt_bench in snow=0.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=-0.0
+gt_mouth in snow=1.0
+Objective: 297.31556101958654
+gt_man in snow=0.0
+gt_dog with frisbee=0.0
+gt_kite in snow=0.0
+gt_bench in snow=1.0
+gt_kite in snow=1.0
+gt_hydrant in snow=0.0
+gt_dog with frisbee=0.0
+gt_bench in snow=0.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=-0.0
+gt_mouth in snow=1.0
+----------------------------
+Caption: a black dog laying on a bed next to a book shelf
+Imageid: 347650, extracted triplets: ['dog next to book shelf'], mapped triplets: ['dog next to chair']
+Objective: 297.31556101958654
+PRIOR DISTANCE
+gt_dog next to chair=-0.0
+Objective: 297.2999084407088
+gt_dog next to chair=-0.0
+----------------------------
+Caption: a dog in the snow with a red hat
+Imageid: 128528, extracted triplets: ['dog in snow', 'dog with hat'], mapped triplets: ['dog in sand', 'kite in snow', 'mouth in snow', 'hydrant in snow', 'woman in snow', 'bench in snow', 'man in snow', 'person in snow', 'dog in snow', 'dog with hat']
+Objective: 297.2999084407088
+PRIOR DISTANCE
+gt_man in snow=0.0
+gt_dog with hat=1.0
+gt_dog with hat=0.0
+gt_kite in snow=0.0
+gt_bench in snow=1.0
+gt_kite in snow=1.0
+gt_hydrant in snow=0.0
+gt_bench in snow=0.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=-0.0
+gt_mouth in snow=1.0
+gt_dog with hat=1.0
+Objective: 297.3252630370319
+gt_man in snow=0.0
+gt_dog with hat=1.0
+gt_dog with hat=0.0
+gt_kite in snow=0.0
+gt_bench in snow=1.0
+gt_kite in snow=1.0
+gt_hydrant in snow=0.0
+gt_bench in snow=0.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=-0.0
+gt_mouth in snow=1.0
+gt_dog with hat=1.0
+----------------------------
+Caption: two men and a dog on a blue boat
+Imageid: 290839, extracted triplets: ['dog on boat'], mapped triplets: ['dog on beach', 'horse on boat', 'dog on boat']
+Objective: 297.3252630370319
+PRIOR DISTANCE
+gt_dog on beach=0.0
+gt_horse on boat=1.0
+gt_dog on beach=1.0
+Objective: 297.5058722557932
+gt_dog on beach=0.0
+gt_horse on boat=1.0
+gt_dog on beach=1.0
+----------------------------
+Caption: a dog sitting next to a red bike
+Imageid: 49097, extracted triplets: ['dog next to bike'], mapped triplets: ['dog next to motorcycle', 'dog next to bike']
+Objective: 297.5058722557932
+PRIOR DISTANCE
+gt_dog next to bike=0.0
+Objective: 297.5172556843191
+gt_dog next to bike=0.0
+----------------------------
+Caption: a motorcycle parked in a parking lot next to a car
+Imageid: 26730, extracted triplets: ['motorcycle in road', 'motorcycle in curb', 'motorcycle in sidewalk', 'motorcycle in street', 'motorcycle next to car'], mapped triplets: ['truck in road', 'motorcycle in street', 'bike in street', 'motorcycle in street', 'motorcycle in street', 'truck in road', 'bike in street', 'motorcycle in street', 'car next to bus']
+Objective: 297.5172556843191
+PRIOR DISTANCE
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_bike in street=0.0
+gt_bike in street=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_bike in street=0.0
+gt_bike in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_car next to bus=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_motorcycle in street=-0.0
+gt_motorcycle in street=-0.0
+gt_motorcycle in street=-0.0
+gt_motorcycle in street=-0.0
+gt_car next to bus=-0.0
+gt_bike in street=1.0
+gt_bike in street=1.0
+Objective: 297.597115684469
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_bike in street=0.0
+gt_bike in street=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_bike in street=0.0
+gt_bike in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_car next to bus=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_motorcycle in street=-0.0
+gt_motorcycle in street=-0.0
+gt_motorcycle in street=-0.0
+gt_motorcycle in street=-0.0
+gt_car next to bus=-0.0
+gt_bike in street=1.0
+gt_bike in street=1.0
+----------------------------
+Caption: a man and a dog in a boat on a river
+Imageid: 379108, extracted triplets: ['dog in boat', 'dog on river'], mapped triplets: ['dog in bike', 'dog in boat', 'dog in truck', 'dog in motorcycle', 'dog in car', 'dog on beach', 'dog on water']
+Objective: 297.597115684469
+PRIOR DISTANCE
+gt_dog on beach=0.0
+gt_dog in boat=-0.0
+gt_dog on beach=1.0
+gt_dog in car=1.0
+gt_dog in bike=-0.0
+Objective: 297.35973932534404
+gt_dog on beach=0.0
+gt_dog in boat=-0.0
+gt_dog on beach=1.0
+gt_dog in car=1.0
+gt_dog in bike=-0.0
+----------------------------
+Caption: a brown dog sitting next to a person
+Imageid: 30667, extracted triplets: ['dog next to person'], mapped triplets: ['woman next to dog', 'man next to dog', 'dog next to person']
+Objective: 297.35973932534404
+PRIOR DISTANCE
+gt_woman next to dog=1.0
+gt_woman next to dog=1.0
+Objective: 297.3928935522838
+gt_woman next to dog=1.0
+gt_woman next to dog=1.0
+----------------------------
+Caption: a dog tied to a pole next to a bike
+Imageid: 316694, extracted triplets: ['dog to pole', 'pole next to bike'], mapped triplets: ['dog to pole', 'pole next to motorcycle', 'dog next to bike']
+Objective: 297.3928935522838
+PRIOR DISTANCE
+gt_dog next to bike=0.0
+gt_pole next to motorcycle=1.0
+Objective: 297.3824903560013
+gt_dog next to bike=0.0
+gt_pole next to motorcycle=1.0
+----------------------------
+Caption: a black and white photo of a cat walking
+Imageid: 201918, extracted triplets: ['photo of cat'], mapped triplets: ['picture of cat', 'photo of dog']
+Objective: 297.3824903560013
+PRIOR DISTANCE
+gt_picture of cat=0.0
+gt_picture of cat=0.0
+gt_picture of cat=0.0
+gt_photo of dog=1.0
+gt_photo of dog=0.0
+gt_picture of cat=0.0
+Objective: 297.5438865847521
+gt_picture of cat=0.0
+gt_picture of cat=0.0
+gt_picture of cat=0.0
+gt_photo of dog=1.0
+gt_photo of dog=1.0
+gt_picture of cat=1.0
+----------------------------
+Caption: a woman holding a small dog in a backpack
+Imageid: 265916, extracted triplets: ['woman hold dog', 'woman in backpack'], mapped triplets: ['woman hold dog', 'woman in dog']
+Objective: 297.5438865847521
+PRIOR DISTANCE
+gt_woman hold dog=1.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_woman in dog=0.0
+gt_woman hold dog=1.0
+Objective: 297.63421251513495
+gt_woman hold dog=1.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_woman in dog=0.0
+gt_woman hold dog=0.0
+----------------------------
+Caption: a brown and white dog sitting on a boat in the water
+Imageid: 105611, extracted triplets: ['dog sit on boat'], mapped triplets: ['dog sit boat', 'dog sit on boat']
+Objective: 297.63421251513495
+PRIOR DISTANCE
+gt_dog sit on boat=-0.0
+Objective: 297.6595698801909
+gt_dog sit on boat=-0.0
+----------------------------
+Caption: a woman holding a bag of apples in a field
+Imageid: 391940, extracted triplets: ['woman hold bag', 'woman in field'], mapped triplets: ['woman hold banana', 'woman hold phone', 'woman hold umbrella', 'woman hold cake', 'woman hold basket', 'person in field', 'people in field', 'horse in field', 'sheep in field', 'cow in field', 'grass in field', 'fence in field', 'bench in field', 'road in field', 'frisbee in field', 'kite in field', 'dog in field', 'woman in field']
+Objective: 297.6595698801909
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_kite in field=0.0
+gt_woman hold banana=0.0
+gt_woman hold phone=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold banana=0.0
+gt_woman hold cake=1.0
+gt_people in field=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold cake=1.0
+gt_woman hold phone=0.0
+gt_frisbee in field=0.0
+gt_woman hold umbrella=0.0
+gt_bench in field=0.0
+gt_woman hold umbrella=1.0
+gt_road in field=1.0
+gt_kite in field=1.0
+gt_woman hold phone=0.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_woman hold cake=0.0
+gt_kite in field=0.0
+gt_woman hold phone=0.0
+gt_people in field=1.0
+gt_woman hold umbrella=0.0
+gt_fence in field=1.0
+gt_grass in field=1.0
+gt_woman hold phone=1.0
+gt_woman in field=1.0
+gt_kite in field=1.0
+gt_woman hold basket=0.0
+gt_woman hold umbrella=1.0
+gt_road in field=-0.0
+gt_woman hold banana=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_bench in field=1.0
+gt_horse in field=-0.0
+gt_sheep in field=0.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+Objective: 297.34387614023063
+gt_woman hold umbrella=0.0
+gt_kite in field=0.0
+gt_woman hold banana=0.0
+gt_woman hold phone=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold banana=0.0
+gt_woman hold cake=1.0
+gt_people in field=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold cake=1.0
+gt_woman hold phone=0.0
+gt_frisbee in field=0.0
+gt_woman hold umbrella=0.0
+gt_bench in field=0.0
+gt_woman hold umbrella=1.0
+gt_road in field=1.0
+gt_kite in field=1.0
+gt_woman hold phone=0.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_woman hold cake=0.0
+gt_kite in field=0.0
+gt_woman hold phone=0.0
+gt_people in field=1.0
+gt_woman hold umbrella=0.0
+gt_fence in field=0.0
+gt_grass in field=1.0
+gt_woman hold phone=0.0
+gt_woman in field=1.0
+gt_kite in field=1.0
+gt_woman hold basket=0.0
+gt_woman hold umbrella=0.0
+gt_road in field=-0.0
+gt_woman hold banana=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_bench in field=1.0
+gt_horse in field=-0.0
+gt_sheep in field=1.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man and a woman standing on a paddle board with a dog
+Imageid: 324500, extracted triplets: ['woman with dog'], mapped triplets: ['woman with woman', 'man with dog', 'girl with dog', 'person with dog', 'woman with cat', 'woman with child', 'woman with pillow', 'woman with laptop', 'woman with bike', 'woman with kite', 'woman with phone', 'woman with dog']
+Objective: 297.34387614023063
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=0.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+Objective: 297.3935248429808
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=0.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a dog sitting on the floor next to a toilet
+Imageid: 170893, extracted triplets: ['dog next to toilet'], mapped triplets: ['dog next to toilet']
+Objective: 297.3935248429808
+PRIOR DISTANCE
+gt_dog next to toilet=0.0
+Objective: 297.3791368441214
+gt_dog next to toilet=0.0
+----------------------------
+Caption: a brown dog sitting in the back seat of a car
+Imageid: 94140, extracted triplets: ['dog sit seat', 'seat of car'], mapped triplets: ['dog sit couch', 'dog sit seat', 'seat of boat', 'mirror of car']
+Objective: 297.3791368441214
+PRIOR DISTANCE
+gt_dog sit seat=0.0
+gt_dog sit seat=0.0
+gt_mirror of car=1.0
+gt_seat of boat=-0.0
+gt_dog sit seat=1.0
+gt_mirror of car=1.0
+Objective: 297.2181246685583
+gt_dog sit seat=0.0
+gt_dog sit seat=0.0
+gt_mirror of car=1.0
+gt_seat of boat=-0.0
+gt_dog sit seat=1.0
+gt_mirror of car=0.0
+----------------------------
+Caption: a herd of sheep and a dog in a field
+Imageid: 84859, extracted triplets: ['dog in field'], mapped triplets: ['sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 297.2181246685583
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=-0.0
+gt_sheep in field=1.0
+gt_person in field=1.0
+Objective: 297.9058908529892
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=-0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a brown dog laying on a couch with a stuffed animal
+Imageid: 205854, extracted triplets: ['dog lay on couch', 'dog with dog', 'dog with bear'], mapped triplets: ['dog lay couch', 'dog with dog', 'dog with bear']
+Objective: 297.9058908529892
+PRIOR DISTANCE
+gt_dog with dog=1.0
+Objective: 298.01424052712616
+gt_dog with dog=1.0
+----------------------------
+Caption: a man standing next to a herd of sheep and a dog
+Imageid: 502766, extracted triplets: ['man next to sheep'], mapped triplets: ['dog next to sheep', 'woman next to man']
+Objective: 298.01424052712616
+PRIOR DISTANCE
+Objective: 298.01424052712616
+----------------------------
+Caption: a person riding a horse in a field with cows
+Imageid: 573896, extracted triplets: ['person ride horse', 'person in field', 'person with cow'], mapped triplets: ['people ride elephant', 'person ride dog', 'people ride horse', 'people in field', 'woman in field', 'horse in field', 'grass in field', 'frisbee in field', 'sheep in field', 'fence in field', 'cow in field', 'road in field', 'person in field', 'man with cow', 'person with dog']
+Objective: 298.01424052712616
+PRIOR DISTANCE
+gt_people ride horse=1.0
+gt_people ride horse=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_people ride horse=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_frisbee in field=0.0
+gt_man with cow=0.0
+gt_people ride horse=0.0
+gt_road in field=1.0
+gt_people ride elephant=0.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_cow in field=1.0
+gt_man with cow=0.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_people in field=1.0
+gt_people ride horse=0.0
+gt_people ride elephant=0.0
+gt_fence in field=0.0
+gt_grass in field=1.0
+gt_woman in field=1.0
+gt_road in field=-0.0
+gt_man with cow=-0.0
+gt_people ride horse=-0.0
+gt_cow in field=1.0
+gt_horse in field=-0.0
+gt_sheep in field=0.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+Objective: 298.053258834546
+gt_people ride horse=1.0
+gt_people ride horse=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_people ride horse=0.0
+gt_woman with cow=0.0
+gt_man with cow=0.0
+gt_frisbee in field=0.0
+gt_man with cow=0.0
+gt_people ride horse=0.0
+gt_road in field=1.0
+gt_people ride elephant=0.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_cow in field=1.0
+gt_man with cow=0.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_people in field=1.0
+gt_people ride horse=0.0
+gt_people ride elephant=0.0
+gt_fence in field=1.0
+gt_grass in field=1.0
+gt_woman in field=1.0
+gt_road in field=-0.0
+gt_man with cow=-0.0
+gt_people ride horse=1.0
+gt_cow in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a black dog sitting on a bed looking out a window
+Imageid: 487741, extracted triplets: ['dog sit on bed'], mapped triplets: ['dog sit bed', 'dog sit chair', 'dog sit couch', 'dog sit on bed']
+Objective: 298.053258834546
+PRIOR DISTANCE
+gt_dog sit on bed=0.0
+gt_dog sit chair=0.0
+gt_dog sit on bed=0.0
+gt_dog sit chair=0.0
+Objective: 297.60622324680037
+gt_dog sit on bed=0.0
+gt_dog sit chair=0.0
+gt_dog sit on bed=1.0
+gt_dog sit chair=0.0
+----------------------------
+Caption: a dog looking out of the window of a car
+Imageid: 540774, extracted triplets: ['window of car'], mapped triplets: ['window of car']
+Objective: 297.60622324680037
+PRIOR DISTANCE
+gt_window of car=0.0
+gt_window of car=1.0
+Objective: 297.71899898825734
+gt_window of car=0.0
+gt_window of car=1.0
+----------------------------
+Caption: a dog jumping in the air to catch a frisbee
+Imageid: 369541, extracted triplets: ['dog jump frisbee'], mapped triplets: []
+Objective: 297.71899898825734
+PRIOR DISTANCE
+Objective: 297.71899898825734
+----------------------------
+Caption: a dog laying on the floor in a living room
+Imageid: 326968, extracted triplets: ['dog in room'], mapped triplets: ['dog in couch', 'cat in room', 'couch in room', 'bed in room', 'dog in room']
+Objective: 297.71899898825734
+PRIOR DISTANCE
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+Objective: 297.332452780714
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_cat in room=1.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+----------------------------
+Caption: a dog tied to a wooden bench in a park
+Imageid: 217082, extracted triplets: ['dog to bench', 'dog in park'], mapped triplets: ['dog to chair', 'dog to couch', 'dog to bench', 'frisbee in field', 'dog in sand', 'dog in grass']
+Objective: 297.332452780714
+PRIOR DISTANCE
+gt_dog in grass=0.0
+gt_dog in grass=1.0
+gt_frisbee in field=0.0
+gt_frisbee in field=0.0
+gt_frisbee in field=0.0
+gt_dog in grass=0.0
+gt_frisbee in field=1.0
+Objective: 297.2866512418425
+gt_dog in grass=0.0
+gt_dog in grass=1.0
+gt_frisbee in field=0.0
+gt_frisbee in field=0.0
+gt_frisbee in field=0.0
+gt_dog in grass=0.0
+gt_frisbee in field=1.0
+----------------------------
+Caption: a black and white dog sitting in front of boats in the water
+Imageid: 493797, extracted triplets: ['dog sit wall', 'dog sit window', 'dog sit beach'], mapped triplets: ['dog sit house', 'dog sit door', 'dog sit wall', 'dog sit window', 'dog sit beach', 'dog sit sand', 'woman sit beach']
+Objective: 297.2866512418425
+PRIOR DISTANCE
+Objective: 297.2866512418425
+----------------------------
+Caption: a dog holding a frisbee in its mouth
+Imageid: 421072, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball', 'frisbee in paw', 'dog in mouth']
+Objective: 297.2866512418425
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+Objective: 297.47149973987837
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+----------------------------
+Caption: a black dog holding a blue frisbee in its mouth
+Imageid: 403421, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball', 'frisbee in paw', 'dog in mouth']
+Objective: 297.47149973987837
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+Objective: 297.22473614317346
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+----------------------------
+Caption: a man standing in a field with a dog
+Imageid: 401808, extracted triplets: ['man in field', 'man with dog'], mapped triplets: ['sheep in field', 'frisbee in field', 'bench in field', 'person in field', 'people in field', 'road in field', 'kite in field', 'woman in field', 'grass in field', 'cow in field', 'horse in field', 'fence in field', 'man in grass', 'man in field', 'man with dog', 'person with dog', 'boy with dog', 'girl with dog', 'child with dog', 'woman with dog', 'people with dog']
+Objective: 297.22473614317346
+PRIOR DISTANCE
+gt_kite in field=0.0
+gt_woman in grass=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_man with dog=0.0
+gt_man in grass=0.0
+gt_man with dog=0.0
+gt_man in grass=0.0
+gt_people in field=0.0
+gt_frisbee in field=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_bench in field=0.0
+gt_road in field=1.0
+gt_kite in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_man in grass=1.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_kite in field=0.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_fence in field=1.0
+gt_grass in field=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_kite in field=1.0
+gt_girl with dog=0.0
+gt_road in field=-0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_cow in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_man with dog=1.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+Objective: 296.4971706492366
+gt_kite in field=0.0
+gt_woman in grass=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_man with dog=0.0
+gt_man in grass=0.0
+gt_man with dog=0.0
+gt_man in grass=0.0
+gt_people in field=0.0
+gt_frisbee in field=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_bench in field=0.0
+gt_road in field=1.0
+gt_kite in field=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_man in grass=1.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_kite in field=0.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_fence in field=0.0
+gt_grass in field=1.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_kite in field=1.0
+gt_girl with dog=1.0
+gt_road in field=-0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_cow in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=1.0
+gt_man with dog=1.0
+gt_frisbee in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a man in a suit and hat talking on a cell phone
+Imageid: 236068, extracted triplets: ['man in suit'], mapped triplets: ['man in jacket', 'man in shirt']
+Objective: 296.4971706492366
+PRIOR DISTANCE
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=0.0
+gt_woman in shirt=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=0.0
+gt_woman in jacket=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in jacket=1.0
+gt_man in shirt=0.0
+gt_woman in jacket=0.0
+gt_man in shirt=0.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in jacket=0.0
+gt_man in shirt=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=0.0
+gt_woman in shirt=0.0
+gt_woman in jacket=1.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in jacket=1.0
+gt_man in shirt=-0.0
+gt_woman in shirt=1.0
+gt_man in jacket=1.0
+Objective: 296.66439249134953
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in jacket=1.0
+gt_woman in jacket=0.0
+gt_woman in shirt=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in jacket=0.0
+gt_woman in jacket=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in jacket=1.0
+gt_man in shirt=0.0
+gt_woman in jacket=0.0
+gt_man in shirt=0.0
+gt_man in jacket=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in jacket=0.0
+gt_man in shirt=0.0
+gt_woman in jacket=0.0
+gt_man in jacket=0.0
+gt_woman in shirt=0.0
+gt_woman in jacket=1.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in jacket=1.0
+gt_man in shirt=-0.0
+gt_woman in shirt=1.0
+gt_man in jacket=1.0
+----------------------------
+Caption: a white dog sitting in the front seat of a car
+Imageid: 194306, extracted triplets: ['dog sit car'], mapped triplets: ['dog sit bike', 'dog sit truck', 'man sit car', 'dog sit car']
+Objective: 296.66439249134953
+PRIOR DISTANCE
+Objective: 296.66439249134953
+----------------------------
+Caption: a man holding a frisbee with a dog in a field
+Imageid: 521427, extracted triplets: ['man hold frisbee', 'man with dog', 'dog in field'], mapped triplets: ['man hold frisbee', 'person hold frisbee', 'man with dog', 'person with dog', 'boy with dog', 'girl with dog', 'child with dog', 'woman with dog', 'people with dog', 'sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 296.66439249134953
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man hold frisbee=0.0
+gt_people in field=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man hold frisbee=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_man hold frisbee=0.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_fence in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_girl with dog=1.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_person hold frisbee=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=1.0
+gt_man with dog=1.0
+gt_person in field=1.0
+gt_man hold frisbee=-0.0
+Objective: 297.45921480306015
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man hold frisbee=0.0
+gt_people in field=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man hold frisbee=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_man hold frisbee=0.0
+gt_person hold frisbee=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_man hold frisbee=0.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_girl with dog=1.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_person hold frisbee=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_man with dog=1.0
+gt_person in field=1.0
+gt_man hold frisbee=-0.0
+----------------------------
+Caption: three people in a boat on a river
+Imageid: 431615, extracted triplets: ['people in boat', 'people on river'], mapped triplets: ['beach in boat', 'man in boat', 'boat in water', 'people in boat', 'person on field', 'man on water', 'people on field', 'boat on water']
+Objective: 297.45921480306015
+PRIOR DISTANCE
+gt_woman in boat=0.0
+gt_man in boat=0.0
+gt_boat in water=1.0
+gt_people on field=0.0
+gt_man in boat=0.0
+gt_boat in water=0.0
+gt_person on field=1.0
+gt_boat on water=0.0
+gt_people in boat=1.0
+gt_people in boat=0.0
+gt_man in boat=0.0
+gt_people on field=0.0
+gt_people in boat=1.0
+gt_boat on water=1.0
+gt_person on field=1.0
+gt_boat in water=-0.0
+gt_people on field=-0.0
+gt_man on water=1.0
+gt_man in boat=1.0
+Objective: 297.39703929601285
+gt_woman in boat=0.0
+gt_man in boat=0.0
+gt_boat in water=1.0
+gt_people on field=0.0
+gt_man in boat=0.0
+gt_boat in water=0.0
+gt_person on field=1.0
+gt_boat on water=0.0
+gt_people in boat=1.0
+gt_people in boat=0.0
+gt_man in boat=0.0
+gt_people on field=0.0
+gt_people in boat=1.0
+gt_boat on water=1.0
+gt_person on field=1.0
+gt_boat in water=1.0
+gt_people on field=-0.0
+gt_man on water=0.0
+gt_man in boat=1.0
+----------------------------
+Caption: a brown dog standing next to a motorcycle in a parking lot
+Imageid: 102735, extracted triplets: ['dog next to motorcycle'], mapped triplets: ['car next to bus', 'motorcycle next to dog', 'dog next to motorcycle']
+Objective: 297.39703929601285
+PRIOR DISTANCE
+gt_car next to bus=0.0
+gt_motorcycle next to dog=-0.0
+gt_car next to bus=-0.0
+Objective: 297.45161532582836
+gt_car next to bus=0.0
+gt_motorcycle next to dog=-0.0
+gt_car next to bus=-0.0
+----------------------------
+Caption: a man playing with a dog in a field with goats
+Imageid: 550013, extracted triplets: ['man play dog', 'dog in field'], mapped triplets: ['boy play dog', 'people play dog', 'man play dog', 'woman play dog', 'sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 297.45161532582836
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+Objective: 297.42829153029163
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a black cat laying on the bathroom floor in front of a toilet
+Imageid: 13882, extracted triplets: ['cat in door', 'cat in wall', 'cat in window'], mapped triplets: ['dog in door', 'cat in room', 'cat in room', 'dog in window']
+Objective: 297.42829153029163
+PRIOR DISTANCE
+gt_cat in room=1.0
+gt_cat in room=1.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_dog in window=-0.0
+gt_cat in room=1.0
+gt_cat in room=1.0
+Objective: 297.435770050859
+gt_cat in room=1.0
+gt_cat in room=1.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_cat in room=0.0
+gt_dog in window=-0.0
+gt_cat in room=1.0
+gt_cat in room=1.0
+----------------------------
+Caption: a man walking his dog down a path
+Imageid: 509497, extracted triplets: ['man walk dog'], mapped triplets: ['person walk dog', 'woman walk dog', 'man walk dog']
+Objective: 297.435770050859
+PRIOR DISTANCE
+gt_man walk dog=1.0
+gt_woman walk dog=0.0
+gt_woman walk dog=0.0
+gt_person walk dog=1.0
+gt_man walk dog=0.0
+gt_woman walk dog=1.0
+gt_woman walk dog=1.0
+gt_person walk dog=1.0
+gt_man walk dog=1.0
+gt_man walk dog=0.0
+gt_person walk dog=1.0
+gt_woman walk dog=0.0
+gt_woman walk dog=0.0
+gt_person walk dog=0.0
+gt_man walk dog=1.0
+gt_woman walk dog=0.0
+gt_woman walk dog=0.0
+Objective: 297.12169298413096
+gt_man walk dog=1.0
+gt_woman walk dog=0.0
+gt_woman walk dog=0.0
+gt_person walk dog=1.0
+gt_man walk dog=0.0
+gt_woman walk dog=1.0
+gt_woman walk dog=1.0
+gt_person walk dog=1.0
+gt_man walk dog=1.0
+gt_man walk dog=0.0
+gt_person walk dog=1.0
+gt_woman walk dog=0.0
+gt_woman walk dog=0.0
+gt_person walk dog=0.0
+gt_man walk dog=1.0
+gt_woman walk dog=1.0
+gt_woman walk dog=1.0
+----------------------------
+Caption: a small dog holding a frisbee in its mouth
+Imageid: 169361, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball', 'frisbee in paw', 'dog in mouth']
+Objective: 297.12169298413096
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+Objective: 297.1917895880311
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+----------------------------
+Caption: a cat looking out of a window at a dog
+Imageid: 22892, extracted triplets: ['window at dog'], mapped triplets: ['window at cat']
+Objective: 297.1917895880311
+PRIOR DISTANCE
+gt_window at cat=0.0
+Objective: 297.194856016329
+gt_window at cat=0.0
+----------------------------
+Caption: a cake with two teddy bears on top of it
+Imageid: 140444, extracted triplets: ['cake with bear'], mapped triplets: ['food with vegetable', 'plate with cake']
+Objective: 297.194856016329
+PRIOR DISTANCE
+gt_food with vegetable=0.0
+gt_plate with cake=0.0
+gt_food with vegetable=1.0
+gt_plate with cake=0.0
+gt_food with vegetable=0.0
+gt_plate with cake=0.0
+gt_plate with cake=0.0
+gt_plate with cake=1.0
+gt_food with vegetable=1.0
+Objective: 297.15988868454
+gt_food with vegetable=0.0
+gt_plate with cake=0.0
+gt_food with vegetable=1.0
+gt_plate with cake=0.0
+gt_food with vegetable=0.0
+gt_plate with cake=0.0
+gt_plate with cake=0.0
+gt_plate with cake=1.0
+gt_food with vegetable=0.0
+----------------------------
+Caption: a brown dog sitting on a couch
+Imageid: 512183, extracted triplets: ['dog sit on couch'], mapped triplets: ['dog sit couch', 'cat sit couch', 'woman sit couch', 'girl sit couch', 'people sit couch', 'man sit couch', 'child sit couch', 'dog sit on couch']
+Objective: 297.15988868454
+PRIOR DISTANCE
+gt_dog sit on couch=1.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+Objective: 297.15083891312435
+gt_dog sit on couch=1.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+----------------------------
+Caption: a dog standing in a boat in the water
+Imageid: 271576, extracted triplets: ['dog in boat', 'boat in water'], mapped triplets: ['dog in bike', 'dog in boat', 'dog in truck', 'dog in motorcycle', 'dog in car', 'boat in water', 'horse in water', 'animal in water', 'people in water']
+Objective: 297.15083891312435
+PRIOR DISTANCE
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_people in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_dog in boat=-0.0
+gt_horse in water=0.0
+gt_dog in car=1.0
+gt_dog in bike=-0.0
+Objective: 297.29490079838945
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_people in water=1.0
+gt_people in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_dog in boat=-0.0
+gt_horse in water=1.0
+gt_dog in car=1.0
+gt_dog in bike=-0.0
+----------------------------
+Caption: a woman taking a picture of a dog in a car mirror
+Imageid: 77689, extracted triplets: ['dog in car mirror'], mapped triplets: ['dog in mirror']
+Objective: 297.29490079838945
+PRIOR DISTANCE
+gt_dog in mirror=1.0
+Objective: 297.2690708942141
+gt_dog in mirror=1.0
+----------------------------
+Caption: a man sitting in the snow with a dog in the snow
+Imageid: 357542, extracted triplets: ['man with dog', 'dog in snow'], mapped triplets: ['man with dog', 'person with dog', 'boy with dog', 'girl with dog', 'child with dog', 'woman with dog', 'people with dog', 'dog in sand', 'kite in snow', 'mouth in snow', 'hydrant in snow', 'woman in snow', 'bench in snow', 'man in snow', 'person in snow', 'dog in snow']
+Objective: 297.2690708942141
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man in snow=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_kite in snow=0.0
+gt_bench in snow=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_kite in snow=1.0
+gt_girl with dog=1.0
+gt_hydrant in snow=0.0
+gt_people with dog=1.0
+gt_bench in snow=0.0
+gt_boy with dog=-0.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=-0.0
+gt_mouth in snow=1.0
+gt_man with dog=1.0
+Objective: 297.1993245799989
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_man in snow=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_kite in snow=0.0
+gt_bench in snow=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_kite in snow=1.0
+gt_girl with dog=1.0
+gt_hydrant in snow=0.0
+gt_people with dog=1.0
+gt_bench in snow=0.0
+gt_boy with dog=-0.0
+gt_woman in snow=0.0
+gt_woman in snow=0.0
+gt_dog in snow=-0.0
+gt_mouth in snow=1.0
+gt_man with dog=1.0
+----------------------------
+Caption: a dog laying on a bed with stuffed animals
+Imageid: 215744, extracted triplets: ['dog with dog', 'dog with animal'], mapped triplets: ['dog with dog', 'dog with dog', 'sheep with dog']
+Objective: 297.1993245799989
+PRIOR DISTANCE
+gt_sheep with dog=0.0
+gt_dog with dog=1.0
+gt_dog with dog=1.0
+gt_sheep with dog=0.0
+Objective: 297.21515871454875
+gt_sheep with dog=0.0
+gt_dog with dog=1.0
+gt_dog with dog=1.0
+gt_sheep with dog=0.0
+----------------------------
+Caption: a dog laying on top of a bed with a person
+Imageid: 424432, extracted triplets: ['dog with hand'], mapped triplets: ['dog with paw', 'dog with leg']
+Objective: 297.21515871454875
+PRIOR DISTANCE
+gt_dog with leg=-0.0
+gt_dog with paw=0.0
+Objective: 297.7713863231053
+gt_dog with leg=-0.0
+gt_dog with paw=0.0
+----------------------------
+Caption: a dog chasing a frisbee in a field
+Imageid: 104421, extracted triplets: ['dog in field'], mapped triplets: ['sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 297.7713863231053
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+Objective: 297.794542803162
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a brown and white dog holding a yellow frisbee in its mouth
+Imageid: 2753, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball']
+Objective: 297.794542803162
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+Objective: 297.6814294061919
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+----------------------------
+Caption: a black dog holding a frisbee in its mouth
+Imageid: 223032, extracted triplets: ['dog hold frisbee', 'dog in mouth'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball', 'frisbee in paw', 'dog in mouth']
+Objective: 297.6814294061919
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+Objective: 297.8269326796376
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+----------------------------
+Caption: a dog herding a herd of sheep in a field
+Imageid: 138083, extracted triplets: ['dog in field'], mapped triplets: ['sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 297.8269326796376
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+Objective: 297.38463051534654
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a black dog catching a frisbee in its mouth
+Imageid: 165752, extracted triplets: ['dog catch frisbee'], mapped triplets: ['woman catch frisbee', 'dog catch frisbee', 'man catch frisbee']
+Objective: 297.38463051534654
+PRIOR DISTANCE
+gt_man catch frisbee=0.0
+gt_man catch frisbee=1.0
+gt_dog catch frisbee=0.0
+gt_woman catch frisbee=-0.0
+gt_woman catch frisbee=-0.0
+gt_dog catch frisbee=1.0
+gt_man catch frisbee=1.0
+Objective: 297.3837208569799
+gt_man catch frisbee=0.0
+gt_man catch frisbee=1.0
+gt_dog catch frisbee=0.0
+gt_woman catch frisbee=-0.0
+gt_woman catch frisbee=-0.0
+gt_dog catch frisbee=1.0
+gt_man catch frisbee=1.0
+----------------------------
+Caption: a black dog holding a frisbee in its mouth
+Imageid: 219632, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball']
+Objective: 297.3837208569799
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+Objective: 297.43687012446185
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+----------------------------
+Caption: a dog on a leash next to a bike
+Imageid: 297372, extracted triplets: ['dog on collar'], mapped triplets: ['dog on bowl', 'dog on blanket']
+Objective: 297.43687012446185
+PRIOR DISTANCE
+Objective: 297.43687012446185
+----------------------------
+Caption: a brown dog standing in front of a stove
+Imageid: 269417, extracted triplets: ['dog in door', 'dog in table', 'dog in wall', 'dog in cabinet', 'dog in drawer', 'dog in handle'], mapped triplets: ['dog in door', 'dog in chair', 'dog in room', 'wall in room', 'dog in chair', 'dog in hand']
+Objective: 297.43687012446185
+PRIOR DISTANCE
+gt_dog in room=1.0
+gt_wall in room=1.0
+gt_wall in room=1.0
+gt_dog in hand=0.0
+gt_wall in room=0.0
+gt_dog in hand=1.0
+gt_wall in room=1.0
+gt_dog in hand=1.0
+gt_dog in room=0.0
+gt_dog in chair=0.0
+gt_dog in chair=0.0
+Objective: 297.5625108559036
+gt_dog in room=1.0
+gt_wall in room=1.0
+gt_wall in room=1.0
+gt_dog in hand=0.0
+gt_wall in room=0.0
+gt_dog in hand=1.0
+gt_wall in room=1.0
+gt_dog in hand=1.0
+gt_dog in room=0.0
+gt_dog in chair=0.0
+gt_dog in chair=0.0
+----------------------------
+Caption: a dog playing with a frisbee in the grass
+Imageid: 357459, extracted triplets: ['dog play with frisbee', 'frisbee in grass'], mapped triplets: ['man play with frisbee', 'dog play with ball', 'ball in grass', 'cow in grass', 'sheep in grass', 'tree in grass', 'grass in field', 'grass in build', 'grass in people', 'grass in water', 'horse in grass']
+Objective: 297.5625108559036
+PRIOR DISTANCE
+gt_man play with frisbee=0.0
+gt_tree in grass=0.0
+gt_horse in grass=1.0
+gt_ball in grass=0.0
+gt_man play with frisbee=1.0
+gt_horse in grass=0.0
+gt_tree in grass=1.0
+gt_grass in field=1.0
+gt_ball in grass=1.0
+gt_dog play with ball=1.0
+gt_cow in grass=1.0
+gt_sheep in grass=1.0
+gt_man play with frisbee=1.0
+Objective: 297.301926631166
+gt_man play with frisbee=0.0
+gt_tree in grass=0.0
+gt_horse in grass=1.0
+gt_ball in grass=0.0
+gt_man play with frisbee=1.0
+gt_horse in grass=0.0
+gt_tree in grass=1.0
+gt_grass in field=1.0
+gt_ball in grass=1.0
+gt_dog play with ball=-0.0
+gt_cow in grass=1.0
+gt_sheep in grass=1.0
+gt_man play with frisbee=1.0
+----------------------------
+Caption: a woman sitting on a bench with a dog
+Imageid: 216051, extracted triplets: ['woman sit bench', 'woman with dog'], mapped triplets: ['person sit bench', 'people sit bench', 'woman sit bench', 'woman with woman', 'man with dog', 'girl with dog', 'person with dog', 'woman with cat', 'woman with child', 'woman with pillow', 'woman with laptop', 'woman with bike', 'woman with kite', 'woman with phone', 'woman with dog']
+Objective: 297.301926631166
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+Objective: 297.3009992642923
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a black dog running with a frisbee in its mouth
+Imageid: 25989, extracted triplets: ['dog in mouth'], mapped triplets: ['frisbee in paw', 'dog in mouth']
+Objective: 297.3009992642923
+PRIOR DISTANCE
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+Objective: 297.23277325983236
+gt_frisbee in paw=1.0
+gt_dog in mouth=-0.0
+----------------------------
+Caption: a woman holding a dog and a cake with a candle
+Imageid: 522427, extracted triplets: ['woman hold dog', 'cake with candle'], mapped triplets: ['woman hold dog', 'counter with cake', 'table with cake', 'plate with cake']
+Objective: 297.23277325983236
+PRIOR DISTANCE
+gt_woman hold dog=1.0
+gt_table with cake=0.0
+gt_table with cake=0.0
+gt_plate with cake=0.0
+gt_table with cake=1.0
+gt_table with cake=0.0
+gt_plate with cake=0.0
+gt_plate with cake=0.0
+gt_table with cake=0.0
+gt_table with cake=1.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_plate with cake=0.0
+gt_table with cake=0.0
+gt_plate with cake=1.0
+gt_table with cake=-0.0
+gt_counter with cake=1.0
+gt_woman hold dog=0.0
+Objective: 297.9522949233664
+gt_woman hold dog=1.0
+gt_table with cake=0.0
+gt_table with cake=0.0
+gt_plate with cake=0.0
+gt_table with cake=1.0
+gt_table with cake=0.0
+gt_plate with cake=0.0
+gt_plate with cake=0.0
+gt_table with cake=0.0
+gt_table with cake=1.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_plate with cake=0.0
+gt_table with cake=0.0
+gt_plate with cake=1.0
+gt_table with cake=-0.0
+gt_counter with cake=1.0
+gt_woman hold dog=1.0
+----------------------------
+Caption: a woman sitting on a bench with a dog
+Imageid: 198176, extracted triplets: ['woman sit bench', 'woman with dog'], mapped triplets: ['person sit bench', 'people sit bench', 'woman sit bench', 'woman with woman', 'man with dog', 'girl with dog', 'person with dog', 'woman with cat', 'woman with child', 'woman with pillow', 'woman with laptop', 'woman with bike', 'woman with kite', 'woman with phone', 'woman with dog']
+Objective: 297.9522949233664
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+Objective: 297.472561560951
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=1.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a person jumping a dog catching a frisbee in a park
+Imageid: 310262, extracted triplets: ['person jump dog', 'dog catch frisbee', 'dog in park'], mapped triplets: ['woman catch frisbee', 'dog catch frisbee', 'man catch frisbee', 'frisbee in field', 'dog in sand', 'dog in grass']
+Objective: 297.472561560951
+PRIOR DISTANCE
+gt_dog in grass=0.0
+gt_dog in grass=1.0
+gt_frisbee in field=0.0
+gt_man catch frisbee=0.0
+gt_frisbee in field=0.0
+gt_man catch frisbee=1.0
+gt_frisbee in field=0.0
+gt_dog in grass=0.0
+gt_dog catch frisbee=0.0
+gt_woman catch frisbee=-0.0
+gt_woman catch frisbee=-0.0
+gt_dog catch frisbee=1.0
+gt_frisbee in field=1.0
+gt_man catch frisbee=1.0
+Objective: 297.5395422678207
+gt_dog in grass=0.0
+gt_dog in grass=1.0
+gt_frisbee in field=0.0
+gt_man catch frisbee=0.0
+gt_frisbee in field=0.0
+gt_man catch frisbee=1.0
+gt_frisbee in field=0.0
+gt_dog in grass=0.0
+gt_dog catch frisbee=0.0
+gt_woman catch frisbee=-0.0
+gt_woman catch frisbee=-0.0
+gt_dog catch frisbee=1.0
+gt_frisbee in field=1.0
+gt_man catch frisbee=1.0
+----------------------------
+Caption: a man sitting in a car with a small dog
+Imageid: 307993, extracted triplets: ['man sit car', 'man with dog'], mapped triplets: ['man sit bike', 'man sit vehicle', 'dog sit car', 'man sit car', 'man with dog', 'person with dog', 'boy with dog', 'girl with dog', 'child with dog', 'woman with dog', 'people with dog']
+Objective: 297.5395422678207
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_girl with dog=1.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man with dog=1.0
+Objective: 297.59721881164853
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_girl with dog=1.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a man and a dog on a surfboard in the ocean
+Imageid: 45587, extracted triplets: ['dog on surfboard', 'surfboard in water', 'surfboard in surfboard', 'surfboard in wave'], mapped triplets: ['dog on boat', 'person on surfboard', 'man on surfboard', 'dog on water', 'horse on beach', 'surfboard on surfboard', 'man on beach', 'person on beach', 'surfboard on beach', 'dog on beach', 'dog on surfboard', 'people in water', 'horse in water', 'animal in water', 'boat in water', 'dog in water', 'surfboard in water', 'people in sand', 'surfboard in water', 'beach in wave', 'surfboard in water', 'people in surfer']
+Objective: 297.59721881164853
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_dog on beach=0.0
+gt_boat in water=0.0
+gt_surfboard on beach=1.0
+gt_people in water=1.0
+gt_man on beach=1.0
+gt_man on beach=1.0
+gt_people in water=0.0
+gt_horse on beach=0.0
+gt_man on surfboard=1.0
+gt_surfboard in water=1.0
+gt_surfboard in water=1.0
+gt_surfboard in water=1.0
+gt_dog on surfboard=1.0
+gt_dog in water=1.0
+gt_people in water=1.0
+gt_woman on beach=1.0
+gt_horse on beach=1.0
+gt_boat in water=1.0
+gt_surfboard on beach=0.0
+gt_horse in water=1.0
+gt_person on beach=-0.0
+gt_dog on beach=1.0
+Objective: 297.6124536890701
+gt_surfboard on beach=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_dog on beach=0.0
+gt_boat in water=0.0
+gt_surfboard on beach=1.0
+gt_people in water=1.0
+gt_man on beach=1.0
+gt_man on beach=1.0
+gt_people in water=0.0
+gt_horse on beach=0.0
+gt_man on surfboard=1.0
+gt_surfboard in water=1.0
+gt_surfboard in water=1.0
+gt_surfboard in water=1.0
+gt_dog on surfboard=1.0
+gt_dog in water=1.0
+gt_people in water=0.0
+gt_woman on beach=1.0
+gt_horse on beach=1.0
+gt_boat in water=-0.0
+gt_surfboard on beach=0.0
+gt_horse in water=1.0
+gt_person on beach=-0.0
+gt_dog on beach=1.0
+----------------------------
+Caption: a person walking on the beach with a dog
+Imageid: 39081, extracted triplets: ['person walk beach', 'person with dog'], mapped triplets: ['people walk beach', 'man walk beach', 'person walk beach', 'surfboard walk beach', 'dog walk beach', 'surfer walk beach', 'child with dog', 'man with dog', 'woman with dog', 'boy with dog', 'people with dog', 'person with dog']
+Objective: 297.6124536890701
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man with dog=1.0
+Objective: 297.60360020667724
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a person and a dog on a beach with boats
+Imageid: 205866, extracted triplets: ['dog on beach'], mapped triplets: ['dog on sand', 'horse on beach', 'ball on sand', 'frisbee on beach', 'blanket on beach', 'surfboard on beach', 'umbrella on beach', 'sand on beach', 'kite on beach', 'dog on beach']
+Objective: 297.60360020667724
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_sand on beach=1.0
+gt_blanket on beach=0.0
+gt_umbrella on beach=0.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=0.0
+gt_dog on beach=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_sand on beach=1.0
+gt_umbrella on beach=0.0
+gt_horse on beach=0.0
+gt_ball on sand=-0.0
+gt_horse on beach=1.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=1.0
+gt_blanket on beach=0.0
+gt_sand on beach=1.0
+gt_dog on sand=1.0
+gt_surfboard on beach=0.0
+gt_kite on beach=0.0
+gt_dog on beach=1.0
+Objective: 297.6421504628508
+gt_surfboard on beach=1.0
+gt_sand on beach=1.0
+gt_blanket on beach=0.0
+gt_umbrella on beach=0.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=0.0
+gt_dog on beach=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_sand on beach=1.0
+gt_umbrella on beach=0.0
+gt_horse on beach=0.0
+gt_ball on sand=-0.0
+gt_horse on beach=1.0
+gt_frisbee on beach=1.0
+gt_umbrella on beach=0.0
+gt_blanket on beach=0.0
+gt_sand on beach=1.0
+gt_dog on sand=1.0
+gt_surfboard on beach=1.0
+gt_kite on beach=1.0
+gt_dog on beach=1.0
+----------------------------
+Caption: a brown dog laying in a basket with an umbrella
+Imageid: 278550, extracted triplets: ['dog in basket', 'dog with umbrella'], mapped triplets: ['dog in backpack', 'dog in basket', 'person with umbrella', 'beach with umbrella']
+Objective: 297.6421504628508
+PRIOR DISTANCE
+gt_dog in basket=1.0
+gt_person with umbrella=0.0
+gt_person with umbrella=0.0
+gt_dog in basket=0.0
+gt_beach with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_person with umbrella=1.0
+gt_dog in basket=0.0
+gt_beach with umbrella=0.0
+gt_person with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_dog in backpack=1.0
+gt_dog in basket=-0.0
+gt_person with umbrella=1.0
+Objective: 297.7286535674627
+gt_dog in basket=1.0
+gt_person with umbrella=0.0
+gt_person with umbrella=0.0
+gt_dog in basket=0.0
+gt_beach with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_person with umbrella=1.0
+gt_dog in basket=0.0
+gt_beach with umbrella=0.0
+gt_person with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_dog in backpack=1.0
+gt_dog in basket=-0.0
+gt_person with umbrella=1.0
+----------------------------
+Caption: a group of people standing in a field with elephants
+Imageid: 469777, extracted triplets: ['people in field', 'people with elephant'], mapped triplets: ['sheep in field', 'bench in field', 'man in field', 'person in field', 'cow in field', 'dog in field', 'horse in field', 'woman in field', 'fence in field', 'people in field', 'people with dog', 'man with sheep']
+Objective: 297.7286535674627
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_man with sheep=1.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people with dog=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+Objective: 297.41171139316947
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_man with sheep=1.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people with dog=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a black and white dog holding a frisbee in its mouth
+Imageid: 304147, extracted triplets: ['dog hold frisbee'], mapped triplets: ['dog hold stick', 'field hold frisbee', 'dog hold ball']
+Objective: 297.41171139316947
+PRIOR DISTANCE
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=1.0
+Objective: 297.33556336490295
+gt_field hold frisbee=1.0
+gt_dog hold stick=-0.0
+gt_field hold frisbee=1.0
+gt_dog hold ball=0.0
+----------------------------
+Caption: a woman walking a white dog down a sidewalk with a bag
+Imageid: 93853, extracted triplets: ['woman walk dog', 'sidewalk with bag'], mapped triplets: ['woman walk bench', 'woman walk grass', 'woman walk street', 'woman walk dog', 'street with backpack', 'bench with bag']
+Objective: 297.33556336490295
+PRIOR DISTANCE
+gt_street with backpack=0.0
+gt_woman walk dog=0.0
+gt_bench with bag=1.0
+gt_bench with bag=0.0
+gt_woman walk dog=1.0
+gt_bench with bag=1.0
+gt_street with backpack=0.0
+gt_bench with bag=1.0
+gt_woman walk dog=0.0
+gt_bench with bag=-0.0
+gt_street with backpack=-0.0
+gt_woman walk dog=1.0
+Objective: 297.3595867210591
+gt_street with backpack=0.0
+gt_woman walk dog=0.0
+gt_bench with bag=1.0
+gt_bench with bag=0.0
+gt_woman walk dog=1.0
+gt_bench with bag=1.0
+gt_street with backpack=0.0
+gt_bench with bag=1.0
+gt_woman walk dog=0.0
+gt_bench with bag=-0.0
+gt_street with backpack=-0.0
+gt_woman walk dog=0.0
+----------------------------
+Caption: a woman laying in a chair with three dogs
+Imageid: 357322, extracted triplets: ['woman in chair'], mapped triplets: ['woman in dress', 'child in chair', 'girl in chair', 'woman in chair']
+Objective: 297.3595867210591
+PRIOR DISTANCE
+gt_woman in dress=1.0
+gt_woman in dress=1.0
+gt_woman in chair=0.0
+gt_woman in dress=0.0
+gt_child in chair=0.0
+gt_girl in chair=1.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in chair=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_woman in dress=-0.0
+Objective: 297.3274631690891
+gt_woman in dress=1.0
+gt_woman in dress=1.0
+gt_woman in chair=0.0
+gt_woman in dress=0.0
+gt_child in chair=0.0
+gt_girl in chair=1.0
+gt_woman in dress=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in chair=1.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=0.0
+gt_woman in dress=1.0
+gt_woman in dress=-0.0
+----------------------------
+Caption: a brown dog sitting on a chair
+Imageid: 103584, extracted triplets: ['dog sit chair'], mapped triplets: ['dog sit couch', 'child sit chair', 'dog sit chair']
+Objective: 297.3274631690891
+PRIOR DISTANCE
+gt_dog sit chair=0.0
+gt_dog sit chair=0.0
+Objective: 297.2834032502572
+gt_dog sit chair=0.0
+gt_dog sit chair=0.0
+----------------------------
+Caption: a man and a woman sitting on the grass with a dog
+Imageid: 160501, extracted triplets: ['woman with dog'], mapped triplets: ['woman with woman', 'man with dog', 'girl with dog', 'person with dog', 'woman with cat', 'woman with child', 'woman with pillow', 'woman with laptop', 'woman with bike', 'woman with kite', 'woman with phone', 'woman with dog']
+Objective: 297.2834032502572
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=1.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+Objective: 297.25289798262764
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=0.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a cat and a dog sitting on the floor in a room
+Imageid: 189806, extracted triplets: ['dog sit floor', 'dog in room'], mapped triplets: ['dog sit couch', 'cat sit floor', 'dog sit bed', 'child sit floor', 'dog sit floor', 'dog in couch', 'cat in room', 'couch in room', 'bed in room', 'dog in room']
+Objective: 297.25289798262764
+PRIOR DISTANCE
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_cat in room=1.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+Objective: 297.39898139635886
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_cat in room=1.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+----------------------------
+Caption: a black dog standing next to another black dog
+Imageid: 210144, extracted triplets: ['dog next to dog'], mapped triplets: ['dog next to dog']
+Objective: 297.39898139635886
+PRIOR DISTANCE
+gt_dog next to dog=0.0
+gt_dog next to dog=0.0
+Objective: 297.38611780998593
+gt_dog next to dog=0.0
+gt_dog next to dog=1.0
+----------------------------
+Caption: a man and two little girls sitting on a couch with a dog
+Imageid: 439774, extracted triplets: ['man with dog'], mapped triplets: ['man with dog', 'person with dog', 'boy with dog', 'girl with dog', 'child with dog', 'woman with dog', 'people with dog']
+Objective: 297.38611780998593
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man with dog=1.0
+Objective: 297.5636131374215
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_man with dog=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a dog sitting on a sidewalk next to a street
+Imageid: 435069, extracted triplets: ['dog sit sidewalk', 'sidewalk next to sidewalk'], mapped triplets: ['dog sit street', 'dog sit sidewalk', 'sidewalk next to car']
+Objective: 297.5636131374215
+PRIOR DISTANCE
+gt_sidewalk next to car=1.0
+gt_sidewalk next to car=1.0
+Objective: 297.7469156053101
+gt_sidewalk next to car=1.0
+gt_sidewalk next to car=1.0
+----------------------------
+Caption: a dog tied to a pole on a sidewalk
+Imageid: 370175, extracted triplets: ['dog to pole', 'dog on sidewalk'], mapped triplets: ['dog to pole', 'dog on street', 'man on sidewalk', 'dog on road', 'dog on sidewalk']
+Objective: 297.7469156053101
+PRIOR DISTANCE
+gt_man on sidewalk=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_dog on road=1.0
+gt_dog on sidewalk=1.0
+gt_dog on street=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_dog on street=1.0
+gt_man on sidewalk=1.0
+gt_dog on road=-0.0
+gt_dog on sidewalk=0.0
+Objective: 297.8303683578607
+gt_man on sidewalk=0.0
+gt_man on sidewalk=1.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=0.0
+gt_dog on road=1.0
+gt_dog on sidewalk=1.0
+gt_dog on street=0.0
+gt_woman on sidewalk=1.0
+gt_man on sidewalk=1.0
+gt_dog on street=1.0
+gt_man on sidewalk=0.0
+gt_dog on road=0.0
+gt_dog on sidewalk=1.0
+----------------------------
+Caption: a person standing under an umbrella with a horse
+Imageid: 44328, extracted triplets: ['person under umbrella', 'person with horse'], mapped triplets: ['man under umbrella', 'man with horse', 'person with dog']
+Objective: 297.8303683578607
+PRIOR DISTANCE
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man with horse=0.0
+gt_woman under umbrella=1.0
+gt_man with horse=0.0
+gt_man under umbrella=0.0
+gt_man with horse=1.0
+Objective: 297.8573894631861
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man with horse=0.0
+gt_woman under umbrella=1.0
+gt_man with horse=0.0
+gt_man under umbrella=0.0
+gt_man with horse=1.0
+----------------------------
+Caption: a dog eating food out of a shoe
+Imageid: 311961, extracted triplets: ['dog eat bowl'], mapped triplets: ['dog eat plate']
+Objective: 297.8573894631861
+PRIOR DISTANCE
+Objective: 297.8573894631861
+----------------------------
+Caption: a man standing in a park with a dog
+Imageid: 71004, extracted triplets: ['man in park', 'man with dog'], mapped triplets: ['person in field', 'man in field', 'man with dog', 'person with dog', 'boy with dog', 'girl with dog', 'child with dog', 'woman with dog', 'people with dog']
+Objective: 297.8573894631861
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_woman in field=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man in field=1.0
+gt_man with dog=1.0
+gt_person in field=1.0
+Objective: 297.8506639838745
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_woman in field=1.0
+gt_man in field=0.0
+gt_man with dog=0.0
+gt_woman in field=1.0
+gt_girl with dog=1.0
+gt_people with dog=1.0
+gt_boy with dog=-0.0
+gt_man in field=1.0
+gt_man with dog=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a dog sitting in the passenger seat of a car
+Imageid: 537574, extracted triplets: ['dog sit car'], mapped triplets: ['dog sit bike', 'dog sit truck', 'man sit car', 'dog sit car']
+Objective: 297.8506639838745
+PRIOR DISTANCE
+Objective: 297.8506639838745
+----------------------------
+Caption: a brown dog laying under a table
+Imageid: 572370, extracted triplets: ['dog under table'], mapped triplets: ['dog under bench', 'dog under seat', 'dog under desk', 'dog under bed']
+Objective: 297.8506639838745
+PRIOR DISTANCE
+gt_dog under desk=0.0
+gt_dog under desk=0.0
+Objective: 297.99911810319617
+gt_dog under desk=0.0
+gt_dog under desk=0.0
+----------------------------
+Caption: a woman sitting on a blue bench with a dog
+Imageid: 504293, extracted triplets: ['woman sit bench', 'woman with dog'], mapped triplets: ['person sit bench', 'people sit bench', 'woman sit bench', 'woman with woman', 'man with dog', 'girl with dog', 'person with dog', 'woman with cat', 'woman with child', 'woman with pillow', 'woman with laptop', 'woman with bike', 'woman with kite', 'woman with phone', 'woman with dog']
+Objective: 297.99911810319617
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=1.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+Objective: 298.07431613471965
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with laptop=1.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_woman with laptop=0.0
+gt_woman with cat=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_girl with dog=0.0
+gt_woman with phone=1.0
+gt_woman with bike=1.0
+gt_man with dog=0.0
+gt_woman with cat=0.0
+gt_woman with phone=0.0
+gt_girl with dog=0.0
+gt_woman with woman=-0.0
+gt_man with dog=1.0
+----------------------------
+Caption: a dog sitting on a bed with clothes
+Imageid: 22192, extracted triplets: ['dog sit bed', 'dog with clothe'], mapped triplets: ['dog sit couch', 'dog sit bed', 'dog with blanket']
+Objective: 298.07431613471965
+PRIOR DISTANCE
+gt_dog with blanket=0.0
+gt_dog with blanket=0.0
+Objective: 297.5855971335051
+gt_dog with blanket=0.0
+gt_dog with blanket=0.0
+----------------------------
+Caption: a group of people standing in the grass with a dog
+Imageid: 482021, extracted triplets: ['people in grass', 'people with dog'], mapped triplets: ['person in field', 'boy in grass', 'cow in grass', 'sheep in grass', 'horse in grass', 'child with dog', 'person with dog', 'woman with dog', 'man with dog', 'boy with dog', 'girl with dog', 'people with dog']
+Objective: 297.5855971335051
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_horse in grass=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_horse in grass=0.0
+gt_man with dog=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_cow in grass=1.0
+gt_boy with dog=-0.0
+gt_sheep in grass=1.0
+gt_man with dog=1.0
+gt_person in field=1.0
+Objective: 297.2309154736398
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_boy with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_horse in grass=1.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_horse in grass=0.0
+gt_man with dog=0.0
+gt_girl with dog=0.0
+gt_people with dog=1.0
+gt_cow in grass=1.0
+gt_boy with dog=-0.0
+gt_sheep in grass=1.0
+gt_man with dog=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a dog sitting in the drivers seat of a car
+Imageid: 26654, extracted triplets: ['dog sit car'], mapped triplets: ['dog sit bike', 'dog sit truck', 'man sit car', 'dog sit car']
+Objective: 297.2309154736398
+PRIOR DISTANCE
+Objective: 297.2309154736398
+----------------------------
+Caption: a dog sitting in the grass next to a fire hydrant
+Imageid: 300000, extracted triplets: ['dog sit grass'], mapped triplets: ['dog sit sand', 'dog sit grass']
+Objective: 297.2309154736398
+PRIOR DISTANCE
+Objective: 297.2309154736398
+----------------------------
+Caption: a dog laying on the floor wearing a hat
+Imageid: 161736, extracted triplets: ['dog wear hat'], mapped triplets: ['dog wear collar', 'dog wear goggle', 'dog wear hat', 'dog wear tie', 'dog wear sunglass']
+Objective: 297.2309154736398
+PRIOR DISTANCE
+gt_dog wear hat=0.0
+gt_dog wear hat=0.0
+gt_dog wear collar=0.0
+gt_dog wear goggle=0.0
+gt_dog wear collar=1.0
+gt_dog wear tie=1.0
+gt_dog wear goggle=0.0
+gt_dog wear collar=1.0
+gt_dog wear sunglass=0.0
+gt_dog wear hat=1.0
+Objective: 297.4889076037062
+gt_dog wear hat=0.0
+gt_dog wear hat=0.0
+gt_dog wear collar=0.0
+gt_dog wear goggle=0.0
+gt_dog wear collar=1.0
+gt_dog wear tie=0.0
+gt_dog wear goggle=0.0
+gt_dog wear collar=1.0
+gt_dog wear sunglass=0.0
+gt_dog wear hat=1.0
+----------------------------
+Caption: a young boy holding two dogs in a table
+Imageid: 67532, extracted triplets: ['boy hold dog'], mapped triplets: ['man hold dog', 'woman hold dog', 'person hold umbrella', 'boy hold dog']
+Objective: 297.4889076037062
+PRIOR DISTANCE
+gt_person hold umbrella=0.0
+gt_woman hold dog=1.0
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+gt_person hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_man hold dog=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_person hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold dog=1.0
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+Objective: 297.6161960065056
+gt_person hold umbrella=0.0
+gt_woman hold dog=1.0
+gt_woman hold dog=1.0
+gt_man hold dog=1.0
+gt_person hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_man hold dog=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_person hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold dog=0.0
+gt_woman hold dog=0.0
+gt_man hold dog=1.0
+----------------------------
+Caption: a black dog watching a television screen with a table
+Imageid: 179441, extracted triplets: ['dog watch television screen'], mapped triplets: ['dog watch tv', 'dog watch screen']
+Objective: 297.6161960065056
+PRIOR DISTANCE
+gt_dog watch tv=1.0
+gt_dog watch screen=1.0
+Objective: 297.5915835757581
+gt_dog watch tv=1.0
+gt_dog watch screen=0.0
+----------------------------
+Caption: a man on a horse next to a herd of sheep and a dog
+Imageid: 342322, extracted triplets: ['man on horse', 'man next to sheep', 'man next to horse', 'man next to cow'], mapped triplets: ['woman on horse', 'person on surfboard', 'man on horse', 'dog next to sheep', 'woman next to man', 'man next to woman', 'horse next to man', 'dog next to cow', 'bird next to cow', 'man next to woman', 'horse next to man']
+Objective: 297.5915835757581
+PRIOR DISTANCE
+gt_woman on horse=0.0
+gt_woman on horse=0.0
+gt_man on horse=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man on horse=1.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=1.0
+gt_man on horse=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_woman on horse=-0.0
+gt_woman on horse=-0.0
+gt_man next to woman=-0.0
+gt_man next to woman=-0.0
+gt_man on horse=-0.0
+gt_dog next to cow=1.0
+Objective: 297.8618598221164
+gt_woman on horse=0.0
+gt_woman on horse=0.0
+gt_man on horse=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man on horse=1.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to woman=1.0
+gt_man on horse=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_woman on horse=-0.0
+gt_woman on horse=-0.0
+gt_man next to woman=-0.0
+gt_man next to woman=-0.0
+gt_man on horse=-0.0
+gt_dog next to cow=1.0
+----------------------------
+Caption: a small dog sitting on a couch next to a pair of shoes
+Imageid: 412240, extracted triplets: ['dog sit on couch'], mapped triplets: ['dog sit couch', 'cat sit couch', 'woman sit couch', 'girl sit couch', 'people sit couch', 'man sit couch', 'child sit couch', 'dog sit on couch']
+Objective: 297.8618598221164
+PRIOR DISTANCE
+gt_dog sit on couch=1.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+Objective: 297.85811865991167
+gt_dog sit on couch=1.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+gt_dog sit on couch=0.0
+----------------------------
+Caption: a dog sniffing a red fire hydrant in a field
+Imageid: 291664, extracted triplets: ['dog in field'], mapped triplets: ['sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 297.85811865991167
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=1.0
+gt_person in field=1.0
+Objective: 298.6043668410136
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+----------------------------
+Caption: a dog laying on the floor with a stuffed animal
+Imageid: 263612, extracted triplets: ['dog with dog', 'dog with elephant'], mapped triplets: ['dog with dog', 'dog with bear', 'dog with cow']
+Objective: 298.6043668410136
+PRIOR DISTANCE
+gt_dog with cow=0.0
+gt_dog with cow=0.0
+gt_dog with dog=1.0
+Objective: 298.3392250291767
+gt_dog with cow=0.0
+gt_dog with cow=0.0
+gt_dog with dog=1.0
+----------------------------
+Caption: a dog chewing on a carrot on the floor
+Imageid: 26671, extracted triplets: ['carrot on floor'], mapped triplets: ['truck on road', 'dog on floor']
+Objective: 298.3392250291767
+PRIOR DISTANCE
+gt_truck on road=0.0
+gt_dog on floor=0.0
+gt_dog on floor=0.0
+gt_truck on road=1.0
+gt_dog on floor=0.0
+gt_dog on floor=0.0
+Objective: 297.61521477845264
+gt_truck on road=0.0
+gt_dog on floor=0.0
+gt_dog on floor=0.0
+gt_truck on road=1.0
+gt_dog on floor=0.0
+gt_dog on floor=1.0
+----------------------------
+Caption: a group of people riding on a motorcycle
+Imageid: 418523, extracted triplets: ['people ride on motorcycle'], mapped triplets: ['man ride motorcycle', 'woman ride bike']
+Objective: 297.61521477845264
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_woman ride bike=1.0
+Objective: 297.3706239934787
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=1.0
+gt_woman ride bike=1.0
+----------------------------
+Caption: a man sitting in a chair with a dog
+Imageid: 200572, extracted triplets: ['man sit chair', 'chair with dog'], mapped triplets: ['man sit bench', 'woman sit chair', 'boy sit chair', 'child sit chair', 'girl sit chair', 'man sit chair', 'room with chair', 'chair with person']
+Objective: 297.3706239934787
+PRIOR DISTANCE
+gt_room with chair=1.0
+gt_room with chair=0.0
+gt_room with chair=0.0
+gt_room with chair=0.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_man sit bench=1.0
+gt_chair with person=0.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with chair=0.0
+gt_chair with person=0.0
+Objective: 297.3339622291156
+gt_room with chair=1.0
+gt_room with chair=0.0
+gt_room with chair=0.0
+gt_room with chair=0.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_man sit bench=1.0
+gt_chair with person=0.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with chair=0.0
+gt_chair with person=1.0
+----------------------------
+Caption: a dog herding a herd of sheep in a field
+Imageid: 283910, extracted triplets: ['dog in field'], mapped triplets: ['sheep in field', 'bench in field', 'person in field', 'people in field', 'man in field', 'woman in field', 'horse in field', 'fence in field', 'cow in field', 'dog in field']
+Objective: 297.3339622291156
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=0.0
+gt_person in field=1.0
+Objective: 297.32715598984475
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_people in field=1.0
+gt_man in field=0.0
+gt_fence in field=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_cow in field=1.0
+gt_dog in field=1.0
+gt_man in field=1.0
+gt_bench in field=1.0
+gt_horse in field=0.0
+gt_sheep in field=1.0
+gt_person in field=1.0
+----------------------------
+Caption: a dog walking on the beach next to the ocean
+Imageid: 355905, extracted triplets: ['dog walk beach', 'dog walk sand', 'dog walk wave', 'dog next to beach', 'dog next to sand', 'dog next to wave'], mapped triplets: ['dog walk beach', 'dog walk sand', 'dog walk beach', 'dog walk sand', 'dog walk water', 'dog next to frisbee', 'beach next to surfboard', 'beach next to bag', 'dog next to boat', 'beach next to surfboard']
+Objective: 297.32715598984475
+PRIOR DISTANCE
+gt_dog next to frisbee=1.0
+gt_dog next to boat=1.0
+gt_beach next to bag=0.0
+gt_beach next to surfboard=0.0
+gt_beach next to surfboard=0.0
+Objective: 297.433411021786
+gt_dog next to frisbee=1.0
+gt_dog next to boat=1.0
+gt_beach next to bag=0.0
+gt_beach next to surfboard=0.0
+gt_beach next to surfboard=0.0
+----------------------------
+Caption: a dog playing with a soccer ball on a rug
+Imageid: 315248, extracted triplets: ['dog play with soccer ball'], mapped triplets: ['man play with frisbee', 'woman play with dog']
+Objective: 297.433411021786
+PRIOR DISTANCE
+gt_woman play with dog=0.0
+gt_man play with frisbee=0.0
+gt_woman play with dog=1.0
+gt_man play with frisbee=1.0
+gt_woman play with dog=1.0
+gt_woman play with dog=1.0
+gt_man play with frisbee=1.0
+Objective: 297.4600885936088
+gt_woman play with dog=0.0
+gt_man play with frisbee=0.0
+gt_woman play with dog=1.0
+gt_man play with frisbee=1.0
+gt_woman play with dog=1.0
+gt_woman play with dog=1.0
+gt_man play with frisbee=1.0
+----------------------------
+Caption: a dog laying on a bed in a room
+Imageid: 241503, extracted triplets: ['dog lay on bed', 'dog in room'], mapped triplets: ['dog lay blanket', 'dog lay pillow', 'dog lay couch', 'dog lay bed', 'dog in couch', 'cat in room', 'couch in room', 'bed in room', 'dog in room']
+Objective: 297.4600885936088
+PRIOR DISTANCE
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_cat in room=1.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+Objective: 297.4342170624983
+gt_dog in room=1.0
+gt_cat in room=1.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_cat in room=0.0
+gt_couch in room=0.0
+gt_dog in room=0.0
+gt_cat in room=1.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+----------------------------

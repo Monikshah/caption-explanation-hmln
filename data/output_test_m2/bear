@@ -1,0 +1,128 @@
+Caption: a polar bear standing in the snow with a
+Imageid: 530226, extracted triplets: ['bear in snow'], mapped triplets: ['bear in snow']
+Objective: 44.85407901358145
+PRIOR DISTANCE
+gt_bear in snow=1.0
+Objective: 44.93173693767564
+gt_bear in snow=1.0
+----------------------------
+Caption: a polar bear walking on some rocks
+Imageid: 306664, extracted triplets: ['bear walk rock'], mapped triplets: ['bear walk rock']
+Objective: 44.93173693767564
+PRIOR DISTANCE
+Objective: 44.93173693767564
+----------------------------
+Caption: a polar bear standing next to a yellow frisbee
+Imageid: 121876, extracted triplets: ['bear next to frisbee'], mapped triplets: ['bear next to tree']
+Objective: 44.93173693767564
+PRIOR DISTANCE
+gt_bear next to tree=1.0
+Objective: 45.04145661578716
+gt_bear next to tree=0.0
+----------------------------
+Caption: a black bear grazing in a field of grass
+Imageid: 211204, extracted triplets: ['bear in field', 'field of grass'], mapped triplets: ['bear in field', 'field of grass', 'bear of grass']
+Objective: 45.04145661578716
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_bear in field=1.0
+gt_field of grass=0.0
+Objective: 45.11148447527689
+gt_field of grass=0.0
+gt_bear in field=1.0
+gt_field of grass=0.0
+----------------------------
+Caption: a brown bear walking across a field
+Imageid: 348669, extracted triplets: ['bear across field'], mapped triplets: ['bear across grass', 'bear across field']
+Objective: 45.11148447527689
+PRIOR DISTANCE
+Objective: 45.11148447527689
+----------------------------
+Caption: a black bear walking across a dirt road
+Imageid: 249623, extracted triplets: ['bear across dirt road'], mapped triplets: ['bear across road']
+Objective: 45.11148447527689
+PRIOR DISTANCE
+Objective: 45.11148447527689
+----------------------------
+Caption: a black bear in the grass next to a tree
+Imageid: 285929, extracted triplets: ['bear in grass', 'bear next to tree'], mapped triplets: ['bear in leaf', 'bear in sand', 'bear in water', 'bear in tree', 'bear in wood', 'bear in field', 'bear in snow', 'statue in grass', 'bear in grass', 'bear next to tree']
+Objective: 45.11148447527689
+PRIOR DISTANCE
+gt_bear in field=1.0
+gt_bear in sand=1.0
+gt_bear in snow=1.0
+gt_bear in tree=1.0
+gt_bear next to tree=0.0
+gt_bear in water=1.0
+gt_bear in grass=1.0
+gt_bear in wood=-0.0
+Objective: 45.18845341791159
+gt_bear in field=1.0
+gt_bear in sand=1.0
+gt_bear in snow=1.0
+gt_bear in tree=0.0
+gt_bear next to tree=1.0
+gt_bear in water=0.0
+gt_bear in grass=1.0
+gt_bear in wood=-0.0
+----------------------------
+Caption: a polar bear eating a piece of food on a
+Imageid: 24805, extracted triplets: ['bear eat window'], mapped triplets: []
+Objective: 45.18845341791159
+PRIOR DISTANCE
+Objective: 45.18845341791159
+----------------------------
+Caption: two brown bears walking in a field of grass
+Imageid: 458177, extracted triplets: ['field of grass'], mapped triplets: ['field of grass', 'bear of grass']
+Objective: 45.18845341791159
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=0.0
+Objective: 45.18884993675407
+gt_field of grass=0.0
+gt_field of grass=0.0
+----------------------------
+Caption: a black bear walking through a forest with trees
+Imageid: 527625, extracted triplets: ['bear with tree'], mapped triplets: ['giraffe with tree', 'bear with tree']
+Objective: 45.18884993675407
+PRIOR DISTANCE
+gt_bear with tree=0.0
+Objective: 45.17649672669535
+gt_bear with tree=0.0
+----------------------------
+Caption: a brown bear laying down in the grass
+Imageid: 539678, extracted triplets: ['bear in grass'], mapped triplets: ['bear in leaf', 'bear in sand', 'bear in water', 'bear in tree', 'bear in wood', 'bear in field', 'bear in snow', 'statue in grass', 'bear in grass']
+Objective: 45.17649672669535
+PRIOR DISTANCE
+gt_bear in field=1.0
+gt_bear in sand=1.0
+gt_bear in snow=1.0
+gt_bear in tree=0.0
+gt_bear in water=0.0
+gt_bear in grass=1.0
+gt_bear in wood=-0.0
+Objective: 45.57544323700313
+gt_bear in field=1.0
+gt_bear in sand=1.0
+gt_bear in snow=1.0
+gt_bear in tree=1.0
+gt_bear in water=0.0
+gt_bear in grass=1.0
+gt_bear in wood=-0.0
+----------------------------
+Caption: a black bear walking through a field of grass
+Imageid: 98197, extracted triplets: ['field of grass'], mapped triplets: ['field of grass', 'bear of grass']
+Objective: 45.57544323700313
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=0.0
+Objective: 45.57352618338498
+gt_field of grass=0.0
+gt_field of grass=0.0
+----------------------------
+Caption: a polar bear standing next to a fence
+Imageid: 419228, extracted triplets: ['bear next to fence'], mapped triplets: ['bear next to wall']
+Objective: 45.57352618338498
+PRIOR DISTANCE
+Objective: 45.57352618338498
+----------------------------

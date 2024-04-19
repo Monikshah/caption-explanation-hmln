@@ -1,0 +1,4842 @@
+Caption: a man and a woman sitting on a green bench with a white dog
+Imageid: 334321, extracted triplets: ['woman sit bench', 'woman with dog'], mapped triplets: ['woman sit bench', 'person sit bench', 'girl sit bench', 'people sit bench', 'girl with dog', 'woman with cat', 'woman with dog']
+Objective: 404.3607967463708
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=1.0
+gt_girl sit bench=1.0
+gt_girl with dog=1.0
+Objective: 404.26785570007735
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=1.0
+gt_girl sit bench=1.0
+gt_girl with dog=1.0
+----------------------------
+Caption: a woman laying on the ground with her luggage
+Imageid: 553442, extracted triplets: ['woman with luggage'], mapped triplets: ['woman with suitcase', 'people with luggage']
+Objective: 404.26785570007735
+PRIOR DISTANCE
+gt_people with luggage=1.0
+gt_people with luggage=0.0
+gt_woman with suitcase=1.0
+gt_people with luggage=1.0
+gt_people with luggage=-0.0
+gt_woman with suitcase=-0.0
+Objective: 404.00633695478473
+gt_people with luggage=1.0
+gt_people with luggage=0.0
+gt_woman with suitcase=1.0
+gt_people with luggage=1.0
+gt_people with luggage=-0.0
+gt_woman with suitcase=-0.0
+----------------------------
+Caption: a woman standing on a skateboard on a street
+Imageid: 216228, extracted triplets: ['woman on skateboard'], mapped triplets: ['girl on luggage', 'boy on skateboard', 'woman on suitcase', 'man on skateboard']
+Objective: 404.00633695478473
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+Objective: 404.00633695478473
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+----------------------------
+Caption: a man and a woman sitting in a chair flying a kite
+Imageid: 76292, extracted triplets: ['woman sit chair', 'chair fly kite'], mapped triplets: ['woman sit seat', 'person sit bench', 'woman sit bench', 'man sit seat', 'people sit seat', 'woman sit bed', 'woman sit couch', 'woman sit chair', 'kite fly sky', 'kite fly field']
+Objective: 404.00633695478473
+PRIOR DISTANCE
+Objective: 404.00633695478473
+----------------------------
+Caption: a young man wearing a white shirt and tie standing in front of a clock
+Imageid: 43635, extracted triplets: ['man wear shirt'], mapped triplets: ['man wear tie', 'man wear suit', 'woman wear jacket', 'woman wear coat', 'woman wear dress', 'woman wear shirt', 'man wear shirt']
+Objective: 404.00633695478473
+PRIOR DISTANCE
+gt_woman wear jacket=0.0
+gt_man wear tie=1.0
+gt_man wear shirt=0.0
+gt_man wear tie=0.0
+gt_man wear shirt=0.0
+gt_man wear suit=0.0
+gt_man wear tie=1.0
+gt_man wear shirt=1.0
+gt_man wear suit=0.0
+gt_woman wear shirt=0.0
+gt_woman wear shirt=0.0
+gt_man wear tie=0.0
+gt_woman wear dress=1.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_woman wear shirt=0.0
+gt_woman wear shirt=0.0
+gt_man wear tie=0.0
+gt_man wear shirt=1.0
+gt_man wear suit=1.0
+gt_woman wear shirt=0.0
+gt_woman wear shirt=0.0
+gt_woman wear suitcase=1.0
+gt_woman wear shirt=1.0
+gt_woman wear shirt=1.0
+gt_man wear shirt=-0.0
+gt_man wear tie=1.0
+gt_woman wear coat=0.0
+gt_man wear suit=1.0
+gt_woman wear dress=-0.0
+gt_woman wear jacket=0.0
+Objective: 404.0134126548912
+gt_woman wear jacket=0.0
+gt_man wear tie=1.0
+gt_man wear shirt=0.0
+gt_man wear tie=0.0
+gt_man wear shirt=0.0
+gt_man wear suit=0.0
+gt_man wear tie=1.0
+gt_man wear shirt=1.0
+gt_man wear suit=0.0
+gt_woman wear shirt=0.0
+gt_woman wear shirt=0.0
+gt_man wear tie=0.0
+gt_woman wear dress=1.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_woman wear shirt=0.0
+gt_woman wear shirt=0.0
+gt_man wear tie=0.0
+gt_man wear shirt=1.0
+gt_man wear suit=1.0
+gt_woman wear shirt=0.0
+gt_woman wear shirt=0.0
+gt_woman wear suitcase=1.0
+gt_woman wear shirt=1.0
+gt_woman wear shirt=1.0
+gt_man wear shirt=-0.0
+gt_man wear tie=1.0
+gt_woman wear coat=1.0
+gt_man wear suit=0.0
+gt_woman wear dress=-0.0
+gt_woman wear jacket=0.0
+----------------------------
+Caption: a large military plane sitting on a runway with a crowd of people
+Imageid: 376177, extracted triplets: ['plane sit road', 'crowd of people'], mapped triplets: ['people of field', 'people of bus', 'people of truck']
+Objective: 404.0134126548912
+PRIOR DISTANCE
+gt_people of bus=1.0
+gt_people of bus=0.0
+Objective: 404.0134126548912
+gt_people of bus=1.0
+gt_people of bus=0.0
+----------------------------
+Caption: a man walking up steps in front of a building with a statue
+Imageid: 199346, extracted triplets: ['building with statue'], mapped triplets: ['build with statue', 'room with people']
+Objective: 404.0134126548912
+PRIOR DISTANCE
+gt_build with statue=0.0
+gt_room with people=0.0
+gt_room with people=0.0
+gt_build with statue=0.0
+gt_build with statue=-0.0
+Objective: 404.2404959672439
+gt_build with statue=0.0
+gt_room with people=0.0
+gt_room with people=0.0
+gt_build with statue=0.0
+gt_build with statue=-0.0
+----------------------------
+Caption: a bathroom with a sink and a bath tub and a window
+Imageid: 239376, extracted triplets: ['bathroom with sink'], mapped triplets: ['room with curtain', 'bathroom with sink']
+Objective: 404.2404959672439
+PRIOR DISTANCE
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_room with curtain=0.0
+gt_room with curtain=0.0
+gt_bathroom with curtain=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_room with curtain=1.0
+Objective: 404.44205499319537
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_room with curtain=0.0
+gt_room with curtain=0.0
+gt_bathroom with curtain=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_room with curtain=1.0
+----------------------------
+Caption: a person cutting up vegetables on a table
+Imageid: 163852, extracted triplets: ['person cut vegetable', 'person cut carrot', 'person on table'], mapped triplets: ['man on table', 'people on table', 'person on table']
+Objective: 404.44205499319537
+PRIOR DISTANCE
+gt_people on table=0.0
+gt_man on table=0.0
+gt_person on table=0.0
+gt_person on table=0.0
+gt_people on table=1.0
+gt_people on table=1.0
+gt_man on table=1.0
+gt_people on table=1.0
+gt_man on table=0.0
+Objective: 404.3438864880594
+gt_people on table=0.0
+gt_man on table=0.0
+gt_person on table=0.0
+gt_person on table=0.0
+gt_people on table=1.0
+gt_people on table=1.0
+gt_man on table=1.0
+gt_people on table=1.0
+gt_man on table=0.0
+----------------------------
+Caption: a group of people sitting at a table in a restaurant
+Imageid: 360170, extracted triplets: ['people at table', 'people in room'], mapped triplets: ['people at woman', 'woman at table', 'people at table', 'person in room', 'couch in room', 'mirror in room', 'bed in room', 'tv in room', 'book in room', 'man in room', 'woman in room', 'people in room']
+Objective: 404.3438864880594
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people in room=0.0
+gt_mirror in room=0.0
+gt_person in room=1.0
+gt_people at table=0.0
+gt_book in room=0.0
+gt_tv in room=1.0
+gt_man in room=0.0
+gt_people in room=1.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_people at table=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_man in room=1.0
+gt_bed in room=0.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_people at table=0.0
+gt_man in room=0.0
+gt_tv in room=1.0
+gt_bed in room=1.0
+gt_people in room=0.0
+gt_couch in room=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_couch in room=0.0
+gt_mirror in room=1.0
+gt_man in room=-0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_couch in room=-0.0
+gt_people at table=1.0
+gt_book in room=1.0
+gt_tv in room=-0.0
+gt_woman at table=1.0
+gt_bed in room=-0.0
+gt_people in room=0.0
+Objective: 404.4908276229434
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people in room=0.0
+gt_mirror in room=0.0
+gt_person in room=1.0
+gt_people at table=0.0
+gt_book in room=0.0
+gt_tv in room=1.0
+gt_man in room=0.0
+gt_people in room=1.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_people at table=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_man in room=1.0
+gt_bed in room=0.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_people at table=0.0
+gt_man in room=0.0
+gt_tv in room=1.0
+gt_bed in room=1.0
+gt_people in room=0.0
+gt_couch in room=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_couch in room=0.0
+gt_mirror in room=1.0
+gt_man in room=-0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_couch in room=-0.0
+gt_people at table=0.0
+gt_book in room=1.0
+gt_tv in room=-0.0
+gt_woman at table=1.0
+gt_bed in room=-0.0
+gt_people in room=0.0
+----------------------------
+Caption: a group of people sitting at tables with red umbrellas
+Imageid: 550051, extracted triplets: ['people at table'], mapped triplets: ['people at woman', 'woman at table', 'people at table']
+Objective: 404.4908276229434
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_woman at table=1.0
+Objective: 404.4488517188474
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_people at table=-0.0
+gt_woman at table=1.0
+----------------------------
+Caption: a red fire hydrant on the side of a street
+Imageid: 38048, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'street of build']
+Objective: 404.4488517188474
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+Objective: 404.59637688073605
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a man with a backpack walking down a street at night
+Imageid: 14257, extracted triplets: ['man with backpack'], mapped triplets: ['woman with backpack', 'people with backpack', 'man with backpack']
+Objective: 404.59637688073605
+PRIOR DISTANCE
+gt_man with backpack=0.0
+gt_people with backpack=0.0
+gt_people with backpack=0.0
+gt_man with backpack=0.0
+gt_man with backpack=-0.0
+gt_people with backpack=-0.0
+gt_woman with backpack=-0.0
+gt_woman with backpack=-0.0
+Objective: 404.1519525500414
+gt_man with backpack=0.0
+gt_people with backpack=0.0
+gt_people with backpack=0.0
+gt_man with backpack=0.0
+gt_man with backpack=-0.0
+gt_people with backpack=-0.0
+gt_woman with backpack=-0.0
+gt_woman with backpack=-0.0
+----------------------------
+Caption: a chair and a bed in a bedroom with a window
+Imageid: 478528, extracted triplets: ['bed in floor', 'bed in wall', 'bed in window', 'bed in curtain'], mapped triplets: ['couch in room', 'bed in room', 'couch in room', 'bed in room', 'couch in room', 'bed in room', 'woman in window', 'bed in lamp', 'couch in room']
+Objective: 404.1519525500414
+PRIOR DISTANCE
+gt_bed in lamp=1.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=-0.0
+gt_couch in room=-0.0
+gt_couch in room=-0.0
+gt_couch in room=-0.0
+gt_bed in room=-0.0
+gt_bed in room=-0.0
+gt_bed in room=-0.0
+Objective: 403.92248499197206
+gt_bed in lamp=1.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=0.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_couch in room=-0.0
+gt_couch in room=-0.0
+gt_couch in room=-0.0
+gt_couch in room=-0.0
+gt_bed in room=-0.0
+gt_bed in room=-0.0
+gt_bed in room=-0.0
+----------------------------
+Caption: a person walking in a train station with a clock
+Imageid: 292804, extracted triplets: ['person with clock'], mapped triplets: ['boy with clock', 'people with clock', 'man with clock', 'street with clock', 'sidewalk with clock']
+Objective: 403.92248499197206
+PRIOR DISTANCE
+gt_street with clock=0.0
+gt_sidewalk with clock=1.0
+gt_street with clock=1.0
+Objective: 404.09274892382325
+gt_street with clock=0.0
+gt_sidewalk with clock=1.0
+gt_street with clock=1.0
+----------------------------
+Caption: a woman sitting on a wooden bench
+Imageid: 349184, extracted triplets: ['woman sit bench'], mapped triplets: ['woman sit bench', 'person sit bench', 'girl sit bench', 'people sit bench']
+Objective: 404.09274892382325
+PRIOR DISTANCE
+gt_girl sit bench=1.0
+Objective: 404.09274892382325
+gt_girl sit bench=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 532211, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['boy on skateboard', 'skateboard on street', 'man on skateboard', 'skateboard in street']
+Objective: 404.09274892382325
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_skateboard on street=1.0
+gt_skateboard in street=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_skateboard on street=1.0
+Objective: 403.47592145002153
+gt_boy on skateboard=0.0
+gt_skateboard on street=1.0
+gt_skateboard in street=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=1.0
+gt_skateboard on street=1.0
+----------------------------
+Caption: a cell phone and a bag on a bed
+Imageid: 11156, extracted triplets: ['bag on bed'], mapped triplets: ['backpack on suitcase', 'bench on suitcase']
+Objective: 403.47592145002153
+PRIOR DISTANCE
+gt_backpack on suitcase=0.0
+Objective: 403.47812663442954
+gt_backpack on suitcase=0.0
+----------------------------
+Caption: a shirtless man riding a skateboard on a city street
+Imageid: 408449, extracted triplets: ['man ride skateboard'], mapped triplets: ['woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 403.47812663442954
+PRIOR DISTANCE
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=1.0
+gt_person ride skateboard=1.0
+Objective: 403.804627569489
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=0.0
+----------------------------
+Caption: a dog sitting next to a red bike
+Imageid: 49097, extracted triplets: ['dog next to bike'], mapped triplets: ['woman next to bike']
+Objective: 403.804627569489
+PRIOR DISTANCE
+Objective: 403.804627569489
+----------------------------
+Caption: a man riding a motorcycle on a road
+Imageid: 175024, extracted triplets: ['man ride motorcycle'], mapped triplets: ['person ride bike', 'people ride motorcycle', 'man ride motorcycle']
+Objective: 403.804627569489
+PRIOR DISTANCE
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride bike=-0.0
+gt_man ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+Objective: 403.57841171700835
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_people ride motorcycle=-0.0
+----------------------------
+Caption: a luggage cart with luggage on top of it
+Imageid: 56013, extracted triplets: ['luggage cart with luggage'], mapped triplets: ['people with luggage']
+Objective: 403.57841171700835
+PRIOR DISTANCE
+gt_people with luggage=1.0
+gt_people with luggage=0.0
+gt_people with luggage=1.0
+gt_people with luggage=-0.0
+Objective: 403.37689394207405
+gt_people with luggage=1.0
+gt_people with luggage=0.0
+gt_people with luggage=1.0
+gt_people with luggage=-0.0
+----------------------------
+Caption: a woman holding a birthday cake with lit candles
+Imageid: 56651, extracted triplets: ['woman hold cake'], mapped triplets: ['woman hold cake']
+Objective: 403.37689394207405
+PRIOR DISTANCE
+gt_woman hold cake=1.0
+gt_woman hold cake=1.0
+gt_woman hold cake=1.0
+Objective: 403.3741684592511
+gt_woman hold cake=1.0
+gt_woman hold cake=1.0
+gt_woman hold cake=1.0
+----------------------------
+Caption: a man in a hat standing in front of a clock
+Imageid: 334399, extracted triplets: ['man in hat'], mapped triplets: ['person in hat', 'woman in hat', 'man in hat']
+Objective: 403.3741684592511
+PRIOR DISTANCE
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in hat=0.0
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in hat=0.0
+gt_man in hat=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in hat=0.0
+gt_man in hat=0.0
+gt_man in hat=1.0
+Objective: 403.3486230705307
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in hat=0.0
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in hat=0.0
+gt_man in hat=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_man in hat=0.0
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_man in hat=0.0
+gt_man in hat=0.0
+gt_man in hat=1.0
+----------------------------
+Caption: a woman standing on a beach flying a kite
+Imageid: 92678, extracted triplets: ['woman on beach', 'beach fly kite'], mapped triplets: ['person on beach', 'man on beach', 'surfer on beach', 'umbrella on beach', 'horse on beach', 'kite on beach', 'surfboard on beach', 'woman on beach', 'beach fly kite', 'people fly kite', 'people fly beach']
+Objective: 403.3486230705307
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_people fly kite=1.0
+gt_umbrella on beach=0.0
+gt_people fly kite=0.0
+gt_beach fly kite=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+gt_beach fly kite=0.0
+gt_people fly kite=0.0
+gt_man on beach=1.0
+gt_beach fly kite=1.0
+gt_man on beach=-0.0
+gt_people fly kite=1.0
+gt_umbrella on beach=1.0
+gt_horse on beach=1.0
+Objective: 403.0439670060032
+gt_surfboard on beach=1.0
+gt_people fly kite=1.0
+gt_umbrella on beach=0.0
+gt_people fly kite=0.0
+gt_beach fly kite=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+gt_beach fly kite=0.0
+gt_people fly kite=0.0
+gt_man on beach=1.0
+gt_beach fly kite=1.0
+gt_man on beach=-0.0
+gt_people fly kite=1.0
+gt_umbrella on beach=1.0
+gt_horse on beach=1.0
+----------------------------
+Caption: a plane flying over a beach with people on it
+Imageid: 28157, extracted triplets: ['plane over beach', 'plane with people'], mapped triplets: ['kite over beach', 'plane with people', 'car with people', 'bus with people', 'truck with people']
+Objective: 403.0439670060032
+PRIOR DISTANCE
+gt_bus with people=0.0
+gt_bus with people=0.0
+gt_bus with people=0.0
+gt_car with people=0.0
+gt_plane with people=-0.0
+Objective: 403.05071883537266
+gt_bus with people=0.0
+gt_bus with people=0.0
+gt_bus with people=0.0
+gt_car with people=0.0
+gt_plane with people=-0.0
+----------------------------
+Caption: a bus is parked at a bus stop on a street
+Imageid: 463084, extracted triplets: ['bus stop on street'], mapped triplets: ['bus on sidewalk', 'pole on street']
+Objective: 403.05071883537266
+PRIOR DISTANCE
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+Objective: 403.0754253553624
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+----------------------------
+Caption: a man taking a picture of a desk with a camera
+Imageid: 530706, extracted triplets: ['man take camera', 'man take screen', 'man take paper', 'man take logo', 'desk with camera'], mapped triplets: ['woman take picture', 'man take picture', 'man take picture', 'woman take photo', 'woman take picture', 'man take picture', 'woman take picture', 'man take picture', 'desk with computer', 'desk with laptop', 'desk with monitor']
+Objective: 403.0754253553624
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_man take picture=0.0
+gt_man take picture=0.0
+gt_man take picture=0.0
+gt_man take picture=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_man take picture=1.0
+gt_man take picture=1.0
+gt_man take picture=1.0
+gt_man take picture=1.0
+gt_woman take photo=-0.0
+Objective: 403.21173385688985
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with computer=0.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_woman take picture=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_man take picture=0.0
+gt_man take picture=0.0
+gt_man take picture=0.0
+gt_man take picture=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_woman take picture=1.0
+gt_desk with computer=1.0
+gt_desk with laptop=0.0
+gt_man take picture=1.0
+gt_man take picture=1.0
+gt_man take picture=1.0
+gt_man take picture=1.0
+gt_woman take photo=-0.0
+----------------------------
+Caption: a crowd of people flying kites in a park
+Imageid: 118432, extracted triplets: ['crowd of people', 'crowd fly kite', 'crowd in park'], mapped triplets: ['people of field', 'people of bus', 'people of truck', 'people fly kite', 'people in field', 'bench in tree']
+Objective: 403.21173385688985
+PRIOR DISTANCE
+gt_people fly kite=1.0
+gt_people in field=0.0
+gt_people of bus=1.0
+gt_people in field=0.0
+gt_people fly kite=0.0
+gt_people of bus=0.0
+gt_people fly kite=0.0
+gt_bench in tree=0.0
+gt_people fly kite=1.0
+gt_people in field=1.0
+Objective: 403.2436574053197
+gt_people fly kite=1.0
+gt_people in field=0.0
+gt_people of bus=1.0
+gt_people in field=0.0
+gt_people fly kite=0.0
+gt_people of bus=0.0
+gt_people fly kite=0.0
+gt_bench in tree=0.0
+gt_people fly kite=1.0
+gt_people in field=1.0
+----------------------------
+Caption: a woman standing in front of a sign looking at her cell phone
+Imageid: 176312, extracted triplets: ['sign at phone'], mapped triplets: ['woman at phone', 'couch at phone']
+Objective: 403.2436574053197
+PRIOR DISTANCE
+Objective: 403.2436574053197
+----------------------------
+Caption: a woman holding up a cell phone in the dark
+Imageid: 529668, extracted triplets: ['woman hold phone'], mapped triplets: ['woman hold phone', 'woman hold suitcase', 'woman hold glass', 'woman hold bag', 'person hold bag', 'woman hold umbrella']
+Objective: 403.2436574053197
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_person hold bag=0.0
+gt_woman hold glass=1.0
+gt_woman hold phone=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_person hold bag=1.0
+gt_woman hold phone=0.0
+gt_woman hold glass=1.0
+gt_woman hold bag=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold phone=0.0
+gt_woman hold glass=-0.0
+gt_woman hold suitcase=-0.0
+gt_woman hold bag=1.0
+gt_woman hold phone=-0.0
+gt_person hold bag=-0.0
+gt_woman hold umbrella=0.0
+Objective: 401.93752731408847
+gt_woman hold umbrella=0.0
+gt_person hold bag=0.0
+gt_woman hold glass=1.0
+gt_woman hold phone=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_person hold bag=1.0
+gt_woman hold phone=0.0
+gt_woman hold glass=1.0
+gt_woman hold bag=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold phone=0.0
+gt_woman hold glass=-0.0
+gt_woman hold suitcase=-0.0
+gt_woman hold bag=1.0
+gt_woman hold phone=-0.0
+gt_person hold bag=-0.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a purple and white bus parked in front of a building
+Imageid: 313182, extracted triplets: ['bus in car'], mapped triplets: ['truck in street', 'bus in road', 'motorcycle in street']
+Objective: 401.93752731408847
+PRIOR DISTANCE
+gt_motorcycle in street=0.0
+gt_truck in street=0.0
+gt_motorcycle in street=1.0
+gt_bus in road=0.0
+gt_motorcycle in street=0.0
+gt_truck in street=1.0
+gt_motorcycle in street=0.0
+gt_bus in road=-0.0
+Objective: 401.3470595266392
+gt_motorcycle in street=0.0
+gt_truck in street=0.0
+gt_motorcycle in street=1.0
+gt_bus in road=0.0
+gt_motorcycle in street=0.0
+gt_truck in street=-0.0
+gt_motorcycle in street=0.0
+gt_bus in road=-0.0
+----------------------------
+Caption: a group of people walking on a sidewalk next to a bus
+Imageid: 205676, extracted triplets: ['sidewalk next to bus'], mapped triplets: ['woman next to sidewalk', 'bus next to build']
+Objective: 401.3470595266392
+PRIOR DISTANCE
+gt_bus next to build=0.0
+gt_bus next to build=0.0
+gt_bus next to build=-0.0
+Objective: 401.5452304786134
+gt_bus next to build=0.0
+gt_bus next to build=0.0
+gt_bus next to build=-0.0
+----------------------------
+Caption: three men standing next to each other under an umbrella
+Imageid: 73702, extracted triplets: ['men under umbrella'], mapped triplets: ['people under umbrella', 'man under umbrella', 'person under umbrella']
+Objective: 401.5452304786134
+PRIOR DISTANCE
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_people under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_person under umbrella=0.0
+gt_people under umbrella=0.0
+gt_man under umbrella=1.0
+Objective: 401.66770330279036
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_people under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_person under umbrella=0.0
+gt_people under umbrella=1.0
+gt_man under umbrella=1.0
+----------------------------
+Caption: a group of people with umbrellas in the rain
+Imageid: 561856, extracted triplets: ['people with umbrella'], mapped triplets: ['man with umbrella', 'person with umbrella', 'girl with umbrella', 'people with umbrella']
+Objective: 401.66770330279036
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 401.4294532712527
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------
+Caption: a man and a woman sitting on a bench in a park
+Imageid: 211119, extracted triplets: ['woman sit bench', 'woman in park'], mapped triplets: ['woman sit bench', 'person sit bench', 'girl sit bench', 'people sit bench', 'woman in street', 'bench in field']
+Objective: 401.4294532712527
+PRIOR DISTANCE
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_girl sit bench=1.0
+gt_bench in field=0.0
+Objective: 401.39677063571736
+gt_bench in field=0.0
+gt_bench in field=0.0
+gt_girl sit bench=1.0
+gt_bench in field=1.0
+----------------------------
+Caption: a group of sheep and a man standing next to two dogs
+Imageid: 176906, extracted triplets: ['man next to dog'], mapped triplets: ['woman next to dog', 'man next to dog']
+Objective: 401.39677063571736
+PRIOR DISTANCE
+Objective: 401.39677063571736
+----------------------------
+Caption: a woman holding a bag of apples in a field
+Imageid: 391940, extracted triplets: ['woman hold bag', 'bag of apple', 'woman in field'], mapped triplets: ['person hold bag', 'woman hold suitcase', 'woman hold bag', 'basket of fruit', 'hat of bag', 'bag of apple', 'woman in field', 'person in grass']
+Objective: 401.39677063571736
+PRIOR DISTANCE
+gt_person hold bag=0.0
+gt_bag of apple=0.0
+gt_basket of fruit=0.0
+gt_person hold bag=1.0
+gt_basket of fruit=0.0
+gt_woman hold bag=0.0
+gt_woman in field=0.0
+gt_woman in field=1.0
+gt_bag of apple=1.0
+gt_woman hold suitcase=-0.0
+gt_woman hold bag=1.0
+gt_basket of fruit=1.0
+gt_person hold bag=-0.0
+Objective: 401.0218423937993
+gt_person hold bag=0.0
+gt_bag of apple=0.0
+gt_basket of fruit=0.0
+gt_person hold bag=1.0
+gt_basket of fruit=0.0
+gt_woman hold bag=0.0
+gt_woman in field=0.0
+gt_woman in field=1.0
+gt_bag of apple=1.0
+gt_woman hold suitcase=-0.0
+gt_woman hold bag=1.0
+gt_basket of fruit=1.0
+gt_person hold bag=-0.0
+----------------------------
+Caption: a man sitting on a wooden bench
+Imageid: 75595, extracted triplets: ['man sit on bench'], mapped triplets: ['woman sit bench', 'person sit bench', 'girl sit bench', 'people sit bench', 'man sit on bench']
+Objective: 401.0218423937993
+PRIOR DISTANCE
+gt_woman sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_girl sit bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=0.0
+Objective: 400.97948344683164
+gt_woman sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_girl sit bench=1.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_woman sit on bench=0.0
+----------------------------
+Caption: a woman sitting on a bench next to a statue
+Imageid: 558064, extracted triplets: ['woman sit bench', 'woman next to statue'], mapped triplets: ['woman sit bench', 'person sit bench', 'girl sit bench', 'people sit bench', 'woman next to statue']
+Objective: 400.97948344683164
+PRIOR DISTANCE
+gt_girl sit bench=1.0
+Objective: 400.97948344683164
+gt_girl sit bench=1.0
+----------------------------
+Caption: a woman standing on the side of a street sign
+Imageid: 14392, extracted triplets: ['woman on side', 'side of street sign'], mapped triplets: ['woman on sidewalk', 'street of sign']
+Objective: 400.97948344683164
+PRIOR DISTANCE
+gt_woman on sidewalk=1.0
+gt_street of sign=-0.0
+gt_woman on sidewalk=-0.0
+Objective: 400.73547998780305
+gt_woman on sidewalk=1.0
+gt_street of sign=-0.0
+gt_woman on sidewalk=-0.0
+----------------------------
+Caption: a woman holding an umbrella in the rain
+Imageid: 384462, extracted triplets: ['woman hold umbrella'], mapped triplets: ['woman hold umbrella', 'girl hold umbrella', 'person hold umbrella']
+Objective: 400.73547998780305
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+Objective: 400.27840502404706
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a statue in front of a city with an umbrella
+Imageid: 313055, extracted triplets: ['statue with umbrella'], mapped triplets: ['build with umbrella', 'girl with umbrella']
+Objective: 400.27840502404706
+PRIOR DISTANCE
+gt_build with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_build with umbrella=1.0
+Objective: 400.24290562135036
+gt_build with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_build with umbrella=1.0
+----------------------------
+Caption: three people walking down a street with an umbrella
+Imageid: 350974, extracted triplets: ['people with umbrella'], mapped triplets: ['man with umbrella', 'person with umbrella', 'girl with umbrella', 'people with umbrella']
+Objective: 400.24290562135036
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 400.52490472008617
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_man with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------
+Caption: a crowd of people flying kites on a beach
+Imageid: 483311, extracted triplets: ['crowd of people', 'crowd fly kite', 'crowd on beach'], mapped triplets: ['people of field', 'people of bus', 'people of truck', 'people fly kite', 'people on beach']
+Objective: 400.52490472008617
+PRIOR DISTANCE
+gt_people fly kite=1.0
+gt_people on beach=1.0
+gt_people of bus=1.0
+gt_people fly kite=0.0
+gt_people on beach=0.0
+gt_people of bus=0.0
+gt_people on beach=1.0
+gt_people fly kite=0.0
+gt_people fly kite=1.0
+gt_people on beach=0.0
+Objective: 400.39161321693825
+gt_people fly kite=1.0
+gt_people on beach=1.0
+gt_people of bus=1.0
+gt_people fly kite=0.0
+gt_people on beach=0.0
+gt_people of bus=0.0
+gt_people on beach=1.0
+gt_people fly kite=0.0
+gt_people fly kite=1.0
+gt_people on beach=0.0
+----------------------------
+Caption: a group of people standing on the side of a street
+Imageid: 323263, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'street of build']
+Objective: 400.39161321693825
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+Objective: 400.5144675447309
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a woman standing in front of a sink
+Imageid: 33871, extracted triplets: ['woman in wall', 'woman in sign'], mapped triplets: ['person in wall', 'people in wall', 'person in hat', 'woman in hat']
+Objective: 400.5144675447309
+PRIOR DISTANCE
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_woman in hat=0.0
+Objective: 400.5144675447309
+gt_woman in hat=0.0
+gt_woman in hat=0.0
+gt_woman in hat=1.0
+gt_woman in hat=1.0
+gt_woman in hat=0.0
+----------------------------
+Caption: a black motorcycle parked next to a street
+Imageid: 263828, extracted triplets: ['motorcycle next to street'], mapped triplets: ['woman next to street']
+Objective: 400.5144675447309
+PRIOR DISTANCE
+Objective: 400.5144675447309
+----------------------------
+Caption: a man standing on a boat in the water
+Imageid: 217468, extracted triplets: ['man on boat', 'boat in water'], mapped triplets: ['people on boat', 'man on bench', 'person on bench', 'man on boat', 'truck in road', 'car in water']
+Objective: 400.5144675447309
+PRIOR DISTANCE
+gt_woman on bench=1.0
+gt_truck in road=0.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_woman on boat=0.0
+gt_people on boat=0.0
+gt_man on bench=0.0
+gt_people on boat=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_man on boat=0.0
+gt_person on bench=0.0
+gt_man on boat=0.0
+gt_people on boat=0.0
+gt_person on bench=1.0
+gt_woman on boat=0.0
+gt_people on boat=-0.0
+gt_man on bench=1.0
+gt_car in water=1.0
+gt_man on boat=0.0
+gt_truck in road=1.0
+Objective: 400.2207370215382
+gt_woman on bench=1.0
+gt_truck in road=0.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_woman on boat=0.0
+gt_people on boat=0.0
+gt_man on bench=0.0
+gt_people on boat=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_man on boat=0.0
+gt_person on bench=0.0
+gt_man on boat=0.0
+gt_people on boat=0.0
+gt_person on bench=1.0
+gt_woman on boat=0.0
+gt_people on boat=-0.0
+gt_man on bench=1.0
+gt_car in water=1.0
+gt_man on boat=0.0
+gt_truck in road=1.0
+----------------------------
+Caption: a group of people riding horses in a field
+Imageid: 373119, extracted triplets: ['people ride horse', 'people in field'], mapped triplets: ['woman ride horse', 'person ride horse', 'man ride horse', 'people ride horse', 'bench in field', 'frisbee in field', 'kite in field', 'ball in field', 'bat in field', 'people in field']
+Objective: 400.2207370215382
+PRIOR DISTANCE
+gt_people ride horse=1.0
+gt_kite in field=0.0
+gt_man ride horse=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_people ride horse=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_woman ride horse=0.0
+gt_woman ride horse=0.0
+gt_man ride horse=1.0
+gt_people in field=0.0
+gt_people ride horse=0.0
+gt_man ride horse=0.0
+gt_frisbee in field=0.0
+gt_person ride horse=0.0
+gt_bench in field=0.0
+gt_people ride horse=0.0
+gt_kite in field=1.0
+gt_frisbee in field=0.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_man ride horse=1.0
+gt_bench in field=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_frisbee in field=0.0
+gt_kite in field=1.0
+gt_person ride horse=1.0
+gt_people in field=1.0
+gt_people ride horse=1.0
+Objective: 399.9420107007157
+gt_people ride horse=1.0
+gt_kite in field=0.0
+gt_man ride horse=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_people ride horse=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_woman ride horse=0.0
+gt_woman ride horse=0.0
+gt_man ride horse=1.0
+gt_people in field=0.0
+gt_people ride horse=0.0
+gt_man ride horse=0.0
+gt_frisbee in field=0.0
+gt_person ride horse=0.0
+gt_bench in field=0.0
+gt_people ride horse=0.0
+gt_kite in field=1.0
+gt_frisbee in field=0.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_man ride horse=0.0
+gt_bench in field=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_frisbee in field=0.0
+gt_kite in field=1.0
+gt_person ride horse=1.0
+gt_people in field=1.0
+gt_people ride horse=0.0
+----------------------------
+Caption: a woman holding a snowboard in front of a building
+Imageid: 194704, extracted triplets: ['woman hold snowboard'], mapped triplets: ['woman hold surfboard']
+Objective: 399.9420107007157
+PRIOR DISTANCE
+Objective: 399.9420107007157
+----------------------------
+Caption: a woman taking a picture with her cell phone in a crowd of people
+Imageid: 574633, extracted triplets: ['woman in crowd', 'crowd of people'], mapped triplets: ['person in group', 'people in group', 'people of field', 'people of bus', 'people of truck']
+Objective: 399.9420107007157
+PRIOR DISTANCE
+gt_people of bus=1.0
+gt_people of bus=0.0
+Objective: 399.9420107007157
+gt_people of bus=1.0
+gt_people of bus=0.0
+----------------------------
+Caption: a blue train at a train station with people
+Imageid: 231691, extracted triplets: ['train station with people'], mapped triplets: ['platform with people', 'room with people', 'plane with people', 'room with people', 'ocean with people', 'people with train', 'train with people', 'beach with people', 'sidewalk with people', 'bus with people', 'hydrant with people']
+Objective: 399.9420107007157
+PRIOR DISTANCE
+gt_bus with people=0.0
+gt_sidewalk with people=0.0
+gt_room with people=0.0
+gt_room with people=0.0
+gt_bus with people=0.0
+gt_sidewalk with people=0.0
+gt_room with people=0.0
+gt_room with people=0.0
+gt_train with people=0.0
+gt_people with train=0.0
+gt_sidewalk with people=0.0
+gt_bus with people=0.0
+gt_beach with people=0.0
+gt_ocean with people=1.0
+gt_platform with people=-0.0
+gt_hydrant with people=-0.0
+gt_sidewalk with people=0.0
+gt_plane with people=-0.0
+Objective: 400.10727026683895
+gt_bus with people=0.0
+gt_sidewalk with people=0.0
+gt_room with people=0.0
+gt_room with people=0.0
+gt_bus with people=0.0
+gt_sidewalk with people=0.0
+gt_room with people=0.0
+gt_room with people=0.0
+gt_train with people=0.0
+gt_people with train=0.0
+gt_sidewalk with people=0.0
+gt_bus with people=0.0
+gt_beach with people=0.0
+gt_ocean with people=1.0
+gt_platform with people=-0.0
+gt_hydrant with people=-0.0
+gt_sidewalk with people=-0.0
+gt_plane with people=-0.0
+----------------------------
+Caption: a little girl wearing a tie standing on a street
+Imageid: 312216, extracted triplets: ['girl wear tie'], mapped triplets: ['woman wear tie', 'boy wear tie', 'man wear tie']
+Objective: 400.10727026683895
+PRIOR DISTANCE
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_boy wear tie=1.0
+gt_man wear tie=0.0
+gt_boy wear tie=-0.0
+gt_man wear tie=1.0
+Objective: 400.2063462668218
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_boy wear tie=1.0
+gt_man wear tie=0.0
+gt_boy wear tie=-0.0
+gt_man wear tie=-0.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a rail
+Imageid: 262148, extracted triplets: ['man on skateboard'], mapped triplets: ['boy on skateboard', 'skateboard on street', 'man on skateboard']
+Objective: 400.2063462668218
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_skateboard on street=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard on street=1.0
+Objective: 400.21092520300203
+gt_boy on skateboard=0.0
+gt_skateboard on street=1.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard on street=1.0
+----------------------------
+Caption: a woman sitting at a table holding a donut
+Imageid: 406182, extracted triplets: ['woman at table'], mapped triplets: ['woman at bench', 'girl at table', 'woman at desk', 'chair at table', 'person at table', 'woman at table']
+Objective: 400.21092520300203
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_girl at table=0.0
+gt_woman at table=1.0
+Objective: 400.56463995373
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+----------------------------
+Caption: a woman eating a hot dog on a table
+Imageid: 365685, extracted triplets: ['woman on table'], mapped triplets: ['man on table']
+Objective: 400.56463995373
+PRIOR DISTANCE
+gt_man on table=0.0
+gt_man on table=1.0
+gt_man on table=0.0
+Objective: 400.5679239349828
+gt_man on table=0.0
+gt_man on table=1.0
+gt_man on table=0.0
+----------------------------
+Caption: a building with a clock tower in front of it
+Imageid: 364340, extracted triplets: ['building with clock tower'], mapped triplets: ['build with clock', 'sidewalk with clock']
+Objective: 400.5679239349828
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_sidewalk with clock=1.0
+gt_build with clock=1.0
+Objective: 400.5885326544582
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_sidewalk with clock=1.0
+gt_build with clock=1.0
+----------------------------
+Caption: a motorcycle parked in a field next to a tent
+Imageid: 48924, extracted triplets: ['motorcycle in field'], mapped triplets: ['motorcycle in street', 'motorcycle in road']
+Objective: 400.5885326544582
+PRIOR DISTANCE
+gt_motorcycle in street=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+Objective: 400.59607194739044
+gt_motorcycle in street=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 429063, extracted triplets: ['luggage at suitcase', 'luggage at bag'], mapped triplets: ['man at suitcase', 'man at suitcase']
+Objective: 400.59607194739044
+PRIOR DISTANCE
+Objective: 400.59607194739044
+----------------------------
+Caption: a young child sitting on top of a luggage cart
+Imageid: 44244, extracted triplets: ['child sit lid', 'child sit floor', 'child sit head', 'child sit shoe', 'child sit wheel', 'child sit chair', 'child sit wrist', 'child sit tree', 'child sit dress'], mapped triplets: ['child sit table', 'girl sit bench', 'boy sit floor', 'cat sit floor', 'couch sit floor', 'suitcase sit floor', 'man sit floor', 'child sit floor', 'person sit head', 'woman sit head', 'boy sit bench', 'girl sit bench', 'child sit table', 'boy sit table', 'girl sit table', 'child sit table', 'person sit bench', 'girl sit bench', 'boy sit table', 'girl sit bench', 'boy sit bag', 'person sit tree', 'woman sit tree', 'girl sit bench', 'woman sit bench']
+Objective: 400.59607194739044
+PRIOR DISTANCE
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+Objective: 400.59607194739044
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+gt_girl sit bench=1.0
+----------------------------
+Caption: a white car parked on the side of a street
+Imageid: 463203, extracted triplets: ['car on side', 'side of street'], mapped triplets: ['bus on street', 'car on road', 'sidewalk of street', 'street of build']
+Objective: 400.59607194739044
+PRIOR DISTANCE
+gt_bus on street=0.0
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_car on road=0.0
+gt_bus on street=0.0
+gt_car on road=0.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_bus on street=0.0
+gt_bus on street=-0.0
+gt_car on road=1.0
+gt_sidewalk of street=1.0
+Objective: 400.47414555607537
+gt_bus on street=0.0
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_car on road=0.0
+gt_bus on street=0.0
+gt_car on road=0.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_bus on street=0.0
+gt_bus on street=-0.0
+gt_car on road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a man riding a motorcycle down a street
+Imageid: 19904, extracted triplets: ['man ride motorcycle'], mapped triplets: ['person ride bike', 'people ride motorcycle', 'man ride motorcycle']
+Objective: 400.47414555607537
+PRIOR DISTANCE
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_people ride motorcycle=-0.0
+Objective: 400.48355080369083
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride bike=1.0
+gt_man ride motorcycle=1.0
+gt_people ride motorcycle=-0.0
+----------------------------
+Caption: a group of people sitting on a bench
+Imageid: 442942, extracted triplets: ['people sit bench'], mapped triplets: ['woman sit bench', 'person sit bench', 'man sit bench', 'girl sit bench', 'people sit bench']
+Objective: 400.48355080369083
+PRIOR DISTANCE
+gt_man sit bench=1.0
+gt_girl sit bench=1.0
+Objective: 400.48355080369083
+gt_man sit bench=1.0
+gt_girl sit bench=1.0
+----------------------------
+Caption: a person walking down a street with an umbrella
+Imageid: 487957, extracted triplets: ['person with umbrella'], mapped triplets: ['man with umbrella', 'woman with umbrella', 'girl with umbrella', 'bench with umbrella', 'chair with umbrella', 'umbrella with woman', 'people with umbrella', 'beach with umbrella', 'field with umbrella', 'build with umbrella', 'sand with umbrella', 'car with umbrella', 'bridge with umbrella', 'street with umbrella', 'room with umbrella', 'picture with umbrella', 'photo with umbrella', 'person with umbrella']
+Objective: 400.48355080369083
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_street with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_street with umbrella=0.0
+gt_street with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_car with umbrella=0.0
+gt_man with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_street with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_bridge with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_field with umbrella=0.0
+gt_street with umbrella=1.0
+gt_chair with umbrella=1.0
+gt_bridge with umbrella=-0.0
+gt_man with umbrella=1.0
+gt_umbrella with woman=0.0
+gt_bench with umbrella=0.0
+gt_build with umbrella=1.0
+gt_room with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 400.35029892522584
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_street with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_street with umbrella=0.0
+gt_street with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_car with umbrella=0.0
+gt_man with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_street with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_bridge with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_field with umbrella=1.0
+gt_street with umbrella=1.0
+gt_chair with umbrella=1.0
+gt_bridge with umbrella=-0.0
+gt_man with umbrella=1.0
+gt_umbrella with woman=0.0
+gt_bench with umbrella=1.0
+gt_build with umbrella=1.0
+gt_room with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------
+Caption: a woman laying on a towel on the beach under an umbrella
+Imageid: 250619, extracted triplets: ['woman under umbrella'], mapped triplets: ['people under umbrella', 'woman under umbrella', 'person under umbrella']
+Objective: 400.35029892522584
+PRIOR DISTANCE
+gt_people under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_person under umbrella=0.0
+gt_people under umbrella=1.0
+Objective: 400.45223684180417
+gt_people under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_person under umbrella=0.0
+gt_people under umbrella=0.0
+----------------------------
+Caption: a person standing on a beach with an umbrella
+Imageid: 243955, extracted triplets: ['person on beach', 'person with umbrella'], mapped triplets: ['people on beach', 'horse on beach', 'surfboard on beach', 'kite on beach', 'flag on beach', 'sand on beach', 'surfer on beach', 'umbrella on beach', 'sky on beach', 'woman on beach', 'person on beach', 'man with umbrella', 'woman with umbrella', 'girl with umbrella', 'bench with umbrella', 'chair with umbrella', 'umbrella with woman', 'people with umbrella', 'beach with umbrella', 'field with umbrella', 'build with umbrella', 'sand with umbrella', 'car with umbrella', 'bridge with umbrella', 'street with umbrella', 'room with umbrella', 'picture with umbrella', 'photo with umbrella', 'person with umbrella']
+Objective: 400.45223684180417
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_sand on beach=1.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_street with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_umbrella on beach=0.0
+gt_man with umbrella=0.0
+gt_street with umbrella=0.0
+gt_street with umbrella=0.0
+gt_people on beach=1.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_car with umbrella=0.0
+gt_man with umbrella=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_people on beach=0.0
+gt_beach with umbrella=0.0
+gt_street with umbrella=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=1.0
+gt_bridge with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_flag on beach=0.0
+gt_field with umbrella=1.0
+gt_sand on beach=0.0
+gt_street with umbrella=1.0
+gt_chair with umbrella=1.0
+gt_bridge with umbrella=-0.0
+gt_man with umbrella=1.0
+gt_umbrella with woman=0.0
+gt_bench with umbrella=1.0
+gt_umbrella on beach=1.0
+gt_build with umbrella=1.0
+gt_sky on beach=1.0
+gt_people on beach=0.0
+gt_room with umbrella=0.0
+gt_horse on beach=1.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 399.5012130418233
+gt_surfboard on beach=1.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_sand on beach=1.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_street with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_umbrella on beach=0.0
+gt_man with umbrella=0.0
+gt_street with umbrella=0.0
+gt_street with umbrella=0.0
+gt_people on beach=1.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_car with umbrella=0.0
+gt_man with umbrella=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_people on beach=0.0
+gt_beach with umbrella=0.0
+gt_street with umbrella=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_chair with umbrella=0.0
+gt_street with umbrella=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=1.0
+gt_bridge with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_flag on beach=0.0
+gt_field with umbrella=1.0
+gt_sand on beach=0.0
+gt_street with umbrella=1.0
+gt_chair with umbrella=1.0
+gt_bridge with umbrella=-0.0
+gt_man with umbrella=1.0
+gt_umbrella with woman=0.0
+gt_bench with umbrella=1.0
+gt_umbrella on beach=1.0
+gt_build with umbrella=1.0
+gt_sky on beach=1.0
+gt_people on beach=0.0
+gt_room with umbrella=0.0
+gt_horse on beach=1.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------
+Caption: a woman standing with her luggage on the sidewalk
+Imageid: 130419, extracted triplets: ['woman with luggage', 'luggage on sidewalk'], mapped triplets: ['woman with suitcase', 'people with luggage', 'backpack on sidewalk', 'suitcase on sidewalk']
+Objective: 399.5012130418233
+PRIOR DISTANCE
+gt_people with luggage=1.0
+gt_backpack on sidewalk=0.0
+gt_suitcase on sidewalk=0.0
+gt_people with luggage=0.0
+gt_woman with suitcase=1.0
+gt_people with luggage=1.0
+gt_people with luggage=-0.0
+gt_backpack on sidewalk=1.0
+gt_suitcase on sidewalk=1.0
+gt_woman with suitcase=-0.0
+Objective: 399.6709367775916
+gt_people with luggage=1.0
+gt_backpack on sidewalk=0.0
+gt_suitcase on sidewalk=0.0
+gt_people with luggage=0.0
+gt_woman with suitcase=1.0
+gt_people with luggage=1.0
+gt_people with luggage=-0.0
+gt_backpack on sidewalk=1.0
+gt_suitcase on sidewalk=1.0
+gt_woman with suitcase=-0.0
+----------------------------
+Caption: a group of people sitting under umbrellas at the beach
+Imageid: 22118, extracted triplets: ['people at beach'], mapped triplets: ['woman at beach', 'towel at beach', 'bench at beach', 'chair at beach', 'umbrella at beach', 'people at beach']
+Objective: 399.6709367775916
+PRIOR DISTANCE
+gt_umbrella at beach=0.0
+gt_people at beach=1.0
+gt_bench at beach=0.0
+gt_umbrella at beach=1.0
+gt_people at beach=0.0
+gt_chair at beach=-0.0
+gt_people at beach=1.0
+gt_towel at beach=1.0
+gt_bench at beach=1.0
+gt_umbrella at beach=1.0
+gt_woman at beach=1.0
+Objective: 399.9724077259877
+gt_umbrella at beach=0.0
+gt_people at beach=1.0
+gt_bench at beach=0.0
+gt_umbrella at beach=1.0
+gt_people at beach=0.0
+gt_chair at beach=-0.0
+gt_people at beach=0.0
+gt_towel at beach=1.0
+gt_bench at beach=1.0
+gt_umbrella at beach=1.0
+gt_woman at beach=1.0
+----------------------------
+Caption: a group of people sitting under umbrellas at the beach
+Imageid: 406899, extracted triplets: ['people under umbrella', 'people at beach'], mapped triplets: ['people under umbrella', 'man under umbrella', 'woman under umbrella', 'person under umbrella', 'woman at beach', 'towel at beach', 'bench at beach', 'chair at beach', 'umbrella at beach', 'people at beach']
+Objective: 399.9724077259877
+PRIOR DISTANCE
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_people under umbrella=0.0
+gt_umbrella at beach=0.0
+gt_people at beach=1.0
+gt_woman under umbrella=1.0
+gt_woman under umbrella=1.0
+gt_bench at beach=0.0
+gt_person under umbrella=0.0
+gt_umbrella at beach=1.0
+gt_people at beach=0.0
+gt_chair at beach=-0.0
+gt_people at beach=0.0
+gt_towel at beach=1.0
+gt_people under umbrella=0.0
+gt_bench at beach=1.0
+gt_man under umbrella=1.0
+gt_umbrella at beach=1.0
+gt_woman at beach=1.0
+Objective: 399.96102670292794
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_people under umbrella=0.0
+gt_umbrella at beach=0.0
+gt_people at beach=1.0
+gt_woman under umbrella=1.0
+gt_woman under umbrella=1.0
+gt_bench at beach=0.0
+gt_person under umbrella=0.0
+gt_umbrella at beach=1.0
+gt_people at beach=0.0
+gt_chair at beach=-0.0
+gt_people at beach=0.0
+gt_towel at beach=1.0
+gt_people under umbrella=1.0
+gt_bench at beach=1.0
+gt_man under umbrella=1.0
+gt_umbrella at beach=1.0
+gt_woman at beach=1.0
+----------------------------
+Caption: a man holding a tennis racket on a tennis court
+Imageid: 133090, extracted triplets: ['man hold racket'], mapped triplets: ['person hold bag', 'player hold bag', 'people hold bag', 'man hold racket']
+Objective: 399.96102670292794
+PRIOR DISTANCE
+gt_person hold bag=0.0
+gt_man hold racket=0.0
+gt_person hold bag=1.0
+gt_woman hold racket=0.0
+gt_man hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_man hold racket=0.0
+gt_player hold bag=1.0
+gt_people hold bag=0.0
+gt_person hold bag=-0.0
+Objective: 400.28897823462694
+gt_person hold bag=0.0
+gt_man hold racket=0.0
+gt_person hold bag=1.0
+gt_woman hold racket=0.0
+gt_man hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_man hold racket=-0.0
+gt_player hold bag=1.0
+gt_people hold bag=0.0
+gt_person hold bag=-0.0
+----------------------------
+Caption: a woman riding a bike while talking on a cell phone
+Imageid: 144333, extracted triplets: ['woman ride bike'], mapped triplets: ['woman ride bicycle', 'girl ride bike', 'person ride bike', 'people ride bike', 'woman ride bike']
+Objective: 400.28897823462694
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_people ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=1.0
+gt_person ride bike=1.0
+gt_people ride bike=0.0
+gt_girl ride bike=-0.0
+gt_woman ride bicycle=1.0
+Objective: 400.3076709401111
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_people ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=1.0
+gt_person ride bike=-0.0
+gt_people ride bike=0.0
+gt_girl ride bike=0.0
+gt_woman ride bicycle=1.0
+----------------------------
+Caption: two people sitting on a bench by the water
+Imageid: 328352, extracted triplets: ['water sit bench'], mapped triplets: ['statue sit bench', 'bird sit bench', 'person sit bench', 'cat sit bench', 'clock sit bench', 'girl sit bench', 'photo sit bench', 'flower sit bench', 'people sit bench', 'dog sit bench', 'glass sit bench', 'woman sit bench', 'man sit bench']
+Objective: 400.3076709401111
+PRIOR DISTANCE
+gt_man sit bench=1.0
+gt_girl sit bench=1.0
+Objective: 400.3076709401111
+gt_man sit bench=1.0
+gt_girl sit bench=1.0
+----------------------------
+Caption: a woman holding a pink umbrella next to a train
+Imageid: 219525, extracted triplets: ['woman hold umbrella', 'woman next to train'], mapped triplets: ['woman hold umbrella', 'girl hold umbrella', 'person hold umbrella', 'woman next to bus', 'woman next to car', 'woman next to vehicle']
+Objective: 400.3076709401111
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman next to vehicle=1.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman next to bus=0.0
+gt_woman next to vehicle=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_woman next to bus=0.0
+gt_woman next to vehicle=-0.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+Objective: 399.9636865418794
+gt_woman hold umbrella=0.0
+gt_woman next to vehicle=1.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman next to bus=0.0
+gt_woman next to vehicle=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_woman next to bus=1.0
+gt_woman next to vehicle=-0.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a man holding a guitar in his hand
+Imageid: 254167, extracted triplets: ['man in hand'], mapped triplets: ['person in shirt', 'woman in shirt', 'man in hand']
+Objective: 399.9636865418794
+PRIOR DISTANCE
+gt_person in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in hand=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in hand=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_person in shirt=0.0
+gt_woman in shirt=1.0
+gt_person in shirt=1.0
+Objective: 399.98971252129604
+gt_person in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in hand=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in hand=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in hand=0.0
+gt_man in hand=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_person in shirt=0.0
+gt_woman in shirt=1.0
+gt_person in shirt=1.0
+----------------------------
+Caption: a small bathroom with a toilet and a sink
+Imageid: 484587, extracted triplets: ['bathroom with toilet'], mapped triplets: ['bathroom with sink', 'toilet with toilet']
+Objective: 399.98971252129604
+PRIOR DISTANCE
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_toilet with toilet=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_toilet with toilet=0.0
+Objective: 398.37584373177253
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_toilet with toilet=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_bathroom with sink=0.0
+gt_toilet with toilet=1.0
+----------------------------
+Caption: a woman standing on a street corner holding an umbrella
+Imageid: 427401, extracted triplets: ['woman on street corner', 'street corner hold umbrella'], mapped triplets: ['child on sidewalk', 'people on street', 'person on sidewalk', 'street hold umbrella']
+Objective: 398.37584373177253
+PRIOR DISTANCE
+gt_street hold umbrella=1.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_street hold umbrella=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_people on street=1.0
+gt_street hold umbrella=0.0
+gt_person on sidewalk=1.0
+gt_street hold umbrella=0.0
+gt_people on street=0.0
+Objective: 398.5508062432496
+gt_street hold umbrella=1.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_street hold umbrella=0.0
+gt_people on street=0.0
+gt_people on street=0.0
+gt_people on street=1.0
+gt_street hold umbrella=0.0
+gt_person on sidewalk=1.0
+gt_street hold umbrella=0.0
+gt_people on street=-0.0
+----------------------------
+Caption: a woman walking down the street with a large teddy bear
+Imageid: 506872, extracted triplets: ['woman with bear'], mapped triplets: ['woman with dog', 'woman with cat', 'woman with bear']
+Objective: 398.5508062432496
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=1.0
+Objective: 398.5508062432496
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=0.0
+gt_woman with cat=0.0
+gt_woman with dog=1.0
+----------------------------
+Caption: a woman in a green shirt holding a cell phone
+Imageid: 258089, extracted triplets: ['woman in shirt', 'woman hold phone'], mapped triplets: ['person in shirt', 'child in shirt', 'girl in shirt', 'woman in shirt', 'woman hold phone', 'woman hold suitcase', 'woman hold glass', 'woman hold bag', 'person hold bag', 'woman hold umbrella']
+Objective: 398.5508062432496
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_person in shirt=0.0
+gt_person hold bag=0.0
+gt_child in shirt=1.0
+gt_woman in shirt=0.0
+gt_woman hold glass=1.0
+gt_girl in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman hold phone=0.0
+gt_woman in shirt=1.0
+gt_woman hold umbrella=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_child in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_woman hold umbrella=0.0
+gt_person hold bag=1.0
+gt_woman hold phone=0.0
+gt_woman hold glass=1.0
+gt_woman hold bag=0.0
+gt_woman hold umbrella=0.0
+gt_woman in shirt=0.0
+gt_woman hold umbrella=1.0
+gt_woman in shirt=0.0
+gt_woman hold phone=0.0
+gt_girl in shirt=0.0
+gt_person in shirt=0.0
+gt_woman hold glass=-0.0
+gt_child in shirt=-0.0
+gt_woman hold suitcase=-0.0
+gt_woman hold bag=1.0
+gt_woman hold phone=-0.0
+gt_person hold bag=-0.0
+gt_woman in shirt=1.0
+gt_person in shirt=1.0
+gt_girl in shirt=0.0
+gt_woman hold umbrella=-0.0
+Objective: 399.23400023933675
+gt_woman hold umbrella=0.0
+gt_person in shirt=0.0
+gt_person hold bag=0.0
+gt_child in shirt=1.0
+gt_woman in shirt=0.0
+gt_woman hold glass=1.0
+gt_girl in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman hold phone=0.0
+gt_woman in shirt=1.0
+gt_woman hold umbrella=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_child in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_woman hold umbrella=0.0
+gt_person hold bag=1.0
+gt_woman hold phone=0.0
+gt_woman hold glass=1.0
+gt_woman hold bag=0.0
+gt_woman hold umbrella=0.0
+gt_woman in shirt=0.0
+gt_woman hold umbrella=1.0
+gt_woman in shirt=0.0
+gt_woman hold phone=0.0
+gt_girl in shirt=0.0
+gt_person in shirt=0.0
+gt_woman hold glass=-0.0
+gt_child in shirt=-0.0
+gt_woman hold suitcase=-0.0
+gt_woman hold bag=1.0
+gt_woman hold phone=-0.0
+gt_person hold bag=-0.0
+gt_woman in shirt=1.0
+gt_person in shirt=1.0
+gt_girl in shirt=1.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a man sitting at a desk with a laptop computer
+Imageid: 96832, extracted triplets: ['man at desk', 'desk with laptop computer'], mapped triplets: ['man at table', 'chair at desk', 'woman at desk', 'man at desk', 'desk with computer', 'room with laptop', 'bed with laptop', 'floor with laptop', 'table with laptop']
+Objective: 399.23400023933675
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_floor with laptop=1.0
+gt_man at table=0.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_room with laptop=0.0
+gt_table with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_table with laptop=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_floor with laptop=1.0
+gt_man at desk=1.0
+gt_room with laptop=0.0
+gt_man at table=1.0
+gt_chair at desk=0.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_floor with laptop=1.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_woman at table=1.0
+gt_table with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_floor with laptop=0.0
+gt_table with laptop=-0.0
+gt_desk with computer=1.0
+gt_bed with laptop=1.0
+gt_room with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+Objective: 399.2435753723785
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_floor with laptop=1.0
+gt_man at table=0.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_room with laptop=0.0
+gt_table with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_table with laptop=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_floor with laptop=1.0
+gt_man at desk=1.0
+gt_room with laptop=0.0
+gt_man at table=1.0
+gt_chair at desk=0.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_floor with laptop=1.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_woman at table=1.0
+gt_table with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_floor with laptop=0.0
+gt_table with laptop=-0.0
+gt_desk with computer=1.0
+gt_bed with laptop=0.0
+gt_room with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+----------------------------
+Caption: a cat sitting on top of a wooden bench
+Imageid: 412807, extracted triplets: ['cat sit bench', 'cat sit cat', 'cat sit bag'], mapped triplets: ['cat sit sidewalk', 'cat sit bench', 'flower sit bench', 'glass sit bench', 'photo sit bench', 'statue sit bench', 'bird sit bench', 'cat sit bench', 'cat sit table', 'cat sit bag', 'woman sit bag']
+Objective: 399.2435753723785
+PRIOR DISTANCE
+Objective: 399.2435753723785
+----------------------------
+Caption: a woman standing on a beach with a flock of birds
+Imageid: 402000, extracted triplets: ['woman on beach', 'woman with bird', 'woman with people'], mapped triplets: ['person on beach', 'man on beach', 'surfer on beach', 'umbrella on beach', 'horse on beach', 'kite on beach', 'surfboard on beach', 'woman on beach', 'woman with people', 'girl with people', 'man with people', 'girl with people', 'woman with people']
+Objective: 399.2435753723785
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_man with people=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+gt_man on beach=1.0
+gt_man on beach=-0.0
+gt_man with people=-0.0
+gt_umbrella on beach=1.0
+gt_horse on beach=1.0
+Objective: 398.89798510203354
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+gt_umbrella on beach=0.0
+gt_man with people=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_surfboard on beach=1.0
+gt_umbrella on beach=0.0
+gt_man on beach=1.0
+gt_man on beach=-0.0
+gt_man with people=-0.0
+gt_umbrella on beach=1.0
+gt_horse on beach=1.0
+----------------------------
+Caption: a large building with a clock tower on top of it
+Imageid: 307243, extracted triplets: ['building with clock tower'], mapped triplets: ['build with clock tower clock', 'sidewalk with clock tower clock']
+Objective: 398.89798510203354
+PRIOR DISTANCE
+Objective: 398.89798510203354
+----------------------------
+Caption: a bus with bikes on the front of it
+Imageid: 128119, extracted triplets: ['bus with bike', 'bus on front'], mapped triplets: ['street with bus', 'bus with people', 'build with bus', 'bus with bicycle', 'bus with tire', 'street with car', 'car with people', 'truck with people', 'bus on road', 'bus on street']
+Objective: 398.89798510203354
+PRIOR DISTANCE
+gt_bus on street=0.0
+gt_build with bus=1.0
+gt_bus with people=0.0
+gt_street with car=0.0
+gt_street with bus=0.0
+gt_street with bus=0.0
+gt_bus on street=0.0
+gt_bus with people=0.0
+gt_street with car=1.0
+gt_bus with bicycle=1.0
+gt_bus with tire=0.0
+gt_street with bus=1.0
+gt_bus with people=0.0
+gt_bus on road=0.0
+gt_street with car=0.0
+gt_bus on street=0.0
+gt_street with bus=-0.0
+gt_bus on street=-0.0
+gt_car with people=0.0
+gt_build with bus=0.0
+gt_bus with bicycle=1.0
+gt_bus on road=-0.0
+gt_bus with tire=-0.0
+Objective: 398.617642176025
+gt_bus on street=0.0
+gt_build with bus=1.0
+gt_bus with people=0.0
+gt_street with car=0.0
+gt_street with bus=0.0
+gt_street with bus=0.0
+gt_bus on street=0.0
+gt_bus with people=0.0
+gt_street with car=1.0
+gt_bus with bicycle=1.0
+gt_bus with tire=0.0
+gt_street with bus=1.0
+gt_bus with people=0.0
+gt_bus on road=0.0
+gt_street with car=0.0
+gt_bus on street=0.0
+gt_street with bus=-0.0
+gt_bus on street=-0.0
+gt_car with people=0.0
+gt_build with bus=1.0
+gt_bus with bicycle=1.0
+gt_bus on road=-0.0
+gt_bus with tire=-0.0
+----------------------------
+Caption: a train at a train station with luggage on the tracks
+Imageid: 137727, extracted triplets: ['train at train station', 'train station with luggage'], mapped triplets: ['train at platform', 'street at train', 'platform with bag', 'room with suitcase']
+Objective: 398.617642176025
+PRIOR DISTANCE
+gt_street at train=1.0
+gt_room with suitcase=0.0
+gt_train at platform=0.0
+gt_room with suitcase=1.0
+gt_street at train=1.0
+Objective: 398.9406744576664
+gt_street at train=1.0
+gt_room with suitcase=0.0
+gt_train at platform=0.0
+gt_room with suitcase=1.0
+gt_street at train=1.0
+----------------------------
+Caption: a woman wearing sunglasses talking on a cell phone
+Imageid: 99874, extracted triplets: ['woman wear sunglass'], mapped triplets: ['woman wear hat', 'woman wear glass']
+Objective: 398.9406744576664
+PRIOR DISTANCE
+gt_woman wear hat=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear hat=0.0
+gt_woman wear glass=0.0
+gt_woman wear hat=1.0
+gt_woman wear hat=1.0
+gt_woman wear glass=-0.0
+Objective: 399.07028712226315
+gt_woman wear hat=0.0
+gt_woman wear glass=1.0
+gt_woman wear glass=0.0
+gt_woman wear hat=0.0
+gt_woman wear glass=0.0
+gt_woman wear hat=1.0
+gt_woman wear hat=1.0
+gt_woman wear glass=-0.0
+----------------------------
+Caption: a bus is parked at a bus stop on a street
+Imageid: 28114, extracted triplets: ['bus stop on street'], mapped triplets: ['bus on sidewalk', 'pole on street']
+Objective: 399.07028712226315
+PRIOR DISTANCE
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+Objective: 399.068106067612
+gt_pole on street=1.0
+gt_pole on street=1.0
+gt_pole on street=1.0
+----------------------------
+Caption: a man standing next to a little girl on a skateboard
+Imageid: 572182, extracted triplets: ['man next to girl', 'girl on skateboard'], mapped triplets: ['man next to woman', 'woman next to man', 'man next to girl', 'girl on sidewalk', 'boy on skateboard', 'person on sidewalk', 'skateboard on sidewalk']
+Objective: 399.068106067612
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_skateboard on sidewalk=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_skateboard on sidewalk=0.0
+gt_girl on sidewalk=1.0
+gt_person on sidewalk=1.0
+gt_man next to woman=1.0
+gt_girl on sidewalk=1.0
+gt_skateboard on sidewalk=1.0
+Objective: 399.1152058272562
+gt_boy on skateboard=0.0
+gt_skateboard on sidewalk=0.0
+gt_man next to woman=0.0
+gt_man next to woman=0.0
+gt_skateboard on sidewalk=0.0
+gt_girl on sidewalk=1.0
+gt_person on sidewalk=1.0
+gt_man next to woman=1.0
+gt_girl on sidewalk=1.0
+gt_skateboard on sidewalk=1.0
+----------------------------
+Caption: a person standing next to a bed in a room
+Imageid: 228867, extracted triplets: ['person next to bed', 'person in room'], mapped triplets: ['man next to chair', 'woman next to suitcase', 'couch in room', 'mirror in room', 'bed in room', 'woman in room', 'man in room', 'book in room', 'person in room', 'people in room', 'laptop in room']
+Objective: 399.1152058272562
+PRIOR DISTANCE
+gt_people in room=0.0
+gt_mirror in room=0.0
+gt_person in room=1.0
+gt_book in room=0.0
+gt_man in room=0.0
+gt_laptop in room=0.0
+gt_people in room=1.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_man in room=1.0
+gt_laptop in room=1.0
+gt_bed in room=0.0
+gt_man in room=0.0
+gt_bed in room=1.0
+gt_people in room=0.0
+gt_laptop in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_laptop in room=1.0
+gt_mirror in room=1.0
+gt_man in room=-0.0
+gt_woman next to suitcase=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=-0.0
+gt_book in room=1.0
+gt_bed in room=-0.0
+gt_people in room=0.0
+Objective: 399.76639855969285
+gt_people in room=0.0
+gt_mirror in room=0.0
+gt_person in room=1.0
+gt_book in room=0.0
+gt_man in room=0.0
+gt_laptop in room=0.0
+gt_people in room=1.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_people in room=0.0
+gt_bed in room=0.0
+gt_man in room=1.0
+gt_laptop in room=1.0
+gt_bed in room=0.0
+gt_man in room=0.0
+gt_bed in room=1.0
+gt_people in room=0.0
+gt_laptop in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_laptop in room=0.0
+gt_mirror in room=1.0
+gt_man in room=-0.0
+gt_woman next to suitcase=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=-0.0
+gt_book in room=1.0
+gt_bed in room=-0.0
+gt_people in room=0.0
+----------------------------
+Caption: a woman in a bikini standing on a paddle board in the water
+Imageid: 195750, extracted triplets: ['woman on surfboard'], mapped triplets: ['people on beach', 'woman on surfboard']
+Objective: 399.76639855969285
+PRIOR DISTANCE
+gt_people on beach=1.0
+gt_people on beach=0.0
+gt_people on beach=1.0
+gt_people on beach=0.0
+Objective: 399.7424679957585
+gt_people on beach=1.0
+gt_people on beach=0.0
+gt_people on beach=1.0
+gt_people on beach=0.0
+----------------------------
+Caption: a man sitting at a desk with a laptop computer
+Imageid: 153803, extracted triplets: ['man at desk', 'desk with laptop computer'], mapped triplets: ['man at table', 'chair at desk', 'woman at desk', 'man at desk', 'desk with computer', 'room with laptop', 'bed with laptop', 'floor with laptop', 'table with laptop']
+Objective: 399.7424679957585
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_floor with laptop=1.0
+gt_man at table=0.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_room with laptop=0.0
+gt_table with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_table with laptop=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_floor with laptop=1.0
+gt_man at desk=1.0
+gt_room with laptop=0.0
+gt_man at table=1.0
+gt_chair at desk=0.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_floor with laptop=1.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_woman at table=1.0
+gt_table with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_floor with laptop=0.0
+gt_table with laptop=-0.0
+gt_desk with computer=1.0
+gt_bed with laptop=0.0
+gt_room with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+Objective: 399.7438708789083
+gt_woman at table=1.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_floor with laptop=1.0
+gt_man at table=0.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=0.0
+gt_room with laptop=0.0
+gt_table with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_table with laptop=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_floor with laptop=1.0
+gt_man at desk=1.0
+gt_room with laptop=0.0
+gt_man at table=1.0
+gt_chair at desk=0.0
+gt_desk with computer=0.0
+gt_table with laptop=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_floor with laptop=1.0
+gt_desk with computer=0.0
+gt_chair at desk=0.0
+gt_table with laptop=0.0
+gt_woman at table=1.0
+gt_table with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_floor with laptop=0.0
+gt_table with laptop=-0.0
+gt_desk with computer=1.0
+gt_bed with laptop=0.0
+gt_room with laptop=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+----------------------------
+Caption: a woman walking in the rain with an umbrella
+Imageid: 114744, extracted triplets: ['woman with umbrella'], mapped triplets: ['person with umbrella', 'bench with umbrella', 'build with umbrella', 'girl with umbrella', 'man with umbrella', 'picture with umbrella', 'sand with umbrella', 'car with umbrella', 'field with umbrella', 'chair with umbrella', 'umbrella with chair', 'umbrella with woman', 'photo with umbrella', 'desk with umbrella', 'room with umbrella', 'people with umbrella', 'beach with umbrella', 'woman with umbrella']
+Objective: 399.7438708789083
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_car with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_field with umbrella=1.0
+gt_chair with umbrella=1.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=1.0
+gt_umbrella with chair=-0.0
+gt_umbrella with woman=0.0
+gt_bench with umbrella=1.0
+gt_build with umbrella=1.0
+gt_room with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 399.5447359102552
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_car with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_field with umbrella=0.0
+gt_chair with umbrella=1.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_umbrella with chair=1.0
+gt_umbrella with woman=1.0
+gt_bench with umbrella=0.0
+gt_build with umbrella=1.0
+gt_room with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------
+Caption: a woman in a red dress with her luggage at a train station
+Imageid: 491835, extracted triplets: ['woman in dress', 'dress with luggage', 'woman at train station'], mapped triplets: ['girl in dress', 'woman in shirt', 'woman in jean', 'woman in dress', 'sidewalk with luggage', 'street with luggage', 'people at train', 'people at platform']
+Objective: 399.5447359102552
+PRIOR DISTANCE
+gt_woman in dress=1.0
+gt_woman in dress=1.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman in jean=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_girl in dress=0.0
+gt_woman in dress=1.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_girl in dress=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_people at platform=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_girl in dress=0.0
+gt_girl in dress=1.0
+gt_sidewalk with luggage=1.0
+gt_people at platform=0.0
+gt_street with luggage=-0.0
+gt_woman in dress=0.0
+gt_woman in shirt=1.0
+Objective: 399.5923456606946
+gt_woman in dress=1.0
+gt_woman in dress=1.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman in jean=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_girl in dress=0.0
+gt_woman in dress=1.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_girl in dress=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_people at platform=0.0
+gt_woman in shirt=0.0
+gt_woman in dress=0.0
+gt_girl in dress=0.0
+gt_girl in dress=1.0
+gt_sidewalk with luggage=1.0
+gt_people at platform=0.0
+gt_street with luggage=-0.0
+gt_woman in dress=0.0
+gt_woman in shirt=1.0
+----------------------------
+Caption: a woman holding a pink umbrella on a street
+Imageid: 377239, extracted triplets: ['woman hold umbrella', 'woman on street'], mapped triplets: ['woman hold umbrella', 'girl hold umbrella', 'person hold umbrella', 'child on sidewalk', 'people on street', 'person on sidewalk', 'woman on street']
+Objective: 399.5923456606946
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_person hold umbrella=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_woman hold umbrella=1.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_people on street=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_people on street=1.0
+gt_girl hold umbrella=1.0
+gt_person on sidewalk=1.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman on street=1.0
+gt_people on street=-0.0
+gt_woman hold umbrella=0.0
+Objective: 399.296822908734
+gt_woman hold umbrella=0.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_person hold umbrella=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_woman hold umbrella=1.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_people on street=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_people on street=1.0
+gt_girl hold umbrella=1.0
+gt_person on sidewalk=1.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a group of people riding motorcycles on a city street
+Imageid: 267802, extracted triplets: ['people ride motorcycles', 'people on street'], mapped triplets: ['people ride motorcycle', 'man ride motorcycle', 'child on sidewalk', 'bus on sidewalk', 'people on bridge', 'people on platform', 'woman on street', 'bike on street', 'car on road', 'motorcycle on street', 'woman on sidewalk', 'people on person', 'people on bike', 'truck on street', 'motorcycle on road', 'people on beach', 'people on motorcycle', 'people on street', 'person on sidewalk', 'car on street', 'bus on road', 'people on sidewalk', 'bus on street', 'people on road']
+Objective: 399.296822908734
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people on platform=1.0
+gt_motorcycle on street=0.0
+gt_people on sidewalk=0.0
+gt_truck on street=1.0
+gt_woman on street=1.0
+gt_man ride motorcycle=0.0
+gt_people on motorcycle=0.0
+gt_car on road=0.0
+gt_people on street=0.0
+gt_bike on street=0.0
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_motorcycle on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_bus on street=0.0
+gt_woman on street=1.0
+gt_people on beach=1.0
+gt_bike on street=0.0
+gt_people on sidewalk=0.0
+gt_car on street=0.0
+gt_car on road=0.0
+gt_truck on street=0.0
+gt_people on motorcycle=0.0
+gt_people on street=0.0
+gt_people on bike=0.0
+gt_woman ride motorcycle=1.0
+gt_motorcycle on street=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people on bridge=1.0
+gt_woman on sidewalk=1.0
+gt_bike on street=0.0
+gt_people on beach=0.0
+gt_people on street=0.0
+gt_people on sidewalk=1.0
+gt_motorcycle on street=1.0
+gt_people on street=1.0
+gt_man ride motorcycle=0.0
+gt_people on beach=1.0
+gt_people on motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_bus on road=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on road=0.0
+gt_person on sidewalk=1.0
+gt_motorcycle on road=-0.0
+gt_truck on street=1.0
+gt_bus on street=-0.0
+gt_people on platform=-0.0
+gt_car on road=1.0
+gt_people on road=0.0
+gt_people on bridge=-0.0
+gt_people on bike=0.0
+gt_bus on road=-0.0
+gt_people on sidewalk=1.0
+gt_car on street=1.0
+gt_people on person=0.0
+gt_man ride motorcycle=1.0
+gt_people on motorcycle=1.0
+gt_woman on sidewalk=-0.0
+gt_people on beach=0.0
+gt_people ride motorcycle=-0.0
+gt_woman on street=1.0
+gt_bike on street=0.0
+gt_people on street=0.0
+Objective: 397.8804653527841
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_woman ride motorcycle=0.0
+gt_people ride motorcycle=0.0
+gt_people on platform=1.0
+gt_motorcycle on street=0.0
+gt_people on sidewalk=0.0
+gt_truck on street=1.0
+gt_woman on street=1.0
+gt_man ride motorcycle=0.0
+gt_people on motorcycle=0.0
+gt_car on road=0.0
+gt_people on street=0.0
+gt_bike on street=0.0
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_motorcycle on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_bus on street=0.0
+gt_woman on street=1.0
+gt_people on beach=1.0
+gt_bike on street=0.0
+gt_people on sidewalk=0.0
+gt_car on street=0.0
+gt_car on road=0.0
+gt_truck on street=0.0
+gt_people on motorcycle=0.0
+gt_people on street=0.0
+gt_people on bike=0.0
+gt_woman ride motorcycle=1.0
+gt_motorcycle on street=1.0
+gt_people ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people on bridge=1.0
+gt_woman on sidewalk=1.0
+gt_bike on street=0.0
+gt_people on beach=0.0
+gt_people on street=0.0
+gt_people on sidewalk=1.0
+gt_motorcycle on street=1.0
+gt_people on street=1.0
+gt_man ride motorcycle=0.0
+gt_people on beach=1.0
+gt_people on motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_bus on road=0.0
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on road=0.0
+gt_person on sidewalk=1.0
+gt_motorcycle on road=-0.0
+gt_truck on street=1.0
+gt_bus on street=0.0
+gt_people on platform=-0.0
+gt_car on road=1.0
+gt_people on road=1.0
+gt_people on bridge=0.0
+gt_people on bike=0.0
+gt_bus on road=-0.0
+gt_people on sidewalk=1.0
+gt_car on street=1.0
+gt_people on person=0.0
+gt_man ride motorcycle=1.0
+gt_people on motorcycle=1.0
+gt_woman on sidewalk=-0.0
+gt_people on beach=0.0
+gt_people ride motorcycle=-0.0
+gt_woman on street=1.0
+gt_bike on street=0.0
+gt_people on street=-0.0
+----------------------------
+Caption: a motorcycle parked in the grass with a candle
+Imageid: 455716, extracted triplets: ['motorcycle in grass', 'motorcycle with candle'], mapped triplets: ['motorcycle in street', 'motorcycle in road', 'man with candle', 'bike with basket']
+Objective: 397.8804653527841
+PRIOR DISTANCE
+gt_motorcycle in street=0.0
+gt_man with candle=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=0.0
+gt_bike with basket=1.0
+gt_motorcycle in street=0.0
+Objective: 397.88497848145124
+gt_motorcycle in street=0.0
+gt_man with candle=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=0.0
+gt_bike with basket=1.0
+gt_motorcycle in street=0.0
+----------------------------
+Caption: a large airplane sitting on top of an airport runway
+Imageid: 300066, extracted triplets: ['airplane sit cloud', 'airplane sit building', 'airplane sit mountain'], mapped triplets: ['people sit build', 'person sit train']
+Objective: 397.88497848145124
+PRIOR DISTANCE
+Objective: 397.88497848145124
+----------------------------
+Caption: a cat sitting on top of a suitcase
+Imageid: 84650, extracted triplets: ['cat sit suitcase', 'cat sit carpet', 'cat sit frame', 'cat sit tag', 'cat sit wall'], mapped triplets: ['woman sit suitcase', 'cat sit bench', 'cat sit floor', 'cat sit bench', 'cat sit bed', 'cat sit umbrella', 'cat sit bench', 'woman sit wall']
+Objective: 397.88497848145124
+PRIOR DISTANCE
+Objective: 397.88497848145124
+----------------------------
+Caption: a woman walking in the rain with a pink umbrella
+Imageid: 11181, extracted triplets: ['woman with umbrella'], mapped triplets: ['person with umbrella', 'bench with umbrella', 'build with umbrella', 'girl with umbrella', 'man with umbrella', 'picture with umbrella', 'sand with umbrella', 'car with umbrella', 'field with umbrella', 'chair with umbrella', 'umbrella with chair', 'umbrella with woman', 'photo with umbrella', 'desk with umbrella', 'room with umbrella', 'people with umbrella', 'beach with umbrella', 'woman with umbrella']
+Objective: 397.88497848145124
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_car with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_field with umbrella=0.0
+gt_chair with umbrella=1.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_umbrella with chair=1.0
+gt_umbrella with woman=1.0
+gt_bench with umbrella=0.0
+gt_build with umbrella=1.0
+gt_room with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 397.70266316858044
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_build with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_car with umbrella=0.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_girl with umbrella=0.0
+gt_beach with umbrella=0.0
+gt_people with umbrella=0.0
+gt_person with umbrella=1.0
+gt_sand with umbrella=-0.0
+gt_car with umbrella=-0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_field with umbrella=0.0
+gt_chair with umbrella=1.0
+gt_desk with umbrella=1.0
+gt_man with umbrella=0.0
+gt_umbrella with chair=1.0
+gt_umbrella with woman=1.0
+gt_bench with umbrella=0.0
+gt_build with umbrella=1.0
+gt_room with umbrella=0.0
+gt_beach with umbrella=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------
+Caption: a computer monitor sitting on top of a desk
+Imageid: 127865, extracted triplets: ['computer monitor sit monitor', 'computer monitor sit suitcase', 'computer monitor sit desk', 'computer monitor sit wall', 'computer monitor sit bed', 'computer monitor sit basket'], mapped triplets: ['laptop sit suitcase', 'person sit suitcase', 'laptop sit desk', 'keyboard sit desk', 'laptop sit desk', 'tv sit room', 'laptop sit bed', 'laptop sit seat', 'dog sit basket']
+Objective: 397.70266316858044
+PRIOR DISTANCE
+Objective: 397.70266316858044
+----------------------------
+Caption: a clock on a pole on a city street
+Imageid: 452663, extracted triplets: ['clock on pole', 'pole on sidewalk', 'pole on building', 'pole on fence'], mapped triplets: ['clock on tower', 'sign on pole', 'pole on sidewalk', 'sign on pole', 'pole on street', 'sign on pole', 'man on fence']
+Objective: 397.70266316858044
+PRIOR DISTANCE
+gt_sign on pole=0.0
+gt_sign on pole=0.0
+gt_sign on pole=0.0
+gt_pole on street=1.0
+gt_clock on tower=0.0
+gt_clock on tower=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_clock on tower=1.0
+gt_pole on street=1.0
+gt_pole on sidewalk=-0.0
+gt_sign on pole=-0.0
+gt_sign on pole=-0.0
+gt_sign on pole=-0.0
+gt_pole on street=1.0
+Objective: 397.7438576820069
+gt_sign on pole=0.0
+gt_sign on pole=0.0
+gt_sign on pole=0.0
+gt_pole on street=1.0
+gt_clock on tower=0.0
+gt_clock on tower=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_sign on pole=1.0
+gt_clock on tower=1.0
+gt_pole on street=1.0
+gt_pole on sidewalk=-0.0
+gt_sign on pole=-0.0
+gt_sign on pole=-0.0
+gt_sign on pole=-0.0
+gt_pole on street=1.0
+----------------------------
+Caption: a young man riding a skateboard while standing
+Imageid: 152258, extracted triplets: ['man ride skateboard'], mapped triplets: ['woman ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 397.7438576820069
+PRIOR DISTANCE
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=0.0
+Objective: 397.6980641138179
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_person ride skateboard=0.0
+gt_woman ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=0.0
+----------------------------
+Caption: a woman sitting at a table with a laptop
+Imageid: 575389, extracted triplets: ['woman at table', 'woman with laptop'], mapped triplets: ['woman at bench', 'girl at table', 'woman at desk', 'chair at table', 'person at table', 'woman at table', 'woman with laptop']
+Objective: 397.6980641138179
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_woman with laptop=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=1.0
+gt_woman with laptop=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+Objective: 397.818576106507
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_woman with laptop=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=1.0
+gt_woman with laptop=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+----------------------------
+Caption: a group of people sitting on the beach
+Imageid: 319051, extracted triplets: ['people sit umbrella', 'people sit chair', 'people sit sand'], mapped triplets: ['person sit umbrella', 'man sit umbrella', 'woman sit umbrella', 'people sit umbrella', 'man sit seat', 'woman sit chair', 'people sit chair', 'people sit sand']
+Objective: 397.818576106507
+PRIOR DISTANCE
+Objective: 397.818576106507
+----------------------------
+Caption: a crowd of people on a beach with umbrellas
+Imageid: 215608, extracted triplets: ['crowd of people', 'crowd on beach'], mapped triplets: ['people of field', 'people of bus', 'people of truck', 'people on beach']
+Objective: 397.818576106507
+PRIOR DISTANCE
+gt_people on beach=1.0
+gt_people of bus=1.0
+gt_people on beach=0.0
+gt_people of bus=0.0
+gt_people on beach=1.0
+gt_people on beach=0.0
+Objective: 397.9161395172483
+gt_people on beach=1.0
+gt_people of bus=1.0
+gt_people on beach=0.0
+gt_people of bus=0.0
+gt_people on beach=1.0
+gt_people on beach=0.0
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 576820, extracted triplets: ['luggage at suitcase', 'luggage at person', 'luggage at bag', 'luggage at people', 'luggage at luggage'], mapped triplets: ['man at suitcase', 'person at table', 'suitcase at people', 'man at suitcase', 'suitcase at people', 'train at people', 'people at train', 'people at platform', 'man at suitcase']
+Objective: 397.9161395172483
+PRIOR DISTANCE
+gt_person at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_people at platform=0.0
+gt_person at table=-0.0
+gt_train at people=0.0
+gt_people at platform=0.0
+Objective: 397.926962969354
+gt_person at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_people at platform=0.0
+gt_person at table=-0.0
+gt_train at people=1.0
+gt_people at platform=0.0
+----------------------------
+Caption: a group of people sitting under an umbrella on the beach
+Imageid: 150224, extracted triplets: ['people under umbrella', 'umbrella on beach'], mapped triplets: ['people under umbrella', 'man under umbrella', 'woman under umbrella', 'person under umbrella', 'surfboard on beach', 'kite on beach', 'horse on beach', 'flag on beach', 'umbrella on beach']
+Objective: 397.926962969354
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_umbrella on beach=0.0
+gt_man under umbrella=1.0
+gt_people under umbrella=0.0
+gt_umbrella on beach=0.0
+gt_woman under umbrella=1.0
+gt_woman under umbrella=1.0
+gt_surfboard on beach=1.0
+gt_person under umbrella=0.0
+gt_umbrella on beach=0.0
+gt_flag on beach=0.0
+gt_people under umbrella=1.0
+gt_umbrella on beach=1.0
+gt_man under umbrella=1.0
+gt_horse on beach=1.0
+Objective: 397.9655529730529
+gt_surfboard on beach=1.0
+gt_man under umbrella=1.0
+gt_man under umbrella=1.0
+gt_umbrella on beach=0.0
+gt_man under umbrella=1.0
+gt_people under umbrella=0.0
+gt_umbrella on beach=0.0
+gt_woman under umbrella=1.0
+gt_woman under umbrella=1.0
+gt_surfboard on beach=1.0
+gt_person under umbrella=0.0
+gt_umbrella on beach=0.0
+gt_flag on beach=0.0
+gt_people under umbrella=1.0
+gt_umbrella on beach=1.0
+gt_man under umbrella=1.0
+gt_horse on beach=1.0
+----------------------------
+Caption: a man flying a kite in a field
+Imageid: 149268, extracted triplets: ['man fly kite', 'man in field'], mapped triplets: ['woman fly kite', 'people fly kite', 'girl fly kite', 'man fly kite', 'bench in field', 'cow in field', 'woman in field', 'ball in field', 'bat in field', 'man in field']
+Objective: 397.9655529730529
+PRIOR DISTANCE
+gt_people fly kite=1.0
+gt_bench in field=0.0
+gt_man fly kite=0.0
+gt_people fly kite=0.0
+gt_man fly kite=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_people fly kite=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_girl fly kite=1.0
+gt_cow in field=1.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_girl fly kite=1.0
+gt_man fly kite=1.0
+gt_people fly kite=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_man in field=1.0
+Objective: 398.05425887404044
+gt_people fly kite=1.0
+gt_bench in field=0.0
+gt_man fly kite=0.0
+gt_people fly kite=0.0
+gt_man fly kite=0.0
+gt_bench in field=0.0
+gt_man in field=0.0
+gt_people fly kite=0.0
+gt_woman in field=0.0
+gt_woman in field=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_girl fly kite=1.0
+gt_cow in field=1.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_bench in field=0.0
+gt_woman in field=1.0
+gt_woman in field=1.0
+gt_girl fly kite=1.0
+gt_man fly kite=1.0
+gt_people fly kite=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_man in field=1.0
+----------------------------
+Caption: a group of people standing in a field with elephants
+Imageid: 469777, extracted triplets: ['people in field', 'people with elephant'], mapped triplets: ['bench in field', 'frisbee in field', 'kite in field', 'ball in field', 'bat in field', 'people in field', 'man with people', 'elephant with woman', 'people with elephant']
+Objective: 398.05425887404044
+PRIOR DISTANCE
+gt_people with elephant=1.0
+gt_kite in field=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_man with people=1.0
+gt_frisbee in field=0.0
+gt_bench in field=0.0
+gt_kite in field=1.0
+gt_frisbee in field=0.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_bench in field=0.0
+gt_frisbee in field=0.0
+gt_kite in field=0.0
+gt_man with people=-0.0
+gt_people in field=1.0
+Objective: 397.967104909648
+gt_people with elephant=1.0
+gt_kite in field=0.0
+gt_bench in field=0.0
+gt_people in field=0.0
+gt_people in field=0.0
+gt_man with people=1.0
+gt_frisbee in field=0.0
+gt_bench in field=0.0
+gt_kite in field=1.0
+gt_frisbee in field=0.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_bench in field=0.0
+gt_frisbee in field=0.0
+gt_kite in field=0.0
+gt_man with people=-0.0
+gt_people in field=1.0
+----------------------------
+Caption: a woman walking a white dog down a sidewalk with a bag
+Imageid: 93853, extracted triplets: ['woman walk dog', 'sidewalk with bag'], mapped triplets: ['woman walk dog', 'person walk dog', 'people walk dog', 'sidewalk with suitcase', 'sidewalk with luggage']
+Objective: 397.967104909648
+PRIOR DISTANCE
+gt_sidewalk with suitcase=0.0
+gt_people walk dog=0.0
+gt_woman walk dog=0.0
+gt_person walk dog=1.0
+gt_woman walk dog=1.0
+gt_person walk dog=1.0
+gt_sidewalk with suitcase=1.0
+gt_people walk dog=1.0
+gt_person walk dog=1.0
+gt_sidewalk with luggage=1.0
+gt_woman walk dog=1.0
+Objective: 398.03778346352607
+gt_sidewalk with suitcase=0.0
+gt_people walk dog=0.0
+gt_woman walk dog=0.0
+gt_person walk dog=1.0
+gt_woman walk dog=1.0
+gt_person walk dog=1.0
+gt_sidewalk with suitcase=1.0
+gt_people walk dog=1.0
+gt_person walk dog=1.0
+gt_sidewalk with luggage=1.0
+gt_woman walk dog=1.0
+----------------------------
+Caption: a man sitting at a table eating a hot dog
+Imageid: 51335, extracted triplets: ['man at table'], mapped triplets: ['man at desk', 'person at table', 'chair at table', 'woman at desk', 'man at table']
+Objective: 398.03778346352607
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_man at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+Objective: 398.0480115681853
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_man at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+----------------------------
+Caption: a woman standing on a skateboard on a sidewalk
+Imageid: 333665, extracted triplets: ['woman on sidewalk'], mapped triplets: ['child on sidewalk', 'people on sidewalk', 'woman on sidewalk']
+Objective: 398.0480115681853
+PRIOR DISTANCE
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=-0.0
+Objective: 398.084417105023
+gt_people on sidewalk=0.0
+gt_people on sidewalk=0.0
+gt_woman on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_people on sidewalk=1.0
+gt_woman on sidewalk=-0.0
+----------------------------
+Caption: a person flying a kite on the beach
+Imageid: 541071, extracted triplets: ['person fly kite', 'person on beach'], mapped triplets: ['woman fly kite', 'people fly kite', 'girl fly kite', 'man fly kite', 'people on beach', 'horse on beach', 'surfboard on beach', 'kite on beach', 'flag on beach', 'sand on beach', 'surfer on beach', 'umbrella on beach', 'sky on beach', 'woman on beach', 'person on beach']
+Objective: 398.084417105023
+PRIOR DISTANCE
+gt_surfboard on beach=1.0
+gt_people fly kite=1.0
+gt_sand on beach=1.0
+gt_umbrella on beach=0.0
+gt_people on beach=1.0
+gt_man fly kite=0.0
+gt_people fly kite=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_people on beach=0.0
+gt_man fly kite=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=1.0
+gt_people fly kite=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_girl fly kite=1.0
+gt_flag on beach=0.0
+gt_sand on beach=0.0
+gt_girl fly kite=1.0
+gt_man fly kite=1.0
+gt_people fly kite=1.0
+gt_umbrella on beach=1.0
+gt_sky on beach=1.0
+gt_people on beach=0.0
+gt_horse on beach=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+Objective: 398.18267787592737
+gt_surfboard on beach=1.0
+gt_people fly kite=1.0
+gt_sand on beach=1.0
+gt_umbrella on beach=0.0
+gt_people on beach=1.0
+gt_man fly kite=0.0
+gt_people fly kite=0.0
+gt_umbrella on beach=0.0
+gt_woman on beach=0.0
+gt_person on beach=0.0
+gt_people on beach=0.0
+gt_man fly kite=0.0
+gt_surfboard on beach=1.0
+gt_sand on beach=0.0
+gt_umbrella on beach=0.0
+gt_people on beach=1.0
+gt_people fly kite=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_girl fly kite=1.0
+gt_flag on beach=0.0
+gt_sand on beach=0.0
+gt_girl fly kite=1.0
+gt_man fly kite=1.0
+gt_people fly kite=1.0
+gt_umbrella on beach=1.0
+gt_sky on beach=1.0
+gt_people on beach=0.0
+gt_horse on beach=1.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+----------------------------
+Caption: a woman walking down the street with a suitcase
+Imageid: 101491, extracted triplets: ['woman with suitcase'], mapped triplets: ['woman with suitcase']
+Objective: 398.18267787592737
+PRIOR DISTANCE
+gt_woman with suitcase=1.0
+gt_woman with suitcase=-0.0
+Objective: 398.16206189238704
+gt_woman with suitcase=1.0
+gt_woman with suitcase=-0.0
+----------------------------
+Caption: a red bus driving down a city street
+Imageid: 73256, extracted triplets: ['bus drive bus', 'bus drive girl', 'bus drive headlight', 'bus drive door', 'bus drive window', 'bus drive sidewalk', 'bus drive front', 'bus drive street', 'bus drive sign'], mapped triplets: ['bus drive road', 'truck drive street', 'bus drive road', 'truck drive street', 'bus drive street', 'bus drive road', 'bus drive road', 'truck drive street', 'car drive street', 'truck drive street', 'bus drive road', 'bike drive street', 'bus drive street', 'bus drive street', 'bus drive road']
+Objective: 398.16206189238704
+PRIOR DISTANCE
+Objective: 398.16206189238704
+----------------------------
+Caption: a sign on the side of a sidewalk
+Imageid: 282098, extracted triplets: ['sign on side'], mapped triplets: ['sign on pole', 'sign on sidewalk']
+Objective: 398.16206189238704
+PRIOR DISTANCE
+gt_sign on pole=0.0
+gt_sign on sidewalk=0.0
+gt_sign on pole=1.0
+gt_sign on sidewalk=0.0
+gt_sign on pole=1.0
+gt_sign on pole=-0.0
+gt_sign on sidewalk=1.0
+Objective: 397.8515843472711
+gt_sign on pole=0.0
+gt_sign on sidewalk=0.0
+gt_sign on pole=1.0
+gt_sign on sidewalk=0.0
+gt_sign on pole=1.0
+gt_sign on pole=-0.0
+gt_sign on sidewalk=1.0
+----------------------------
+Caption: a group of people sitting around a pile of luggage
+Imageid: 133210, extracted triplets: ['people sit around bag', 'people sit around luggage', 'people sit around shoe', 'people sit around head', 'people sit around chair', 'people sit around clothe', 'people sit around room', 'people sit around people', 'people sit around bench', 'people sit around jacket', 'people sit around backpack', 'people sit around boot', 'people sit around wall', 'people sit around shirt', 'people sit around man', 'people sit around woman'], mapped triplets: ['couch sit room', 'tv sit room', 'woman sit room', 'people sit around people', 'woman sit wall']
+Objective: 397.8515843472711
+PRIOR DISTANCE
+gt_people sit around people=1.0
+gt_people sit around people=1.0
+Objective: 397.9538793718212
+gt_people sit around people=1.0
+gt_people sit around people=0.0
+----------------------------
+Caption: a man and two little girls sitting on a couch with a dog
+Imageid: 439774, extracted triplets: ['man with dog'], mapped triplets: ['woman with dog', 'man with woman', 'girl with dog', 'boy with man', 'people with dog', 'man with dog']
+Objective: 397.9538793718212
+PRIOR DISTANCE
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_girl with dog=1.0
+gt_people with dog=-0.0
+gt_man with woman=0.0
+gt_man with dog=-0.0
+Objective: 397.576088634023
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_girl with dog=1.0
+gt_people with dog=-0.0
+gt_man with woman=0.0
+gt_man with dog=-0.0
+----------------------------
+Caption: a group of people standing in a subway train station
+Imageid: 546126, extracted triplets: ['people in train station'], mapped triplets: ['people in train']
+Objective: 397.576088634023
+PRIOR DISTANCE
+Objective: 397.576088634023
+----------------------------
+Caption: two men riding bikes down a road
+Imageid: 4069, extracted triplets: ['men ride bike', 'men ride bicycle'], mapped triplets: ['man ride bicycle', 'people ride motorcycle', 'person ride bike', 'woman ride bike', 'man ride bicycle', 'people ride bicycle']
+Objective: 397.576088634023
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_people ride bicycle=0.0
+gt_people ride bicycle=1.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride bicycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=1.0
+gt_people ride bicycle=1.0
+gt_person ride bike=-0.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=-0.0
+Objective: 398.16816440481676
+gt_woman ride bike=0.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_people ride bicycle=0.0
+gt_people ride bicycle=1.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bicycle=0.0
+gt_woman ride bicycle=0.0
+gt_people ride motorcycle=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bicycle=0.0
+gt_man ride bicycle=0.0
+gt_people ride bicycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=1.0
+gt_people ride bicycle=0.0
+gt_person ride bike=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+gt_man ride bicycle=1.0
+gt_man ride bicycle=1.0
+gt_people ride motorcycle=-0.0
+----------------------------
+Caption: a man eating a large slice of pizza
+Imageid: 95297, extracted triplets: ['man eat slice', 'slice of pizza'], mapped triplets: ['person eat donut', 'people eat pizza', 'people eat sandwich', 'plate of pizza', 'box of pizza']
+Objective: 398.16816440481676
+PRIOR DISTANCE
+gt_box of pizza=1.0
+gt_people eat pizza=1.0
+gt_plate of pizza=0.0
+gt_box of pizza=0.0
+gt_plate of pizza=0.0
+gt_box of pizza=0.0
+gt_people eat sandwich=1.0
+gt_box of pizza=1.0
+gt_box of pizza=0.0
+gt_people eat sandwich=0.0
+gt_plate of pizza=1.0
+gt_box of pizza=0.0
+gt_people eat pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_box of pizza=0.0
+gt_people eat sandwich=1.0
+gt_box of pizza=1.0
+gt_person eat donut=1.0
+gt_plate of pizza=1.0
+gt_people eat sandwich=0.0
+gt_people eat pizza=0.0
+Objective: 398.66736678330574
+gt_box of pizza=1.0
+gt_people eat pizza=1.0
+gt_plate of pizza=0.0
+gt_box of pizza=0.0
+gt_plate of pizza=0.0
+gt_box of pizza=0.0
+gt_people eat sandwich=1.0
+gt_box of pizza=1.0
+gt_box of pizza=0.0
+gt_people eat sandwich=0.0
+gt_plate of pizza=1.0
+gt_box of pizza=0.0
+gt_people eat pizza=0.0
+gt_plate of pizza=0.0
+gt_plate of pizza=0.0
+gt_box of pizza=0.0
+gt_people eat sandwich=1.0
+gt_box of pizza=1.0
+gt_person eat donut=1.0
+gt_plate of pizza=1.0
+gt_people eat sandwich=1.0
+gt_people eat pizza=0.0
+----------------------------
+Caption: a little girl sitting at a table with a piece of cake
+Imageid: 106046, extracted triplets: ['girl at table'], mapped triplets: ['girl at table', 'woman at table', 'child at table', 'person at table', 'people at table']
+Objective: 398.66736678330574
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=1.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_child at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_child at table=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_person at table=-0.0
+gt_child at table=1.0
+gt_girl at table=1.0
+gt_people at table=-0.0
+gt_woman at table=1.0
+Objective: 398.6916214782608
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=1.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_child at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_child at table=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_person at table=-0.0
+gt_child at table=1.0
+gt_girl at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+----------------------------
+Caption: a group of motorcycles parked on the side of a street
+Imageid: 210982, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'street of build']
+Objective: 398.6916214782608
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+Objective: 398.73463547980356
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a yellow motorcycle parked in a parking lot
+Imageid: 256192, extracted triplets: ['motorcycle in stand', 'motorcycle in fence', 'motorcycle in wheel', 'motorcycle in chair', 'motorcycle in motorcycle', 'motorcycle in seat', 'motorcycle in line', 'motorcycle in cone', 'motorcycle in tire', 'motorcycle in street', 'motorcycle in rail'], mapped triplets: ['motorcycle in car', 'motorcycle in road', 'motorcycle in street', 'motorcycle in car', 'dog in fence', 'truck in road', 'motorcycle in street', 'truck in street', 'motorcycle in road', 'motorcycle in car', 'truck in street', 'motorcycle in car', 'laptop in chair', 'motorcycle in car', 'motorcycle in street', 'motorcycle in car', 'motorcycle in street', 'motorcycle in road', 'motorcycle in street', 'motorcycle in road', 'motorcycle in car', 'motorcycle in street', 'motorcycle in car', 'motorcycle in street', 'motorcycle in road', 'motorcycle in car', 'truck in road', 'bus in road', 'car in street', 'skateboard in street', 'bus in street', 'truck in street', 'motorcycle in road', 'motorcycle in street', 'motorcycle in car', 'truck in road']
+Objective: 398.73463547980356
+PRIOR DISTANCE
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_skateboard in street=1.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_bus in street=1.0
+gt_car in street=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_bus in street=0.0
+gt_bus in road=0.0
+gt_dog in fence=1.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_bus in street=1.0
+gt_skateboard in street=1.0
+gt_bus in street=-0.0
+gt_truck in street=-0.0
+gt_truck in street=-0.0
+gt_truck in street=-0.0
+gt_car in street=1.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_dog in fence=1.0
+gt_bus in road=-0.0
+Objective: 399.57869179364735
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_skateboard in street=1.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_bus in street=1.0
+gt_car in street=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_truck in road=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_bus in street=0.0
+gt_bus in road=0.0
+gt_dog in fence=1.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_bus in street=1.0
+gt_skateboard in street=1.0
+gt_bus in street=-0.0
+gt_truck in street=-0.0
+gt_truck in street=-0.0
+gt_truck in street=-0.0
+gt_car in street=1.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_truck in road=1.0
+gt_dog in fence=1.0
+gt_bus in road=-0.0
+----------------------------
+Caption: a dog sitting on a bed with clothes
+Imageid: 22192, extracted triplets: ['dog sit on bed', 'dog with clothe'], mapped triplets: ['dog sit couch', 'dog sit basket', 'cat sit bed', 'bed with clothe', 'bed with bag']
+Objective: 399.57869179364735
+PRIOR DISTANCE
+gt_bed with bag=0.0
+gt_bed with clothe=-0.0
+Objective: 399.3784644359656
+gt_bed with bag=0.0
+gt_bed with clothe=-0.0
+----------------------------
+Caption: a group of people standing in the grass with a dog
+Imageid: 482021, extracted triplets: ['people in grass', 'people with dog'], mapped triplets: ['woman in grass', 'person in grass', 'man with people', 'woman with dog', 'girl with dog', 'people with dog']
+Objective: 399.3784644359656
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with people=1.0
+gt_woman with dog=1.0
+gt_girl with dog=1.0
+gt_people with dog=-0.0
+gt_man with people=-0.0
+Objective: 399.30843956940544
+gt_woman in grass=0.0
+gt_woman with dog=0.0
+gt_woman with dog=0.0
+gt_man with people=1.0
+gt_woman with dog=1.0
+gt_girl with dog=1.0
+gt_people with dog=-0.0
+gt_man with people=-0.0
+----------------------------
+Caption: a woman sitting on a rock in the woods
+Imageid: 115455, extracted triplets: ['woman sit rock', 'rock in bush', 'rock in tree', 'rock in stick', 'rock in plant'], mapped triplets: ['woman sit bench', 'woman sit chair', 'woman sit seat', 'woman sit rock', 'bench in tree', 'dog in grass', 'bench in tree', 'bench in tree', 'towel in sand', 'bench in tree', 'dog in grass']
+Objective: 399.30843956940544
+PRIOR DISTANCE
+gt_dog in grass=0.0
+gt_dog in grass=0.0
+gt_dog in grass=1.0
+gt_dog in grass=1.0
+gt_bench in tree=0.0
+gt_bench in tree=0.0
+gt_bench in tree=0.0
+gt_bench in tree=0.0
+gt_dog in grass=0.0
+gt_dog in grass=0.0
+Objective: 399.31193837726914
+gt_dog in grass=0.0
+gt_dog in grass=0.0
+gt_dog in grass=1.0
+gt_dog in grass=1.0
+gt_bench in tree=0.0
+gt_bench in tree=0.0
+gt_bench in tree=0.0
+gt_bench in tree=0.0
+gt_dog in grass=0.0
+gt_dog in grass=0.0
+----------------------------
+Caption: a man and a woman walking under an umbrella
+Imageid: 463454, extracted triplets: ['woman under umbrella'], mapped triplets: ['people under umbrella', 'woman under umbrella', 'person under umbrella']
+Objective: 399.31193837726914
+PRIOR DISTANCE
+gt_people under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_person under umbrella=0.0
+gt_people under umbrella=1.0
+Objective: 399.27699862556426
+gt_people under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_person under umbrella=0.0
+gt_people under umbrella=1.0
+----------------------------
+Caption: a little girl holding an umbrella in the rain
+Imageid: 550968, extracted triplets: ['girl hold umbrella'], mapped triplets: ['girl hold umbrella', 'woman hold umbrella', 'person hold umbrella']
+Objective: 399.27699862556426
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+Objective: 399.35025798165185
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_girl hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a man sitting at a table with a blender
+Imageid: 299023, extracted triplets: ['man at table'], mapped triplets: ['man at desk', 'person at table', 'chair at table', 'woman at desk', 'man at table']
+Objective: 399.35025798165185
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_man at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_person at table=-0.0
+gt_chair at table=1.0
+gt_woman at table=1.0
+gt_man at table=1.0
+Objective: 399.32950636823705
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_man at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_person at table=-0.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 361586, extracted triplets: ['luggage at bus', 'luggage at luggage', 'luggage at suitcase', 'luggage at people', 'luggage at boat', 'luggage at man', 'luggage at woman', 'luggage at hat', 'luggage at sign'], mapped triplets: ['people at bus', 'suitcase at people', 'man at suitcase', 'man at suitcase', 'suitcase at people', 'train at people', 'people at train', 'people at platform', 'woman at boat', 'man at man', 'man at suitcase', 'woman at phone', 'woman at laptop', 'woman at desk', 'woman at car', 'woman at boat', 'woman at donut', 'woman at beach', 'woman at tree', 'woman at table', 'woman at toilet', 'woman at sign', 'woman at phone', 'suitcase at people', 'man at suitcase', 'street at sign', 'woman at sign']
+Objective: 399.32950636823705
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_woman at table=1.0
+gt_woman at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at desk=0.0
+gt_woman at table=0.0
+gt_people at bus=1.0
+gt_woman at table=1.0
+gt_people at bus=0.0
+gt_people at platform=0.0
+gt_woman at table=1.0
+gt_train at people=1.0
+gt_people at platform=0.0
+gt_people at bus=-0.0
+gt_woman at tree=1.0
+gt_woman at table=1.0
+gt_woman at beach=1.0
+Objective: 398.79126061072475
+gt_people at bus=0.0
+gt_woman at table=1.0
+gt_woman at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_woman at desk=0.0
+gt_woman at table=0.0
+gt_people at bus=1.0
+gt_woman at table=1.0
+gt_people at bus=0.0
+gt_people at platform=0.0
+gt_woman at table=1.0
+gt_train at people=1.0
+gt_people at platform=0.0
+gt_people at bus=-0.0
+gt_woman at tree=1.0
+gt_woman at table=1.0
+gt_woman at beach=1.0
+----------------------------
+Caption: a row of park benches sitting next to a sidewalk
+Imageid: 464092, extracted triplets: ['park benches next to sidewalk'], mapped triplets: ['bench next to build', 'woman next to sidewalk']
+Objective: 398.79126061072475
+PRIOR DISTANCE
+gt_bench next to build=1.0
+gt_bench next to build=0.0
+gt_bench next to build=0.0
+Objective: 399.04711414907666
+gt_bench next to build=1.0
+gt_bench next to build=0.0
+gt_bench next to build=0.0
+----------------------------
+Caption: a man sitting on a blue and white boat in the water
+Imageid: 194756, extracted triplets: ['man sit boat', 'man in water'], mapped triplets: ['person sit train', 'woman sit boat', 'man sit boat', 'person in hat', 'people in water']
+Objective: 399.04711414907666
+PRIOR DISTANCE
+gt_people in water=1.0
+gt_people in water=1.0
+gt_people in water=1.0
+Objective: 399.0502353417865
+gt_people in water=1.0
+gt_people in water=1.0
+gt_people in water=1.0
+----------------------------
+Caption: a person holding a glass bowl with donuts in it
+Imageid: 183014, extracted triplets: ['person with donut'], mapped triplets: ['woman with donut']
+Objective: 399.0502353417865
+PRIOR DISTANCE
+Objective: 399.0502353417865
+----------------------------
+Caption: two beds in a room with a table
+Imageid: 199783, extracted triplets: ['room with table'], mapped triplets: ['room with laptop', 'room with rug', 'room with people', 'room with curtain', 'room with suitcase', 'room with floor', 'room with bed', 'room with chair', 'room with umbrella', 'room with table', 'room with window', 'room with couch', 'room with desk', 'room with blanket', 'room with tv']
+Objective: 399.0502353417865
+PRIOR DISTANCE
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with people=0.0
+gt_room with window=0.0
+gt_bathroom with window=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with curtain=0.0
+gt_room with rug=1.0
+gt_room with laptop=0.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with floor=0.0
+gt_room with floor=0.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with couch=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with window=0.0
+gt_room with laptop=0.0
+gt_room with floor=1.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with suitcase=0.0
+gt_room with couch=0.0
+gt_room with chair=0.0
+gt_room with rug=1.0
+gt_room with blanket=1.0
+gt_bathroom with rug=0.0
+gt_room with curtain=0.0
+gt_bathroom with curtain=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with people=0.0
+gt_room with couch=1.0
+gt_room with floor=0.0
+gt_bathroom with floor=1.0
+gt_room with window=0.0
+gt_room with chair=1.0
+gt_room with couch=0.0
+gt_room with window=1.0
+gt_room with floor=0.0
+gt_room with table=0.0
+gt_room with floor=1.0
+gt_room with curtain=1.0
+gt_room with suitcase=1.0
+gt_room with couch=0.0
+gt_room with desk=0.0
+gt_room with table=1.0
+gt_room with bed=-0.0
+gt_room with window=0.0
+gt_room with laptop=1.0
+gt_room with blanket=-0.0
+gt_room with umbrella=0.0
+gt_room with chair=1.0
+Objective: 398.32529838983817
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with people=0.0
+gt_room with window=0.0
+gt_bathroom with window=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with curtain=0.0
+gt_room with rug=1.0
+gt_room with laptop=0.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with floor=0.0
+gt_room with floor=0.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with couch=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with window=0.0
+gt_room with laptop=0.0
+gt_room with floor=1.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with suitcase=0.0
+gt_room with couch=0.0
+gt_room with chair=0.0
+gt_room with rug=1.0
+gt_room with blanket=1.0
+gt_bathroom with rug=0.0
+gt_room with curtain=0.0
+gt_bathroom with curtain=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with people=0.0
+gt_room with couch=1.0
+gt_room with floor=0.0
+gt_bathroom with floor=1.0
+gt_room with window=0.0
+gt_room with chair=1.0
+gt_room with couch=0.0
+gt_room with window=1.0
+gt_room with floor=0.0
+gt_room with table=0.0
+gt_room with floor=1.0
+gt_room with curtain=1.0
+gt_room with suitcase=1.0
+gt_room with couch=1.0
+gt_room with desk=1.0
+gt_room with table=1.0
+gt_room with bed=-0.0
+gt_room with window=0.0
+gt_room with laptop=1.0
+gt_room with blanket=-0.0
+gt_room with umbrella=-0.0
+gt_room with chair=1.0
+----------------------------
+Caption: a bag with its contents laid out on a wooden table
+Imageid: 473069, extracted triplets: ['bag on table'], mapped triplets: ['backpack on suitcase', 'bag on bench', 'bag on floor', 'bag on table']
+Objective: 398.32529838983817
+PRIOR DISTANCE
+gt_bag on table=0.0
+gt_bag on floor=1.0
+gt_bag on bench=1.0
+gt_backpack on suitcase=0.0
+gt_bag on table=-0.0
+gt_bag on floor=0.0
+Objective: 397.79297739864097
+gt_bag on table=0.0
+gt_bag on floor=1.0
+gt_bag on bench=1.0
+gt_backpack on suitcase=0.0
+gt_bag on table=-0.0
+gt_bag on floor=0.0
+----------------------------
+Caption: a man sitting at a table with a bunch of laptops
+Imageid: 289392, extracted triplets: ['man at table'], mapped triplets: ['man at desk', 'person at table', 'chair at table', 'woman at desk', 'man at table']
+Objective: 397.79297739864097
+PRIOR DISTANCE
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_man at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_person at table=-0.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+Objective: 397.79529893731535
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_man at desk=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_man at table=0.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_woman at desk=0.0
+gt_man at desk=1.0
+gt_man at table=1.0
+gt_person at table=1.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+gt_person at table=-0.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_man at table=1.0
+----------------------------
+Caption: a man and a woman sitting at a table with a laptop
+Imageid: 462213, extracted triplets: ['woman at table', 'woman with laptop'], mapped triplets: ['woman at bench', 'girl at table', 'woman at desk', 'chair at table', 'person at table', 'woman at table', 'woman with laptop']
+Objective: 397.79529893731535
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_woman with laptop=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=1.0
+gt_woman with laptop=1.0
+gt_person at table=-0.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+Objective: 398.08685037715765
+gt_woman with laptop=1.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_woman at desk=0.0
+gt_chair at table=0.0
+gt_girl at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman at desk=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_woman with laptop=1.0
+gt_chair at table=0.0
+gt_woman at table=1.0
+gt_chair at table=0.0
+gt_woman with laptop=0.0
+gt_woman at table=1.0
+gt_woman with laptop=1.0
+gt_person at table=-0.0
+gt_chair at table=0.0
+gt_girl at table=1.0
+gt_woman at table=1.0
+----------------------------
+Caption: a man and a woman sitting on a bench looking at their cell phones
+Imageid: 443299, extracted triplets: ['woman sit bench'], mapped triplets: ['woman sit bench', 'person sit bench', 'girl sit bench', 'people sit bench']
+Objective: 398.08685037715765
+PRIOR DISTANCE
+gt_girl sit bench=1.0
+Objective: 398.08685037715765
+gt_girl sit bench=1.0
+----------------------------
+Caption: a woman standing next to a fence with a giraffe
+Imageid: 100977, extracted triplets: ['woman next to fence', 'fence with giraffe'], mapped triplets: ['woman next to build', 'woman next to vehicle', 'woman next to street', 'woman next to bus', 'woman next to car', 'woman next to fence', 'woman next to sidewalk', 'field with build', 'giraffe with people', 'fence with giraffe']
+Objective: 398.08685037715765
+PRIOR DISTANCE
+gt_woman next to vehicle=1.0
+gt_woman next to bus=0.0
+gt_woman next to vehicle=0.0
+gt_woman next to build=0.0
+gt_woman next to build=0.0
+gt_field with build=1.0
+gt_fence with giraffe=-0.0
+gt_woman next to bus=1.0
+gt_woman next to vehicle=-0.0
+Objective: 398.3728243236782
+gt_woman next to vehicle=1.0
+gt_woman next to bus=0.0
+gt_woman next to vehicle=0.0
+gt_woman next to build=0.0
+gt_woman next to build=0.0
+gt_field with build=1.0
+gt_fence with giraffe=-0.0
+gt_woman next to bus=0.0
+gt_woman next to vehicle=-0.0
+----------------------------
+Caption: a man feeding a giraffe with an ostrich in a field
+Imageid: 230679, extracted triplets: ['man with ostrich', 'ostrich in field'], mapped triplets: ['man with people', 'boy with man', 'woman in field', 'cow in field', 'bat in field', 'frisbee in field', 'ball in field', 'kite in field', 'bag in field']
+Objective: 398.3728243236782
+PRIOR DISTANCE
+gt_kite in field=0.0
+gt_man with people=1.0
+gt_frisbee in field=0.0
+gt_kite in field=1.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_cow in field=1.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_bag in field=0.0
+gt_kite in field=0.0
+gt_man with people=-0.0
+Objective: 398.38560690548474
+gt_kite in field=0.0
+gt_man with people=1.0
+gt_frisbee in field=0.0
+gt_kite in field=1.0
+gt_woman in field=0.0
+gt_frisbee in field=0.0
+gt_cow in field=1.0
+gt_ball in field=1.0
+gt_bat in field=-0.0
+gt_woman in field=1.0
+gt_frisbee in field=0.0
+gt_bag in field=0.0
+gt_kite in field=0.0
+gt_man with people=-0.0
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 576363, extracted triplets: ['luggage at window', 'luggage at sign', 'luggage at people', 'luggage at luggage'], mapped triplets: ['woman at window', 'street at sign', 'woman at sign', 'suitcase at people', 'train at people', 'people at train', 'people at platform', 'man at suitcase']
+Objective: 398.38560690548474
+PRIOR DISTANCE
+gt_woman at window=1.0
+gt_people at platform=0.0
+gt_woman at window=0.0
+gt_train at people=1.0
+gt_people at platform=0.0
+Objective: 398.5447077409581
+gt_woman at window=1.0
+gt_people at platform=0.0
+gt_woman at window=0.0
+gt_train at people=1.0
+gt_people at platform=0.0
+----------------------------
+Caption: a crowd of people walking in a train station with a clock
+Imageid: 282298, extracted triplets: ['crowd of people', 'crowd with clock'], mapped triplets: ['people of field', 'people of bus', 'people of truck', 'platform with people', 'street with clock', 'sidewalk with clock']
+Objective: 398.5447077409581
+PRIOR DISTANCE
+gt_people of bus=1.0
+gt_people of bus=0.0
+gt_street with clock=0.0
+gt_sidewalk with clock=1.0
+gt_platform with people=-0.0
+gt_street with clock=1.0
+Objective: 398.53811295945
+gt_people of bus=1.0
+gt_people of bus=0.0
+gt_street with clock=0.0
+gt_sidewalk with clock=1.0
+gt_platform with people=-0.0
+gt_street with clock=1.0
+----------------------------
+Caption: a bus is parked on the side of the street
+Imageid: 405614, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'street of build']
+Objective: 398.53811295945
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+Objective: 398.56030461592457
+gt_sidewalk of street=0.0
+gt_street of build=1.0
+gt_sidewalk of street=0.0
+gt_street of build=0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a crowd of people holding umbrellas in the rain
+Imageid: 484434, extracted triplets: ['crowd of people', 'people hold umbrella'], mapped triplets: ['people of field', 'people of bus', 'people of truck', 'person hold umbrella', 'girl hold umbrella', 'man hold umbrella', 'woman hold umbrella', 'bench hold umbrella']
+Objective: 398.56030461592457
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_people of bus=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_man hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_people of bus=0.0
+gt_girl hold umbrella=1.0
+gt_bench hold umbrella=0.0
+gt_bench hold umbrella=1.0
+gt_girl hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+Objective: 398.77456472274935
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_people of bus=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_person hold umbrella=1.0
+gt_man hold umbrella=0.0
+gt_girl hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+gt_people of bus=0.0
+gt_girl hold umbrella=1.0
+gt_bench hold umbrella=0.0
+gt_bench hold umbrella=1.0
+gt_girl hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_person hold umbrella=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+----------------------------
+Caption: a man riding a skateboard in a skate park
+Imageid: 209904, extracted triplets: ['man in park'], mapped triplets: ['man in field', 'bench in tree']
+Objective: 398.77456472274935
+PRIOR DISTANCE
+gt_man in field=0.0
+gt_bench in tree=0.0
+gt_woman in field=0.0
+gt_woman in field=1.0
+gt_man in field=1.0
+Objective: 398.7610075466548
+gt_man in field=0.0
+gt_bench in tree=0.0
+gt_woman in field=0.0
+gt_woman in field=1.0
+gt_man in field=1.0
+----------------------------
+Caption: a group of young children holding tennis rackets
+Imageid: 250313, extracted triplets: ['children hold racket'], mapped triplets: ['woman hold racket', 'man hold racket']
+Objective: 398.7610075466548
+PRIOR DISTANCE
+gt_man hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_man hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_man hold racket=-0.0
+Objective: 398.6862683719848
+gt_man hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_man hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_woman hold racket=0.0
+gt_man hold racket=-0.0
+----------------------------

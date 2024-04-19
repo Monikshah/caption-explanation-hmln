@@ -1,0 +1,4596 @@
+Caption: a black and white photo of a building with a street sign
+Imageid: 358342, extracted triplets: ['building with sign'], mapped triplets: ['build with sign', 'sign with build', 'light with sign']
+Objective: 252.3967202339292
+PRIOR DISTANCE
+gt_build with sign=0.0
+gt_sign with build=0.0
+gt_light with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_sign with build=0.0
+gt_build with sign=0.0
+gt_light with sign=-0.0
+Objective: 252.23161153567023
+gt_build with sign=0.0
+gt_sign with build=0.0
+gt_light with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_build with sign=0.0
+gt_sign with build=1.0
+gt_build with sign=0.0
+gt_light with sign=-0.0
+----------------------------
+Caption: a green clock on a pole on a street
+Imageid: 28655, extracted triplets: ['clock on pole', 'pole on street'], mapped triplets: ['clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole', 'light on street', 'person on street', 'pole on street']
+Objective: 252.23161153567023
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_light on street=0.0
+gt_pole on street=1.0
+gt_clock on top of pole=0.0
+gt_person on street=1.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_person on street=0.0
+gt_light on street=0.0
+gt_light on street=1.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_pole on street=1.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_pole on street=0.0
+gt_light on street=1.0
+gt_light on street=1.0
+gt_clock on wall=-0.0
+gt_clock on ceiling=-0.0
+gt_pole on street=1.0
+gt_clock on top of pole=0.0
+gt_person on street=1.0
+gt_clock on pole=0.0
+gt_clock on top=0.0
+Objective: 252.6951549467622
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_light on street=0.0
+gt_pole on street=1.0
+gt_clock on top of pole=0.0
+gt_person on street=1.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_person on street=0.0
+gt_light on street=0.0
+gt_light on street=1.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_pole on street=1.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_pole on street=0.0
+gt_light on street=1.0
+gt_light on street=1.0
+gt_clock on wall=1.0
+gt_clock on ceiling=-0.0
+gt_pole on street=1.0
+gt_clock on top of pole=0.0
+gt_person on street=1.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+----------------------------
+Caption: a young boy wearing a white shirt and a clock on a
+Imageid: 43635, extracted triplets: ['boy wear shirt'], mapped triplets: ['man wear suit', 'woman wear jacket']
+Objective: 252.6951549467622
+PRIOR DISTANCE
+gt_woman wear jacket=0.0
+gt_man wear suit=0.0
+gt_man wear suit=0.0
+gt_man wear suit=0.0
+gt_man wear suit=1.0
+gt_woman wear suitcase=1.0
+gt_man wear suit=0.0
+gt_woman wear jacket=0.0
+gt_woman wear jacket=0.0
+gt_man wear suit=1.0
+Objective: 252.77052067438294
+gt_woman wear jacket=0.0
+gt_man wear suit=0.0
+gt_man wear suit=0.0
+gt_man wear suit=0.0
+gt_man wear suit=1.0
+gt_woman wear suitcase=1.0
+gt_man wear suit=0.0
+gt_woman wear jacket=0.0
+gt_woman wear jacket=1.0
+gt_man wear suit=1.0
+----------------------------
+Caption: a crowd of people walking down a street with a
+Imageid: 527248, extracted triplets: ['crowd of people'], mapped triplets: ['room of people']
+Objective: 252.77052067438294
+PRIOR DISTANCE
+gt_room of people=0.0
+gt_room of people=0.0
+gt_room of people=1.0
+gt_room of people=0.0
+gt_room of people=0.0
+gt_room of people=1.0
+Objective: 252.94345163977576
+gt_room of people=0.0
+gt_room of people=0.0
+gt_room of people=1.0
+gt_room of people=0.0
+gt_room of people=0.0
+gt_room of people=1.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 28377, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 252.94345163977576
+PRIOR DISTANCE
+Objective: 252.94345163977576
+----------------------------
+Caption: a man sitting on a chair in a kitchen with a
+Imageid: 31442, extracted triplets: ['man sit chair'], mapped triplets: ['person sit chair', 'person sit bench', 'woman sit chair', 'man sit chair']
+Objective: 252.94345163977576
+PRIOR DISTANCE
+Objective: 252.94345163977576
+----------------------------
+Caption: a crowd of people in front of a building with a clock
+Imageid: 378657, extracted triplets: ['crowd of people', 'building with clock'], mapped triplets: ['room of people', 'tower with clock', 'build with clock']
+Objective: 252.94345163977576
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_room of people=0.0
+gt_room of people=0.0
+gt_room of people=1.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_room of people=0.0
+gt_room of people=0.0
+gt_build with clock=0.0
+gt_room of people=1.0
+gt_tower with clock=0.0
+Objective: 252.79839376886153
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_room of people=0.0
+gt_room of people=0.0
+gt_room of people=1.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_room of people=0.0
+gt_room of people=0.0
+gt_build with clock=1.0
+gt_room of people=1.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a black clock on a pole in front of a
+Imageid: 378545, extracted triplets: ['clock on pole'], mapped triplets: ['clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole']
+Objective: 252.79839376886153
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=1.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+Objective: 252.5992230954021
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=0.0
+gt_clock on top=0.0
+----------------------------
+Caption: a fork in a glass vase with a in a
+Imageid: 443949, extracted triplets: ['fork in vase'], mapped triplets: ["('flower', 'vase') in ('plant', 'vase')"]
+Objective: 252.5992230954021
+PRIOR DISTANCE
+Objective: 252.5992230954021
+----------------------------
+Caption: a building with a clock on the side of a
+Imageid: 131504, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 252.5992230954021
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+Objective: 252.792683445802
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a fruit stand with oranges and a clock on a
+Imageid: 51540, extracted triplets: ['fruit stand with orange', 'fruit stand with oranges'], mapped triplets: ['table with vegetable', 'table with vegetable', 'counter with food']
+Objective: 252.792683445802
+PRIOR DISTANCE
+gt_counter with food=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_counter with food=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_counter with food=0.0
+gt_counter with food=0.0
+gt_table with vegetable=-0.0
+gt_table with vegetable=-0.0
+gt_counter with food=1.0
+Objective: 253.00459478725793
+gt_counter with food=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_counter with food=0.0
+gt_table with vegetable=0.0
+gt_table with vegetable=0.0
+gt_counter with food=0.0
+gt_counter with food=0.0
+gt_table with vegetable=-0.0
+gt_table with vegetable=-0.0
+gt_counter with food=1.0
+----------------------------
+Caption: a person cutting a cake with a knife on a
+Imageid: 70256, extracted triplets: ['person cut cake', 'person with knife'], mapped triplets: ['woman cut cake', 'man cut cake', 'man with knife']
+Objective: 253.00459478725793
+PRIOR DISTANCE
+gt_woman cut cake=1.0
+gt_woman cut cake=1.0
+gt_man cut cake=0.0
+gt_man cut cake=1.0
+gt_woman with knife=0.0
+gt_man with knife=0.0
+gt_man cut cake=1.0
+gt_woman cut cake=1.0
+gt_woman cut cake=1.0
+gt_man cut cake=0.0
+gt_man cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_man cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_man cut cake=1.0
+Objective: 253.04239043781928
+gt_woman cut cake=1.0
+gt_woman cut cake=1.0
+gt_man cut cake=0.0
+gt_man cut cake=1.0
+gt_woman with knife=0.0
+gt_man with knife=0.0
+gt_man cut cake=1.0
+gt_woman cut cake=1.0
+gt_woman cut cake=1.0
+gt_man cut cake=0.0
+gt_man cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_man cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_woman cut cake=0.0
+gt_man cut cake=0.0
+----------------------------
+Caption: a clock on a pole in front of a
+Imageid: 76329, extracted triplets: ['clock on pole'], mapped triplets: ['clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole']
+Objective: 253.04239043781928
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=0.0
+gt_clock on top=0.0
+Objective: 253.0512769828151
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=0.0
+gt_clock on top=0.0
+----------------------------
+Caption: a clock and a book on a desk with a
+Imageid: 452881, extracted triplets: ['book on desk'], mapped triplets: ['cat on desk', 'monitor on desk', 'computer on desk', 'paper on desk', 'laptop on desk']
+Objective: 253.0512769828151
+PRIOR DISTANCE
+gt_computer on desk=0.0
+gt_laptop on desk=0.0
+gt_computer on desk=0.0
+gt_cat on desk=1.0
+gt_monitor on desk=1.0
+gt_computer on desk=0.0
+gt_monitor on desk=0.0
+gt_laptop on desk=1.0
+gt_cat on desk=1.0
+gt_computer on desk=0.0
+gt_laptop on desk=0.0
+gt_monitor on desk=1.0
+gt_paper on desk=0.0
+gt_laptop on desk=1.0
+gt_computer on desk=0.0
+gt_monitor on desk=0.0
+gt_laptop on desk=0.0
+gt_computer on desk=0.0
+gt_paper on desk=1.0
+gt_cat on desk=-0.0
+gt_computer on desk=1.0
+gt_laptop on desk=0.0
+Objective: 252.9668874426708
+gt_computer on desk=0.0
+gt_laptop on desk=0.0
+gt_computer on desk=0.0
+gt_cat on desk=1.0
+gt_monitor on desk=1.0
+gt_computer on desk=0.0
+gt_monitor on desk=0.0
+gt_laptop on desk=1.0
+gt_cat on desk=1.0
+gt_computer on desk=0.0
+gt_laptop on desk=0.0
+gt_monitor on desk=1.0
+gt_paper on desk=0.0
+gt_laptop on desk=1.0
+gt_computer on desk=0.0
+gt_monitor on desk=0.0
+gt_laptop on desk=0.0
+gt_computer on desk=0.0
+gt_paper on desk=1.0
+gt_cat on desk=-0.0
+gt_computer on desk=-0.0
+gt_laptop on desk=0.0
+----------------------------
+Caption: a person walking in a train station with a clock
+Imageid: 292804, extracted triplets: ['person with clock'], mapped triplets: ['room with clock', 'tower with clock', 'wall with clock', 'shelf with clock', 'window with clock', 'statue with clock', 'build with clock', 'pole with clock', 'desk with clock']
+Objective: 252.9668874426708
+PRIOR DISTANCE
+gt_pole with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_desk with clock=0.0
+gt_wall with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_desk with clock=1.0
+gt_wall with clock=0.0
+gt_build with clock=0.0
+gt_pole with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_shelf with clock=1.0
+gt_desk with clock=0.0
+gt_statue with clock=1.0
+gt_tower with clock=0.0
+gt_pole with clock=0.0
+gt_window with clock=1.0
+gt_wall with clock=1.0
+gt_room with clock=0.0
+Objective: 253.5203085565403
+gt_pole with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_desk with clock=0.0
+gt_wall with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_desk with clock=1.0
+gt_wall with clock=0.0
+gt_build with clock=0.0
+gt_pole with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=-0.0
+gt_shelf with clock=1.0
+gt_desk with clock=0.0
+gt_statue with clock=1.0
+gt_tower with clock=0.0
+gt_pole with clock=0.0
+gt_window with clock=0.0
+gt_wall with clock=1.0
+gt_room with clock=-0.0
+----------------------------
+Caption: a clock on a pole in the middle of a city
+Imageid: 321437, extracted triplets: ['clock on pole'], mapped triplets: ['clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole']
+Objective: 253.5203085565403
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=0.0
+gt_clock on top=0.0
+Objective: 253.82754169104734
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=1.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+----------------------------
+Caption: a building with a clock on the side of a
+Imageid: 215408, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 253.82754169104734
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=-0.0
+gt_tower with clock=0.0
+Objective: 254.26625101905418
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a desk with two computer monitors and a keyboard
+Imageid: 542509, extracted triplets: ['desk with computer monitors'], mapped triplets: ['desk with monitor']
+Objective: 254.26625101905418
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+Objective: 254.2774710367103
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=0.0
+gt_desk with monitor=1.0
+----------------------------
+Caption: a man holding a plate with a slice of pizza
+Imageid: 45550, extracted triplets: ['man hold plate', 'man with slice', 'slice of pizza'], mapped triplets: ['man hold plate', 'person hold plate', 'man with pizza', 'plate of pizza']
+Objective: 254.2774710367103
+PRIOR DISTANCE
+gt_person hold plate=0.0
+gt_plate of pizza=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_plate of pizza=0.0
+gt_man hold plate=0.0
+gt_man with pizza=1.0
+gt_man hold plate=0.0
+gt_person hold plate=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_plate of pizza=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_plate of pizza=0.0
+gt_man hold plate=1.0
+gt_plate of pizza=0.0
+gt_woman hold plate=1.0
+gt_man hold plate=0.0
+gt_plate of pizza=1.0
+gt_woman hold plate=0.0
+gt_plate of pizza=1.0
+gt_plate of pizza=0.0
+gt_man hold plate=0.0
+gt_man with pizza=0.0
+gt_plate of pizza=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_person hold plate=1.0
+gt_plate of pizza=1.0
+gt_man hold plate=1.0
+Objective: 254.2927084302141
+gt_person hold plate=0.0
+gt_plate of pizza=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_plate of pizza=0.0
+gt_man hold plate=0.0
+gt_man with pizza=1.0
+gt_man hold plate=0.0
+gt_person hold plate=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_plate of pizza=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_plate of pizza=0.0
+gt_man hold plate=1.0
+gt_plate of pizza=0.0
+gt_woman hold plate=1.0
+gt_man hold plate=0.0
+gt_plate of pizza=1.0
+gt_woman hold plate=0.0
+gt_plate of pizza=1.0
+gt_plate of pizza=0.0
+gt_man hold plate=0.0
+gt_man with pizza=0.0
+gt_plate of pizza=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_person hold plate=1.0
+gt_plate of pizza=1.0
+gt_man hold plate=1.0
+----------------------------
+Caption: a young boy sitting on a book shelf with a clock
+Imageid: 46433, extracted triplets: ['boy sit shelf', 'boy sit book', 'boy with clock'], mapped triplets: ['man sit desk', 'man sit computer', 'man sit book', 'people with clock', 'man with clock']
+Objective: 254.2927084302141
+PRIOR DISTANCE
+Objective: 254.2927084302141
+----------------------------
+Caption: a woman hitting a tennis ball with a tennis racket
+Imageid: 233915, extracted triplets: ['woman hit racket'], mapped triplets: ['man hit racket']
+Objective: 254.2927084302141
+PRIOR DISTANCE
+Objective: 254.2927084302141
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 143167, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 254.2927084302141
+PRIOR DISTANCE
+Objective: 254.2927084302141
+----------------------------
+Caption: a man standing next to a clock on a table
+Imageid: 334399, extracted triplets: ['man next to clock', 'clock on table'], mapped triplets: ['wall next to clock', 'woman next to clock', 'man next to clock', 'clock on table']
+Objective: 254.2927084302141
+PRIOR DISTANCE
+gt_man next to clock=1.0
+gt_clock on table=-0.0
+gt_wall next to clock=1.0
+Objective: 254.28958890847767
+gt_man next to clock=1.0
+gt_clock on table=0.0
+gt_wall next to clock=0.0
+----------------------------
+Caption: a tower with a clock on the top of a building
+Imageid: 140658, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 254.28958890847767
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 253.9801450166459
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a cat sitting on an orange chair in a
+Imageid: 23731, extracted triplets: ['cat sit chair'], mapped triplets: ['cat sit bench', 'cat sit bed', 'cat sit pillow', 'cat sit desk']
+Objective: 253.9801450166459
+PRIOR DISTANCE
+Objective: 253.9801450166459
+----------------------------
+Caption: a woman sitting at a table holding a tablet in a
+Imageid: 53267, extracted triplets: ['woman at table'], mapped triplets: ['person at table', 'girl at table', 'woman at desk', 'woman at table', 'people at table', 'child at table']
+Objective: 253.9801450166459
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=1.0
+gt_woman at desk=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_child at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_woman at desk=0.0
+gt_child at table=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_person at table=1.0
+gt_child at table=1.0
+gt_girl at table=1.0
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_person at table=1.0
+gt_woman at table=1.0
+gt_woman at desk=1.0
+gt_woman at table=1.0
+gt_woman at table=0.0
+gt_girl at table=0.0
+gt_child at table=0.0
+gt_woman at table=1.0
+gt_woman at desk=1.0
+gt_child at table=0.0
+gt_girl at table=1.0
+gt_people at table=1.0
+Objective: 253.96183231035675
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_child at table=1.0
+gt_person at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=1.0
+gt_woman at desk=0.0
+gt_girl at table=0.0
+gt_woman at table=0.0
+gt_child at table=1.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_woman at desk=0.0
+gt_child at table=0.0
+gt_girl at table=1.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_woman at table=0.0
+gt_person at table=1.0
+gt_people at table=0.0
+gt_child at table=0.0
+gt_woman at table=1.0
+gt_people at table=1.0
+gt_woman at table=1.0
+gt_person at table=1.0
+gt_child at table=1.0
+gt_girl at table=1.0
+gt_people at table=0.0
+gt_woman at table=1.0
+gt_people at table=0.0
+gt_person at table=1.0
+gt_woman at table=1.0
+gt_woman at desk=1.0
+gt_woman at table=1.0
+gt_woman at table=0.0
+gt_girl at table=0.0
+gt_child at table=0.0
+gt_woman at table=1.0
+gt_woman at desk=1.0
+gt_child at table=0.0
+gt_girl at table=1.0
+gt_people at table=1.0
+----------------------------
+Caption: a group of people sitting around a table with wine
+Imageid: 377730, extracted triplets: ['people sit table', 'people with wine'], mapped triplets: ['man sit desk', 'woman sit desk', 'person sit table', 'woman sit table', 'girl sit table', 'child sit table', 'people sit table', 'room with man']
+Objective: 253.96183231035675
+PRIOR DISTANCE
+gt_room with man=0.0
+gt_woman sit table=1.0
+gt_room with man=1.0
+gt_woman sit table=1.0
+gt_people sit table=0.0
+gt_woman sit table=0.0
+gt_person sit table=1.0
+gt_people sit table=1.0
+gt_person sit table=1.0
+gt_woman sit table=0.0
+gt_room with man=1.0
+gt_people sit table=0.0
+Objective: 253.95334370837293
+gt_room with man=0.0
+gt_woman sit table=1.0
+gt_room with man=1.0
+gt_woman sit table=1.0
+gt_people sit table=0.0
+gt_woman sit table=0.0
+gt_person sit table=1.0
+gt_people sit table=1.0
+gt_person sit table=1.0
+gt_woman sit table=0.0
+gt_room with man=1.0
+gt_people sit table=1.0
+----------------------------
+Caption: a man sitting on a couch in a living room
+Imageid: 476925, extracted triplets: ['man sit couch', 'man in room'], mapped triplets: ['man sit couch', 'couch in room', 'shelf in room', 'mirror in room', 'tv in room', 'bed in room', 'lamp in room', 'ceiling in room', 'woman in room', 'screen in room', 'cabinet in room', 'wall in room', 'man in room']
+Objective: 253.95334370837293
+PRIOR DISTANCE
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_lamp in room=0.0
+gt_man in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_man in room=1.0
+gt_lamp in room=1.0
+gt_bed in room=0.0
+gt_wall in room=0.0
+gt_man in room=0.0
+gt_ceiling in room=1.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_cabinet in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=-0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_bed in room=0.0
+gt_couch in room=1.0
+gt_mirror in room=1.0
+gt_cabinet in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+Objective: 254.2439135440272
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_lamp in room=0.0
+gt_man in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_man in room=1.0
+gt_lamp in room=1.0
+gt_bed in room=0.0
+gt_wall in room=0.0
+gt_man in room=0.0
+gt_ceiling in room=1.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_cabinet in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=-0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+gt_mirror in room=1.0
+gt_cabinet in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+----------------------------
+Caption: a window with a clock on the side of a
+Imageid: 500446, extracted triplets: ['window with clock'], mapped triplets: ['room with clock', 'build with clock', 'tower with clock', 'window with clock']
+Objective: 254.2439135440272
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_window with clock=0.0
+gt_room with clock=-0.0
+Objective: 253.39169143248486
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+gt_window with clock=1.0
+gt_room with clock=0.0
+----------------------------
+Caption: a green train pulling into a train station with people
+Imageid: 508917, extracted triplets: ['train station with people'], mapped triplets: ['bench with people', 'room with people', 'sidewalk with people']
+Objective: 253.39169143248486
+PRIOR DISTANCE
+gt_sidewalk with people=0.0
+gt_room with people=0.0
+gt_bench with people=1.0
+gt_sidewalk with people=0.0
+gt_bench with people=1.0
+gt_room with people=0.0
+gt_sidewalk with people=0.0
+gt_sidewalk with people=1.0
+gt_room with people=0.0
+gt_bench with people=0.0
+gt_room with people=1.0
+gt_bench with people=1.0
+gt_sidewalk with people=1.0
+Objective: 253.44359529169645
+gt_sidewalk with people=0.0
+gt_room with people=0.0
+gt_bench with people=1.0
+gt_sidewalk with people=0.0
+gt_bench with people=1.0
+gt_room with people=0.0
+gt_sidewalk with people=0.0
+gt_sidewalk with people=1.0
+gt_room with people=0.0
+gt_bench with people=0.0
+gt_room with people=1.0
+gt_bench with people=1.0
+gt_sidewalk with people=1.0
+----------------------------
+Caption: a man in a red shirt holding a donut in a
+Imageid: 403500, extracted triplets: ['man in shirt', 'man hold fruit'], mapped triplets: ['woman in shirt', 'girl in shirt', 'man in shirt']
+Objective: 253.44359529169645
+PRIOR DISTANCE
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_man in shirt=1.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_girl in shirt=0.0
+Objective: 253.73813421775859
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=1.0
+gt_woman in shirt=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_man in shirt=1.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_girl in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_girl in shirt=0.0
+----------------------------
+Caption: a mirror and a clock on a blue wall
+Imageid: 126958, extracted triplets: ['clock on wall'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall']
+Objective: 253.73813421775859
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=1.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=1.0
+gt_shelf on wall=1.0
+Objective: 253.1643459935631
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a man holding a baseball bat on a field
+Imageid: 332407, extracted triplets: ['man hold bat', 'man on field'], mapped triplets: ['man hold bird', 'player on field', 'man on bench']
+Objective: 253.1643459935631
+PRIOR DISTANCE
+gt_woman on bench=1.0
+gt_woman hold bird=0.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_player on field=0.0
+gt_man on bench=1.0
+gt_player on field=0.0
+gt_man hold bird=1.0
+gt_man on bench=0.0
+gt_man hold bird=1.0
+gt_man on bench=0.0
+gt_man hold bird=1.0
+gt_woman on bench=0.0
+Objective: 253.0868394142164
+gt_woman on bench=1.0
+gt_woman hold bird=0.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_player on field=0.0
+gt_man on bench=1.0
+gt_player on field=0.0
+gt_man hold bird=1.0
+gt_man on bench=0.0
+gt_man hold bird=1.0
+gt_man on bench=0.0
+gt_man hold bird=1.0
+gt_woman on bench=0.0
+----------------------------
+Caption: the big ben clock tower towering over the city of london
+Imageid: 321542, extracted triplets: ['clock tower over bridge'], mapped triplets: ['tower over ocean', 'bridge over water']
+Objective: 253.0868394142164
+PRIOR DISTANCE
+gt_bridge over water=1.0
+gt_tower over ocean=1.0
+gt_tower over ocean=1.0
+gt_bridge over water=1.0
+Objective: 253.45016133329287
+gt_bridge over water=1.0
+gt_tower over ocean=1.0
+gt_tower over ocean=1.0
+gt_bridge over water=1.0
+----------------------------
+Caption: a group of people in a room with a clock
+Imageid: 468704, extracted triplets: ['room with clock'], mapped triplets: ['room with bed', 'room with desk', 'room with tv', 'room with book', 'room with table', 'room with lamp', 'room with pillow', 'room with chair', 'room with clock']
+Objective: 253.45016133329287
+PRIOR DISTANCE
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with lamp=1.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with chair=0.0
+gt_room with pillow=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with table=0.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with bed=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with lamp=0.0
+gt_room with tv=0.0
+gt_room with bed=0.0
+gt_room with table=0.0
+gt_room with tv=1.0
+gt_room with chair=0.0
+gt_room with tv=-0.0
+gt_room with bed=0.0
+gt_room with chair=-0.0
+gt_room with pillow=1.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with lamp=1.0
+gt_room with clock=0.0
+Objective: 253.5618291536933
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with lamp=1.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with chair=0.0
+gt_room with pillow=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with table=0.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with bed=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with lamp=0.0
+gt_room with tv=0.0
+gt_room with bed=0.0
+gt_room with table=0.0
+gt_room with tv=1.0
+gt_room with chair=0.0
+gt_room with tv=-0.0
+gt_room with bed=0.0
+gt_room with chair=-0.0
+gt_room with pillow=1.0
+gt_room with desk=0.0
+gt_room with table=0.0
+gt_room with lamp=1.0
+gt_room with clock=-0.0
+----------------------------
+Caption: a street sign on a pole on a city street
+Imageid: 16631, extracted triplets: ['street sign on pole', 'pole on street'], mapped triplets: ['light on pole', 'light on street', 'person on street', 'pole on street']
+Objective: 253.5618291536933
+PRIOR DISTANCE
+gt_light on street=0.0
+gt_pole on street=1.0
+gt_person on street=1.0
+gt_light on pole=1.0
+gt_person on street=0.0
+gt_light on street=0.0
+gt_light on street=1.0
+gt_pole on street=1.0
+gt_pole on street=0.0
+gt_light on street=1.0
+gt_light on street=1.0
+gt_pole on street=1.0
+gt_person on street=1.0
+gt_light on pole=-0.0
+Objective: 253.65790345036322
+gt_light on street=0.0
+gt_pole on street=1.0
+gt_person on street=1.0
+gt_light on pole=1.0
+gt_person on street=0.0
+gt_light on street=0.0
+gt_light on street=1.0
+gt_pole on street=1.0
+gt_pole on street=0.0
+gt_light on street=1.0
+gt_light on street=1.0
+gt_pole on street=1.0
+gt_person on street=1.0
+gt_light on pole=-0.0
+----------------------------
+Caption: a person making a sandwich on a grill with
+Imageid: 258883, extracted triplets: ['person make sandwich'], mapped triplets: []
+Objective: 253.65790345036322
+PRIOR DISTANCE
+Objective: 253.65790345036322
+----------------------------
+Caption: a tower with a clock on the top of a
+Imageid: 188795, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 253.65790345036322
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 253.12892482131917
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a man holding a cup of coffee in front of a refrigerator
+Imageid: 85390, extracted triplets: ['man hold cup'], mapped triplets: ['man hold plate', 'person hold plate']
+Objective: 253.12892482131917
+PRIOR DISTANCE
+gt_person hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=0.0
+gt_person hold plate=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=1.0
+gt_woman hold plate=1.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_person hold plate=1.0
+gt_man hold plate=1.0
+Objective: 253.13312161298958
+gt_person hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=0.0
+gt_person hold plate=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=1.0
+gt_woman hold plate=1.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_person hold plate=1.0
+gt_man hold plate=1.0
+----------------------------
+Caption: a wooden table and a clock on a wall with a
+Imageid: 203438, extracted triplets: ['clock on wall'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall']
+Objective: 253.13312161298958
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+Objective: 253.15799551162283
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a clock hanging from a wall in a room with a
+Imageid: 454296, extracted triplets: ['clock from wall'], mapped triplets: ['clock from ceiling', 'clock from pole', 'clock from wall']
+Objective: 253.15799551162283
+PRIOR DISTANCE
+Objective: 253.15799551162283
+----------------------------
+Caption: a clock on the side of a brick building with a
+Imageid: 527407, extracted triplets: ['clock on paint', 'clock on hand', 'clock on pipe', 'clock on number', 'clock on sign', 'clock on letter', 'clock on clock', 'clock on pole', 'clock on face', 'clock on pillar', 'clock on build', 'clock on window', 'clock on brick', 'clock on wall'], mapped triplets: ['clock on wall', 'clock on table', 'clock on tower', 'clock on wall', 'clock on ceiling', 'clock on floor', 'clock on table', 'clock on ceiling', 'clock on floor', 'clock on wall', 'clock on tower', 'clock on tower', 'number on wall', 'clock on tower', 'sign on build', 'clock on sign', 'clock on clock', 'clock on clock', 'clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole', 'clock on face', 'clock on tower', 'clock on pillar', 'clock on tower', 'build on build', 'clock on build', 'clock on wall', 'window on build', 'clock on wall', 'clock on floor', 'clock on rock', 'clock on ceiling', 'tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall']
+Objective: 253.15799551162283
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_sign on build=1.0
+gt_clock on top of pole=0.0
+gt_clock on build=1.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on top=0.0
+gt_number on wall=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_build on build=0.0
+gt_clock on build=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on build=0.0
+gt_clock on top=1.0
+gt_sign on build=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_build on build=1.0
+gt_clock on top=0.0
+gt_build on build=0.0
+gt_tv on wall=1.0
+gt_clock on build=0.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on build=1.0
+gt_clock on pillar=0.0
+gt_clock on clock=0.0
+gt_clock on clock=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on face=1.0
+gt_tv on wall=1.0
+gt_window on build=-0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_sign on build=1.0
+gt_clock on floor=1.0
+gt_clock on floor=1.0
+gt_clock on floor=1.0
+gt_clock on table=0.0
+gt_clock on table=0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_number on wall=0.0
+gt_clock on top of pole=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+gt_build on build=1.0
+gt_clock on rock=1.0
+Objective: 253.67736530746168
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_sign on build=1.0
+gt_clock on top of pole=0.0
+gt_clock on build=1.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on top=0.0
+gt_number on wall=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_build on build=0.0
+gt_clock on build=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on build=0.0
+gt_clock on top=1.0
+gt_sign on build=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_build on build=1.0
+gt_clock on top=0.0
+gt_build on build=0.0
+gt_tv on wall=1.0
+gt_clock on build=0.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on build=1.0
+gt_clock on pillar=0.0
+gt_clock on clock=0.0
+gt_clock on clock=0.0
+gt_clock on wall=1.0
+gt_clock on wall=1.0
+gt_clock on wall=1.0
+gt_clock on wall=1.0
+gt_clock on wall=1.0
+gt_clock on wall=1.0
+gt_clock on wall=1.0
+gt_mirror on wall=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on face=1.0
+gt_tv on wall=1.0
+gt_window on build=-0.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_sign on build=1.0
+gt_clock on floor=1.0
+gt_clock on floor=1.0
+gt_clock on floor=1.0
+gt_clock on table=-0.0
+gt_clock on table=-0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_number on wall=0.0
+gt_clock on top of pole=0.0
+gt_picture on wall=1.0
+gt_shelf on wall=1.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+gt_build on build=1.0
+gt_clock on rock=1.0
+----------------------------
+Caption: a desk with a computer and a laptop on a
+Imageid: 567657, extracted triplets: ['desk with computer'], mapped triplets: ['desk with monitor', 'desk with keyboard', 'desk with laptop', 'desk with computer']
+Objective: 253.67736530746168
+PRIOR DISTANCE
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=1.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+Objective: 252.63203312553577
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=1.0
+gt_desk with monitor=0.0
+gt_desk with keyboard=1.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with computer=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=0.0
+gt_desk with keyboard=1.0
+gt_desk with monitor=0.0
+gt_desk with computer=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=0.0
+gt_desk with laptop=1.0
+gt_desk with computer=1.0
+gt_desk with computer=-0.0
+gt_desk with keyboard=0.0
+gt_desk with laptop=0.0
+gt_desk with monitor=1.0
+----------------------------
+Caption: a building with a clock on the side of a
+Imageid: 54389, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 252.63203312553577
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+Objective: 253.14472538149175
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 207675, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 253.14472538149175
+PRIOR DISTANCE
+Objective: 253.14472538149175
+----------------------------
+Caption: a tower with a clock on the top of a
+Imageid: 563311, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 253.14472538149175
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 252.54376661834354
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a man holding a teddy bear in a room
+Imageid: 47886, extracted triplets: ['man hold bear'], mapped triplets: ['man hold camera', 'man hold surfboard', 'man hold court', 'man hold sandwich', 'man hold plate', 'man hold cake', 'person hold plate', 'man hold phone', 'man hold people', 'man hold grass', 'man hold umbrella', 'man hold pizza', 'man hold bird', 'man hold clock']
+Objective: 252.54376661834354
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_man hold phone=0.0
+gt_man hold phone=1.0
+gt_person hold plate=0.0
+gt_man hold pizza=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold umbrella=1.0
+gt_woman hold camera=1.0
+gt_woman hold bird=0.0
+gt_woman hold phone=0.0
+gt_man hold cake=1.0
+gt_man hold phone=0.0
+gt_man hold plate=0.0
+gt_woman hold umbrella=1.0
+gt_man hold sandwich=1.0
+gt_man hold cake=0.0
+gt_man hold pizza=1.0
+gt_man hold plate=0.0
+gt_woman hold camera=1.0
+gt_woman hold cake=1.0
+gt_man hold phone=0.0
+gt_woman hold sandwich=1.0
+gt_person hold plate=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_woman hold cake=1.0
+gt_woman hold camera=1.0
+gt_woman hold pizza=1.0
+gt_woman hold phone=0.0
+gt_woman hold plate=0.0
+gt_woman hold sandwich=1.0
+gt_man hold umbrella=0.0
+gt_man hold plate=0.0
+gt_woman hold umbrella=0.0
+gt_man hold phone=0.0
+gt_man hold cake=0.0
+gt_man hold plate=1.0
+gt_woman hold plate=1.0
+gt_man hold surfboard=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold phone=0.0
+gt_man hold bird=1.0
+gt_man hold phone=0.0
+gt_man hold plate=0.0
+gt_man hold phone=0.0
+gt_woman hold cake=0.0
+gt_man hold umbrella=1.0
+gt_woman hold phone=0.0
+gt_man hold bird=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold plate=0.0
+gt_man hold phone=0.0
+gt_woman hold phone=0.0
+gt_woman hold umbrella=1.0
+gt_man hold umbrella=1.0
+gt_man hold plate=0.0
+gt_woman hold pizza=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold pizza=0.0
+gt_man hold cake=0.0
+gt_person hold plate=1.0
+gt_man hold surfboard=1.0
+gt_woman hold umbrella=0.0
+gt_man hold phone=0.0
+gt_man hold clock=1.0
+gt_man hold umbrella=0.0
+gt_man hold camera=1.0
+gt_woman hold clock=-0.0
+gt_man hold sandwich=1.0
+gt_man hold plate=1.0
+gt_man hold bird=1.0
+gt_woman hold phone=-0.0
+Objective: 251.735963824586
+gt_woman hold umbrella=0.0
+gt_man hold phone=0.0
+gt_man hold phone=1.0
+gt_person hold plate=0.0
+gt_man hold pizza=0.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_man hold umbrella=1.0
+gt_woman hold camera=1.0
+gt_woman hold bird=0.0
+gt_woman hold phone=0.0
+gt_man hold cake=1.0
+gt_man hold phone=0.0
+gt_man hold plate=0.0
+gt_woman hold umbrella=1.0
+gt_man hold sandwich=1.0
+gt_man hold cake=0.0
+gt_man hold pizza=1.0
+gt_man hold plate=0.0
+gt_woman hold camera=1.0
+gt_woman hold cake=1.0
+gt_man hold phone=0.0
+gt_woman hold sandwich=1.0
+gt_person hold plate=1.0
+gt_woman hold plate=0.0
+gt_man hold plate=0.0
+gt_woman hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_woman hold cake=1.0
+gt_woman hold camera=1.0
+gt_woman hold pizza=1.0
+gt_woman hold phone=0.0
+gt_woman hold plate=0.0
+gt_woman hold sandwich=1.0
+gt_man hold umbrella=0.0
+gt_man hold plate=0.0
+gt_woman hold umbrella=0.0
+gt_man hold phone=0.0
+gt_man hold cake=0.0
+gt_man hold plate=1.0
+gt_woman hold plate=1.0
+gt_man hold surfboard=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold phone=0.0
+gt_man hold bird=1.0
+gt_man hold phone=0.0
+gt_man hold plate=0.0
+gt_man hold phone=0.0
+gt_woman hold cake=0.0
+gt_man hold umbrella=1.0
+gt_woman hold phone=0.0
+gt_man hold bird=1.0
+gt_woman hold umbrella=0.0
+gt_woman hold plate=0.0
+gt_man hold phone=0.0
+gt_woman hold phone=0.0
+gt_woman hold umbrella=1.0
+gt_man hold umbrella=1.0
+gt_man hold plate=0.0
+gt_woman hold pizza=0.0
+gt_man hold plate=0.0
+gt_woman hold plate=0.0
+gt_man hold pizza=0.0
+gt_man hold cake=0.0
+gt_person hold plate=1.0
+gt_man hold surfboard=1.0
+gt_woman hold umbrella=0.0
+gt_man hold phone=-0.0
+gt_man hold clock=1.0
+gt_man hold umbrella=0.0
+gt_man hold camera=1.0
+gt_woman hold clock=-0.0
+gt_man hold sandwich=1.0
+gt_man hold plate=1.0
+gt_man hold bird=1.0
+gt_woman hold phone=-0.0
+----------------------------
+Caption: a tower with a clock on the top of a building
+Imageid: 69873, extracted triplets: ['tower with clock', 'clock on roof'], mapped triplets: ['build with tower', 'tower with clock', 'clock on tower', 'car on roof']
+Objective: 251.735963824586
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_clock on tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_clock on tower=1.0
+gt_build with tower=1.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 251.91434808026477
+gt_build with tower=0.0
+gt_clock on tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_clock on tower=1.0
+gt_build with tower=1.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a bathroom with a toilet and a shower
+Imageid: 173819, extracted triplets: ['bathroom with toilet'], mapped triplets: ['room with room', 'room with couch', 'room with table', 'bathroom with door', 'bathroom with mirror', 'bathroom with tile', 'bathroom with toilet']
+Objective: 251.91434808026477
+PRIOR DISTANCE
+gt_room with table=1.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with mirror=1.0
+gt_room with room=1.0
+gt_room with table=1.0
+gt_room with couch=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_bathroom with mirror=0.0
+gt_bathroom with door=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with tile=0.0
+gt_room with table=1.0
+gt_room with couch=1.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_bathroom with mirror=0.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_room with room=0.0
+gt_bathroom with mirror=0.0
+gt_room with couch=0.0
+gt_room with room=-0.0
+gt_bathroom with door=-0.0
+gt_bathroom with mirror=0.0
+gt_bathroom with toilet=0.0
+gt_room with table=0.0
+gt_bathroom with tile=-0.0
+gt_room with couch=1.0
+Objective: 251.31057102106018
+gt_room with table=1.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_bathroom with toilet=0.0
+gt_bathroom with mirror=1.0
+gt_room with room=1.0
+gt_room with table=1.0
+gt_room with couch=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_bathroom with mirror=0.0
+gt_bathroom with door=0.0
+gt_bathroom with toilet=0.0
+gt_bathroom with tile=0.0
+gt_room with table=1.0
+gt_room with couch=1.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_bathroom with mirror=0.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_room with room=0.0
+gt_bathroom with mirror=0.0
+gt_room with couch=0.0
+gt_room with room=-0.0
+gt_bathroom with door=-0.0
+gt_bathroom with mirror=1.0
+gt_bathroom with toilet=1.0
+gt_room with table=0.0
+gt_bathroom with tile=-0.0
+gt_room with couch=1.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 301817, extracted triplets: ['building on top'], mapped triplets: ['clock on top', 'light on top']
+Objective: 251.31057102106018
+PRIOR DISTANCE
+gt_light on top=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_light on top of pole=1.0
+gt_clock on top=0.0
+gt_clock on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_light on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=1.0
+Objective: 250.85153899049396
+gt_light on top=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_light on top of pole=1.0
+gt_clock on top=0.0
+gt_clock on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_light on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=1.0
+----------------------------
+Caption: a tall building with a clock tower with a
+Imageid: 315909, extracted triplets: ['building with tower'], mapped triplets: ['build with tower', 'tower with build']
+Objective: 250.85153899049396
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_build with tower=1.0
+gt_tower with build=0.0
+gt_build with tower=1.0
+Objective: 251.00806993506504
+gt_build with tower=0.0
+gt_build with tower=1.0
+gt_tower with build=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a building with a clock on the side of a
+Imageid: 526256, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 251.00806993506504
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+Objective: 251.42936101340595
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a room with a clock and a chair in a
+Imageid: 342479, extracted triplets: ['room with clock'], mapped triplets: ['room with bed', 'room with desk', 'room with tv', 'room with book', 'room with table', 'room with lamp', 'room with pillow', 'room with chair', 'room with clock']
+Objective: 251.42936101340595
+PRIOR DISTANCE
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with lamp=1.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with chair=0.0
+gt_room with pillow=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with table=0.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with bed=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with lamp=0.0
+gt_room with tv=0.0
+gt_room with bed=0.0
+gt_room with table=0.0
+gt_room with tv=1.0
+gt_room with chair=0.0
+gt_room with tv=-0.0
+gt_room with bed=0.0
+gt_room with chair=-0.0
+gt_room with pillow=1.0
+gt_room with desk=0.0
+gt_room with table=0.0
+gt_room with lamp=1.0
+gt_room with clock=-0.0
+Objective: 251.17865124526352
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with pillow=1.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with lamp=1.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with chair=0.0
+gt_room with pillow=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with table=0.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with bed=1.0
+gt_room with chair=0.0
+gt_room with chair=1.0
+gt_room with lamp=0.0
+gt_room with tv=0.0
+gt_room with bed=0.0
+gt_room with table=0.0
+gt_room with tv=1.0
+gt_room with chair=0.0
+gt_room with tv=-0.0
+gt_room with bed=0.0
+gt_room with chair=-0.0
+gt_room with pillow=1.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with lamp=1.0
+gt_room with clock=0.0
+----------------------------
+Caption: a building with colorful umbrellas in front of a
+Imageid: 95161, extracted triplets: ['building with umbrella', 'building in wall'], mapped triplets: ['build with roof', 'build with window', 'wall in room', 'build in build']
+Objective: 251.17865124526352
+PRIOR DISTANCE
+gt_build with window=0.0
+gt_wall in room=1.0
+gt_wall in room=1.0
+gt_build with window=0.0
+gt_wall in room=0.0
+gt_build with window=0.0
+gt_build with roof=1.0
+gt_wall in room=0.0
+gt_wall in room=1.0
+gt_build with window=-0.0
+gt_build with roof=1.0
+Objective: 250.9033449472992
+gt_build with window=0.0
+gt_wall in room=1.0
+gt_wall in room=1.0
+gt_build with window=0.0
+gt_wall in room=0.0
+gt_build with window=0.0
+gt_build with roof=1.0
+gt_wall in room=0.0
+gt_wall in room=1.0
+gt_build with window=-0.0
+gt_build with roof=1.0
+----------------------------
+Caption: a clock on the wall of a building with a
+Imageid: 566314, extracted triplets: ['clock on wall', 'wall of building'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall', 'sidewalk of build', 'build of build', 'ceiling of build', 'window of build', 'door of build', 'wall of room']
+Objective: 250.9033449472992
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_build of build=1.0
+gt_build of build=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_build of build=1.0
+gt_plate on wall=1.0
+gt_wall of room=0.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_build of build=0.0
+gt_clock on wall=0.0
+gt_window of build=0.0
+gt_wall of room=0.0
+gt_wall of room=1.0
+gt_build of build=1.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_door of build=0.0
+gt_window of build=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_door of build=-0.0
+gt_clock on wall=1.0
+gt_mirror on wall=-0.0
+gt_window of build=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_build of build=-0.0
+gt_ceiling of build=-0.0
+gt_picture on wall=1.0
+gt_shelf on wall=1.0
+Objective: 250.31135800356165
+gt_clock on wall=0.0
+gt_build of build=1.0
+gt_build of build=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_build of build=1.0
+gt_plate on wall=1.0
+gt_wall of room=0.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_build of build=0.0
+gt_clock on wall=0.0
+gt_window of build=0.0
+gt_wall of room=0.0
+gt_wall of room=1.0
+gt_build of build=1.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_door of build=0.0
+gt_window of build=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_door of build=-0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_window of build=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_build of build=-0.0
+gt_ceiling of build=-0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a man standing next to a clock on a dock
+Imageid: 441028, extracted triplets: ['man next to clock'], mapped triplets: ['wall next to clock', 'woman next to clock', 'man next to clock']
+Objective: 250.31135800356165
+PRIOR DISTANCE
+gt_man next to clock=1.0
+gt_wall next to clock=0.0
+Objective: 250.8014112995268
+gt_man next to clock=1.0
+gt_wall next to clock=1.0
+----------------------------
+Caption: a clock on a bed in a room with a
+Imageid: 85721, extracted triplets: ['clock on bed', 'clock in room'], mapped triplets: ['girl on bed', 'pillow on bed', 'cat on bed', 'blanket on bed', 'dog on bed', 'woman on bed', 'man on bed', 'clock in wall', 'clock in window', 'ceiling in room', 'picture in room', 'screen in room', 'mirror in room', 'shelf in room', 'floor in room', 'wall in room', 'couch in room', 'lamp in room', 'tv in room', 'cabinet in room', 'clock in room']
+Objective: 250.8014112995268
+PRIOR DISTANCE
+gt_pillow on bed=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_blanket on bed=0.0
+gt_picture in room=1.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_floor in room=0.0
+gt_lamp in room=0.0
+gt_woman on bed=1.0
+gt_woman on bed=1.0
+gt_cat on bed=1.0
+gt_pillow on bed=0.0
+gt_girl on bed=0.0
+gt_dog on bed=0.0
+gt_clock in room=1.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=0.0
+gt_cat on bed=1.0
+gt_ceiling in room=1.0
+gt_pillow on bed=0.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_couch in room=0.0
+gt_floor in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_woman on bed=1.0
+gt_woman on bed=1.0
+gt_dog on bed=0.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_cabinet in room=0.0
+gt_picture in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_blanket on bed=1.0
+gt_tv in room=0.0
+gt_floor in room=0.0
+gt_cat on bed=1.0
+gt_woman on bed=1.0
+gt_woman on bed=1.0
+gt_pillow on bed=1.0
+gt_couch in room=0.0
+gt_dog on bed=0.0
+gt_man on bed=0.0
+gt_tv in room=-0.0
+gt_cat on bed=1.0
+gt_couch in room=1.0
+gt_clock in window=1.0
+gt_mirror in room=1.0
+gt_picture in room=0.0
+gt_pillow on bed=1.0
+gt_cabinet in room=1.0
+gt_man on bed=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_blanket on bed=0.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+gt_floor in room=-0.0
+gt_clock in room=1.0
+Objective: 249.99371218917295
+gt_pillow on bed=0.0
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_blanket on bed=0.0
+gt_picture in room=1.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_floor in room=0.0
+gt_lamp in room=0.0
+gt_woman on bed=1.0
+gt_woman on bed=1.0
+gt_cat on bed=1.0
+gt_pillow on bed=0.0
+gt_girl on bed=0.0
+gt_dog on bed=0.0
+gt_clock in room=1.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=0.0
+gt_cat on bed=1.0
+gt_ceiling in room=1.0
+gt_pillow on bed=0.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_couch in room=0.0
+gt_floor in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_woman on bed=1.0
+gt_woman on bed=1.0
+gt_dog on bed=0.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_cabinet in room=0.0
+gt_picture in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_blanket on bed=1.0
+gt_tv in room=0.0
+gt_floor in room=0.0
+gt_cat on bed=1.0
+gt_woman on bed=1.0
+gt_woman on bed=1.0
+gt_pillow on bed=1.0
+gt_couch in room=0.0
+gt_dog on bed=0.0
+gt_man on bed=0.0
+gt_tv in room=-0.0
+gt_cat on bed=1.0
+gt_couch in room=1.0
+gt_clock in window=1.0
+gt_mirror in room=1.0
+gt_picture in room=0.0
+gt_pillow on bed=1.0
+gt_cabinet in room=1.0
+gt_man on bed=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_blanket on bed=0.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+gt_floor in room=-0.0
+gt_clock in room=0.0
+----------------------------
+Caption: two women standing in a room with a table
+Imageid: 158292, extracted triplets: ['room with table'], mapped triplets: ['room with wall', 'room with light', 'room with people', 'room with rug', 'room with bowl', 'room with room', 'room with couch', 'room with bed', 'room with cat', 'room with tree', 'room with tv', 'room with lamp', 'room with clock', 'room with picture', 'room with desk', 'room with book', 'room with bag', 'room with chair', 'room with window', 'room with table']
+Objective: 249.99371218917295
+PRIOR DISTANCE
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with people=0.0
+gt_room with window=0.0
+gt_bathroom with window=0.0
+gt_bathroom with wall=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with tree=0.0
+gt_room with room=1.0
+gt_room with cat=1.0
+gt_room with desk=0.0
+gt_room with rug=1.0
+gt_room with picture=1.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with light=0.0
+gt_room with lamp=1.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with couch=0.0
+gt_room with couch=0.0
+gt_room with picture=1.0
+gt_room with wall=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with window=0.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_room with chair=0.0
+gt_room with picture=0.0
+gt_room with rug=1.0
+gt_bathroom with bag=1.0
+gt_bathroom with cat=0.0
+gt_bathroom with rug=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with people=0.0
+gt_room with couch=1.0
+gt_room with cat=1.0
+gt_room with window=0.0
+gt_bathroom with wall=0.0
+gt_room with chair=1.0
+gt_room with wall=0.0
+gt_room with couch=0.0
+gt_room with window=1.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with bed=1.0
+gt_room with window=0.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with wall=0.0
+gt_room with chair=1.0
+gt_room with lamp=0.0
+gt_room with tv=0.0
+gt_room with rug=0.0
+gt_room with bed=0.0
+gt_room with couch=0.0
+gt_room with people=0.0
+gt_room with table=0.0
+gt_room with room=0.0
+gt_room with window=0.0
+gt_room with tv=1.0
+gt_room with rug=0.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with cat=0.0
+gt_room with window=0.0
+gt_room with couch=0.0
+gt_room with people=1.0
+gt_room with tv=-0.0
+gt_room with cat=1.0
+gt_room with room=-0.0
+gt_room with bag=1.0
+gt_room with rug=0.0
+gt_room with bowl=1.0
+gt_room with wall=1.0
+gt_room with light=1.0
+gt_room with window=1.0
+gt_room with bed=0.0
+gt_room with chair=-0.0
+gt_room with desk=0.0
+gt_room with picture=0.0
+gt_room with table=0.0
+gt_room with lamp=1.0
+gt_room with tree=0.0
+gt_room with couch=1.0
+gt_room with clock=0.0
+Objective: 250.2713333062307
+gt_room with chair=1.0
+gt_room with table=1.0
+gt_room with people=0.0
+gt_room with window=0.0
+gt_bathroom with window=0.0
+gt_bathroom with wall=0.0
+gt_room with couch=0.0
+gt_room with table=1.0
+gt_room with tree=0.0
+gt_room with room=1.0
+gt_room with cat=1.0
+gt_room with desk=0.0
+gt_room with rug=1.0
+gt_room with picture=1.0
+gt_room with bed=0.0
+gt_room with tv=0.0
+gt_room with chair=0.0
+gt_room with light=0.0
+gt_room with lamp=1.0
+gt_room with bed=0.0
+gt_bathroom with tv=0.0
+gt_room with table=1.0
+gt_room with tv=1.0
+gt_room with couch=0.0
+gt_room with couch=0.0
+gt_room with picture=1.0
+gt_room with wall=1.0
+gt_room with table=1.0
+gt_room with desk=0.0
+gt_room with window=0.0
+gt_room with chair=0.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_room with chair=0.0
+gt_room with picture=0.0
+gt_room with rug=1.0
+gt_bathroom with bag=1.0
+gt_bathroom with cat=0.0
+gt_bathroom with rug=0.0
+gt_room with tv=0.0
+gt_room with desk=0.0
+gt_room with bed=1.0
+gt_room with table=1.0
+gt_room with chair=0.0
+gt_room with people=0.0
+gt_room with couch=1.0
+gt_room with cat=1.0
+gt_room with window=0.0
+gt_bathroom with wall=0.0
+gt_room with chair=1.0
+gt_room with wall=0.0
+gt_room with couch=0.0
+gt_room with window=1.0
+gt_room with table=0.0
+gt_room with couch=0.0
+gt_room with desk=1.0
+gt_room with table=0.0
+gt_room with bed=1.0
+gt_room with window=0.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with wall=0.0
+gt_room with chair=1.0
+gt_room with lamp=0.0
+gt_room with tv=0.0
+gt_room with rug=0.0
+gt_room with bed=0.0
+gt_room with couch=0.0
+gt_room with people=0.0
+gt_room with table=0.0
+gt_room with room=0.0
+gt_room with window=0.0
+gt_room with tv=1.0
+gt_room with rug=0.0
+gt_room with wall=0.0
+gt_room with chair=0.0
+gt_room with cat=0.0
+gt_room with window=0.0
+gt_room with couch=0.0
+gt_room with people=1.0
+gt_room with tv=-0.0
+gt_room with cat=1.0
+gt_room with room=-0.0
+gt_room with bag=1.0
+gt_room with rug=0.0
+gt_room with bowl=1.0
+gt_room with wall=0.0
+gt_room with light=1.0
+gt_room with window=1.0
+gt_room with bed=0.0
+gt_room with chair=-0.0
+gt_room with desk=0.0
+gt_room with picture=0.0
+gt_room with table=0.0
+gt_room with lamp=1.0
+gt_room with tree=0.0
+gt_room with couch=1.0
+gt_room with clock=-0.0
+----------------------------
+Caption: a clock on the side of a city street with a
+Imageid: 92488, extracted triplets: ['clock on rail', 'clock on building'], mapped triplets: ['clock on tower', 'clock on street', 'clock on wall', 'tower on build']
+Objective: 250.2713333062307
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on street=1.0
+gt_clock on tower=0.0
+gt_tower on build=1.0
+gt_clock on wall=0.0
+gt_clock on tower=1.0
+gt_tower on build=0.0
+gt_clock on tower=1.0
+gt_clock on wall=0.0
+gt_clock on street=1.0
+gt_clock on street=1.0
+gt_tower on build=0.0
+gt_tower on build=0.0
+gt_clock on wall=0.0
+gt_clock on tower=1.0
+gt_clock on street=0.0
+Objective: 249.72508861842337
+gt_clock on wall=0.0
+gt_clock on street=1.0
+gt_clock on tower=0.0
+gt_tower on build=1.0
+gt_clock on wall=0.0
+gt_clock on tower=1.0
+gt_tower on build=0.0
+gt_clock on tower=1.0
+gt_clock on wall=0.0
+gt_clock on street=1.0
+gt_clock on street=1.0
+gt_tower on build=0.0
+gt_tower on build=0.0
+gt_clock on wall=0.0
+gt_clock on tower=1.0
+gt_clock on street=0.0
+----------------------------
+Caption: an old house with a clock in front of a
+Imageid: 413419, extracted triplets: ['house with clock', 'clock in house', 'clock in car', 'clock in bush'], mapped triplets: ['room with clock', 'house with clock', 'clock in wall', 'clock in room', 'sidewalk in build', 'truck in build', 'tower in build', 'street in build', 'build in build', 'plane in build', 'bus in build', 'clock in house', 'clock in wall', 'car in street', 'clock in bush']
+Objective: 249.72508861842337
+PRIOR DISTANCE
+gt_car in street=0.0
+gt_clock in room=1.0
+gt_clock in bush=1.0
+gt_street in build=1.0
+gt_car in street=1.0
+gt_tower in build=-0.0
+gt_car in street=0.0
+gt_clock in bush=0.0
+gt_street in build=1.0
+gt_house with clock=-0.0
+gt_room with clock=-0.0
+gt_clock in room=0.0
+Objective: 249.57151143394677
+gt_car in street=0.0
+gt_clock in room=1.0
+gt_clock in bush=1.0
+gt_street in build=1.0
+gt_car in street=1.0
+gt_tower in build=-0.0
+gt_car in street=0.0
+gt_clock in bush=1.0
+gt_street in build=1.0
+gt_house with clock=-0.0
+gt_room with clock=0.0
+gt_clock in room=0.0
+----------------------------
+Caption: a shelf with vases and a picture on a wall
+Imageid: 369979, extracted triplets: ['shelf with vase', 'picture on wall'], mapped triplets: ['shelf with book', 'table with vase', 'shelf with vase', 'clock on wall', 'tv on wall', 'shelf on wall', 'mirror on wall', 'sign on wall', 'bed on wall', 'plate on wall', 'number on wall', 'hat on wall', 'couch on wall', 'picture on wall']
+Objective: 249.57151143394677
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_table with vase=0.0
+gt_couch on wall=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_table with vase=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_shelf with book=0.0
+gt_clock on wall=0.0
+gt_table with vase=1.0
+gt_table with vase=0.0
+gt_shelf with book=1.0
+gt_table with vase=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_couch on wall=1.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_shelf with book=0.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf with vase=0.0
+gt_table with vase=0.0
+gt_tv on wall=1.0
+gt_shelf with book=0.0
+gt_picture on wall=1.0
+gt_shelf with book=0.0
+gt_shelf on wall=0.0
+gt_table with vase=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_table with vase=-0.0
+gt_tv on wall=1.0
+gt_shelf with vase=-0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_couch on wall=1.0
+gt_shelf on wall=1.0
+gt_shelf with book=-0.0
+Objective: 249.9353652698194
+gt_clock on wall=0.0
+gt_table with vase=0.0
+gt_couch on wall=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_table with vase=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_shelf with book=0.0
+gt_clock on wall=0.0
+gt_table with vase=1.0
+gt_table with vase=0.0
+gt_shelf with book=1.0
+gt_table with vase=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_couch on wall=1.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_shelf with book=0.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf with vase=0.0
+gt_table with vase=0.0
+gt_tv on wall=1.0
+gt_shelf with book=0.0
+gt_picture on wall=1.0
+gt_shelf with book=0.0
+gt_shelf on wall=0.0
+gt_table with vase=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_mirror on wall=-0.0
+gt_table with vase=1.0
+gt_tv on wall=1.0
+gt_shelf with vase=-0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_couch on wall=1.0
+gt_shelf on wall=1.0
+gt_shelf with book=-0.0
+----------------------------
+Caption: a woman holding a donut in a kitchen with a
+Imageid: 39202, extracted triplets: ['woman hold donut'], mapped triplets: ['woman hold glass']
+Objective: 249.9353652698194
+PRIOR DISTANCE
+gt_woman hold glass=1.0
+gt_woman hold glass=1.0
+gt_woman hold glass=0.0
+gt_woman hold glass=1.0
+gt_woman hold glass=1.0
+Objective: 250.08364343682402
+gt_woman hold glass=1.0
+gt_woman hold glass=1.0
+gt_woman hold glass=0.0
+gt_woman hold glass=1.0
+gt_woman hold glass=0.0
+----------------------------
+Caption: a clock on a window with a tree in a
+Imageid: 70067, extracted triplets: ['clock on window', 'window with tree'], mapped triplets: ['clock on wall', 'window on build', 'room with tree', 'wall with tree', 'build with tree', 'tower with tree']
+Objective: 250.08364343682402
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_build with tree=1.0
+gt_room with tree=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_window on build=-0.0
+gt_build with tree=1.0
+gt_tower with tree=0.0
+gt_wall with tree=1.0
+gt_room with tree=0.0
+Objective: 250.14663450342707
+gt_clock on wall=0.0
+gt_build with tree=1.0
+gt_room with tree=0.0
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on wall=-0.0
+gt_window on build=-0.0
+gt_build with tree=1.0
+gt_tower with tree=1.0
+gt_wall with tree=1.0
+gt_room with tree=0.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 307243, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.14663450342707
+PRIOR DISTANCE
+Objective: 250.14663450342707
+----------------------------
+Caption: a group of people sitting on a dock near a river
+Imageid: 18687, extracted triplets: ['people sit boat', 'people near river'], mapped triplets: ['woman sit boat', 'people near build', 'build near water']
+Objective: 250.14663450342707
+PRIOR DISTANCE
+gt_build near water=0.0
+gt_people near build=1.0
+Objective: 250.2290296083984
+gt_build near water=1.0
+gt_people near build=1.0
+----------------------------
+Caption: a man sitting in a chair in a room with
+Imageid: 199962, extracted triplets: ['man sit chair', 'man in room'], mapped triplets: ['person sit chair', 'person sit bench', 'woman sit chair', 'man sit chair', 'couch in room', 'shelf in room', 'mirror in room', 'tv in room', 'bed in room', 'lamp in room', 'ceiling in room', 'woman in room', 'screen in room', 'cabinet in room', 'wall in room', 'man in room']
+Objective: 250.2290296083984
+PRIOR DISTANCE
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_lamp in room=0.0
+gt_man in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_man in room=1.0
+gt_lamp in room=1.0
+gt_bed in room=0.0
+gt_wall in room=0.0
+gt_man in room=0.0
+gt_ceiling in room=1.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_cabinet in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=-0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+gt_mirror in room=1.0
+gt_cabinet in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+Objective: 251.002540516837
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_lamp in room=0.0
+gt_man in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_bed in room=0.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_man in room=1.0
+gt_lamp in room=1.0
+gt_bed in room=0.0
+gt_wall in room=0.0
+gt_man in room=0.0
+gt_ceiling in room=1.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_bed in room=1.0
+gt_couch in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_man in room=0.0
+gt_woman in room=1.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_cabinet in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_man in room=1.0
+gt_tv in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_tv in room=-0.0
+gt_woman in room=0.0
+gt_woman in room=0.0
+gt_bed in room=1.0
+gt_couch in room=1.0
+gt_mirror in room=1.0
+gt_cabinet in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+----------------------------
+Caption: a clock on a pole in the middle of a city
+Imageid: 438535, extracted triplets: ['clock on pole'], mapped triplets: ['clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole']
+Objective: 251.002540516837
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=1.0
+gt_clock on top=0.0
+Objective: 251.2949887602538
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_clock on top=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_clock on wall=1.0
+gt_clock on ceiling=-0.0
+gt_clock on top of pole=0.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+----------------------------
+Caption: a tv with a picture of a man on it
+Imageid: 83065, extracted triplets: ['tv with screen', 'tv with logo', 'tv with wall', 'tv with window', 'tv with sticker'], mapped triplets: ['table with screen', 'room with clock', 'room with wall', 'wall with clock', 'room with window', 'room with tv']
+Objective: 251.2949887602538
+PRIOR DISTANCE
+gt_room with window=0.0
+gt_bathroom with window=0.0
+gt_bathroom with wall=0.0
+gt_wall with clock=0.0
+gt_room with tv=0.0
+gt_bathroom with tv=0.0
+gt_room with tv=1.0
+gt_room with wall=1.0
+gt_room with window=0.0
+gt_room with tv=0.0
+gt_room with window=0.0
+gt_bathroom with wall=0.0
+gt_room with wall=0.0
+gt_wall with clock=0.0
+gt_room with window=1.0
+gt_room with window=0.0
+gt_room with wall=0.0
+gt_room with wall=0.0
+gt_room with tv=0.0
+gt_room with window=0.0
+gt_room with tv=1.0
+gt_table with screen=0.0
+gt_room with wall=0.0
+gt_room with window=0.0
+gt_room with tv=-0.0
+gt_table with screen=0.0
+gt_room with wall=0.0
+gt_room with window=1.0
+gt_wall with clock=1.0
+gt_room with clock=0.0
+Objective: 250.7287659448027
+gt_room with window=0.0
+gt_bathroom with window=0.0
+gt_bathroom with wall=0.0
+gt_wall with clock=0.0
+gt_room with tv=0.0
+gt_bathroom with tv=0.0
+gt_room with tv=1.0
+gt_room with wall=1.0
+gt_room with window=0.0
+gt_room with tv=0.0
+gt_room with window=0.0
+gt_bathroom with wall=0.0
+gt_room with wall=0.0
+gt_wall with clock=0.0
+gt_room with window=1.0
+gt_room with window=0.0
+gt_room with wall=0.0
+gt_room with wall=0.0
+gt_room with tv=0.0
+gt_room with window=0.0
+gt_room with tv=1.0
+gt_table with screen=0.0
+gt_room with wall=0.0
+gt_room with window=0.0
+gt_room with tv=-0.0
+gt_table with screen=-0.0
+gt_room with wall=0.0
+gt_room with window=1.0
+gt_wall with clock=1.0
+gt_room with clock=0.0
+----------------------------
+Caption: two men sitting on a couch playing a video game
+Imageid: 187054, extracted triplets: ['men sit couch'], mapped triplets: ['man sit couch', 'woman sit couch', 'person sit chair', 'man sit chair', 'woman sit chair']
+Objective: 250.7287659448027
+PRIOR DISTANCE
+Objective: 250.7287659448027
+----------------------------
+Caption: a tower with a clock on the top of a
+Imageid: 269419, extracted triplets: ['tower with clock', 'clock on tower'], mapped triplets: ['build with tower', 'tower with clock', 'clock on tower', 'tower on tower']
+Objective: 250.7287659448027
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_clock on tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_clock on tower=1.0
+gt_build with tower=1.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_tower on tower=1.0
+gt_build with tower=1.0
+Objective: 250.714468558219
+gt_build with tower=0.0
+gt_clock on tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_clock on tower=1.0
+gt_build with tower=1.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_tower on tower=1.0
+gt_build with tower=1.0
+----------------------------
+Caption: a building with a clock on the top of a
+Imageid: 137678, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 250.714468558219
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+Objective: 250.75603552009912
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a man standing on the beach with a frisbee on
+Imageid: 488219, extracted triplets: ['man on beach'], mapped triplets: ['woman on sidewalk', 'man on bench', 'man on beach']
+Objective: 250.75603552009912
+PRIOR DISTANCE
+gt_woman on bench=1.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_woman on sidewalk=1.0
+gt_woman on beach=0.0
+gt_man on beach=1.0
+gt_man on bench=0.0
+gt_man on beach=1.0
+gt_woman on sidewalk=1.0
+gt_woman on beach=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+Objective: 250.75603552009912
+gt_woman on bench=1.0
+gt_woman on bench=1.0
+gt_man on bench=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_woman on sidewalk=1.0
+gt_woman on beach=0.0
+gt_man on beach=1.0
+gt_man on bench=0.0
+gt_man on beach=1.0
+gt_woman on sidewalk=1.0
+gt_woman on beach=0.0
+gt_man on bench=0.0
+gt_woman on bench=0.0
+----------------------------
+Caption: a man standing next to a wall of clocks on a
+Imageid: 156292, extracted triplets: ['man next to wall', 'wall of clock'], mapped triplets: ['man next to woman', 'man next to man', 'wall of room', 'clock of clock']
+Objective: 250.75603552009912
+PRIOR DISTANCE
+gt_man next to woman=0.0
+gt_wall of room=0.0
+gt_wall of room=0.0
+gt_man next to woman=0.0
+gt_wall of room=0.0
+gt_man next to woman=1.0
+gt_wall of room=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to man=0.0
+gt_wall of room=0.0
+Objective: 250.79476363172256
+gt_man next to woman=0.0
+gt_wall of room=0.0
+gt_wall of room=0.0
+gt_man next to woman=0.0
+gt_wall of room=0.0
+gt_man next to woman=1.0
+gt_wall of room=1.0
+gt_man next to woman=0.0
+gt_man next to woman=1.0
+gt_man next to man=0.0
+gt_wall of room=0.0
+----------------------------
+Caption: a tower with a clock on the top of a
+Imageid: 371958, extracted triplets: ['tower with clock', 'clock on top'], mapped triplets: ['build with tower', 'tower with clock', 'clock on ceiling', 'light on top', 'clock on top']
+Objective: 250.79476363172256
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_light on top=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_light on top of pole=1.0
+gt_tower with clock=0.0
+gt_clock on top=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_clock on top=1.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_tower with clock=0.0
+gt_light on top=1.0
+gt_clock on ceiling=-0.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=1.0
+gt_build with tower=1.0
+Objective: 250.45679805085172
+gt_build with tower=0.0
+gt_light on top=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_light on top of pole=1.0
+gt_tower with clock=0.0
+gt_clock on top=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_clock on top=1.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_tower with clock=0.0
+gt_light on top=1.0
+gt_clock on ceiling=-0.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=1.0
+gt_build with tower=1.0
+----------------------------
+Caption: a group of people sitting in a room with laptops
+Imageid: 466818, extracted triplets: ['people sit room', 'people with laptop'], mapped triplets: ['people sit room', 'tv sit room', 'couch sit room', 'bed sit room', 'man with laptop', 'desk with laptop', 'bed with laptop', 'people with laptop']
+Objective: 250.45679805085172
+PRIOR DISTANCE
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_people with laptop=1.0
+gt_woman with laptop=1.0
+gt_desk with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_desk with laptop=0.0
+gt_bed with laptop=0.0
+gt_bed with laptop=0.0
+gt_desk with laptop=1.0
+gt_man with laptop=-0.0
+gt_desk with laptop=0.0
+gt_people with laptop=1.0
+gt_bed with laptop=1.0
+Objective: 250.4919085245046
+gt_woman with laptop=1.0
+gt_woman with laptop=0.0
+gt_desk with laptop=1.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_desk with laptop=0.0
+gt_people with laptop=1.0
+gt_woman with laptop=1.0
+gt_desk with laptop=0.0
+gt_woman with laptop=0.0
+gt_woman with laptop=0.0
+gt_desk with laptop=0.0
+gt_bed with laptop=0.0
+gt_bed with laptop=0.0
+gt_desk with laptop=1.0
+gt_man with laptop=-0.0
+gt_desk with laptop=0.0
+gt_people with laptop=1.0
+gt_bed with laptop=1.0
+----------------------------
+Caption: a building with a clock on the side of a
+Imageid: 271934, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 250.4919085245046
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+Objective: 250.5552436806789
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a tall building with a clock tower with a
+Imageid: 474402, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.5552436806789
+PRIOR DISTANCE
+Objective: 250.5552436806789
+----------------------------
+Caption: a tower with a clock on the top of a
+Imageid: 247806, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 250.5552436806789
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 249.97572267531322
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a wooden clock sitting on top of a wooden table
+Imageid: 150024, extracted triplets: ['clock sit roof', 'clock sit floor'], mapped triplets: ['clock sit floor', 'clock sit wall', 'clock sit window', 'clock sit fence', 'build sit clock', 'clock sit floor', 'stave sit floor', 'couch sit floor']
+Objective: 249.97572267531322
+PRIOR DISTANCE
+Objective: 249.97572267531322
+----------------------------
+Caption: a large clock sitting on a shelf with a man
+Imageid: 87399, extracted triplets: ['clock sit shelf', 'clock with man'], mapped triplets: ['clock sit shelf', 'man with clock']
+Objective: 249.97572267531322
+PRIOR DISTANCE
+Objective: 249.97572267531322
+----------------------------
+Caption: a building with two clocks on the side of a
+Imageid: 400235, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 249.97572267531322
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+Objective: 250.4109672624053
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a large building with a clock tower on top of a
+Imageid: 138755, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.4109672624053
+PRIOR DISTANCE
+Objective: 250.4109672624053
+----------------------------
+Caption: a clock tower in the middle of a park
+Imageid: 182736, extracted triplets: ['clock tower in bench'], mapped triplets: ['tower in build', 'bench in tower']
+Objective: 250.4109672624053
+PRIOR DISTANCE
+gt_tower in build=-0.0
+Objective: 250.4090676352334
+gt_tower in build=-0.0
+----------------------------
+Caption: a tall building with a clock tower with a
+Imageid: 208830, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.4090676352334
+PRIOR DISTANCE
+Objective: 250.4090676352334
+----------------------------
+Caption: a clock sitting on top of a table with a
+Imageid: 9791, extracted triplets: ['clock sit paint', 'clock sit write', 'clock sit sign', 'clock sit shelf', 'clock sit clock', 'clock sit base', 'clock sit head', 'clock sit face', 'clock sit table', 'clock sit design', 'clock sit wall', 'clock sit statue'], mapped triplets: ['clock sit wall', 'clock sit shelf', 'clock sit table', 'clock sit computer', 'clock sit wall', 'clock sit book', 'clock sit shelf', 'clock sit clock', 'clock sit shelf', 'clock sit table', 'person sit head', 'woman sit head', 'clock sit wall', 'clock sit table', 'watch sit table', 'clock sit table', 'clock sit table', 'bed sit wall', 'clock sit wall', 'clock sit pole', 'clock sit bench', 'clock sit light', 'clock sit wall', 'clock sit shelf', 'clock sit window', 'clock sit street', 'clock sit plant', 'clock sit fence', 'clock sit tree', 'clock sit vase', 'clock sit floor', 'clock sit clock', 'clock sit table', 'clock sit book', 'clock sit mirror']
+Objective: 250.4090676352334
+PRIOR DISTANCE
+Objective: 250.4090676352334
+----------------------------
+Caption: a clock on the side of a street with people walking
+Imageid: 452663, extracted triplets: ['clock on side'], mapped triplets: ['clock on wall', 'clock on bench']
+Objective: 250.4090676352334
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on bench=0.0
+gt_clock on wall=0.0
+gt_clock on bench=0.0
+gt_clock on wall=1.0
+gt_clock on bench=1.0
+Objective: 250.44520150210175
+gt_clock on wall=0.0
+gt_clock on wall=0.0
+gt_clock on bench=0.0
+gt_clock on wall=0.0
+gt_clock on bench=0.0
+gt_clock on wall=1.0
+gt_clock on bench=1.0
+----------------------------
+Caption: a man riding a horse in a parking lot
+Imageid: 436127, extracted triplets: ['man ride horse'], mapped triplets: ['man ride motorcycle', 'man ride bike', 'boy ride surfboard', 'woman ride bike', 'man ride horse']
+Objective: 250.44520150210175
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_woman ride horse=1.0
+gt_man ride bike=0.0
+gt_woman ride horse=0.0
+gt_man ride horse=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_man ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride horse=0.0
+gt_woman ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_man ride horse=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride horse=1.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=-0.0
+Objective: 250.22996848405245
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_woman ride horse=1.0
+gt_man ride bike=0.0
+gt_woman ride horse=0.0
+gt_man ride horse=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_man ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride horse=0.0
+gt_woman ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_man ride horse=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride horse=1.0
+gt_man ride motorcycle=1.0
+gt_man ride bike=1.0
+----------------------------
+Caption: a white van driving down a street with a clock tower
+Imageid: 578848, extracted triplets: ['van with clock tower'], mapped triplets: ['car with clock', 'tower with clock']
+Objective: 250.22996848405245
+PRIOR DISTANCE
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_car with clock=0.0
+Objective: 250.01574385836736
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_car with clock=0.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 540531, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.01574385836736
+PRIOR DISTANCE
+Objective: 250.01574385836736
+----------------------------
+Caption: a clock tower with a flag on top of a building
+Imageid: 516178, extracted triplets: ['clock tower with flag'], mapped triplets: ['tower with flag']
+Objective: 250.01574385836736
+PRIOR DISTANCE
+gt_tower with flag=0.0
+gt_tower with flag=0.0
+Objective: 250.24561369202812
+gt_tower with flag=0.0
+gt_tower with flag=0.0
+----------------------------
+Caption: a clock hanging from the ceiling of a train station
+Imageid: 417696, extracted triplets: ['clock from ceiling'], mapped triplets: ['clock from wall', 'clock from pole', 'hat from wall', 'clock from ceiling']
+Objective: 250.24561369202812
+PRIOR DISTANCE
+Objective: 250.24561369202812
+----------------------------
+Caption: a clock sitting on top of a wooden table
+Imageid: 474675, extracted triplets: ['clock sit pillow', 'clock sit clock', 'clock sit plate', 'clock sit picture', 'clock sit table', 'clock sit wall'], mapped triplets: ['cat sit pillow', 'clock sit clock', 'watch sit table', 'clock sit table', 'bed sit wall', 'clock sit wall']
+Objective: 250.24561369202812
+PRIOR DISTANCE
+Objective: 250.24561369202812
+----------------------------
+Caption: a woman and two children standing in a room
+Imageid: 84674, extracted triplets: ['woman in room'], mapped triplets: ['woman in bed', 'person in door', 'ceiling in room', 'picture in room', 'screen in room', 'woman in room', 'mirror in room', 'room in window', 'shelf in room', 'wall in room', 'floor in room', 'couch in room', 'lamp in room', 'tv in room', 'cabinet in room']
+Objective: 250.24561369202812
+PRIOR DISTANCE
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_picture in room=1.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_floor in room=0.0
+gt_lamp in room=0.0
+gt_woman in bed=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=0.0
+gt_ceiling in room=1.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_couch in room=0.0
+gt_floor in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_cabinet in room=0.0
+gt_picture in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_tv in room=0.0
+gt_woman in bed=0.0
+gt_floor in room=0.0
+gt_couch in room=0.0
+gt_tv in room=-0.0
+gt_woman in room=0.0
+gt_couch in room=1.0
+gt_mirror in room=1.0
+gt_picture in room=0.0
+gt_cabinet in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+gt_room in window=0.0
+gt_floor in room=-0.0
+Objective: 250.885298275524
+gt_cabinet in room=1.0
+gt_mirror in room=0.0
+gt_shelf in room=0.0
+gt_ceiling in room=0.0
+gt_picture in room=1.0
+gt_screen in room=0.0
+gt_wall in room=1.0
+gt_tv in room=1.0
+gt_floor in room=0.0
+gt_lamp in room=0.0
+gt_woman in bed=0.0
+gt_couch in room=0.0
+gt_tv in room=1.0
+gt_wall in room=1.0
+gt_screen in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=0.0
+gt_ceiling in room=1.0
+gt_tv in room=1.0
+gt_cabinet in room=0.0
+gt_couch in room=0.0
+gt_floor in room=0.0
+gt_couch in room=0.0
+gt_mirror in room=0.0
+gt_woman in room=1.0
+gt_couch in room=0.0
+gt_tv in room=0.0
+gt_cabinet in room=0.0
+gt_picture in room=1.0
+gt_tv in room=0.0
+gt_couch in room=0.0
+gt_wall in room=0.0
+gt_tv in room=0.0
+gt_woman in bed=0.0
+gt_floor in room=0.0
+gt_couch in room=0.0
+gt_tv in room=-0.0
+gt_woman in room=0.0
+gt_couch in room=1.0
+gt_mirror in room=1.0
+gt_picture in room=0.0
+gt_cabinet in room=1.0
+gt_lamp in room=1.0
+gt_wall in room=1.0
+gt_shelf in room=1.0
+gt_ceiling in room=-0.0
+gt_screen in room=-0.0
+gt_room in window=1.0
+gt_floor in room=-0.0
+----------------------------
+Caption: a man wearing a red tie and a hat
+Imageid: 204943, extracted triplets: ['man wear tie'], mapped triplets: ['man wear suit', 'man wear tie']
+Objective: 250.885298275524
+PRIOR DISTANCE
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear suit=0.0
+gt_man wear tie=1.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_man wear suit=1.0
+gt_woman wear suitcase=1.0
+gt_man wear tie=0.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_woman wear tie=1.0
+gt_man wear tie=-0.0
+gt_man wear suit=1.0
+Objective: 250.9309348490829
+gt_man wear tie=1.0
+gt_man wear tie=0.0
+gt_man wear suit=0.0
+gt_man wear tie=1.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_man wear tie=0.0
+gt_man wear suit=1.0
+gt_woman wear suitcase=1.0
+gt_man wear tie=0.0
+gt_man wear suit=0.0
+gt_man wear tie=0.0
+gt_woman wear tie=1.0
+gt_man wear tie=-0.0
+gt_man wear suit=1.0
+----------------------------
+Caption: a tower with a clock on the top of a
+Imageid: 5758, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 250.9309348490829
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 250.94608481969206
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a sign with a clock on the side of a building
+Imageid: 357265, extracted triplets: ['sign with clock'], mapped triplets: ['bench with clock', 'tower with clock', 'flower with clock', 'wall with clock', 'cabinet with clock', 'shelf with clock', 'window with clock', 'room with clock', 'table with clock', 'desk with clock', 'sign with clock']
+Objective: 250.94608481969206
+PRIOR DISTANCE
+gt_tower with clock=0.0
+gt_desk with clock=0.0
+gt_wall with clock=0.0
+gt_table with clock=0.0
+gt_tower with clock=1.0
+gt_desk with clock=1.0
+gt_wall with clock=0.0
+gt_tower with clock=0.0
+gt_bench with clock=0.0
+gt_sign with clock=0.0
+gt_tower with clock=0.0
+gt_shelf with clock=1.0
+gt_flower with clock=-0.0
+gt_desk with clock=0.0
+gt_sign with clock=0.0
+gt_tower with clock=0.0
+gt_window with clock=1.0
+gt_bench with clock=-0.0
+gt_wall with clock=1.0
+gt_room with clock=0.0
+gt_table with clock=1.0
+Objective: 250.70786595821858
+gt_tower with clock=0.0
+gt_desk with clock=0.0
+gt_wall with clock=0.0
+gt_table with clock=0.0
+gt_tower with clock=1.0
+gt_desk with clock=1.0
+gt_wall with clock=0.0
+gt_tower with clock=0.0
+gt_bench with clock=0.0
+gt_sign with clock=0.0
+gt_tower with clock=0.0
+gt_shelf with clock=1.0
+gt_flower with clock=-0.0
+gt_desk with clock=0.0
+gt_sign with clock=1.0
+gt_tower with clock=0.0
+gt_window with clock=1.0
+gt_bench with clock=-0.0
+gt_wall with clock=1.0
+gt_room with clock=0.0
+gt_table with clock=1.0
+----------------------------
+Caption: a building with a clock on the front of a
+Imageid: 514437, extracted triplets: ['building with clock'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 250.70786595821858
+PRIOR DISTANCE
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+Objective: 250.84999647099048
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=0.0
+gt_build with clock=1.0
+gt_tower with clock=0.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 38479, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.84999647099048
+PRIOR DISTANCE
+Objective: 250.84999647099048
+----------------------------
+Caption: a clock tower with a flag on top of a building
+Imageid: 280007, extracted triplets: ['clock tower with flag'], mapped triplets: ['tower with flag']
+Objective: 250.84999647099048
+PRIOR DISTANCE
+gt_tower with flag=0.0
+gt_tower with flag=0.0
+Objective: 250.75423931382247
+gt_tower with flag=0.0
+gt_tower with flag=0.0
+----------------------------
+Caption: a tower with a clock on the top of a building
+Imageid: 553097, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 250.75423931382247
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 250.3212578400416
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: the big ben clock tower towering over the city of london
+Imageid: 34126, extracted triplets: ['clock tower over road'], mapped triplets: []
+Objective: 250.3212578400416
+PRIOR DISTANCE
+Objective: 250.3212578400416
+----------------------------
+Caption: a street sign with a clock on the wall
+Imageid: 233139, extracted triplets: ['clock on wall'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall']
+Objective: 250.3212578400416
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=1.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+Objective: 250.21180308783084
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a clock on a wall next to a sign with a
+Imageid: 134213, extracted triplets: ['clock on wall', 'clock next to sign'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall', 'sign next to clock']
+Objective: 250.21180308783084
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_sign next to clock=1.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+Objective: 250.2663113178712
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_sign next to clock=1.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a man holding a tennis racquet on a tennis court
+Imageid: 105751, extracted triplets: ['man hold racket', 'man hold court'], mapped triplets: ['child hold racket', 'man hold court']
+Objective: 250.2663113178712
+PRIOR DISTANCE
+gt_child hold racket=0.0
+gt_child hold racket=1.0
+gt_child hold racket=1.0
+Objective: 250.3133284257603
+gt_child hold racket=0.0
+gt_child hold racket=1.0
+gt_child hold racket=1.0
+----------------------------
+Caption: a black and white photo of a man playing tennis
+Imageid: 246597, extracted triplets: ['man play court'], mapped triplets: ['player play field']
+Objective: 250.3133284257603
+PRIOR DISTANCE
+Objective: 250.3133284257603
+----------------------------
+Caption: a statue of an elephant on top of a building
+Imageid: 116370, extracted triplets: ['statue of elephant'], mapped triplets: ['statue of statue']
+Objective: 250.3133284257603
+PRIOR DISTANCE
+Objective: 250.3133284257603
+----------------------------
+Caption: a man sitting on a bed with a laptop
+Imageid: 304390, extracted triplets: ['man sit bed'], mapped triplets: ['person sit chair', 'person sit bench', 'man sit bed']
+Objective: 250.3133284257603
+PRIOR DISTANCE
+Objective: 250.3133284257603
+----------------------------
+Caption: a tower with a clock on the top of a building
+Imageid: 30470, extracted triplets: ['tower with clock', 'clock on tower', 'clock on pole', 'clock on roof', 'clock on pillar'], mapped triplets: ['build with tower', 'tower with clock', 'clock on tower', 'tower on tower', 'clock on wall', 'clock on ceiling', 'clock on top', 'clock on pole', 'clock on tower', 'car on roof', 'clock on tower', 'clock on pillar']
+Objective: 250.3133284257603
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_tower with clock=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_tower with clock=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_build with tower=1.0
+gt_clock on top=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_tower with clock=0.0
+gt_clock on pillar=0.0
+gt_clock on wall=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_tower on tower=1.0
+gt_clock on pole=1.0
+gt_clock on top=1.0
+gt_build with tower=1.0
+Objective: 250.44890782665664
+gt_build with tower=0.0
+gt_clock on wall=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_clock on tower=0.0
+gt_tower with clock=0.0
+gt_clock on top=0.0
+gt_clock on wall=0.0
+gt_tower with clock=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_build with tower=1.0
+gt_clock on top=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on wall=0.0
+gt_clock on pole=0.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_tower with clock=0.0
+gt_clock on pillar=0.0
+gt_clock on wall=-0.0
+gt_clock on ceiling=-0.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_clock on tower=1.0
+gt_tower with clock=0.0
+gt_clock on top of pole=0.0
+gt_tower on tower=1.0
+gt_clock on pole=1.0
+gt_clock on top=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a large building with a clock tower on top of a
+Imageid: 429174, extracted triplets: ['building with clock tower'], mapped triplets: []
+Objective: 250.44890782665664
+PRIOR DISTANCE
+Objective: 250.44890782665664
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 266348, extracted triplets: ['building on top'], mapped triplets: ['clock on top', 'light on top']
+Objective: 250.44890782665664
+PRIOR DISTANCE
+gt_light on top=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_light on top of pole=1.0
+gt_clock on top=0.0
+gt_clock on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_light on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+Objective: 250.3800214417669
+gt_light on top=0.0
+gt_clock on top of build=1.0
+gt_clock on top of pole=0.0
+gt_light on top of pole=1.0
+gt_clock on top=0.0
+gt_clock on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=0.0
+gt_light on top=1.0
+gt_clock on top of pole=0.0
+gt_clock on top=1.0
+----------------------------
+Caption: a woman laying in bed with a microwave on a
+Imageid: 552217, extracted triplets: ['woman in bed'], mapped triplets: ['woman in room', 'dog in bed', 'woman in bed']
+Objective: 250.3800214417669
+PRIOR DISTANCE
+gt_woman in bed=0.0
+gt_woman in room=1.0
+gt_woman in bed=0.0
+gt_dog in bed=0.0
+gt_woman in room=0.0
+Objective: 250.23598258850976
+gt_woman in bed=0.0
+gt_woman in room=1.0
+gt_woman in bed=0.0
+gt_dog in bed=0.0
+gt_woman in room=0.0
+----------------------------
+Caption: a row of chairs and a clock on a wall
+Imageid: 252177, extracted triplets: ['clock on wall'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall']
+Objective: 250.23598258850976
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+Objective: 250.0924367455501
+gt_clock on wall=0.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_plate on wall=1.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_tv on wall=1.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a tower with a clock on the front of a building
+Imageid: 369506, extracted triplets: ['tower with clock'], mapped triplets: ['build with tower', 'tower with clock']
+Objective: 250.0924367455501
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+Objective: 250.43060556468842
+gt_build with tower=0.0
+gt_tower with clock=0.0
+gt_tower with clock=1.0
+gt_build with tower=1.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_tower with clock=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a man is holding a camera and taking a picture
+Imageid: 409331, extracted triplets: ['man hold camera'], mapped triplets: ['man hold camera', 'person hold plate']
+Objective: 250.43060556468842
+PRIOR DISTANCE
+gt_person hold plate=0.0
+gt_woman hold camera=1.0
+gt_woman hold camera=1.0
+gt_person hold plate=1.0
+gt_woman hold camera=1.0
+gt_person hold plate=1.0
+gt_man hold camera=1.0
+Objective: 250.50386101399604
+gt_person hold plate=0.0
+gt_woman hold camera=1.0
+gt_woman hold camera=1.0
+gt_person hold plate=1.0
+gt_woman hold camera=1.0
+gt_person hold plate=1.0
+gt_man hold camera=1.0
+----------------------------
+Caption: a group of people waiting for their luggage at an airport
+Imageid: 576363, extracted triplets: ['luggage at luggage', 'luggage at sign', 'luggage at people'], mapped triplets: ['people at table']
+Objective: 250.50386101399604
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+Objective: 250.47629690424458
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=1.0
+gt_people at table=0.0
+gt_people at table=0.0
+gt_people at table=0.0
+----------------------------
+Caption: a man riding a skateboard on a ramp
+Imageid: 3103, extracted triplets: ['man ride skateboard'], mapped triplets: ['man ride motorcycle', 'man ride bike', 'man ride surfboard', 'man ride ski', 'man ride skateboard']
+Objective: 250.47629690424458
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride skateboard=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride bike=1.0
+gt_woman ride ski=0.0
+gt_man ride skier=0.0
+gt_man ride ski=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride ski=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_man ride skateboard=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride ski=0.0
+gt_man ride skateboard=1.0
+gt_man ride surfboard=0.0
+gt_man ride motorcycle=1.0
+gt_man ride bike=1.0
+Objective: 250.6328232048318
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride skateboard=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_man ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_woman ride skateboard=0.0
+gt_man ride bike=1.0
+gt_woman ride ski=0.0
+gt_man ride skier=0.0
+gt_man ride ski=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride bike=0.0
+gt_woman ride motorcycle=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride skateboard=1.0
+gt_man ride skateboard=0.0
+gt_man ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_man ride ski=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=1.0
+gt_man ride skateboard=0.0
+gt_man ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride ski=0.0
+gt_man ride skateboard=1.0
+gt_man ride surfboard=1.0
+gt_man ride motorcycle=0.0
+gt_man ride bike=1.0
+----------------------------
+Caption: a building with a clock tower on top of a
+Imageid: 442993, extracted triplets: ['building with tower'], mapped triplets: ['build with tower', 'tower with build']
+Objective: 250.6328232048318
+PRIOR DISTANCE
+gt_build with tower=0.0
+gt_build with tower=1.0
+gt_tower with build=0.0
+gt_build with tower=1.0
+Objective: 250.16168632414957
+gt_build with tower=0.0
+gt_build with tower=1.0
+gt_tower with build=0.0
+gt_build with tower=1.0
+----------------------------
+Caption: a clock on the wall of a building with a
+Imageid: 438850, extracted triplets: ['clock on wall', 'wall of building'], mapped triplets: ['tv on wall', 'picture on wall', 'shelf on wall', 'sign on wall', 'plate on wall', 'bed on wall', 'number on wall', 'mirror on wall', 'hat on wall', 'table on wall', 'clock on wall', 'sidewalk of build', 'build of build', 'ceiling of build', 'window of build', 'door of build', 'wall of room']
+Objective: 250.16168632414957
+PRIOR DISTANCE
+gt_clock on wall=0.0
+gt_build of build=1.0
+gt_build of build=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_build of build=1.0
+gt_plate on wall=1.0
+gt_wall of room=0.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_build of build=0.0
+gt_clock on wall=0.0
+gt_window of build=0.0
+gt_wall of room=0.0
+gt_wall of room=1.0
+gt_build of build=1.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_door of build=0.0
+gt_window of build=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_door of build=-0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_window of build=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_build of build=-0.0
+gt_ceiling of build=-0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+Objective: 250.27100656301332
+gt_clock on wall=0.0
+gt_build of build=1.0
+gt_build of build=1.0
+gt_number on wall=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_picture on wall=0.0
+gt_clock on wall=0.0
+gt_shelf on wall=0.0
+gt_shelf on wall=0.0
+gt_mirror on wall=0.0
+gt_shelf on wall=0.0
+gt_build of build=1.0
+gt_plate on wall=1.0
+gt_wall of room=0.0
+gt_tv on wall=0.0
+gt_picture on wall=0.0
+gt_build of build=0.0
+gt_clock on wall=0.0
+gt_window of build=0.0
+gt_wall of room=0.0
+gt_wall of room=1.0
+gt_build of build=1.0
+gt_tv on wall=1.0
+gt_picture on wall=1.0
+gt_shelf on wall=0.0
+gt_door of build=0.0
+gt_window of build=0.0
+gt_picture on wall=0.0
+gt_plate on wall=1.0
+gt_picture on wall=0.0
+gt_door of build=-0.0
+gt_clock on wall=-0.0
+gt_mirror on wall=-0.0
+gt_window of build=1.0
+gt_tv on wall=1.0
+gt_wall of room=0.0
+gt_sign on wall=0.0
+gt_plate on wall=1.0
+gt_number on wall=0.0
+gt_build of build=-0.0
+gt_ceiling of build=-0.0
+gt_picture on wall=0.0
+gt_shelf on wall=1.0
+----------------------------
+Caption: a cat laying on a desk next to a laptop computer
+Imageid: 198641, extracted triplets: ['desk next to laptop computer'], mapped triplets: ['desk next to laptop', 'woman next to laptop']
+Objective: 250.27100656301332
+PRIOR DISTANCE
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+Objective: 250.24247441500057
+gt_desk next to laptop=1.0
+gt_desk next to laptop=1.0
+----------------------------

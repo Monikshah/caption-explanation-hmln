@@ -1,0 +1,2584 @@
+Caption: a group of people riding bikes down a city street
+Imageid: 462565, extracted triplets: ['people ride bicycle', 'people ride bike'], mapped triplets: ['woman ride bicycle', 'people ride bike', 'person ride bike', 'boy ride bike', 'people ride bike', 'person ride bike', 'boy ride bike', 'woman ride bike', 'man ride bike']
+Objective: 271.2377626666185
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_boy ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=1.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=1.0
+gt_boy ride bike=0.0
+gt_boy ride bike=0.0
+gt_people ride bike=1.0
+gt_people ride bike=1.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+Objective: 271.2110186493911
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_boy ride bike=1.0
+gt_woman ride bicycle=0.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=1.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_woman ride bicycle=1.0
+gt_boy ride bike=0.0
+gt_boy ride bike=0.0
+gt_people ride bike=1.0
+gt_people ride bike=1.0
+gt_person ride bike=0.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: a clock on a pole on a city street
+Imageid: 28655, extracted triplets: ['clock on pole', 'pole on sidewalk', 'pole on pole', 'pole on truck', 'pole on tree', 'pole on street', 'pole on car', 'pole on build', 'pole on line', 'pole on hydrant'], mapped triplets: ['clock on light', 'pole on sidewalk', 'clock on pole', 'pole on sidewalk', 'sign on sidewalk', 'street on sidewalk', 'pole on street', 'hydrant on sidewalk', 'umbrella on sidewalk', 'clock on sidewalk', 'glass on sidewalk', 'tree on sidewalk', 'build on sidewalk', 'rail on sidewalk', 'bench on sidewalk', 'chain on sidewalk', 'backpack on sidewalk', 'van on sidewalk', 'pole on sidewalk', 'street on pole', 'truck on street', 'pole on street', 'pole on street', 'tree on tree', 'pole on street', 'sign on road', 'street on street', 'road on street', 'street on road', 'street on sidewalk', 'sidewalk on street', 'light on street', 'bicycle on street', 'pole on sidewalk', 'car on street', 'pole on street', 'build on street', 'pole on street', 'line on street', 'pole on street', 'hydrant on street']
+Objective: 271.2110186493911
+PRIOR DISTANCE
+gt_sidewalk on street=0.0
+gt_tree on tree=0.0
+gt_hydrant on sidewalk=1.0
+gt_backpack on sidewalk=0.0
+gt_bicycle on street=1.0
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_car on street=1.0
+gt_build on street=0.0
+gt_light on street=0.0
+gt_truck on street=0.0
+gt_sidewalk on street=1.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=0.0
+gt_street on road=1.0
+gt_rail on sidewalk=-0.0
+gt_line on street=1.0
+gt_umbrella on sidewalk=-0.0
+gt_backpack on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_tree on tree=1.0
+gt_sidewalk on street=0.0
+gt_clock on sidewalk=1.0
+gt_clock on light=0.0
+gt_street on pole=0.0
+gt_street on sidewalk=-0.0
+gt_street on sidewalk=-0.0
+gt_hydrant on sidewalk=-0.0
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=1.0
+gt_chain on sidewalk=1.0
+gt_sign on road=1.0
+gt_sign on sidewalk=1.0
+gt_street on street=1.0
+gt_van on sidewalk=-0.0
+gt_light on street=0.0
+gt_build on street=0.0
+gt_hydrant on street=1.0
+gt_truck on street=0.0
+gt_car on street=1.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+Objective: 269.7690358542662
+gt_sidewalk on street=0.0
+gt_tree on tree=0.0
+gt_hydrant on sidewalk=1.0
+gt_backpack on sidewalk=0.0
+gt_bicycle on street=1.0
+gt_umbrella on sidewalk=0.0
+gt_bench on sidewalk=0.0
+gt_car on street=1.0
+gt_build on street=0.0
+gt_light on street=0.0
+gt_truck on street=0.0
+gt_sidewalk on street=1.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_pole on street=0.0
+gt_tree on sidewalk=1.0
+gt_tree on sidewalk=1.0
+gt_street on road=1.0
+gt_rail on sidewalk=-0.0
+gt_line on street=1.0
+gt_umbrella on sidewalk=-0.0
+gt_backpack on sidewalk=1.0
+gt_bench on sidewalk=0.0
+gt_tree on tree=1.0
+gt_sidewalk on street=0.0
+gt_clock on sidewalk=0.0
+gt_clock on light=0.0
+gt_street on pole=0.0
+gt_street on sidewalk=-0.0
+gt_street on sidewalk=-0.0
+gt_hydrant on sidewalk=-0.0
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=1.0
+gt_pole on sidewalk=1.0
+gt_chain on sidewalk=1.0
+gt_sign on road=0.0
+gt_sign on sidewalk=1.0
+gt_street on street=1.0
+gt_van on sidewalk=-0.0
+gt_light on street=1.0
+gt_build on street=0.0
+gt_hydrant on street=-0.0
+gt_truck on street=0.0
+gt_car on street=1.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+gt_pole on street=-0.0
+----------------------------
+Caption: a man and a child standing next to a statue of a horse
+Imageid: 199346, extracted triplets: ['man next to statue', 'statue of horse'], mapped triplets: ['person next to build', 'photo of horse']
+Objective: 269.7690358542662
+PRIOR DISTANCE
+gt_photo of horse=-0.0
+Objective: 269.765053415916
+gt_photo of horse=-0.0
+----------------------------
+Caption: a herd of sheep grazing in a field
+Imageid: 539784, extracted triplets: ['sheep in field'], mapped triplets: ['horse in field', 'cow in field', 'animal in field', 'sheep in field', 'grass in field']
+Objective: 269.765053415916
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=1.0
+gt_grass in field=1.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+Objective: 269.7646926192299
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_grass in field=1.0
+gt_horse in field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a man riding on the back of a horse down a street
+Imageid: 75990, extracted triplets: ['man ride shirt', 'man ride jacket'], mapped triplets: ['man ride shirt', 'man ride shirt']
+Objective: 269.7646926192299
+PRIOR DISTANCE
+Objective: 269.7646926192299
+----------------------------
+Caption: a motorcycle parked on the side of a street
+Imageid: 355221, extracted triplets: ['motorcycle on side', 'side of street'], mapped triplets: ['motorcycle on street', 'motorcycle on road', 'street of sign', 'sidewalk of street', 'side of street']
+Objective: 269.7646926192299
+PRIOR DISTANCE
+gt_motorcycle on road=1.0
+gt_motorcycle on street=0.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_motorcycle on street=0.0
+gt_street of sign=-0.0
+gt_motorcycle on road=1.0
+gt_sidewalk of street=1.0
+Objective: 270.2676762047375
+gt_motorcycle on road=1.0
+gt_motorcycle on street=0.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_motorcycle on street=-0.0
+gt_street of sign=-0.0
+gt_motorcycle on road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: an old rusty truck sitting in a field of flowers
+Imageid: 186518, extracted triplets: ['truck sit field', 'field of flower'], mapped triplets: ['truck sit field', 'house sit field', 'truck sit beach', 'field of grass', 'horse of grass']
+Objective: 270.2676762047375
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=-0.0
+gt_horse of grass=1.0
+Objective: 270.37022283982145
+gt_field of grass=0.0
+gt_field of grass=-0.0
+gt_horse of grass=1.0
+----------------------------
+Caption: a man brushing his teeth in the car
+Imageid: 148329, extracted triplets: ['man in car'], mapped triplets: ['man in van', 'man in truck', 'man in car']
+Objective: 270.37022283982145
+PRIOR DISTANCE
+gt_man in car=1.0
+gt_man in van=1.0
+gt_man in truck=1.0
+gt_woman in car=0.0
+Objective: 270.4275985315377
+gt_man in car=1.0
+gt_man in van=1.0
+gt_man in truck=1.0
+gt_woman in car=0.0
+----------------------------
+Caption: a man riding a motorcycle down a street
+Imageid: 445041, extracted triplets: ['man ride motorcycle'], mapped triplets: ['motorcycle ride street', 'man ride motorcycle']
+Objective: 270.4275985315377
+PRIOR DISTANCE
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+gt_woman ride motorcycle=1.0
+Objective: 270.426859465939
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+gt_woman ride motorcycle=1.0
+----------------------------
+Caption: a man riding a horse down a city street
+Imageid: 50411, extracted triplets: ['man ride horse'], mapped triplets: ['man ride elephant', 'girl ride horse', 'woman ride horse', 'man ride horse']
+Objective: 270.426859465939
+PRIOR DISTANCE
+gt_woman ride elephant=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_man ride elephant=1.0
+gt_man ride horse=1.0
+gt_man ride elephant=1.0
+gt_woman ride horse=0.0
+gt_woman ride horse=0.0
+gt_girl ride horse=0.0
+Objective: 270.46957502922686
+gt_woman ride elephant=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_man ride elephant=1.0
+gt_man ride horse=1.0
+gt_man ride elephant=1.0
+gt_woman ride horse=0.0
+gt_woman ride horse=0.0
+gt_girl ride horse=0.0
+----------------------------
+Caption: a blue bus with a bike on the front
+Imageid: 352476, extracted triplets: ['bus with bike'], mapped triplets: ['truck with bike', 'street with motorcycle', 'bus with bike']
+Objective: 270.46957502922686
+PRIOR DISTANCE
+gt_bus with bike=0.0
+gt_street with motorcycle=0.0
+gt_truck with bike=1.0
+gt_bus with bike=0.0
+gt_street with motorcycle=0.0
+Objective: 270.1163157145526
+gt_bus with bike=0.0
+gt_street with motorcycle=0.0
+gt_truck with bike=1.0
+gt_bus with bike=1.0
+gt_street with motorcycle=0.0
+----------------------------
+Caption: a street sign on the side of a city street
+Imageid: 499537, extracted triplets: ['street sign on side'], mapped triplets: ['sign on sidewalk', 'pole on sidewalk']
+Objective: 270.1163157145526
+PRIOR DISTANCE
+gt_pole on sidewalk=1.0
+gt_sign on sidewalk=1.0
+Objective: 270.138325930435
+gt_pole on sidewalk=1.0
+gt_sign on sidewalk=1.0
+----------------------------
+Caption: a truck with flowers on the back of it
+Imageid: 171695, extracted triplets: ['truck on umbrella'], mapped triplets: ['truck on street', 'umbrella on street']
+Objective: 270.138325930435
+PRIOR DISTANCE
+gt_truck on street=0.0
+gt_umbrella on street=0.0
+gt_umbrella on street=-0.0
+gt_truck on street=0.0
+Objective: 270.1214806702755
+gt_truck on street=0.0
+gt_umbrella on street=0.0
+gt_umbrella on street=-0.0
+gt_truck on street=0.0
+----------------------------
+Caption: a red truck parked in the grass in a field
+Imageid: 103272, extracted triplets: ['truck in grass', 'truck in field'], mapped triplets: ['motorcycle in field', 'cow in grass', 'dog in grass', 'grass in field', 'truck in grass', 'motorcycle in field', 'horse in field', 'animal in field', 'tree in field', 'zebra in field', 'frisbee in field', 'glove in field', 'elephant in field', 'sheep in field', 'bat in field', 'people in field', 'kite in field', 'grass in field', 'truck in grass', 'truck in field']
+Objective: 270.1214806702755
+PRIOR DISTANCE
+gt_frisbee in field=0.0
+gt_dog in grass=1.0
+gt_people in field=0.0
+gt_kite in field=0.0
+gt_zebra in field=-0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_tree in field=0.0
+gt_people in field=-0.0
+gt_glove in field=0.0
+gt_frisbee in field=0.0
+gt_grass in field=1.0
+gt_grass in field=1.0
+gt_truck in field=0.0
+gt_truck in grass=1.0
+gt_truck in grass=1.0
+gt_dog in grass=-0.0
+gt_horse in field=1.0
+gt_bat in field=1.0
+gt_animal in field=1.0
+Objective: 269.86180569510026
+gt_frisbee in field=0.0
+gt_dog in grass=1.0
+gt_people in field=0.0
+gt_kite in field=0.0
+gt_zebra in field=-0.0
+gt_kite in field=0.0
+gt_elephant in field=1.0
+gt_tree in field=-0.0
+gt_people in field=-0.0
+gt_glove in field=1.0
+gt_frisbee in field=0.0
+gt_grass in field=1.0
+gt_grass in field=1.0
+gt_truck in field=0.0
+gt_truck in grass=1.0
+gt_truck in grass=1.0
+gt_dog in grass=-0.0
+gt_horse in field=0.0
+gt_bat in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a yellow truck parked in front of a fence
+Imageid: 450404, extracted triplets: ['truck in front', 'front of fence'], mapped triplets: ['vehicle in street', 'truck in street', 'truck in truck', 'truck in front', 'front of truck']
+Objective: 269.86180569510026
+PRIOR DISTANCE
+gt_truck in street=1.0
+gt_snow hold in front of truck=-0.0
+gt_hydrant in front of truck=1.0
+gt_truck in truck=1.0
+gt_truck in front of car=1.0
+gt_sidewalk in front of truck=0.0
+gt_man stand in front of truck=1.0
+gt_people stand in front of truck=1.0
+gt_truck in front of tower=1.0
+gt_truck in front of house=0.0
+gt_truck in front of build=0.0
+gt_woman stand in front of truck=1.0
+gt_front of truck=-0.0
+gt_truck in front=0.0
+gt_truck stand in front of truck=0.0
+Objective: 269.98090139496725
+gt_truck in street=1.0
+gt_snow hold in front of truck=-0.0
+gt_hydrant in front of truck=1.0
+gt_truck in truck=1.0
+gt_truck in front of car=1.0
+gt_sidewalk in front of truck=0.0
+gt_man stand in front of truck=1.0
+gt_people stand in front of truck=1.0
+gt_truck in front of tower=1.0
+gt_truck in front of house=0.0
+gt_truck in front of build=0.0
+gt_woman stand in front of truck=1.0
+gt_front of truck=-0.0
+gt_truck in front=0.0
+gt_truck stand in front of truck=0.0
+----------------------------
+Caption: a train is sitting on the tracks in a train station
+Imageid: 74465, extracted triplets: ['train in train station'], mapped triplets: ['bus in build', 'truck in build', 'vehicle in street']
+Objective: 269.98090139496725
+PRIOR DISTANCE
+gt_truck in build=0.0
+Objective: 269.9810647631546
+gt_truck in build=0.0
+----------------------------
+Caption: a man riding a skateboard down a city street
+Imageid: 408449, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 269.9810647631546
+PRIOR DISTANCE
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+Objective: 270.7146450776206
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+----------------------------
+Caption: a cat sitting on the hood of a car
+Imageid: 124462, extracted triplets: ['cat sit car'], mapped triplets: ['dog sit car', 'car sit car']
+Objective: 270.7146450776206
+PRIOR DISTANCE
+Objective: 270.7146450776206
+----------------------------
+Caption: a man sitting on top of an airplane on a runway
+Imageid: 457054, extracted triplets: ['man sit box', 'man sit pavement', 'man sit truck', 'man sit sign'], mapped triplets: ['man sit bench', 'man sit table', 'man sit bed', 'man sit door', 'man sit umbrella', 'dog sit sidewalk', 'pole sit street', 'bike sit sidewalk', 'dog sit street', 'sign sit street', 'bike sit street', 'hydrant sit sidewalk', 'sign sit sidewalk', 'man sit vehicle', 'person sit motorcycle', 'sign sit street', 'sign sit sidewalk']
+Objective: 270.7146450776206
+PRIOR DISTANCE
+Objective: 270.7146450776206
+----------------------------
+Caption: a white bus parked on the side of a street
+Imageid: 19158, extracted triplets: ['bus on side', 'side of street'], mapped triplets: ['bus on road', 'car on road', 'van on road', 'truck on road', 'tree of street', 'side of street']
+Objective: 270.7146450776206
+PRIOR DISTANCE
+gt_bus on road=0.0
+gt_side of street=1.0
+gt_tree of street=1.0
+gt_bus on road=1.0
+gt_car on road=-0.0
+gt_truck on road=1.0
+Objective: 270.78069037290044
+gt_bus on road=0.0
+gt_side of street=1.0
+gt_tree of street=1.0
+gt_bus on road=1.0
+gt_car on road=1.0
+gt_truck on road=1.0
+----------------------------
+Caption: a man holding a frisbee in a park
+Imageid: 209544, extracted triplets: ['man hold frisbee', 'man in park'], mapped triplets: ['man hold frisbee', 'people hold umbrella', 'person hold umbrella', 'people in field']
+Objective: 270.78069037290044
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_people hold umbrella=0.0
+gt_man hold frisbee=1.0
+gt_person hold umbrella=0.0
+gt_people in field=-0.0
+gt_people hold umbrella=1.0
+gt_person hold umbrella=1.0
+gt_man hold frisbee=1.0
+Objective: 270.9703890000647
+gt_people in field=0.0
+gt_people hold umbrella=0.0
+gt_man hold frisbee=1.0
+gt_person hold umbrella=0.0
+gt_people in field=-0.0
+gt_people hold umbrella=1.0
+gt_person hold umbrella=1.0
+gt_man hold frisbee=0.0
+----------------------------
+Caption: a large airplane sitting on top of an airport runway
+Imageid: 413096, extracted triplets: ['airplane sit building', 'airplane sit pole', 'airplane sit plane', 'airplane sit truck', 'airplane sit car'], mapped triplets: ['car sit house', 'truck sit build', 'truck sit street', 'sign sit pole', 'truck sit plane', 'truck sit truck', 'truck sit bus', 'car sit truck']
+Objective: 270.9703890000647
+PRIOR DISTANCE
+Objective: 270.9703890000647
+----------------------------
+Caption: an airplane parked on the tarmac at an airport
+Imageid: 18975, extracted triplets: ['airplane on road', 'airplane at plane'], mapped triplets: ['car on road', 'bus on road', 'van on road', 'truck on road', 'motorcycle on road']
+Objective: 270.9703890000647
+PRIOR DISTANCE
+gt_motorcycle on road=1.0
+gt_bus on road=0.0
+gt_motorcycle on road=1.0
+gt_bus on road=1.0
+gt_car on road=1.0
+gt_truck on road=1.0
+Objective: 271.2620206435318
+gt_motorcycle on road=1.0
+gt_bus on road=0.0
+gt_motorcycle on road=1.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_truck on road=1.0
+----------------------------
+Caption: a plane flying in the sky over a field
+Imageid: 79392, extracted triplets: ['plane in sky', 'plane over field'], mapped triplets: ['bird in sky', 'kite in sky', 'plane in sky', 'air over field', 'kite over field', 'sky over field']
+Objective: 271.2620206435318
+PRIOR DISTANCE
+gt_kite in sky=1.0
+gt_kite over field=1.0
+gt_plane in sky=1.0
+gt_air over field=1.0
+gt_plane in sky=-0.0
+gt_kite over field=1.0
+gt_sky over field=0.0
+gt_kite in sky=1.0
+Objective: 271.5061677342398
+gt_kite in sky=1.0
+gt_kite over field=1.0
+gt_plane in sky=1.0
+gt_air over field=1.0
+gt_plane in sky=-0.0
+gt_kite over field=1.0
+gt_sky over field=1.0
+gt_kite in sky=-0.0
+----------------------------
+Caption: a group of people standing in front of a bus
+Imageid: 393647, extracted triplets: ['front of bus'], mapped triplets: ['roof of bus']
+Objective: 271.5061677342398
+PRIOR DISTANCE
+Objective: 271.5061677342398
+----------------------------
+Caption: a bus driving down a city street with cars
+Imageid: 147725, extracted triplets: ['bus drive street', 'bus drive car', 'bus drive bus', 'bus drive sidewalk', 'bus with car'], mapped triplets: ['bus drive road', 'vehicle drive road', 'motorcycle drive street', 'car drive road', 'van drive street', 'van drive road', 'truck drive street', 'truck drive road', 'car drive street', 'bus drive street', 'truck drive car', 'vehicle drive road', 'van drive road', 'vehicle drive road', 'truck drive road', 'van drive road', 'car drive road', 'people drive road', 'man drive road', 'bus drive road', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'people drive road', 'man drive road', 'truck with car', 'street with car', 'bus with car']
+Objective: 271.5061677342398
+PRIOR DISTANCE
+gt_truck with car=0.0
+gt_street with car=0.0
+gt_street with car=1.0
+gt_bus with car=1.0
+gt_truck with car=1.0
+Objective: 271.6467561260435
+gt_truck with car=0.0
+gt_street with car=0.0
+gt_street with car=1.0
+gt_bus with car=1.0
+gt_truck with car=1.0
+----------------------------
+Caption: a truck with a bird sitting on top of it
+Imageid: 126030, extracted triplets: ['truck with bird', 'bird sit bird', 'bird sit sky'], mapped triplets: ['truck with animal', 'truck with dog', 'truck sit sky']
+Objective: 271.6467561260435
+PRIOR DISTANCE
+gt_truck with dog=1.0
+gt_truck with animal=-0.0
+Objective: 271.58936264865446
+gt_truck with dog=1.0
+gt_truck with animal=-0.0
+----------------------------
+Caption: a train is sitting on the tracks in a train station
+Imageid: 373089, extracted triplets: ['train sit on track', 'train in train station'], mapped triplets: ['train sit on track', 'vehicle in street', 'sign in build']
+Objective: 271.58936264865446
+PRIOR DISTANCE
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+Objective: 271.466091552371
+gt_train sit on track=1.0
+gt_train sit on track=0.0
+----------------------------
+Caption: a yellow boat in the water in a city
+Imageid: 102466, extracted triplets: ['boat in water', 'boat in building'], mapped triplets: ['truck in water', 'boat in water', 'truck in build']
+Objective: 271.466091552371
+PRIOR DISTANCE
+gt_boat in water=1.0
+gt_boat in water=1.0
+gt_truck in build=0.0
+gt_truck in water=-0.0
+Objective: 271.6408946981359
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_truck in build=1.0
+gt_truck in water=-0.0
+----------------------------
+Caption: a person crossing a city street with a traffic light
+Imageid: 506489, extracted triplets: ['person cross sidewalk', 'person cross pole', 'person cross bench', 'person cross street', 'person cross car', 'person cross fence', 'person cross man', 'person cross road'], mapped triplets: ['man cross street', 'woman cross street', 'people cross street', 'girl cross street', 'boy cross street', 'man cross street', 'woman cross street', 'people cross street', 'girl cross street', 'boy cross street', 'man cross street', 'woman cross street', 'people cross street', 'girl cross street', 'boy cross street', 'man cross street', 'woman cross street', 'people cross street', 'girl cross street', 'boy cross street', 'man cross street', 'woman cross street', 'child cross road', 'people cross street', 'girl cross street', 'boy cross street', 'people cross street', 'people cross street', 'girl cross street', 'boy cross street', 'child cross road', 'people cross street']
+Objective: 271.6408946981359
+PRIOR DISTANCE
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_child cross road=0.0
+gt_child cross road=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_child cross road=1.0
+gt_child cross road=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_people cross street=1.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+Objective: 272.6592197019301
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_girl cross street=0.0
+gt_child cross road=0.0
+gt_child cross road=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_people cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_woman cross street=0.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_girl cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_boy cross street=1.0
+gt_child cross road=1.0
+gt_child cross road=1.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_people cross street=-0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_man cross street=0.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+gt_woman cross street=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard over a fire hydrant
+Imageid: 406070, extracted triplets: ['man on skateboard'], mapped triplets: ['boy on skateboard', 'person on skateboard', 'woman on skateboard', 'man on skateboard']
+Objective: 272.6592197019301
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=-0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+Objective: 272.9912090978456
+gt_boy on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=-0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a street sign on the side of a truck
+Imageid: 299409, extracted triplets: ['side of truck'], mapped triplets: ['door of van', 'window of truck']
+Objective: 272.9912090978456
+PRIOR DISTANCE
+gt_door of van=-0.0
+gt_window of truck=0.0
+Objective: 272.9688661442311
+gt_door of van=-0.0
+gt_window of truck=1.0
+----------------------------
+Caption: an old truck sitting in the grass in a field
+Imageid: 227164, extracted triplets: ['truck in field'], mapped triplets: ['motorcycle in field', 'horse in field', 'animal in field', 'cow in field', 'elephant in field', 'frisbee in field', 'glove in field', 'sheep in field', 'bat in field', 'kite in field', 'people in field', 'grass in field', 'truck in field']
+Objective: 272.9688661442311
+PRIOR DISTANCE
+gt_frisbee in field=0.0
+gt_people in field=0.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=1.0
+gt_people in field=-0.0
+gt_glove in field=1.0
+gt_frisbee in field=0.0
+gt_grass in field=1.0
+gt_truck in field=0.0
+gt_horse in field=0.0
+gt_bat in field=1.0
+gt_animal in field=0.0
+Objective: 272.9751157063676
+gt_frisbee in field=0.0
+gt_people in field=0.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=1.0
+gt_people in field=-0.0
+gt_glove in field=1.0
+gt_frisbee in field=0.0
+gt_grass in field=1.0
+gt_truck in field=0.0
+gt_horse in field=0.0
+gt_bat in field=1.0
+gt_animal in field=0.0
+----------------------------
+Caption: a pile of luggage sitting on the side of a building
+Imageid: 240784, extracted triplets: ['side of building'], mapped triplets: ['sidewalk of build', 'window of build']
+Objective: 272.9751157063676
+PRIOR DISTANCE
+Objective: 272.9751157063676
+----------------------------
+Caption: a green bus parked on the side of a parking lot
+Imageid: 373422, extracted triplets: ['bus on side'], mapped triplets: ['bus on road', 'truck on street', 'vehicle on street']
+Objective: 272.9751157063676
+PRIOR DISTANCE
+gt_bus on road=0.0
+gt_truck on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=1.0
+gt_truck on street=0.0
+gt_bus on road=1.0
+Objective: 273.24006200000935
+gt_bus on road=0.0
+gt_truck on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=1.0
+gt_truck on street=0.0
+gt_bus on road=1.0
+----------------------------
+Caption: a green and white bus driving down a city street
+Imageid: 252639, extracted triplets: ['bus drive street', 'bus drive road'], mapped triplets: ['bus drive road', 'vehicle drive road', 'motorcycle drive street', 'car drive road', 'van drive street', 'van drive road', 'truck drive street', 'truck drive road', 'car drive street', 'bus drive street', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'bus drive road']
+Objective: 273.24006200000935
+PRIOR DISTANCE
+Objective: 273.24006200000935
+----------------------------
+Caption: a man holding a street sign on the side of a street
+Imageid: 14392, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'side of street']
+Objective: 273.24006200000935
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_sidewalk of street=1.0
+Objective: 273.33813120204394
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a black and white photo of a man sitting on a truck with bananas
+Imageid: 415880, extracted triplets: ['man sit on truck', 'man with banana'], mapped triplets: ['man sit vehicle', 'person sit motorcycle', 'person with banana', 'man with banana']
+Objective: 273.33813120204394
+PRIOR DISTANCE
+gt_man with banana=-0.0
+Objective: 273.6342252846354
+gt_man with banana=1.0
+----------------------------
+Caption: a motorcycle parked on the side of a street
+Imageid: 263828, extracted triplets: ['motorcycle on side', 'side of street'], mapped triplets: ['motorcycle on street', 'motorcycle on road', 'tree of street', 'sidewalk of street', 'photo of street', 'cone of street', 'side of street', 'street of sign', 'street of clock']
+Objective: 273.6342252846354
+PRIOR DISTANCE
+gt_motorcycle on road=1.0
+gt_motorcycle on street=0.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_motorcycle on street=-0.0
+gt_tree of street=1.0
+gt_street of sign=-0.0
+gt_cone of street=-0.0
+gt_photo of street=1.0
+gt_motorcycle on road=1.0
+gt_sidewalk of street=1.0
+Objective: 273.37325692629753
+gt_motorcycle on road=1.0
+gt_motorcycle on street=0.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_motorcycle on street=-0.0
+gt_tree of street=1.0
+gt_street of sign=-0.0
+gt_cone of street=-0.0
+gt_photo of street=1.0
+gt_motorcycle on road=1.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a black and white photo of an airplane on a runway
+Imageid: 49014, extracted triplets: ['photo of airplane'], mapped triplets: ['photo of car', 'photo of truck']
+Objective: 273.37325692629753
+PRIOR DISTANCE
+gt_photo of car=-0.0
+gt_photo of truck=1.0
+Objective: 273.3924906372545
+gt_photo of car=-0.0
+gt_photo of truck=1.0
+----------------------------
+Caption: a person holding a dog in a car
+Imageid: 540774, extracted triplets: ['person hold dog', 'person in car'], mapped triplets: ['man hold dog', 'person in street', 'vehicle in street']
+Objective: 273.3924906372545
+PRIOR DISTANCE
+Objective: 273.3924906372545
+----------------------------
+Caption: a red bus driving down a city street
+Imageid: 567013, extracted triplets: ['bus drive base', 'bus drive sign', 'bus drive sidewalk', 'bus drive pole', 'bus drive building'], mapped triplets: ['vehicle drive road', 'van drive road', 'truck drive road', 'vehicle drive road', 'van drive road', 'truck drive road', 'bus drive road', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'bus drive street', 'car drive street', 'motorcycle drive street', 'truck drive street', 'van drive street', 'vehicle drive road', 'van drive street', 'truck drive street', 'bus drive street', 'truck drive house']
+Objective: 273.3924906372545
+PRIOR DISTANCE
+gt_truck drive house=1.0
+Objective: 273.39168375920696
+gt_truck drive house=1.0
+----------------------------
+Caption: a man standing next to a truck on a road
+Imageid: 546965, extracted triplets: ['man next to truck', 'truck on road'], mapped triplets: ['man next to man', 'man next to truck', 'car on road', 'van on road', 'bus on road', 'vehicle on street', 'street on road', 'road on road', 'truck on road']
+Objective: 273.39168375920696
+PRIOR DISTANCE
+gt_bus on road=0.0
+gt_vehicle on street=0.0
+gt_street on road=1.0
+gt_man next to truck=1.0
+gt_vehicle on street=1.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_truck on road=1.0
+gt_road on road=1.0
+Objective: 273.80462986751354
+gt_bus on road=0.0
+gt_vehicle on street=0.0
+gt_street on road=1.0
+gt_man next to truck=1.0
+gt_vehicle on street=0.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_truck on road=1.0
+gt_road on road=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a table
+Imageid: 262148, extracted triplets: ['man on skateboard', 'man on table'], mapped triplets: ['person on skateboard', 'boy on skateboard', 'woman on skateboard', 'man on skateboard', 'woman on table', 'laptop on table', 'donut on table', 'cake on table', 'bag on table', 'apple on table']
+Objective: 273.80462986751354
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_bag on table=1.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_laptop on table=0.0
+gt_cake on table=1.0
+gt_laptop on table=0.0
+gt_woman on skateboard=1.0
+gt_woman on skateboard=1.0
+gt_apple on table=0.0
+gt_boy on skateboard=-0.0
+gt_man on skateboard=0.0
+gt_bag on table=-0.0
+gt_person on skateboard=1.0
+Objective: 273.7474667613929
+gt_boy on skateboard=0.0
+gt_bag on table=1.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_laptop on table=0.0
+gt_cake on table=1.0
+gt_laptop on table=0.0
+gt_woman on skateboard=1.0
+gt_woman on skateboard=1.0
+gt_apple on table=0.0
+gt_boy on skateboard=-0.0
+gt_man on skateboard=1.0
+gt_bag on table=-0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a herd of sheep standing in a field
+Imageid: 40946, extracted triplets: ['sheep in field'], mapped triplets: ['horse in field', 'cow in field', 'animal in field', 'sheep in field', 'grass in field']
+Objective: 273.7474667613929
+PRIOR DISTANCE
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_grass in field=1.0
+gt_horse in field=0.0
+gt_animal in field=0.0
+Objective: 273.68497125290327
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_grass in field=1.0
+gt_horse in field=1.0
+gt_animal in field=1.0
+----------------------------
+Caption: a parking meter with a bike on the side of it
+Imageid: 326317, extracted triplets: ['bike on side'], mapped triplets: ['motorcycle on road', 'bike on street']
+Objective: 273.68497125290327
+PRIOR DISTANCE
+gt_motorcycle on road=1.0
+gt_motorcycle on road=1.0
+gt_bike on street=1.0
+Objective: 273.91282408210947
+gt_motorcycle on road=1.0
+gt_motorcycle on road=1.0
+gt_bike on street=1.0
+----------------------------
+Caption: a person walking down a city street with an umbrella
+Imageid: 157019, extracted triplets: ['person with umbrella'], mapped triplets: ['boy with umbrella', 'woman with umbrella', 'girl with umbrella', 'man with umbrella', 'people with umbrella', 'person with umbrella']
+Objective: 273.91282408210947
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_person with umbrella=0.0
+gt_man with umbrella=1.0
+gt_people with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+Objective: 274.05361556515624
+gt_people with umbrella=0.0
+gt_man with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_person with umbrella=0.0
+gt_man with umbrella=1.0
+gt_people with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+----------------------------
+Caption: a young man doing a trick on a skateboard on a bench
+Imageid: 125071, extracted triplets: ['man on skateboard', 'man on bench'], mapped triplets: ['boy on skateboard', 'person on skateboard', 'man on skateboard', 'woman on bench', 'man on bench']
+Objective: 274.05361556515624
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=-0.0
+gt_woman on bench=0.0
+gt_woman on bench=0.0
+gt_man on bench=1.0
+gt_man on skateboard=1.0
+gt_person on skateboard=1.0
+Objective: 274.1991079615446
+gt_boy on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=-0.0
+gt_woman on bench=1.0
+gt_woman on bench=1.0
+gt_man on bench=1.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a young boy kicking a soccer ball on a field
+Imageid: 497067, extracted triplets: ['boy kick soccer ball', 'boy on field'], mapped triplets: ['boy kick ball', 'boy on grass', 'child on field', 'frisbee on field', 'man on field', 'people on field', 'boy on field']
+Objective: 274.1991079615446
+PRIOR DISTANCE
+gt_people on field=1.0
+gt_man on field=0.0
+gt_woman on field=0.0
+gt_frisbee on field=0.0
+gt_boy kick ball=1.0
+gt_boy on field=1.0
+gt_people on field=1.0
+gt_man on field=1.0
+gt_frisbee on field=1.0
+gt_boy on grass=-0.0
+Objective: 274.4941385319796
+gt_people on field=1.0
+gt_man on field=0.0
+gt_woman on field=0.0
+gt_frisbee on field=0.0
+gt_boy kick ball=1.0
+gt_boy on field=1.0
+gt_people on field=1.0
+gt_man on field=0.0
+gt_frisbee on field=1.0
+gt_boy on grass=-0.0
+----------------------------
+Caption: a man in a suit and tie standing next to a red truck
+Imageid: 236068, extracted triplets: ['man in suit'], mapped triplets: ['man in uniform', 'boy in suit', 'man in suit']
+Objective: 274.4941385319796
+PRIOR DISTANCE
+gt_woman in uniform=1.0
+gt_man in suit=0.0
+gt_man in uniform=0.0
+gt_man in suit=-0.0
+gt_man in uniform=1.0
+Objective: 273.9232013687254
+gt_woman in uniform=1.0
+gt_man in suit=0.0
+gt_man in uniform=0.0
+gt_man in suit=-0.0
+gt_man in uniform=1.0
+----------------------------
+Caption: a group of people standing in a field with bikes
+Imageid: 191846, extracted triplets: ['people in field', 'people with bicycle', 'people with bike'], mapped triplets: ['horse in field', 'cow in field', 'sheep in field', 'elephant in field', 'grass in field', 'bat in field', 'glove in field', 'people in field', 'people with bike', 'woman with bicycle', 'woman with bicycle', 'man with bicycle', 'people with bike']
+Objective: 273.9232013687254
+PRIOR DISTANCE
+gt_people with bike=0.0
+gt_people with bike=0.0
+gt_people in field=0.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_elephant in field=1.0
+gt_people in field=-0.0
+gt_glove in field=1.0
+gt_grass in field=1.0
+gt_horse in field=1.0
+gt_woman with bicycle=0.0
+gt_woman with bicycle=0.0
+gt_woman with bicycle=0.0
+gt_bat in field=1.0
+Objective: 273.8005181280099
+gt_people with bike=0.0
+gt_people with bike=0.0
+gt_people in field=0.0
+gt_cow in field=0.0
+gt_cow in field=0.0
+gt_elephant in field=0.0
+gt_people in field=-0.0
+gt_glove in field=0.0
+gt_grass in field=1.0
+gt_horse in field=1.0
+gt_woman with bicycle=0.0
+gt_woman with bicycle=0.0
+gt_woman with bicycle=0.0
+gt_bat in field=0.0
+----------------------------
+Caption: a white car parked on the side of a street
+Imageid: 463203, extracted triplets: ['car on side', 'side of street'], mapped triplets: ['car on road', 'car on street', 'car on sidewalk', 'sidewalk of street', 'side of street']
+Objective: 273.8005181280099
+PRIOR DISTANCE
+gt_car on street=1.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_sidewalk of street=1.0
+gt_car on street=1.0
+gt_car on road=0.0
+Objective: 273.6135263330205
+gt_car on street=1.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_sidewalk of street=1.0
+gt_car on street=1.0
+gt_car on road=0.0
+----------------------------
+Caption: a man talking on a cell phone next to a bike
+Imageid: 528729, extracted triplets: ['man next to bike'], mapped triplets: ['man next to motorcycle', 'man next to bike']
+Objective: 273.6135263330205
+PRIOR DISTANCE
+gt_man next to bike=1.0
+gt_man next to motorcycle=-0.0
+Objective: 273.7020729476541
+gt_man next to bike=1.0
+gt_man next to motorcycle=0.0
+----------------------------
+Caption: a blue and white bus driving down a city street
+Imageid: 406329, extracted triplets: ['bus drive road', 'bus drive street'], mapped triplets: ['vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'bus drive road', 'bus drive road', 'vehicle drive road', 'motorcycle drive street', 'car drive road', 'van drive street', 'van drive road', 'truck drive street', 'truck drive road', 'car drive street', 'bus drive street']
+Objective: 273.7020729476541
+PRIOR DISTANCE
+Objective: 273.7020729476541
+----------------------------
+Caption: a blue truck parked in front of a building
+Imageid: 472415, extracted triplets: ['truck in road', 'truck in grass', 'truck in door'], mapped triplets: ['vehicle in street', 'truck in street', 'truck in road', 'cow in grass', 'horse in grass', 'truck in grass', 'truck in door', 'van in build', 'truck in window']
+Objective: 273.7020729476541
+PRIOR DISTANCE
+gt_truck in street=1.0
+gt_truck in grass=1.0
+gt_truck in window=-0.0
+gt_truck in road=1.0
+Objective: 273.8238108189384
+gt_truck in street=0.0
+gt_truck in grass=1.0
+gt_truck in window=-0.0
+gt_truck in road=1.0
+----------------------------
+Caption: a house with a clock on the front of it
+Imageid: 413419, extracted triplets: ['house with clock', 'clock on window'], mapped triplets: ['hill with house', 'tower with clock', 'clock on pole', 'clock on sidewalk', 'clock on light']
+Objective: 273.8238108189384
+PRIOR DISTANCE
+gt_tower with clock=0.0
+gt_clock on sidewalk=0.0
+gt_clock on light=0.0
+gt_tower with clock=1.0
+gt_hill with house=1.0
+Objective: 273.0289056841258
+gt_tower with clock=0.0
+gt_clock on sidewalk=0.0
+gt_clock on light=0.0
+gt_tower with clock=1.0
+gt_hill with house=1.0
+----------------------------
+Caption: a man riding a motorcycle down a city street with cars
+Imageid: 336232, extracted triplets: ['man ride motorcycle', 'man with car'], mapped triplets: ['man ride motorcycle', 'man with woman', 'man with camera', 'man with hat', 'man with umbrella', 'man with ski', 'man with bike', 'man with helmet', 'man with door', 'man with tie', 'man with dog', 'man with vest', 'man with pant', 'man with suitcase', 'man with frisbee', 'man with racket', 'man with flag', 'man with coat', 'man with bicycle', 'man with boy', 'man with skateboard', 'man with surfboard', 'man with horse', 'man with car', 'man with banana', 'man with bag', 'man with people']
+Objective: 273.0289056841258
+PRIOR DISTANCE
+gt_woman with bag=0.0
+gt_woman with suitcase=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_woman with tie=0.0
+gt_woman with racket=0.0
+gt_man with camera=0.0
+gt_man with car=1.0
+gt_man with hat=0.0
+gt_man with umbrella=1.0
+gt_man with bag=0.0
+gt_man with skier=0.0
+gt_man with racket=1.0
+gt_woman with umbrella=0.0
+gt_man with ski=1.0
+gt_man with tie=0.0
+gt_man with suitcase=0.0
+gt_man with helmet=0.0
+gt_man with dog=0.0
+gt_man with suitcase=-0.0
+gt_man with ski=0.0
+gt_woman with hat=-0.0
+gt_woman with camera=1.0
+gt_man with helmet=-0.0
+gt_man ride motorcycle=1.0
+gt_man with camera=1.0
+gt_woman with dog=-0.0
+gt_woman ride motorcycle=1.0
+gt_man with surfboard=1.0
+gt_man with horse=0.0
+gt_man with vest=-0.0
+gt_woman with suitcase=-0.0
+gt_man with banana=1.0
+gt_man with umbrella=1.0
+gt_man with tie=-0.0
+gt_man with bike=-0.0
+gt_man with bag=-0.0
+gt_man with skateboard=-0.0
+gt_woman with bicycle=0.0
+gt_man with coat=-0.0
+gt_woman with umbrella=1.0
+Objective: 271.7089920143365
+gt_woman with bag=0.0
+gt_woman with suitcase=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_woman with tie=0.0
+gt_woman with racket=0.0
+gt_man with camera=0.0
+gt_man with car=1.0
+gt_man with hat=0.0
+gt_man with umbrella=1.0
+gt_man with bag=0.0
+gt_man with skier=0.0
+gt_man with racket=1.0
+gt_woman with umbrella=0.0
+gt_man with ski=1.0
+gt_man with tie=0.0
+gt_man with suitcase=0.0
+gt_man with helmet=0.0
+gt_man with dog=0.0
+gt_man with suitcase=-0.0
+gt_man with ski=1.0
+gt_woman with hat=-0.0
+gt_woman with camera=1.0
+gt_man with helmet=-0.0
+gt_man ride motorcycle=1.0
+gt_man with camera=1.0
+gt_woman with dog=-0.0
+gt_woman ride motorcycle=1.0
+gt_man with surfboard=1.0
+gt_man with horse=0.0
+gt_man with vest=-0.0
+gt_woman with suitcase=-0.0
+gt_man with banana=1.0
+gt_man with umbrella=1.0
+gt_man with tie=-0.0
+gt_man with bike=-0.0
+gt_man with bag=-0.0
+gt_man with skateboard=-0.0
+gt_woman with bicycle=0.0
+gt_man with coat=1.0
+gt_woman with umbrella=1.0
+----------------------------
+Caption: a white bus driving down a city street
+Imageid: 496207, extracted triplets: ['bus drive bus', 'bus drive sign', 'bus drive sidewalk', 'bus drive pole', 'bus drive car', 'bus drive street', 'bus drive light', 'bus drive building', 'bus drive bike', 'bus drive truck', 'bus drive window', 'bus drive fence', 'bus drive road'], mapped triplets: ['vehicle drive road', 'truck drive road', 'vehicle drive road', 'van drive road', 'truck drive road', 'car drive road', 'people drive road', 'bus drive road', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'vehicle drive road', 'van drive street', 'truck drive street', 'bus drive street', 'truck drive bus', 'car drive bus', 'bus drive road', 'vehicle drive road', 'van drive street', 'truck drive road', 'car drive street', 'bus drive street', 'vehicle drive road', 'van drive street', 'truck drive house', 'vehicle drive road', 'motorcycle drive street', 'vehicle drive road', 'van drive road', 'truck drive road', 'vehicle drive road', 'van drive street', 'vehicle drive road', 'van drive street', 'truck drive street', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'bus drive road']
+Objective: 271.7089920143365
+PRIOR DISTANCE
+gt_truck drive bus=-0.0
+gt_truck drive house=1.0
+gt_car drive bus=1.0
+Objective: 271.92705440333907
+gt_truck drive bus=-0.0
+gt_truck drive house=1.0
+gt_car drive bus=1.0
+----------------------------
+Caption: a black truck driving down a city street
+Imageid: 365745, extracted triplets: ['truck drive street', 'truck drive light', 'truck drive building', 'truck drive pole', 'truck drive sign'], mapped triplets: ['vehicle drive road', 'van drive street', 'truck drive street', 'truck drive road', 'truck drive house', 'truck drive build', 'truck drive road', 'truck drive street', 'truck drive road', 'vehicle drive road']
+Objective: 271.92705440333907
+PRIOR DISTANCE
+gt_truck drive house=1.0
+gt_truck drive build=0.0
+Objective: 271.93849539557937
+gt_truck drive house=1.0
+gt_truck drive build=0.0
+----------------------------
+Caption: a blue truck driving down a road
+Imageid: 441292, extracted triplets: ['truck drive road'], mapped triplets: ['bus drive road', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road']
+Objective: 271.93849539557937
+PRIOR DISTANCE
+Objective: 271.93849539557937
+----------------------------
+Caption: a semi truck is driving down a road
+Imageid: 67463, extracted triplets: ['truck drive road'], mapped triplets: ['bus drive road', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road']
+Objective: 271.93849539557937
+PRIOR DISTANCE
+Objective: 271.93849539557937
+----------------------------
+Caption: two men standing next to a truck on a city street
+Imageid: 172648, extracted triplets: ['truck on sidewalk', 'truck on street', 'truck on car', 'truck on road'], mapped triplets: ['vehicle on street', 'car on street', 'bus on street', 'van on street', 'motorcycle on street', 'car on road', 'van on road', 'bus on road', 'car on street', 'vehicle on street', 'bus on street', 'truck on road', 'truck on street', 'truck on street', 'car on road', 'van on road', 'car on street', 'vehicle on street', 'bus on road', 'truck on road', 'bike on road', 'motorcycle on road', 'bicycle on street', 'car on road', 'van on road', 'bus on road', 'vehicle on street', 'truck on street', 'motorcycle on road', 'truck on beach', 'horse on road', 'truck on road']
+Objective: 271.93849539557937
+PRIOR DISTANCE
+gt_bicycle on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on road=1.0
+gt_motorcycle on road=1.0
+gt_bus on road=0.0
+gt_bus on road=0.0
+gt_bus on road=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on beach=1.0
+gt_bike on road=1.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_motorcycle on street=-0.0
+gt_van on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_motorcycle on road=1.0
+gt_motorcycle on road=1.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on road=1.0
+gt_bus on road=1.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_car on road=0.0
+gt_car on road=0.0
+gt_truck on road=1.0
+gt_truck on road=1.0
+gt_truck on road=1.0
+gt_horse on road=0.0
+Objective: 271.52844387447084
+gt_bicycle on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on road=1.0
+gt_motorcycle on road=1.0
+gt_bus on road=0.0
+gt_bus on road=0.0
+gt_bus on road=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_truck on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on beach=1.0
+gt_bike on road=1.0
+gt_bus on street=1.0
+gt_bus on street=1.0
+gt_motorcycle on street=1.0
+gt_van on street=1.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_motorcycle on road=1.0
+gt_motorcycle on road=1.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_truck on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_car on street=1.0
+gt_bus on road=1.0
+gt_bus on road=1.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_car on road=0.0
+gt_car on road=0.0
+gt_truck on road=1.0
+gt_truck on road=1.0
+gt_truck on road=1.0
+gt_horse on road=1.0
+----------------------------
+Caption: a woman walking down a street with an umbrella
+Imageid: 427401, extracted triplets: ['woman with umbrella'], mapped triplets: ['boy with umbrella', 'hat with umbrella', 'girl with umbrella', 'man with umbrella', 'elephant with umbrella', 'chair with umbrella', 'woman with umbrella']
+Objective: 271.52844387447084
+PRIOR DISTANCE
+gt_man with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_chair with umbrella=1.0
+gt_man with umbrella=1.0
+gt_elephant with umbrella=1.0
+gt_hat with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+Objective: 271.64212303829845
+gt_man with umbrella=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_chair with umbrella=0.0
+gt_chair with umbrella=1.0
+gt_man with umbrella=1.0
+gt_elephant with umbrella=0.0
+gt_hat with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+----------------------------
+Caption: a blue motorcycle parked in front of a truck
+Imageid: 359715, extracted triplets: ['motorcycle in motorcycle', 'motorcycle in truck', 'motorcycle in car'], mapped triplets: ['motorcycle in street', 'motorcycle in car', 'motorcycle in build', 'motorcycle in street', 'truck in street', 'vehicle in street', 'motorcycle in car', 'motorcycle in street', 'vehicle in street', 'car in street']
+Objective: 271.64212303829845
+PRIOR DISTANCE
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_truck in street=0.0
+gt_car in street=0.0
+gt_motorcycle in car=0.0
+gt_motorcycle in car=0.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+Objective: 271.5013837363477
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_motorcycle in street=1.0
+gt_truck in street=1.0
+gt_car in street=0.0
+gt_motorcycle in car=0.0
+gt_motorcycle in car=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+gt_motorcycle in street=0.0
+----------------------------
+Caption: two horses standing in a field of grass
+Imageid: 248774, extracted triplets: ['field of grass'], mapped triplets: ['field of dirt', 'horse of grass', 'field of grass']
+Objective: 271.5013837363477
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=-0.0
+gt_field of dirt=1.0
+gt_horse of grass=1.0
+Objective: 271.9074044440293
+gt_field of grass=0.0
+gt_field of grass=-0.0
+gt_field of dirt=1.0
+gt_horse of grass=1.0
+----------------------------
+Caption: a train is traveling down the tracks next to a truck
+Imageid: 476406, extracted triplets: ['train next to van'], mapped triplets: ['bus next to van', 'car next to van']
+Objective: 271.9074044440293
+PRIOR DISTANCE
+gt_bus next to van=1.0
+gt_car next to van=-0.0
+Objective: 271.8562814837736
+gt_bus next to van=0.0
+gt_car next to van=-0.0
+----------------------------
+Caption: a white truck parked in a parking lot
+Imageid: 112093, extracted triplets: ['truck in sidewalk', 'truck in truck', 'truck in road', 'truck in sticker'], mapped triplets: ['truck in street', 'vehicle in street', 'truck in truck', 'elephant in road', 'truck in street', 'vehicle in street', 'person in road', 'road in road', 'sign in road', 'camera in street', 'bus in street', 'hydrant in street', 'sign in street', 'truck in car', 'child in truck', 'person in street', 'truck in build', 'camera in road', 'truck in road', 'road in car', 'sign in sticker']
+Objective: 271.8562814837736
+PRIOR DISTANCE
+gt_bus in street=1.0
+gt_truck in street=1.0
+gt_truck in street=1.0
+gt_truck in truck=1.0
+gt_elephant in road=1.0
+gt_sign in street=1.0
+gt_person in road=1.0
+gt_truck in road=1.0
+gt_truck in build=1.0
+gt_bus in street=0.0
+gt_hydrant in street=-0.0
+Objective: 271.42983882262064
+gt_bus in street=1.0
+gt_truck in street=1.0
+gt_truck in street=1.0
+gt_truck in truck=1.0
+gt_elephant in road=1.0
+gt_sign in street=1.0
+gt_person in road=1.0
+gt_truck in road=1.0
+gt_truck in build=1.0
+gt_bus in street=-0.0
+gt_hydrant in street=-0.0
+----------------------------
+Caption: a man holding a frisbee in a field
+Imageid: 200717, extracted triplets: ['man hold frisbee', 'man in field'], mapped triplets: ['man hold frisbee', 'people in field', 'man in grass', 'animal in field', 'man in field']
+Objective: 271.42983882262064
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_people in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+gt_man hold frisbee=0.0
+Objective: 271.4188133859547
+gt_woman in grass=0.0
+gt_people in field=0.0
+gt_man hold frisbee=1.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=-0.0
+gt_animal in field=1.0
+gt_man hold frisbee=0.0
+----------------------------
+Caption: an airplane flying over a road with a truck
+Imageid: 151081, extracted triplets: ['airplane over road', 'airplane with truck'], mapped triplets: ['bridge over street', 'sky over field', 'truck with bus', 'truck with car', 'truck with van']
+Objective: 271.4188133859547
+PRIOR DISTANCE
+gt_truck with car=0.0
+gt_bridge over street=-0.0
+gt_truck with van=1.0
+gt_sky over field=1.0
+gt_truck with car=1.0
+Objective: 271.56901312078975
+gt_truck with car=0.0
+gt_bridge over street=0.0
+gt_truck with van=1.0
+gt_sky over field=1.0
+gt_truck with car=1.0
+----------------------------
+Caption: a car driving down a city street with a clock tower
+Imageid: 139468, extracted triplets: ['car with clock tower'], mapped triplets: ['tower with clock', 'build with clock']
+Objective: 271.56901312078975
+PRIOR DISTANCE
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=1.0
+Objective: 271.5987705574973
+gt_tower with clock=0.0
+gt_build with clock=0.0
+gt_tower with clock=1.0
+----------------------------
+Caption: a person walking in the snow with an umbrella
+Imageid: 339678, extracted triplets: ['person in snow', 'person with umbrella'], mapped triplets: ['people in snow', 'child in snow', 'skier in snow', 'boy with umbrella', 'woman with umbrella', 'girl with umbrella', 'people with umbrella', 'person with umbrella', 'man with umbrella', 'elephant with umbrella']
+Objective: 271.5987705574973
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_people in snow=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_skier in snow=-0.0
+gt_people in snow=0.0
+gt_person with umbrella=0.0
+gt_man with umbrella=1.0
+gt_child in snow=0.0
+gt_elephant with umbrella=0.0
+gt_people with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+Objective: 271.4661485133741
+gt_people with umbrella=0.0
+gt_man with umbrella=1.0
+gt_skier in snow=1.0
+gt_child in snow=1.0
+gt_people in snow=1.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_skier in snow=-0.0
+gt_people in snow=0.0
+gt_person with umbrella=0.0
+gt_man with umbrella=1.0
+gt_child in snow=-0.0
+gt_elephant with umbrella=0.0
+gt_people with umbrella=1.0
+gt_woman with umbrella=1.0
+gt_woman with umbrella=1.0
+----------------------------
+Caption: a man throwing a frisbee in a field
+Imageid: 200961, extracted triplets: ['man throw frisbee', 'man in field'], mapped triplets: ['man throw frisbee', 'animal in field', 'people in field', 'grass in field', 'man in field']
+Objective: 271.4661485133741
+PRIOR DISTANCE
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=-0.0
+gt_grass in field=1.0
+gt_man throw frisbee=0.0
+gt_animal in field=1.0
+Objective: 271.5821455248844
+gt_man throw frisbee=0.0
+gt_people in field=0.0
+gt_man in field=0.0
+gt_man in field=0.0
+gt_people in field=-0.0
+gt_grass in field=1.0
+gt_man throw frisbee=0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a person flying a kite in a field
+Imageid: 454102, extracted triplets: ['person fly kite', 'person in field'], mapped triplets: ['man fly kite', 'woman fly kite', 'people fly kite', 'person fly kite', 'people in field', 'animal in field', 'elephant in field', 'bat in field', 'sheep in field', 'grass in field', 'kite in field', 'horse in field', 'zebra in field', 'cow in field', 'tree in field', 'frisbee in field', 'glove in field']
+Objective: 271.5821455248844
+PRIOR DISTANCE
+gt_frisbee in field=0.0
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_people in field=0.0
+gt_kite in field=0.0
+gt_people fly kite=0.0
+gt_cow in field=0.0
+gt_zebra in field=-0.0
+gt_cow in field=0.0
+gt_kite in field=0.0
+gt_elephant in field=0.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_tree in field=0.0
+gt_people in field=-0.0
+gt_glove in field=0.0
+gt_frisbee in field=0.0
+gt_grass in field=1.0
+gt_horse in field=1.0
+gt_man fly kite=1.0
+gt_person fly kite=-0.0
+gt_bat in field=0.0
+gt_people fly kite=-0.0
+gt_animal in field=1.0
+Objective: 272.5003974312848
+gt_frisbee in field=0.0
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_people in field=0.0
+gt_kite in field=0.0
+gt_people fly kite=0.0
+gt_cow in field=0.0
+gt_zebra in field=-0.0
+gt_cow in field=0.0
+gt_kite in field=1.0
+gt_elephant in field=0.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_tree in field=0.0
+gt_people in field=-0.0
+gt_glove in field=0.0
+gt_frisbee in field=0.0
+gt_grass in field=1.0
+gt_horse in field=0.0
+gt_man fly kite=0.0
+gt_person fly kite=-0.0
+gt_bat in field=0.0
+gt_people fly kite=-0.0
+gt_animal in field=1.0
+----------------------------
+Caption: a man flying a kite in a field
+Imageid: 119146, extracted triplets: ['man fly kite', 'man in field'], mapped triplets: ['man fly kite', 'woman fly kite', 'people fly kite', 'person fly kite']
+Objective: 272.5003974312848
+PRIOR DISTANCE
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_people fly kite=0.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_man fly kite=0.0
+gt_person fly kite=-0.0
+gt_people fly kite=-0.0
+Objective: 272.4723776112447
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_people fly kite=0.0
+gt_woman fly kite=1.0
+gt_woman fly kite=1.0
+gt_man fly kite=0.0
+gt_person fly kite=-0.0
+gt_people fly kite=-0.0
+----------------------------
+Caption: a man and a woman preparing food in a kitchen
+Imageid: 558137, extracted triplets: ['woman prepare pizza'], mapped triplets: []
+Objective: 272.4723776112447
+PRIOR DISTANCE
+Objective: 272.4723776112447
+----------------------------
+Caption: a man sitting on a red motorcycle
+Imageid: 303738, extracted triplets: ['man sit motorcycle'], mapped triplets: ['man sit man', 'motorcycle sit motorcycle', 'person sit motorcycle', 'man sit motorcycle']
+Objective: 272.4723776112447
+PRIOR DISTANCE
+Objective: 272.4723776112447
+----------------------------
+Caption: a man riding a motorcycle in a parking lot
+Imageid: 26209, extracted triplets: ['man ride motorcycle'], mapped triplets: ['man ride motorcycle', 'person ride motorcycle']
+Objective: 272.4723776112447
+PRIOR DISTANCE
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+gt_woman ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+Objective: 272.3895777405082
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+gt_woman ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+----------------------------
+Caption: a woman walking down a street with a herd of sheep
+Imageid: 561670, extracted triplets: ['woman with sheep'], mapped triplets: ['man with sheep', 'people with sheep', 'woman with dog', 'person with hair', 'child with woman']
+Objective: 272.3895777405082
+PRIOR DISTANCE
+gt_woman with dog=-0.0
+gt_person with hair=-0.0
+Objective: 272.3830518319188
+gt_woman with dog=-0.0
+gt_person with hair=-0.0
+----------------------------
+Caption: a bird sitting on the top of a parking lot
+Imageid: 542625, extracted triplets: ['bird sit sign', 'bird sit pole'], mapped triplets: ['sign sit pole', 'sign sit road', 'sign sit sidewalk', 'sign sit street', 'sign sit light', 'sign sit sign', 'sign sit pole', 'umbrella sit pole', 'clock sit pole']
+Objective: 272.3830518319188
+PRIOR DISTANCE
+Objective: 272.3830518319188
+----------------------------
+Caption: a red cake sitting on top of a table
+Imageid: 268394, extracted triplets: ['cake sit table', 'cake sit chair'], mapped triplets: ['donut sit table', 'computer sit desk', 'cake sit table', 'cake sit table', 'person sit chair', 'woman sit chair']
+Objective: 272.3830518319188
+PRIOR DISTANCE
+Objective: 272.3830518319188
+----------------------------
+Caption: a man riding a skateboard around a bunch of cones
+Imageid: 79975, extracted triplets: ['man ride skateboard'], mapped triplets: ['boy ride skateboard', 'person ride skateboard', 'man ride skateboard']
+Objective: 272.3830518319188
+PRIOR DISTANCE
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+Objective: 272.1938517066359
+gt_woman ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_boy ride skateboard=0.0
+gt_man ride skateboard=0.0
+gt_person ride skateboard=1.0
+----------------------------
+Caption: a group of people riding bikes down a street
+Imageid: 572767, extracted triplets: ['people ride bike'], mapped triplets: ['boy ride bike', 'man ride bike', 'woman ride bike', 'person ride bike', 'people ride bike']
+Objective: 272.1938517066359
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_person ride bike=0.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_boy ride bike=0.0
+gt_people ride bike=1.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 271.9144040307853
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_person ride bike=0.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_boy ride bike=0.0
+gt_people ride bike=1.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: a white truck parked on the beach with people
+Imageid: 196715, extracted triplets: ['truck on beach', 'truck with people'], mapped triplets: ['boat on beach', 'sand on beach', 'beach on beach', 'kite on beach', 'truck on beach', 'truck with bus', 'truck with van', 'truck with people']
+Objective: 271.9144040307853
+PRIOR DISTANCE
+gt_sand on beach=0.0
+gt_beach on beach=0.0
+gt_truck on beach=1.0
+gt_kite on beach=-0.0
+gt_truck with van=1.0
+gt_sand on beach=0.0
+gt_truck with people=0.0
+Objective: 272.37244345926723
+gt_sand on beach=0.0
+gt_beach on beach=-0.0
+gt_truck on beach=1.0
+gt_kite on beach=-0.0
+gt_truck with van=1.0
+gt_sand on beach=1.0
+gt_truck with people=0.0
+----------------------------
+Caption: a group of people riding motorcycles down a city street
+Imageid: 267802, extracted triplets: ['people ride motorcycles'], mapped triplets: ['people ride motorcycle', 'person ride motorcycle']
+Objective: 272.37244345926723
+PRIOR DISTANCE
+gt_person ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=1.0
+Objective: 272.60547226385864
+gt_person ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=1.0
+----------------------------
+Caption: a large airplane sitting on top of an airport runway
+Imageid: 409119, extracted triplets: ['airplane sit sign', 'airplane sit pole', 'airplane sit van', 'airplane sit cone', 'airplane sit hat', 'airplane sit window', 'airplane sit jacket', 'airplane sit door', 'airplane sit sky', 'airplane sit stripe', 'airplane sit light', 'airplane sit engine', 'airplane sit car', 'airplane sit line', 'airplane sit man', 'airplane sit on top'], mapped triplets: ['truck sit sign', 'sign sit road', 'truck sit van', 'truck sit door', 'truck sit car', 'truck sit door', 'truck sit sky', 'truck sit street', 'truck sit light', 'truck sit engine', 'truck sit car', 'train sit track', 'man sit vehicle', 'man sit on vehicle']
+Objective: 272.60547226385864
+PRIOR DISTANCE
+gt_man sit on vehicle=0.0
+Objective: 272.61291578269487
+gt_man sit on vehicle=1.0
+----------------------------
+Caption: an airplane sitting on top of an airport runway
+Imageid: 522452, extracted triplets: ['airplane sit stair', 'airplane sit roof', 'airplane sit cloud', 'airplane sit wing', 'airplane sit on top'], mapped triplets: ['truck sit street', 'truck sit build', 'truck sit sky', 'truck sit street']
+Objective: 272.61291578269487
+PRIOR DISTANCE
+Objective: 272.61291578269487
+----------------------------
+Caption: a white truck parked in a garage
+Imageid: 130516, extracted triplets: ['truck in door', 'truck in floor', 'truck in wall', 'truck in roof'], mapped triplets: ['truck in door', 'truck in street', 'truck in road', 'truck in car', 'vehicle in street', 'truck in house', 'truck in build']
+Objective: 272.61291578269487
+PRIOR DISTANCE
+gt_truck in street=1.0
+gt_truck in road=1.0
+gt_truck in build=1.0
+Objective: 272.553313047481
+gt_truck in street=1.0
+gt_truck in road=1.0
+gt_truck in build=1.0
+----------------------------
+Caption: a little girl holding an umbrella in the rain
+Imageid: 7088, extracted triplets: ['girl hold umbrella'], mapped triplets: ['woman hold umbrella', 'person hold umbrella', 'people hold umbrella']
+Objective: 272.553313047481
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_people hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=1.0
+Objective: 272.74724167085344
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+----------------------------
+Caption: a truck parked next to a field with rocks
+Imageid: 224542, extracted triplets: ['truck next to field', 'field with rock'], mapped triplets: ['truck next to field', 'grass with people', 'field with field']
+Objective: 272.74724167085344
+PRIOR DISTANCE
+gt_field with field=1.0
+gt_grass with people=-0.0
+gt_truck next to field=1.0
+Objective: 272.86825109665267
+gt_field with field=1.0
+gt_grass with people=-0.0
+gt_truck next to field=1.0
+----------------------------
+Caption: a white truck parked in a field with kites
+Imageid: 469192, extracted triplets: ['truck in field', 'truck with kite'], mapped triplets: ["('motorcycle', 'field') in ('horse', 'field')", 'truck in field', 'sky with kite']
+Objective: 272.86825109665267
+PRIOR DISTANCE
+gt_truck in field=0.0
+Objective: 272.9001125948068
+gt_truck in field=0.0
+----------------------------
+Caption: a woman sitting on a bench next to a child
+Imageid: 198176, extracted triplets: ['woman sit bench', 'woman next to child'], mapped triplets: ['girl sit chair', 'woman sit chair', 'people sit bench', 'clock sit bench', 'woman sit bench', 'boy next to girl', 'woman next to man']
+Objective: 272.9001125948068
+PRIOR DISTANCE
+Objective: 272.9001125948068
+----------------------------
+Caption: a man and a child riding a bike down a city street
+Imageid: 362343, extracted triplets: ['child ride bike'], mapped triplets: ['boy ride bike', 'woman ride bike', 'man ride bike']
+Objective: 272.9001125948068
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_boy ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 272.83205789496685
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+----------------------------
+Caption: a man riding a bike in front of a truck
+Imageid: 528962, extracted triplets: ['man ride bike'], mapped triplets: ['man ride bike', 'boy ride bike', 'person ride bike', 'woman ride bike', 'people ride bike']
+Objective: 272.83205789496685
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_person ride bike=0.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_people ride bike=1.0
+gt_person ride bike=0.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+Objective: 272.7678624473057
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_person ride bike=0.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_boy ride bike=1.0
+gt_people ride bike=1.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+----------------------------
+Caption: a stop sign on the side of a street
+Imageid: 487076, extracted triplets: ['side of street'], mapped triplets: ['sidewalk of street', 'cone of street', 'side of street']
+Objective: 272.7678624473057
+PRIOR DISTANCE
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_cone of street=-0.0
+gt_sidewalk of street=1.0
+Objective: 273.16004197884064
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_cone of street=-0.0
+gt_sidewalk of street=1.0
+----------------------------
+Caption: a yellow truck parked in a field with other planes
+Imageid: 272049, extracted triplets: ['truck in field', 'truck with plane'], mapped triplets: ['motorcycle in field', 'horse in field', 'animal in field', 'tree in field', 'zebra in field', 'cow in field', 'glove in field', 'frisbee in field', 'bat in field', 'sheep in field', 'people in field', 'kite in field', 'grass in field', 'elephant in field', 'truck in field', 'truck with bus', 'truck with truck', 'truck with umbrella', 'truck with door', 'truck with light', 'truck with flag', 'truck with tree', 'truck with people', 'truck with bed', 'truck with rail', 'truck with tire', 'truck with sticker', 'truck with bag', 'truck with sign', 'truck with window', 'truck with motorcycle', 'truck with sheep', 'truck with man', 'truck with mountain', 'truck with van', 'truck with build', 'truck with tv']
+Objective: 273.16004197884064
+PRIOR DISTANCE
+gt_frisbee in field=0.0
+gt_truck with tv=0.0
+gt_people in field=0.0
+gt_truck with umbrella=0.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_truck with bag=0.0
+gt_zebra in field=-0.0
+gt_truck with sheep=-0.0
+gt_truck with rail=0.0
+gt_cow in field=0.0
+gt_truck with tree=0.0
+gt_kite in field=1.0
+gt_elephant in field=0.0
+gt_truck with flag=-0.0
+gt_tree in field=0.0
+gt_people in field=-0.0
+gt_glove in field=0.0
+gt_frisbee in field=0.0
+gt_truck with mountain=-0.0
+gt_grass in field=1.0
+gt_truck in field=0.0
+gt_truck with tv=0.0
+gt_truck with door=-0.0
+gt_truck with truck=1.0
+gt_horse in field=0.0
+gt_truck with umbrella=0.0
+gt_truck with van=1.0
+gt_truck with sticker=1.0
+gt_truck with build=-0.0
+gt_bat in field=0.0
+gt_truck with tire=1.0
+gt_truck with man=1.0
+gt_truck with bed=1.0
+gt_truck with sign=0.0
+gt_truck with light=-0.0
+gt_truck with people=0.0
+gt_truck with bag=-0.0
+gt_animal in field=1.0
+Objective: 273.5009085009903
+gt_frisbee in field=0.0
+gt_truck with tv=0.0
+gt_people in field=0.0
+gt_truck with umbrella=0.0
+gt_kite in field=0.0
+gt_cow in field=0.0
+gt_truck with bag=0.0
+gt_zebra in field=-0.0
+gt_truck with sheep=-0.0
+gt_truck with rail=1.0
+gt_cow in field=1.0
+gt_truck with tree=0.0
+gt_kite in field=0.0
+gt_elephant in field=1.0
+gt_truck with flag=-0.0
+gt_tree in field=-0.0
+gt_people in field=-0.0
+gt_glove in field=1.0
+gt_frisbee in field=0.0
+gt_truck with mountain=-0.0
+gt_grass in field=1.0
+gt_truck in field=0.0
+gt_truck with tv=1.0
+gt_truck with door=-0.0
+gt_truck with truck=1.0
+gt_horse in field=0.0
+gt_truck with umbrella=1.0
+gt_truck with van=1.0
+gt_truck with sticker=1.0
+gt_truck with build=-0.0
+gt_bat in field=1.0
+gt_truck with tire=1.0
+gt_truck with man=1.0
+gt_truck with bed=1.0
+gt_truck with sign=0.0
+gt_truck with light=-0.0
+gt_truck with people=0.0
+gt_truck with bag=-0.0
+gt_animal in field=-0.0
+----------------------------
+Caption: a yellow truck parked on the side of a city street
+Imageid: 377946, extracted triplets: ['truck on side'], mapped triplets: ['truck on road', 'van on road', 'bus on road', 'car on road', 'vehicle on street']
+Objective: 273.5009085009903
+PRIOR DISTANCE
+gt_bus on road=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=0.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_truck on road=1.0
+Objective: 273.1530633275364
+gt_bus on road=0.0
+gt_vehicle on street=0.0
+gt_vehicle on street=1.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_truck on road=1.0
+----------------------------
+Caption: a man riding a motorcycle on the beach
+Imageid: 495519, extracted triplets: ['man on beach'], mapped triplets: ['person on beach', 'people on beach', 'man on beach']
+Objective: 273.1530633275364
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man on beach=-0.0
+gt_people on beach=-0.0
+gt_woman on beach=0.0
+Objective: 273.1722103966153
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_man on beach=0.0
+gt_people on beach=0.0
+gt_woman on beach=0.0
+----------------------------
+Caption: a truck driving down a road with a mountain
+Imageid: 209147, extracted triplets: ['truck with mountain'], mapped triplets: ['truck with van', 'hill with house', 'truck with mountain']
+Objective: 273.1722103966153
+PRIOR DISTANCE
+gt_truck with mountain=-0.0
+gt_truck with van=1.0
+gt_hill with house=1.0
+Objective: 273.3551105286504
+gt_truck with mountain=-0.0
+gt_truck with van=1.0
+gt_hill with house=1.0
+----------------------------
+Caption: a young boy sitting on a couch with a cat
+Imageid: 84362, extracted triplets: ['boy sit couch', 'boy with cat'], mapped triplets: ['girl sit chair', 'child sit couch', 'man with dog']
+Objective: 273.3551105286504
+PRIOR DISTANCE
+gt_man with dog=0.0
+gt_woman with dog=-0.0
+Objective: 273.3551105286504
+gt_man with dog=0.0
+gt_woman with dog=-0.0
+----------------------------
+Caption: a black and white photo of cars and a clock on the street
+Imageid: 451095, extracted triplets: ['photo of car'], mapped triplets: ['photo of car', 'photo of truck', 'photo of street', 'photo of people']
+Objective: 273.3551105286504
+PRIOR DISTANCE
+gt_photo of people=0.0
+gt_photo of people=1.0
+gt_photo of street=1.0
+gt_photo of car=-0.0
+gt_photo of truck=1.0
+Objective: 273.41843503749413
+gt_photo of people=0.0
+gt_photo of people=1.0
+gt_photo of street=1.0
+gt_photo of car=-0.0
+gt_photo of truck=1.0
+----------------------------
+Caption: a bus parked on the side of a street
+Imageid: 504958, extracted triplets: ['bus on side', 'side of street'], mapped triplets: ['bus on road', 'truck on road', 'vehicle on street', 'car on street', 'sidewalk of street', 'side of street']
+Objective: 273.41843503749413
+PRIOR DISTANCE
+gt_car on street=1.0
+gt_bus on road=0.0
+gt_vehicle on street=0.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_vehicle on street=1.0
+gt_sidewalk of street=1.0
+gt_car on street=1.0
+gt_bus on road=1.0
+gt_truck on road=1.0
+Objective: 273.4606544100936
+gt_car on street=1.0
+gt_bus on road=0.0
+gt_vehicle on street=0.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_vehicle on street=1.0
+gt_sidewalk of street=1.0
+gt_car on street=1.0
+gt_bus on road=1.0
+gt_truck on road=1.0
+----------------------------
+Caption: a man doing a trick on a skateboard in the air
+Imageid: 283203, extracted triplets: ['man on skateboard', 'skateboard in air'], mapped triplets: ['boy on skateboard', 'person on skateboard', 'man on vehicle', 'man on skateboard', 'skateboard in street']
+Objective: 273.4606544100936
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=-0.0
+gt_skateboard in street=-0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+Objective: 273.6688338327051
+gt_boy on skateboard=0.0
+gt_person on skateboard=0.0
+gt_man on skateboard=0.0
+gt_skateboard in street=0.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=-0.0
+gt_skateboard in street=-0.0
+gt_man on skateboard=0.0
+gt_person on skateboard=1.0
+----------------------------
+Caption: a man and a woman holding a dog in a field
+Imageid: 160501, extracted triplets: ['woman hold dog', 'woman in field'], mapped triplets: ['man hold dog', 'woman in grass', 'people in field']
+Objective: 273.6688338327051
+PRIOR DISTANCE
+gt_woman in grass=0.0
+gt_people in field=0.0
+gt_people in field=-0.0
+Objective: 273.6338208714604
+gt_woman in grass=0.0
+gt_people in field=0.0
+gt_people in field=-0.0
+----------------------------
+Caption: a train is traveling down the tracks in a city
+Imageid: 278747, extracted triplets: ['train in building'], mapped triplets: ['bus in build', 'truck in build', 'van in build', 'sidewalk in build', 'bench in build', 'window in build', 'clock in build']
+Objective: 273.6338208714604
+PRIOR DISTANCE
+gt_truck in build=1.0
+gt_clock in build=0.0
+Objective: 273.6038293044806
+gt_truck in build=0.0
+gt_clock in build=0.0
+----------------------------
+Caption: a semi truck driving down a road
+Imageid: 519039, extracted triplets: ['truck drive road'], mapped triplets: ['bus drive road', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road']
+Objective: 273.6038293044806
+PRIOR DISTANCE
+Objective: 273.6038293044806
+----------------------------
+Caption: a blue car parked in a parking lot
+Imageid: 96351, extracted triplets: ['car in rack', 'car in pole', 'car in van', 'car in tire', 'car in car', 'car in line', 'car in road'], mapped triplets: ['vehicle in street', 'truck in street', 'motorcycle in street', 'vehicle in street', 'truck in truck', 'vehicle in street', 'truck in tire', 'vehicle in tire', 'motorcycle in tire', 'truck in truck', 'vehicle in street', 'vehicle in street', 'car in street', 'vehicle in street', 'truck in street']
+Objective: 273.6038293044806
+PRIOR DISTANCE
+gt_motorcycle in street=1.0
+gt_truck in street=1.0
+gt_truck in street=1.0
+gt_car in street=0.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_motorcycle in street=0.0
+Objective: 273.566718743688
+gt_motorcycle in street=1.0
+gt_truck in street=1.0
+gt_truck in street=1.0
+gt_car in street=0.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_motorcycle in street=1.0
+----------------------------
+Caption: a parking meter with a sticker on the side of it
+Imageid: 34482, extracted triplets: ['sticker on side'], mapped triplets: ['sign on sidewalk']
+Objective: 273.566718743688
+PRIOR DISTANCE
+gt_sign on sidewalk=1.0
+Objective: 273.5717186486101
+gt_sign on sidewalk=1.0
+----------------------------
+Caption: a black truck parked in a parking lot
+Imageid: 424585, extracted triplets: ['truck in car', 'truck in truck'], mapped triplets: ['truck in truck', 'vehicle in street', 'truck in street', 'truck in car', 'truck in truck']
+Objective: 273.5717186486101
+PRIOR DISTANCE
+gt_truck in street=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+Objective: 273.49121567859123
+gt_truck in street=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+----------------------------
+Caption: a young man walking down a street holding an umbrella
+Imageid: 341010, extracted triplets: ['street hold umbrella'], mapped triplets: ['people hold umbrella', 'person hold umbrella', 'woman hold umbrella', 'man hold umbrella', 'street hold umbrella']
+Objective: 273.49121567859123
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_street hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_street hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+Objective: 273.57225013795284
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_street hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_street hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+----------------------------
+Caption: a woman looking at her cell phone in a car
+Imageid: 10825, extracted triplets: ['woman in car'], mapped triplets: ['woman in car']
+Objective: 273.57225013795284
+PRIOR DISTANCE
+gt_woman in car=0.0
+Objective: 273.56164929194057
+gt_woman in car=0.0
+----------------------------
+Caption: a yellow bus driving down a city street
+Imageid: 124952, extracted triplets: ['bus drive sidewalk', 'bus drive street', 'bus drive bus', 'bus drive car', 'bus drive sign', 'bus drive man'], mapped triplets: ['bus drive road', 'vehicle drive road', 'van drive road', 'truck drive road', 'bus drive road', 'vehicle drive road', 'van drive street', 'truck drive street', 'van drive road', 'truck drive road', 'bus drive street', 'car drive street', 'vehicle drive road', 'truck drive road', 'van drive road', 'car drive road', 'truck drive bus', 'car drive bus', 'vehicle drive road', 'van drive street', 'truck drive street', 'bus drive street', 'truck drive bus', 'vehicle drive road', 'van drive road']
+Objective: 273.56164929194057
+PRIOR DISTANCE
+gt_truck drive bus=-0.0
+gt_truck drive bus=-0.0
+gt_car drive bus=1.0
+Objective: 273.3108833444999
+gt_truck drive bus=-0.0
+gt_truck drive bus=-0.0
+gt_car drive bus=1.0
+----------------------------
+Caption: a man standing on the side of a street with a traffic light
+Imageid: 34900, extracted triplets: ['man on side', 'side of street'], mapped triplets: ['man on street', 'person on sidewalk', 'sidewalk of street', 'street of sign', 'side of street']
+Objective: 273.3108833444999
+PRIOR DISTANCE
+gt_woman on street=0.0
+gt_man on street=1.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_woman on street=-0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_man on street=1.0
+Objective: 273.50839392218677
+gt_woman on street=0.0
+gt_man on street=1.0
+gt_sidewalk of street=0.0
+gt_side of street=1.0
+gt_woman on street=-0.0
+gt_street of sign=-0.0
+gt_sidewalk of street=1.0
+gt_man on street=1.0
+----------------------------
+Caption: a man standing next to a stop sign
+Imageid: 559884, extracted triplets: ['man next to sign'], mapped triplets: ['man next to sign']
+Objective: 273.50839392218677
+PRIOR DISTANCE
+Objective: 273.50839392218677
+----------------------------
+Caption: a black truck with two luggage on the back of it
+Imageid: 217133, extracted triplets: ['truck with luggage'], mapped triplets: ['truck with van', 'truck with bus']
+Objective: 273.50839392218677
+PRIOR DISTANCE
+gt_truck with van=1.0
+Objective: 273.54179609636145
+gt_truck with van=1.0
+----------------------------
+Caption: a truck parked in front of a building
+Imageid: 489861, extracted triplets: ['truck in front', 'front of building'], mapped triplets: ['truck in street', 'vehicle in street', 'truck in front', 'build of build', 'sidewalk of build', 'bench of build', 'curb of build', 'window of build']
+Objective: 273.54179609636145
+PRIOR DISTANCE
+gt_build of build=1.0
+gt_truck in street=1.0
+gt_bench of build=0.0
+gt_truck in front of car=1.0
+gt_build of build=-0.0
+gt_truck in front of tower=1.0
+gt_truck in front of house=0.0
+gt_truck in front of build=0.0
+gt_truck in front=0.0
+Objective: 273.60350526277267
+gt_build of build=1.0
+gt_truck in street=1.0
+gt_bench of build=0.0
+gt_truck in front of car=1.0
+gt_build of build=-0.0
+gt_truck in front of tower=1.0
+gt_truck in front of house=0.0
+gt_truck in front of build=0.0
+gt_truck in front=0.0
+----------------------------
+Caption: a truck driving down a city street with a bridge
+Imageid: 376677, extracted triplets: ['truck with bridge'], mapped triplets: ['street with bridge', 'road with bridge']
+Objective: 273.60350526277267
+PRIOR DISTANCE
+Objective: 273.60350526277267
+----------------------------
+Caption: a woman holding an red umbrella in front of a building
+Imageid: 405531, extracted triplets: ['woman hold umbrella'], mapped triplets: ['woman hold umbrella', 'people hold umbrella', 'person hold umbrella', 'bench hold umbrella', 'street hold umbrella', 'man hold umbrella']
+Objective: 273.60350526277267
+PRIOR DISTANCE
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_street hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_bench hold umbrella=1.0
+gt_street hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+Objective: 273.64910110870443
+gt_woman hold umbrella=0.0
+gt_woman hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_street hold umbrella=0.0
+gt_person hold umbrella=0.0
+gt_man hold umbrella=0.0
+gt_man hold umbrella=1.0
+gt_bench hold umbrella=1.0
+gt_street hold umbrella=0.0
+gt_people hold umbrella=0.0
+gt_woman hold umbrella=1.0
+gt_woman hold umbrella=1.0
+gt_person hold umbrella=0.0
+----------------------------
+Caption: a young man doing a trick on a skateboard in the air
+Imageid: 185639, extracted triplets: ['skateboard in sky', 'skateboard in cloud'], mapped triplets: ['plane in sky', 'bird in sky', 'kite in sky', 'skateboard in street', 'skateboard in street', 'vehicle in street']
+Objective: 273.64910110870443
+PRIOR DISTANCE
+gt_kite in sky=1.0
+gt_plane in sky=1.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_plane in sky=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_kite in sky=-0.0
+Objective: 273.44580775478556
+gt_kite in sky=1.0
+gt_plane in sky=1.0
+gt_skateboard in street=0.0
+gt_skateboard in street=0.0
+gt_plane in sky=-0.0
+gt_skateboard in street=-0.0
+gt_skateboard in street=-0.0
+gt_kite in sky=1.0
+----------------------------
+Caption: an airplane parked on the tarmac at an airport
+Imageid: 541627, extracted triplets: ['airplane on road', 'airplane at plane', 'airplane at truck'], mapped triplets: ['car on road', 'van on road', 'bus on road', 'truck on road', 'chair at plane', 'fence at plane', 'wheel at truck', 'line at truck']
+Objective: 273.44580775478556
+PRIOR DISTANCE
+gt_bus on road=0.0
+gt_line at truck=1.0
+gt_wheel at truck=0.0
+gt_bus on road=1.0
+gt_car on road=1.0
+gt_truck on road=1.0
+Objective: 273.443620659936
+gt_bus on road=0.0
+gt_line at truck=1.0
+gt_wheel at truck=0.0
+gt_bus on road=1.0
+gt_car on road=0.0
+gt_truck on road=1.0
+----------------------------
+Caption: a large group of people riding motorcycles down a city street
+Imageid: 254814, extracted triplets: ['people ride motorcycles'], mapped triplets: ['people ride motorcycle', 'person ride motorcycle']
+Objective: 273.443620659936
+PRIOR DISTANCE
+gt_person ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=1.0
+Objective: 273.4955321792222
+gt_person ride motorcycle=1.0
+gt_people ride motorcycle=0.0
+gt_person ride motorcycle=1.0
+----------------------------
+Caption: a black and white photo of a train on the tracks
+Imageid: 148910, extracted triplets: ['photo of train'], mapped triplets: ['photo of car', 'photo of truck', 'photo of street']
+Objective: 273.4955321792222
+PRIOR DISTANCE
+gt_photo of street=1.0
+gt_photo of car=-0.0
+gt_photo of truck=1.0
+Objective: 273.49557955956556
+gt_photo of street=1.0
+gt_photo of car=-0.0
+gt_photo of truck=1.0
+----------------------------
+Caption: a truck with graffiti on the side of it
+Imageid: 33144, extracted triplets: ['truck with paint', 'truck with wall'], mapped triplets: ['truck with bus', 'truck with van', 'truck with bus', 'truck with door', 'truck with window']
+Objective: 273.49557955956556
+PRIOR DISTANCE
+gt_truck with door=-0.0
+gt_truck with van=1.0
+Objective: 273.44231531395604
+gt_truck with door=-0.0
+gt_truck with van=1.0
+----------------------------
+Caption: a white truck parked in a parking lot
+Imageid: 352228, extracted triplets: ['truck in car', 'truck in truck', 'truck in fence'], mapped triplets: ['truck in truck', 'truck in car', 'truck in truck', 'truck in field', 'truck in house', 'truck in street', 'truck in water', 'truck in door', 'truck in grind', 'truck in hydrant', 'truck in snow', 'truck in front', 'truck in tree', 'truck in tower', 'truck in bed', 'truck in sign', 'truck in car', 'truck in window', 'truck in build', 'truck in grass', 'truck in road', 'truck in field', 'truck in street', 'truck in house', 'vehicle in street', 'truck in front']
+Objective: 273.44231531395604
+PRIOR DISTANCE
+gt_truck in grind=1.0
+gt_truck in bed=1.0
+gt_truck in street=1.0
+gt_truck in street=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_truck in front of car=1.0
+gt_truck in front of car=1.0
+gt_truck in field=0.0
+gt_truck in field=0.0
+gt_truck in grind=1.0
+gt_truck in front of tower=1.0
+gt_truck in front of tower=1.0
+gt_truck in front of house=0.0
+gt_truck in front of house=0.0
+gt_truck in grass=1.0
+gt_truck in front of build=0.0
+gt_truck in front of build=0.0
+gt_truck in window=-0.0
+gt_truck in front=0.0
+gt_truck in front=0.0
+gt_truck in road=1.0
+gt_truck in build=0.0
+gt_truck in water=-0.0
+gt_truck in bed=-0.0
+Objective: 273.621914800288
+gt_truck in grind=1.0
+gt_truck in bed=1.0
+gt_truck in street=1.0
+gt_truck in street=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_truck in front of car=1.0
+gt_truck in front of car=1.0
+gt_truck in field=0.0
+gt_truck in field=0.0
+gt_truck in grind=1.0
+gt_truck in front of tower=1.0
+gt_truck in front of tower=1.0
+gt_truck in front of house=0.0
+gt_truck in front of house=0.0
+gt_truck in grass=1.0
+gt_truck in front of build=0.0
+gt_truck in front of build=0.0
+gt_truck in window=-0.0
+gt_truck in front=-0.0
+gt_truck in front=-0.0
+gt_truck in road=1.0
+gt_truck in build=1.0
+gt_truck in water=-0.0
+gt_truck in bed=-0.0
+----------------------------
+Caption: a small airplane parked on top of an airport runway
+Imageid: 412184, extracted triplets: ['airplane on roof'], mapped triplets: []
+Objective: 273.621914800288
+PRIOR DISTANCE
+Objective: 273.621914800288
+----------------------------
+Caption: a red bus driving down a highway with a truck
+Imageid: 231617, extracted triplets: ['bus with truck'], mapped triplets: ['truck with truck', 'street with truck']
+Objective: 273.621914800288
+PRIOR DISTANCE
+gt_truck with truck=1.0
+gt_street with truck=1.0
+Objective: 273.6790057458001
+gt_truck with truck=1.0
+gt_street with truck=1.0
+----------------------------
+Caption: a blue and white bus driving down a city street
+Imageid: 152333, extracted triplets: ['bus drive street', 'bus drive road'], mapped triplets: ['bus drive road', 'vehicle drive road', 'van drive street', 'truck drive street', 'van drive road', 'truck drive road', 'bus drive street', 'car drive street', 'vehicle drive road', 'car drive road', 'van drive road', 'truck drive road', 'bus drive road']
+Objective: 273.6790057458001
+PRIOR DISTANCE
+Objective: 273.6790057458001
+----------------------------
+Caption: a truck with graffiti on the side of it
+Imageid: 159262, extracted triplets: ['truck with paint', 'truck with wall'], mapped triplets: ['truck with bus', 'truck with van', 'truck with bus', 'truck with door', 'truck with window']
+Objective: 273.6790057458001
+PRIOR DISTANCE
+gt_truck with door=-0.0
+gt_truck with van=1.0
+Objective: 273.6826982253646
+gt_truck with door=-0.0
+gt_truck with van=1.0
+----------------------------
+Caption: a group of people riding horses in a field
+Imageid: 439180, extracted triplets: ['people ride horse', 'people in field'], mapped triplets: ['girl ride horse', 'woman ride horse', 'man ride horse', 'people ride horse', "('horse', 'field') in ('cow', 'field')", 'people in field']
+Objective: 273.6826982253646
+PRIOR DISTANCE
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_people in field=0.0
+gt_people ride horse=1.0
+gt_man ride horse=1.0
+gt_people in field=-0.0
+gt_people ride horse=-0.0
+gt_woman ride horse=0.0
+gt_woman ride horse=0.0
+gt_girl ride horse=0.0
+Objective: 273.61294881669977
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_people in field=0.0
+gt_people ride horse=1.0
+gt_man ride horse=1.0
+gt_people in field=-0.0
+gt_people ride horse=-0.0
+gt_woman ride horse=0.0
+gt_woman ride horse=0.0
+gt_girl ride horse=1.0
+----------------------------
+Caption: a person holding a slice of pizza in a car
+Imageid: 467135, extracted triplets: ['person hold slice', 'person in car'], mapped triplets: ['hand hold sandwich', 'person in street', 'woman in car', 'man in car']
+Objective: 273.61294881669977
+PRIOR DISTANCE
+gt_hand hold sandwich=1.0
+gt_man in car=1.0
+gt_woman in car=0.0
+gt_woman in car=0.0
+Objective: 273.52911834382786
+gt_hand hold sandwich=0.0
+gt_man in car=1.0
+gt_woman in car=0.0
+gt_woman in car=0.0
+----------------------------
+Caption: a young boy swinging a baseball bat at a ball
+Imageid: 33759, extracted triplets: ['boy at ball'], mapped triplets: ['boy at pizza']
+Objective: 273.52911834382786
+PRIOR DISTANCE
+Objective: 273.52911834382786
+----------------------------

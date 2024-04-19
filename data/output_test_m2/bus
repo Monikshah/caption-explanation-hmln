@@ -1,0 +1,1182 @@
+Caption: a man riding a horse in a field with a
+Imageid: 503005, extracted triplets: ['man ride horse', 'man in field'], mapped triplets: ['man ride motorcycle', 'woman ride horse', 'man ride horse', 'people in field', 'giraffe in field', 'man in grass']
+Objective: 146.91932986456771
+PRIOR DISTANCE
+gt_woman ride motorcycle=0.0
+gt_woman in grass=0.0
+gt_man ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_people in field=0.0
+gt_man in grass=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_man in grass=1.0
+gt_man ride horse=-0.0
+gt_people in field=1.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+Objective: 147.0303386340427
+gt_woman ride motorcycle=0.0
+gt_woman in grass=0.0
+gt_man ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_people in field=0.0
+gt_man in grass=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_man in grass=1.0
+gt_man ride horse=-0.0
+gt_people in field=1.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+----------------------------
+Caption: a blue bus with a bike on the front of a
+Imageid: 352476, extracted triplets: ['bus with bike', 'bike on headlight', 'bike on windshield', 'bike on car', 'bike on truck'], mapped triplets: ['bus with bicycle', 'bike with bus', 'bus with bike', 'motorcycle on street', 'vehicle on street', 'motorcycle on street', 'vehicle on street', 'car on road', 'vehicle on street', 'truck on street']
+Objective: 147.0303386340427
+PRIOR DISTANCE
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_bus with bike=0.0
+gt_truck on street=1.0
+gt_car on road=0.0
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_vehicle on street=1.0
+gt_vehicle on street=1.0
+gt_vehicle on street=1.0
+gt_car on road=1.0
+gt_truck on street=-0.0
+gt_bus with bicycle=-0.0
+gt_bus with bike=0.0
+gt_motorcycle on street=1.0
+gt_motorcycle on street=1.0
+Objective: 146.77034901594288
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_bus with bike=0.0
+gt_truck on street=1.0
+gt_car on road=0.0
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_vehicle on street=1.0
+gt_vehicle on street=1.0
+gt_vehicle on street=1.0
+gt_car on road=1.0
+gt_truck on street=-0.0
+gt_bus with bicycle=-0.0
+gt_bus with bike=0.0
+gt_motorcycle on street=1.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: a truck with a lot of people on the street
+Imageid: 171695, extracted triplets: ['people on street'], mapped triplets: ['woman on street', 'man on street', 'person on street', 'vehicle on street', 'truck on street', 'car on street', 'people on sidewalk', 'person on sidewalk', 'people on street']
+Objective: 146.77034901594288
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_people on sidewalk=0.0
+gt_person on street=1.0
+gt_man on street=1.0
+gt_truck on street=1.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_person on street=0.0
+gt_car on street=-0.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_people on street=1.0
+Objective: 146.92460941745702
+gt_car on street=0.0
+gt_people on sidewalk=0.0
+gt_person on street=1.0
+gt_man on street=1.0
+gt_truck on street=1.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_person on street=0.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_people on street=1.0
+----------------------------
+Caption: a group of people standing in a group of buses
+Imageid: 263011, extracted triplets: ['people in people'], mapped triplets: ['people in man', 'people in field', 'people in street', 'people in back', 'people in bus', 'people in statue']
+Objective: 146.92460941745702
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_people in man=1.0
+gt_people in bus=1.0
+gt_people in field=1.0
+Objective: 146.94392244811849
+gt_people in field=0.0
+gt_people in man=1.0
+gt_people in bus=1.0
+gt_people in field=1.0
+----------------------------
+Caption: a shirtless man riding a skateboard down a street
+Imageid: 408449, extracted triplets: ['man ride skateboard'], mapped triplets: ['man ride bike', 'person ride bike', 'people ride bike', 'man ride skateboard']
+Objective: 146.94392244811849
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride skateboard=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=0.0
+Objective: 146.84321974899078
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride skateboard=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_man ride skateboard=1.0
+gt_woman ride skateboard=1.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=0.0
+----------------------------
+Caption: a man riding an elephant down a road with a
+Imageid: 450728, extracted triplets: ['man ride elephant'], mapped triplets: ['people ride bicycle', 'woman ride bicycle', 'elephant ride truck']
+Objective: 146.84321974899078
+PRIOR DISTANCE
+gt_people ride bicycle=0.0
+gt_people ride bicycle=1.0
+gt_woman ride bicycle=1.0
+Objective: 147.12923235503786
+gt_people ride bicycle=0.0
+gt_people ride bicycle=1.0
+gt_woman ride bicycle=1.0
+----------------------------
+Caption: a bus is parked on the side of a street
+Imageid: 42070, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 147.12923235503786
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 147.1081258086285
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a trolley car parked at a train station
+Imageid: 85562, extracted triplets: ['trolley car at train station'], mapped triplets: ['train at light']
+Objective: 147.1081258086285
+PRIOR DISTANCE
+gt_train at light=0.0
+gt_train at light=1.0
+Objective: 147.10766000459392
+gt_train at light=0.0
+gt_train at light=1.0
+----------------------------
+Caption: a white bus parked on the side of a street
+Imageid: 19158, extracted triplets: ['bus on side', 'side of street'], mapped triplets: ['bus on bus', 'bus on road', 'bus on street', 'bus on side', 'side of road', 'sidewalk of bus', 'side of street']
+Objective: 147.10766000459392
+PRIOR DISTANCE
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 147.55303460320025
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_bus on street=1.0
+gt_bus on bus=0.0
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a bus is parked on the side of a street
+Imageid: 122606, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 147.55303460320025
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 147.51603111366347
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a blue and white bus parked at a bus stop
+Imageid: 463084, extracted triplets: ['bus at bus stop'], mapped triplets: ['people at bus', 'luggage at bus']
+Objective: 147.51603111366347
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_luggage at bus=1.0
+gt_people at bus=-0.0
+Objective: 147.38576447920815
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+----------------------------
+Caption: a red bus driving down a street with cars
+Imageid: 165572, extracted triplets: ['bus with car'], mapped triplets: ['truck with car', 'car with bus', 'bus with car']
+Objective: 147.38576447920815
+PRIOR DISTANCE
+gt_bus with car=0.0
+gt_truck with car=0.0
+gt_car with bus=-0.0
+gt_truck with car=1.0
+gt_bus with car=0.0
+Objective: 147.6680999019233
+gt_bus with car=0.0
+gt_truck with car=0.0
+gt_car with bus=-0.0
+gt_truck with car=1.0
+gt_bus with car=0.0
+----------------------------
+Caption: a city street with a bus parked in front of a
+Imageid: 173797, extracted triplets: ['bus in front'], mapped triplets: ['bus in mirror', 'motorcycle in front', 'bus in front', 'truck in front']
+Objective: 147.6680999019233
+PRIOR DISTANCE
+gt_truck in front=1.0
+gt_truck in front of bus=0.0
+gt_truck in front of build=1.0
+gt_bus in front=-0.0
+gt_truck in front of build=1.0
+gt_motorcycle in front=-0.0
+gt_truck in front of tower=1.0
+gt_truck in front of bus=1.0
+gt_truck in front of house=0.0
+gt_bus in front of build=1.0
+gt_truck in front=1.0
+gt_bus in mirror=1.0
+Objective: 148.01398531397655
+gt_truck in front=1.0
+gt_truck in front of bus=0.0
+gt_truck in front of build=1.0
+gt_bus in front=-0.0
+gt_truck in front of build=1.0
+gt_motorcycle in front=-0.0
+gt_truck in front of tower=1.0
+gt_truck in front of bus=1.0
+gt_truck in front of house=0.0
+gt_bus in front of build=1.0
+gt_truck in front=1.0
+gt_bus in mirror=1.0
+----------------------------
+Caption: a bus parked on the side of a street with people
+Imageid: 393647, extracted triplets: ['bus on side', 'side of street', 'bus with people'], mapped triplets: ['bus on bus', 'bus on road', 'bus on street', 'bus on side', 'side of road', 'sidewalk of bus', 'side of street', 'bus with people', 'bus with person', 'people with bus', 'bench with people', 'sidewalk with people', 'boat with people', 'field with people', 'water with people']
+Objective: 148.01398531397655
+PRIOR DISTANCE
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_bus with people=0.0
+gt_sidewalk with people=0.0
+gt_bus on street=1.0
+gt_bus with people=1.0
+gt_people with bus=-0.0
+gt_bench with people=0.0
+gt_boat with people=1.0
+gt_field with people=0.0
+gt_bus on bus=0.0
+gt_sidewalk with people=0.0
+gt_water with people=-0.0
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 149.20455665598865
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_bus with people=0.0
+gt_sidewalk with people=0.0
+gt_bus on street=1.0
+gt_bus with people=1.0
+gt_people with bus=-0.0
+gt_bench with people=0.0
+gt_boat with people=1.0
+gt_field with people=1.0
+gt_bus on bus=0.0
+gt_sidewalk with people=1.0
+gt_water with people=-0.0
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a bus and a car on a city street with a
+Imageid: 540860, extracted triplets: ['car on street'], mapped triplets: ['motorcycle on street', 'bus on street', 'vehicle on street', 'truck on street', 'car on road', 'skateboard on street', 'van on road', 'truck on road', 'car on street']
+Objective: 149.20455665598865
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_truck on road=0.0
+gt_skateboard on street=1.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on road=0.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_truck on road=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_car on road=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+Objective: 148.8233457908981
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_truck on road=0.0
+gt_skateboard on street=1.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on road=0.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_truck on road=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_car on road=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: a purple and white bus parked on the side of a
+Imageid: 313182, extracted triplets: ['bus on side'], mapped triplets: ['bus on bus', 'bus on road', 'bus on street', 'bus on side']
+Objective: 148.8233457908981
+PRIOR DISTANCE
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_bus on street=1.0
+gt_bus on bus=0.0
+Objective: 148.8037487527708
+gt_bus on street=0.0
+gt_bus on bus=1.0
+gt_bus on street=1.0
+gt_bus on bus=0.0
+----------------------------
+Caption: a group of people standing on a sidewalk next to a bus
+Imageid: 205676, extracted triplets: ['sidewalk next to bus'], mapped triplets: ['sign next to bus', 'bus next to sidewalk', 'street next to bus', 'sign next to sidewalk']
+Objective: 148.8037487527708
+PRIOR DISTANCE
+gt_bus next to sidewalk=1.0
+gt_street next to bus=1.0
+gt_sign next to bus=1.0
+Objective: 148.89393002242554
+gt_bus next to sidewalk=1.0
+gt_street next to bus=1.0
+gt_sign next to bus=1.0
+----------------------------
+Caption: a white bus parked in front of a building
+Imageid: 106048, extracted triplets: ['bus in front', 'front of building'], mapped triplets: ['bus in mirror', 'motorcycle in front', 'bus in front', 'truck in front', 'street of build', 'stair of build', 'truck of build', 'pole of build', 'tower of build', 'train of build', 'build of build']
+Objective: 148.89393002242554
+PRIOR DISTANCE
+gt_truck in front=1.0
+gt_pole of build=1.0
+gt_tower of build=0.0
+gt_stair of build=0.0
+gt_truck in front of bus=0.0
+gt_build of build=1.0
+gt_truck in front of build=1.0
+gt_street of build=1.0
+gt_build of build=1.0
+gt_train of build=-0.0
+gt_bus in front=-0.0
+gt_stair of build=0.0
+gt_truck in front of build=1.0
+gt_motorcycle in front=-0.0
+gt_truck in front of tower=1.0
+gt_truck in front of bus=1.0
+gt_truck in front of house=0.0
+gt_tower of build=1.0
+gt_bus in front of build=1.0
+gt_truck in front=1.0
+gt_bus in mirror=1.0
+Objective: 147.9028084609211
+gt_truck in front=1.0
+gt_pole of build=1.0
+gt_tower of build=0.0
+gt_stair of build=0.0
+gt_truck in front of bus=0.0
+gt_build of build=1.0
+gt_truck in front of build=1.0
+gt_street of build=1.0
+gt_build of build=1.0
+gt_train of build=-0.0
+gt_bus in front=-0.0
+gt_stair of build=1.0
+gt_truck in front of build=1.0
+gt_motorcycle in front=-0.0
+gt_truck in front of tower=1.0
+gt_truck in front of bus=1.0
+gt_truck in front of house=0.0
+gt_tower of build=1.0
+gt_bus in front of build=1.0
+gt_truck in front=0.0
+gt_bus in mirror=1.0
+----------------------------
+Caption: a bus and cars on a city street with a
+Imageid: 147725, extracted triplets: ['bus on street'], mapped triplets: ['truck on street', 'vehicle on street', 'car on street', 'motorcycle on street', 'bus on road', 'train on street', 'bus on street']
+Objective: 147.9028084609211
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_train on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_train on street=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+Objective: 147.9587912867401
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_train on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_train on street=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: a green and white bus driving down a city street
+Imageid: 252639, extracted triplets: ['bus drive building', 'bus drive street', 'bus drive car'], mapped triplets: ['bus drive street', 'bus drive road', 'truck drive street', 'bus drive road', 'car drive street', 'bus drive street', 'bus drive road', 'bus drive street', 'car drive street']
+Objective: 147.9587912867401
+PRIOR DISTANCE
+Objective: 147.9587912867401
+----------------------------
+Caption: a red bus parked in a park with trees
+Imageid: 72011, extracted triplets: ['bus in park', 'bus with leaf', 'bus with trunk', 'bus with tree'], mapped triplets: ['vehicle in street', 'bus with wheel', 'bus with window', 'truck with light', 'road with tree', 'bus with tree']
+Objective: 147.9587912867401
+PRIOR DISTANCE
+gt_bus with tree=1.0
+gt_bus with wheel=1.0
+gt_truck with light=0.0
+gt_truck with light=1.0
+gt_bus with wheel=-0.0
+gt_bus with tree=-0.0
+gt_bus with window=0.0
+gt_road with tree=-0.0
+Objective: 148.08088361745055
+gt_bus with tree=1.0
+gt_bus with wheel=1.0
+gt_truck with light=0.0
+gt_truck with light=1.0
+gt_bus with wheel=-0.0
+gt_bus with tree=-0.0
+gt_bus with window=0.0
+gt_road with tree=-0.0
+----------------------------
+Caption: a green and white bus parked at a bus stop
+Imageid: 516143, extracted triplets: ['bus at bus stop'], mapped triplets: ['people at bus', 'luggage at bus']
+Objective: 148.08088361745055
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+Objective: 148.15663903795377
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+----------------------------
+Caption: a highway with signs on the side of a bridge
+Imageid: 467721, extracted triplets: ['side of bridge'], mapped triplets: ['side of road', 'side of street']
+Objective: 148.15663903795377
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 148.0209102836875
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a group of people playing soccer on a field
+Imageid: 103485, extracted triplets: ['people play soccer', 'people on field'], mapped triplets: ['player on field', 'people on grass', 'chair on field', 'man on field', 'people on field']
+Objective: 148.0209102836875
+PRIOR DISTANCE
+gt_player on field=0.0
+gt_people on grass=0.0
+gt_chair on field=0.0
+gt_people on field=0.0
+Objective: 148.60860117784918
+gt_player on field=0.0
+gt_people on grass=0.0
+gt_chair on field=0.0
+gt_people on field=0.0
+----------------------------
+Caption: a dog standing in a parking lot next to a motorcycle
+Imageid: 102735, extracted triplets: ['dog next to motorcycle'], mapped triplets: ['boy next to motorcycle', 'man next to motorcycle']
+Objective: 148.60860117784918
+PRIOR DISTANCE
+Objective: 148.60860117784918
+----------------------------
+Caption: a young boy wearing a hat standing in front of a window
+Imageid: 122981, extracted triplets: ['boy wear hat standing'], mapped triplets: ['man wear hat']
+Objective: 148.60860117784918
+PRIOR DISTANCE
+gt_man wear hat=0.0
+gt_woman wear hat=0.0
+gt_man wear hat=0.0
+gt_man wear hat=1.0
+gt_man wear hat=0.0
+gt_woman wear hat=1.0
+gt_man wear hat=1.0
+Objective: 148.60770256511546
+gt_man wear hat=0.0
+gt_woman wear hat=0.0
+gt_man wear hat=0.0
+gt_man wear hat=1.0
+gt_man wear hat=0.0
+gt_woman wear hat=1.0
+gt_man wear hat=1.0
+----------------------------
+Caption: a white bus driving down a city street with
+Imageid: 496207, extracted triplets: ['bus drive sidewalk', 'bus drive bus', 'bus drive street', 'bus drive sign', 'bus drive pole', 'bus drive car'], mapped triplets: ['bus drive street', 'bus drive road', 'bus drive sidewalk', 'bus drive street', 'bus drive road', 'truck drive street', 'bus drive road', 'car drive street', 'bus drive street', 'bus drive road', 'bus drive street', 'bus drive road', 'bus drive sidewalk', 'bus drive snow', 'bus drive street', 'bus drive road', 'bus drive street', 'car drive street']
+Objective: 148.60770256511546
+PRIOR DISTANCE
+Objective: 148.60770256511546
+----------------------------
+Caption: a city bus with a bike on the front of a
+Imageid: 128119, extracted triplets: ['bike on front'], mapped triplets: ['motorcycle on tire', 'bicycle on front']
+Objective: 148.60770256511546
+PRIOR DISTANCE
+gt_motorcycle on tire=1.0
+Objective: 148.6746278882506
+gt_motorcycle on tire=1.0
+----------------------------
+Caption: a woman riding a bike in front of a bus
+Imageid: 574280, extracted triplets: ['woman ride bike'], mapped triplets: ['people ride bike', 'woman ride bike', 'person ride bike']
+Objective: 148.6746278882506
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=0.0
+Objective: 148.35611559495692
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+----------------------------
+Caption: a group of people riding bikes down a street
+Imageid: 572767, extracted triplets: ['people ride bike'], mapped triplets: ['woman ride bike', 'man ride bike', 'person ride bike', 'people ride bike']
+Objective: 148.35611559495692
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+Objective: 148.38612084616116
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+----------------------------
+Caption: a red and yellow bus driving down a street
+Imageid: 395752, extracted triplets: ['bus drive street'], mapped triplets: ['truck drive street', 'bus drive road', 'car drive street', 'bus drive street']
+Objective: 148.38612084616116
+PRIOR DISTANCE
+Objective: 148.38612084616116
+----------------------------
+Caption: a red and white bus driving down a street
+Imageid: 82846, extracted triplets: ['bus drive street'], mapped triplets: ['truck drive street', 'bus drive road', 'car drive street', 'bus drive street']
+Objective: 148.38612084616116
+PRIOR DISTANCE
+Objective: 148.38612084616116
+----------------------------
+Caption: a bus driving down a highway with a bridge
+Imageid: 87912, extracted triplets: ['bus with bridge'], mapped triplets: ['bus with build', 'bus with tower']
+Objective: 148.38612084616116
+PRIOR DISTANCE
+gt_bus with build=1.0
+gt_bus with tower=0.0
+gt_bus with build=0.0
+Objective: 148.37773750327466
+gt_bus with build=1.0
+gt_bus with tower=0.0
+gt_bus with build=0.0
+----------------------------
+Caption: a woman walking down a street with three buses
+Imageid: 396350, extracted triplets: ['woman with bus'], mapped triplets: ['people with bus', 'woman with car', 'woman with truck', 'woman with bus']
+Objective: 148.37773750327466
+PRIOR DISTANCE
+gt_people with bus=-0.0
+gt_woman with bus=0.0
+Objective: 148.03980596792903
+gt_people with bus=-0.0
+gt_woman with bus=0.0
+----------------------------
+Caption: a green and white bus parked at a bus stop
+Imageid: 96689, extracted triplets: ['bus at bus stop'], mapped triplets: ['people at bus', 'luggage at bus']
+Objective: 148.03980596792903
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+Objective: 147.9804082633164
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+----------------------------
+Caption: a man riding a horse in a parking lot
+Imageid: 436127, extracted triplets: ['man ride horse'], mapped triplets: ['man ride motorcycle', 'woman ride horse', 'man ride horse']
+Objective: 147.9804082633164
+PRIOR DISTANCE
+gt_woman ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_man ride horse=-0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+Objective: 147.76635143964907
+gt_woman ride motorcycle=0.0
+gt_man ride horse=0.0
+gt_man ride motorcycle=0.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_woman ride horse=1.0
+gt_man ride horse=-0.0
+gt_woman ride motorcycle=1.0
+gt_man ride motorcycle=1.0
+----------------------------
+Caption: a yellow fire hydrant sitting on the side of a
+Imageid: 94951, extracted triplets: ['side of hydrant', 'side of window'], mapped triplets: ['side of street', 'side of street', 'side of road']
+Objective: 147.76635143964907
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 147.99552480271103
+gt_side of street=1.0
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a field with a fence and a stop sign in
+Imageid: 2822, extracted triplets: ['field with fence'], mapped triplets: ['field with kite', 'field with motorcycle', 'field with people']
+Objective: 147.99552480271103
+PRIOR DISTANCE
+gt_field with people=1.0
+gt_field with motorcycle=1.0
+gt_field with kite=-0.0
+Objective: 147.71338403291404
+gt_field with people=1.0
+gt_field with motorcycle=0.0
+gt_field with kite=1.0
+----------------------------
+Caption: a horse pulling a carriage with a man in a
+Imageid: 95702, extracted triplets: ['horse pull carriage', 'carriage with man'], mapped triplets: ['bus with person', 'horse with man']
+Objective: 147.71338403291404
+PRIOR DISTANCE
+gt_horse with man=1.0
+Objective: 147.89228405447128
+gt_horse with man=1.0
+----------------------------
+Caption: a person riding a bike down a street with a
+Imageid: 362343, extracted triplets: ['person ride bike'], mapped triplets: ['man ride bike', 'people ride bike', 'woman ride bike', 'person ride bike']
+Objective: 147.89228405447128
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+Objective: 147.8413745207887
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+----------------------------
+Caption: a police officer on a motorcycle on the street
+Imageid: 388677, extracted triplets: ['motorcycle on street'], mapped triplets: ['vehicle on street', 'car on street', 'bus on street', 'truck on street', 'skateboard on street', 'train on street', 'motorcycle on street']
+Objective: 147.8413745207887
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_train on street=0.0
+gt_skateboard on street=1.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_train on street=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+Objective: 147.97872670519627
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_train on street=0.0
+gt_skateboard on street=1.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_train on street=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: a woman standing in front of a house on a street
+Imageid: 5123, extracted triplets: ['house on street'], mapped triplets: ['vehicle on street', 'truck on street', 'car on street', 'bus on street', 'motorcycle on street']
+Objective: 147.97872670519627
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+Objective: 148.47397287589513
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_car on street=-0.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: an orange bus parked on the side of a street
+Imageid: 550349, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 148.47397287589513
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 148.4676573802941
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a yellow food truck parked on the side of a street
+Imageid: 377946, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 148.4676573802941
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 148.6155011494193
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a group of people riding bikes next to a bus
+Imageid: 322922, extracted triplets: ['people ride bike', 'people ride bicycle', 'people next to bus'], mapped triplets: ['woman ride bike', 'man ride bike', 'person ride bike', 'people ride bike', 'woman ride bicycle', 'man ride bicycle', 'people ride bicycle', 'people next to bus', 'bus next to bus', 'person next to bus']
+Objective: 148.6155011494193
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_people ride bicycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_people ride bicycle=1.0
+gt_people next to bus=0.0
+gt_man ride bicycle=1.0
+gt_person ride bike=1.0
+gt_person next to bus=-0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+gt_people ride bike=1.0
+Objective: 147.94553455435985
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_man ride bicycle=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_people ride bicycle=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_people ride bicycle=1.0
+gt_people next to bus=0.0
+gt_man ride bicycle=1.0
+gt_person ride bike=1.0
+gt_person next to bus=-0.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bicycle=1.0
+gt_woman ride bicycle=1.0
+gt_people ride bike=1.0
+----------------------------
+Caption: a bike parked on the sidewalk next to a bus
+Imageid: 478858, extracted triplets: ['bike on sidewalk', 'bike next to bus'], mapped triplets: ['vehicle on street', 'bicycle on street', 'motorcycle on street', 'bike on sidewalk', 'bus next to bus']
+Objective: 147.94553455435985
+PRIOR DISTANCE
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_bicycle on street=-0.0
+gt_vehicle on street=1.0
+gt_motorcycle on street=1.0
+Objective: 147.52005300724664
+gt_motorcycle on street=0.0
+gt_motorcycle on street=0.0
+gt_bicycle on street=-0.0
+gt_vehicle on street=1.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: a person walking in the rain with an umbrella in a
+Imageid: 208408, extracted triplets: ['person with umbrella'], mapped triplets: ['man with umbrella', 'person with umbrella', 'people with umbrella', 'woman with umbrella']
+Objective: 147.52005300724664
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=1.0
+gt_man with umbrella=1.0
+Objective: 147.63540650692332
+gt_people with umbrella=0.0
+gt_man with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_person with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_woman with umbrella=0.0
+gt_man with umbrella=0.0
+gt_person with umbrella=1.0
+gt_people with umbrella=1.0
+gt_man with umbrella=1.0
+----------------------------
+Caption: a bus and some people on a street with a
+Imageid: 504958, extracted triplets: ['people on street'], mapped triplets: ['woman on street', 'man on street', 'person on street', 'vehicle on street', 'truck on street', 'car on street', 'people on sidewalk', 'person on sidewalk', 'people on street']
+Objective: 147.63540650692332
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_people on sidewalk=0.0
+gt_person on street=1.0
+gt_man on street=1.0
+gt_truck on street=1.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_person on street=0.0
+gt_car on street=-0.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_people on street=1.0
+Objective: 147.56793517412385
+gt_car on street=0.0
+gt_people on sidewalk=0.0
+gt_person on street=1.0
+gt_man on street=1.0
+gt_truck on street=1.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on street=0.0
+gt_car on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_man on street=0.0
+gt_woman on street=0.0
+gt_woman on street=0.0
+gt_people on street=0.0
+gt_woman on street=1.0
+gt_woman on street=1.0
+gt_people on sidewalk=0.0
+gt_person on street=0.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_truck on street=-0.0
+gt_people on street=1.0
+----------------------------
+Caption: a young boy holding a baseball bat on a
+Imageid: 281837, extracted triplets: ['boy hold bat'], mapped triplets: ['man hold racket']
+Objective: 147.56793517412385
+PRIOR DISTANCE
+gt_man hold racket=1.0
+Objective: 147.92076041867404
+gt_man hold racket=1.0
+----------------------------
+Caption: a red bus is driving down a city street
+Imageid: 73256, extracted triplets: ['bus drive sidewalk', 'bus drive street'], mapped triplets: ['bus drive street', 'bus drive road', 'bus drive sidewalk', 'truck drive street', 'bus drive road', 'car drive street', 'bus drive street']
+Objective: 147.92076041867404
+PRIOR DISTANCE
+Objective: 147.92076041867404
+----------------------------
+Caption: the big ben clock tower towering over the city of london
+Imageid: 34126, extracted triplets: ['clock tower over road'], mapped triplets: []
+Objective: 147.92076041867404
+PRIOR DISTANCE
+Objective: 147.92076041867404
+----------------------------
+Caption: a red and white bus driving down a street
+Imageid: 232949, extracted triplets: ['bus drive street'], mapped triplets: ['truck drive street', 'bus drive road', 'car drive street', 'bus drive street']
+Objective: 147.92076041867404
+PRIOR DISTANCE
+Objective: 147.92076041867404
+----------------------------
+Caption: a blue and white car parked in a parking lot
+Imageid: 96351, extracted triplets: ['car in van', 'car in car', 'car in road'], mapped triplets: ['vehicle in street', 'truck in street', 'car in bus', 'vehicle in street', 'car in bus', 'vehicle in street', 'truck in street', 'bus in road']
+Objective: 147.92076041867404
+PRIOR DISTANCE
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_bus in road=-0.0
+Objective: 149.00989491650432
+gt_truck in street=0.0
+gt_truck in street=0.0
+gt_bus in road=-0.0
+----------------------------
+Caption: a bus and a car on a city street with a
+Imageid: 124952, extracted triplets: ['car on street'], mapped triplets: ['motorcycle on street', 'bus on street', 'vehicle on street', 'truck on street', 'car on road', 'skateboard on street', 'van on road', 'truck on road', 'car on street']
+Objective: 149.00989491650432
+PRIOR DISTANCE
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_truck on road=0.0
+gt_skateboard on street=1.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on road=0.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_truck on road=1.0
+gt_car on street=1.0
+gt_vehicle on street=1.0
+gt_car on road=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+Objective: 149.6041717939783
+gt_car on street=0.0
+gt_bus on street=0.0
+gt_truck on road=0.0
+gt_skateboard on street=1.0
+gt_motorcycle on street=0.0
+gt_truck on street=1.0
+gt_car on road=0.0
+gt_car on street=0.0
+gt_motorcycle on street=0.0
+gt_bus on street=1.0
+gt_truck on road=1.0
+gt_car on street=-0.0
+gt_vehicle on street=1.0
+gt_car on road=1.0
+gt_truck on street=-0.0
+gt_motorcycle on street=1.0
+----------------------------
+Caption: a red and white bus driving down a road
+Imageid: 89500, extracted triplets: ['bus drive road'], mapped triplets: ['car drive road', 'van drive road', 'truck drive road', 'bus drive road']
+Objective: 149.6041717939783
+PRIOR DISTANCE
+Objective: 149.6041717939783
+----------------------------
+Caption: a red and white bus driving down a city street
+Imageid: 292663, extracted triplets: ['bus drive road', 'bus drive curb', 'bus drive street', 'bus drive sign', 'bus drive tree', 'bus drive house', 'bus drive pole'], mapped triplets: ['car drive road', 'van drive road', 'truck drive road', 'bus drive road', 'bus drive street', 'bus drive sidewalk', 'bus drive road', 'truck drive street', 'bus drive road', 'car drive street', 'bus drive street', 'bus drive road', 'bus drive street', 'bus drive road', 'bus drive sidewalk', 'bus drive snow', 'bus drive street', 'bus drive street', 'bus drive road', 'bus drive sidewalk', 'bus drive snow', 'bus drive street']
+Objective: 149.6041717939783
+PRIOR DISTANCE
+Objective: 149.6041717939783
+----------------------------
+Caption: a pink and white bus parked at a bus stop
+Imageid: 75600, extracted triplets: ['bus at bus stop'], mapped triplets: ['people at bus', 'luggage at bus']
+Objective: 149.6041717939783
+PRIOR DISTANCE
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+Objective: 149.66192321532682
+gt_people at bus=0.0
+gt_luggage at bus=0.0
+gt_people at bus=-0.0
+----------------------------
+Caption: a blue and white bus driving down a city street
+Imageid: 293841, extracted triplets: ['bus drive sidewalk', 'bus drive people', 'bus drive man'], mapped triplets: ['bus drive street', 'bus drive road', 'bus drive sidewalk', 'bus drive street', 'bus drive road', 'bus drive street', 'truck drive street', 'bus drive road', 'truck drive road']
+Objective: 149.66192321532682
+PRIOR DISTANCE
+Objective: 149.66192321532682
+----------------------------
+Caption: a yellow train is on a bridge in a city
+Imageid: 130352, extracted triplets: ['bridge in building'], mapped triplets: ['train in build', 'bus in build']
+Objective: 149.66192321532682
+PRIOR DISTANCE
+Objective: 149.66192321532682
+----------------------------
+Caption: a food truck parked on the side of a street
+Imageid: 490008, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 149.66192321532682
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 149.57994393081265
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a bus is parked on the side of a street
+Imageid: 154670, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 149.57994393081265
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 149.6473370112148
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a large group of people riding bikes down a street
+Imageid: 254814, extracted triplets: ['people ride bike'], mapped triplets: ['woman ride bike', 'man ride bike', 'person ride bike', 'people ride bike']
+Objective: 149.6473370112148
+PRIOR DISTANCE
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=1.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+Objective: 149.79807392637807
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_person ride bike=0.0
+gt_people ride bike=0.0
+gt_man ride bike=1.0
+gt_man ride bike=0.0
+gt_man ride bike=0.0
+gt_person ride bike=1.0
+gt_woman ride bike=0.0
+gt_woman ride bike=0.0
+gt_people ride bike=1.0
+----------------------------
+Caption: a blue bus is parked on the side of a street
+Imageid: 197716, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 149.79807392637807
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 149.71736701885968
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a bus is parked on the side of a street
+Imageid: 405614, extracted triplets: ['side of street'], mapped triplets: ['side of road', 'sidewalk of bus', 'side of street']
+Objective: 149.71736701885968
+PRIOR DISTANCE
+gt_side of street=1.0
+gt_side of road=1.0
+Objective: 149.6479764794124
+gt_side of street=1.0
+gt_side of road=1.0
+----------------------------
+Caption: a blue and white bus driving down a city street
+Imageid: 152333, extracted triplets: ['bus drive street'], mapped triplets: ['truck drive street', 'bus drive road', 'car drive street', 'bus drive street']
+Objective: 149.6479764794124
+PRIOR DISTANCE
+Objective: 149.6479764794124
+----------------------------
+Caption: a man is flying a kite in a field
+Imageid: 105945, extracted triplets: ['man fly kite', 'man in field'], mapped triplets: ['people fly kite', 'boy fly kite', 'man fly kite', 'people in field', 'giraffe in field', 'man in grass']
+Objective: 149.6479764794124
+PRIOR DISTANCE
+gt_people fly kite=1.0
+gt_woman in grass=0.0
+gt_people in field=0.0
+gt_man in grass=0.0
+gt_man in grass=0.0
+gt_boy fly kite=-0.0
+gt_man fly kite=1.0
+gt_people in field=1.0
+gt_people fly kite=1.0
+Objective: 149.48316233710233
+gt_people fly kite=1.0
+gt_woman in grass=0.0
+gt_people in field=0.0
+gt_man in grass=0.0
+gt_man in grass=0.0
+gt_boy fly kite=-0.0
+gt_man fly kite=1.0
+gt_people in field=1.0
+gt_people fly kite=1.0
+----------------------------

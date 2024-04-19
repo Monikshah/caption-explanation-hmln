@@ -1,0 +1,2050 @@
+Caption: a boat in the water with a flag
+Imageid: 17756, extracted triplets: ['boat in water', 'boat with flag'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'elephant in water', 'bus in water', 'boat in ocean', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'bird in water', 'boat in water', 'boat with flag']
+Objective: 160.08733773717972
+PRIOR DISTANCE
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat with flag=-0.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_boat in water=1.0
+Objective: 161.07347848703415
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat with flag=-0.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a man sitting on a bench next to the ocean
+Imageid: 450724, extracted triplets: ['man sit bench', 'bench next to water', 'bench next to beach', 'bench next to wave'], mapped triplets: ['woman sit bench', 'child sit bench', 'statue sit bench', 'man sit bench', 'bench next to ocean', 'chair next to ocean', 'beach next to ocean', 'people next to ocean', 'bench next to water', 'bench next to ocean', 'bench next to water', 'beach next to ocean', 'bench next to ocean', 'bench next to water', 'beach next to ocean']
+Objective: 161.07347848703415
+PRIOR DISTANCE
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_people next to ocean=0.0
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_beach next to ocean=0.0
+gt_beach next to ocean=0.0
+gt_beach next to ocean=0.0
+gt_bench next to water=0.0
+gt_bench next to water=0.0
+gt_bench next to water=0.0
+Objective: 161.1142438869173
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_people next to ocean=0.0
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_beach next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_beach next to ocean=0.0
+gt_beach next to ocean=0.0
+gt_beach next to ocean=0.0
+gt_bench next to water=0.0
+gt_bench next to water=0.0
+gt_bench next to water=0.0
+----------------------------
+Caption: a woman sitting on a boat in the water
+Imageid: 484551, extracted triplets: ['woman sit boat', 'boat in water'], mapped triplets: ['person sit boat', 'woman sit boat', 'surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'bench in water', 'dog in water', 'cow in water', 'post in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 161.1142438869173
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_post in water=-0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 160.8924437152346
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_post in water=-0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a boat sitting in the water in front of a building
+Imageid: 289781, extracted triplets: ['boat sit in water'], mapped triplets: ['boat sit ocean', 'boat sit sand', 'dog sit water', 'surfboard sit water', 'boat sit in water']
+Objective: 160.8924437152346
+PRIOR DISTANCE
+gt_boat sit in water=1.0
+Objective: 160.92530949168378
+gt_boat sit in water=1.0
+----------------------------
+Caption: a man talking on a cell phone next to a body of water
+Imageid: 205720, extracted triplets: ['man next to man', 'man next to hair', 'man next to hand', 'man next to head'], mapped triplets: ['people next to people', 'house next to house', 'man next to boy', 'people next to umbrella', 'man next to boy', 'people next to umbrella', 'person next to suitcase', 'people next to umbrella']
+Objective: 160.92530949168378
+PRIOR DISTANCE
+gt_people next to umbrella=-0.0
+gt_people next to umbrella=-0.0
+gt_people next to umbrella=-0.0
+Objective: 160.9341726075508
+gt_people next to umbrella=-0.0
+gt_people next to umbrella=-0.0
+gt_people next to umbrella=-0.0
+----------------------------
+Caption: a group of men and a dog on a boat in the water
+Imageid: 290839, extracted triplets: ['dog on boat', 'boat in water'], mapped triplets: ['dog on boat', 'child on boat', 'person on boat', 'boy on boat']
+Objective: 160.9341726075508
+PRIOR DISTANCE
+gt_boy on boat=1.0
+gt_person on boat=0.0
+gt_boy on boat=-0.0
+gt_child on boat=1.0
+gt_person on boat=-0.0
+Objective: 160.68410259868324
+gt_boy on boat=1.0
+gt_person on boat=0.0
+gt_boy on boat=-0.0
+gt_child on boat=1.0
+gt_person on boat=-0.0
+----------------------------
+Caption: a group of people in a boat with food
+Imageid: 476552, extracted triplets: ['boat with food'], mapped triplets: ['boat with tray', 'boat with fruit', 'boat with vegetable', 'boat with sandwich', 'boat with banana']
+Objective: 160.68410259868324
+PRIOR DISTANCE
+gt_boat with fruit=-0.0
+gt_boat with vegetable=1.0
+gt_boat with tray=0.0
+gt_boat with banana=1.0
+gt_boat with sandwich=0.0
+Objective: 161.59321311335864
+gt_boat with fruit=-0.0
+gt_boat with vegetable=1.0
+gt_boat with tray=1.0
+gt_boat with banana=1.0
+gt_boat with sandwich=0.0
+----------------------------
+Caption: a person riding a bike on a dock near the water
+Imageid: 556205, extracted triplets: ['person ride bike'], mapped triplets: ['people ride bike', 'man ride bike']
+Objective: 161.59321311335864
+PRIOR DISTANCE
+gt_man ride bike=0.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_people ride bike=0.0
+gt_woman ride bike=1.0
+gt_people ride bike=1.0
+gt_man ride bike=0.0
+Objective: 161.72983572017705
+gt_man ride bike=0.0
+gt_people ride bike=1.0
+gt_woman ride bike=0.0
+gt_man ride bike=0.0
+gt_people ride bike=0.0
+gt_woman ride bike=1.0
+gt_people ride bike=0.0
+gt_man ride bike=0.0
+----------------------------
+Caption: a large airplane flying over a crowd of people on a beach
+Imageid: 28157, extracted triplets: ['airplane over crowd', 'crowd of people', 'airplane on beach'], mapped triplets: ['boat of people', 'boat on beach', 'frisbee on beach', 'surfboard on sand', 'umbrella on beach', 'man on beach', 'suitcase on beach', 'dog on beach', 'sand on beach', 'kite on beach', 'bike on beach', 'chair on beach', 'surfboard on beach', 'towel on beach', 'water on beach']
+Objective: 161.72983572017705
+PRIOR DISTANCE
+gt_suitcase on beach=0.0
+gt_man on beach=0.0
+gt_bike on beach=1.0
+gt_sand on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_kite on beach=1.0
+gt_man on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=1.0
+gt_towel on beach=-0.0
+gt_kite on beach=1.0
+gt_suitcase on beach=1.0
+gt_frisbee on beach=1.0
+gt_woman on beach=0.0
+gt_sand on beach=-0.0
+gt_chair on beach=0.0
+gt_man on beach=0.0
+gt_bike on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_boat of people=1.0
+Objective: 161.77842823968408
+gt_suitcase on beach=0.0
+gt_man on beach=0.0
+gt_bike on beach=1.0
+gt_sand on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_chair on beach=0.0
+gt_kite on beach=1.0
+gt_man on beach=0.0
+gt_sand on beach=1.0
+gt_woman on beach=0.0
+gt_umbrella on beach=0.0
+gt_boat on beach=1.0
+gt_towel on beach=-0.0
+gt_kite on beach=1.0
+gt_suitcase on beach=1.0
+gt_frisbee on beach=1.0
+gt_woman on beach=0.0
+gt_sand on beach=-0.0
+gt_chair on beach=0.0
+gt_man on beach=1.0
+gt_bike on beach=0.0
+gt_umbrella on beach=1.0
+gt_water on beach=0.0
+gt_boat of people=1.0
+----------------------------
+Caption: a man and a dog in a small boat in the water
+Imageid: 379108, extracted triplets: ['dog in boat', 'boat in water'], mapped triplets: ['person in boat', 'people in boat', 'boy in boat', 'woman in boat', 'man in boat', 'child in boat', 'dog in boat', 'surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 161.77842823968408
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_child in boat=1.0
+gt_wave in water=1.0
+gt_people in boat=0.0
+gt_surfboard in ocean=1.0
+gt_person in boat=-0.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boy in boat=1.0
+gt_boat in water=1.0
+gt_man in boat=0.0
+Objective: 161.9452466861695
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_child in boat=0.0
+gt_wave in water=1.0
+gt_people in boat=0.0
+gt_surfboard in ocean=1.0
+gt_person in boat=-0.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boy in boat=1.0
+gt_boat in water=1.0
+gt_man in boat=0.0
+----------------------------
+Caption: a wooden bench sitting in the grass in a field
+Imageid: 462105, extracted triplets: ['bench sit grass', 'bench in field'], mapped triplets: ['dog sit grass', 'boat sit grass', 'chair in sand', 'people in field']
+Objective: 161.9452466861695
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_people in field=1.0
+gt_chair in sand=1.0
+Objective: 161.87967593935872
+gt_people in field=0.0
+gt_people in field=1.0
+gt_chair in sand=1.0
+----------------------------
+Caption: a brown dog sitting on top of a persons lap
+Imageid: 30667, extracted triplets: ['dog sit couch'], mapped triplets: ['people sit couch']
+Objective: 161.87967593935872
+PRIOR DISTANCE
+Objective: 161.87967593935872
+----------------------------
+Caption: a group of people on a boat in the water
+Imageid: 530317, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 161.87967593935872
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 161.9903974865027
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a white boat in the middle of the water
+Imageid: 275881, extracted triplets: ['boat in chair'], mapped triplets: ['person in chair', 'boat in ocean', 'boat in water']
+Objective: 161.9903974865027
+PRIOR DISTANCE
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+Objective: 162.01721972067605
+gt_boat in water=1.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a couple of street signs on the side of a truck
+Imageid: 216006, extracted triplets: ['side of truck'], mapped triplets: ['boat of truck']
+Objective: 162.01721972067605
+PRIOR DISTANCE
+Objective: 162.01721972067605
+----------------------------
+Caption: a boat sitting on the sand on the beach
+Imageid: 220858, extracted triplets: ['boat sit sand', 'sand on beach'], mapped triplets: ['boat sit beach', 'boat sit sand', 'people on sand', 'bird on sand', 'surfboard on sand', 'cow on sand', 'dog on sand', 'sand on beach']
+Objective: 162.01721972067605
+PRIOR DISTANCE
+gt_sand on beach=0.0
+gt_sand on beach=1.0
+gt_dog on sand=1.0
+gt_sand on beach=-0.0
+Objective: 161.9995515630697
+gt_sand on beach=0.0
+gt_sand on beach=1.0
+gt_dog on sand=1.0
+gt_sand on beach=-0.0
+----------------------------
+Caption: a yellow boat in the water in a city
+Imageid: 102466, extracted triplets: ['boat in water', 'boat in building'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'bench in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water', 'boat in water', 'boat in ocean']
+Objective: 161.9995515630697
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+Objective: 161.86934080175155
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a blue boat is sitting in the water
+Imageid: 455588, extracted triplets: ['boat sit boat', 'boat sit pot', 'boat sit bottle'], mapped triplets: ['boat sit boat', 'boat sit ocean', 'boat sit water', 'boat sit water']
+Objective: 161.86934080175155
+PRIOR DISTANCE
+Objective: 161.86934080175155
+----------------------------
+Caption: a white boat sitting in the water
+Imageid: 314613, extracted triplets: ['boat sit in water'], mapped triplets: ['boat sit water', 'water sit boat', 'boat sit ocean', 'surfboard sit water', 'boat sit in water']
+Objective: 161.86934080175155
+PRIOR DISTANCE
+gt_boat sit in water=1.0
+Objective: 161.8845755266194
+gt_boat sit in water=1.0
+----------------------------
+Caption: a group of people in a boat in the water
+Imageid: 383513, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'dog in water', 'cow in water', 'post in water', 'boat in ocean', 'bench in water', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 161.8845755266194
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_post in water=-0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.27300778964033
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_post in water=-0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a building with a clock tower on top of it
+Imageid: 321542, extracted triplets: ['building with clock tower', 'building on top'], mapped triplets: ['build with clock', 'beach with build', 'clock on tower', 'boat on top']
+Objective: 162.27300778964033
+PRIOR DISTANCE
+gt_clock on tower=0.0
+gt_build with clock=0.0
+gt_boat on top of truck=0.0
+gt_beach with build=1.0
+gt_boat on top of truck=1.0
+gt_clock on tower=0.0
+gt_build with clock=-0.0
+Objective: 162.4385824394414
+gt_clock on tower=0.0
+gt_build with clock=0.0
+gt_boat on top of truck=0.0
+gt_beach with build=1.0
+gt_boat on top of truck=1.0
+gt_clock on tower=-0.0
+gt_build with clock=-0.0
+----------------------------
+Caption: a group of people sitting in a boat in the water
+Imageid: 462640, extracted triplets: ['people sit in boat', 'people in water'], mapped triplets: ['person sit boat', 'people sit boat', 'people sit in boat', 'people in boat', 'person in boat', 'woman in boat', 'man in boat', 'child in boat', 'boy in boat', 'person in water', 'woman in water', 'man in water', 'boy in water', 'people in water']
+Objective: 162.4385824394414
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_person in water=0.0
+gt_boy in water=1.0
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_child in boat=0.0
+gt_people in boat=0.0
+gt_person in boat=-0.0
+gt_person in water=0.0
+gt_people in water=1.0
+gt_boy in boat=1.0
+gt_man in water=0.0
+gt_woman in water=0.0
+gt_woman in water=0.0
+gt_man in boat=0.0
+Objective: 161.51988436308528
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_person in water=0.0
+gt_boy in water=1.0
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_child in boat=0.0
+gt_people in boat=0.0
+gt_person in boat=-0.0
+gt_person in water=1.0
+gt_people in water=1.0
+gt_boy in boat=1.0
+gt_man in water=-0.0
+gt_woman in water=0.0
+gt_woman in water=0.0
+gt_man in boat=0.0
+----------------------------
+Caption: a man flying a kite on the beach
+Imageid: 225786, extracted triplets: ['man fly kite', 'man on beach'], mapped triplets: ['man fly kite', 'woman fly kite', 'people fly kite', 'person fly kite', 'girl fly kite', 'person on beach', 'man on ocean', 'man on wave', 'surfer on wave', 'woman on beach', 'man on beach']
+Objective: 161.51988436308528
+PRIOR DISTANCE
+gt_man on beach=0.0
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_people fly kite=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_man on beach=0.0
+gt_man fly kite=0.0
+gt_person fly kite=1.0
+gt_people fly kite=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_woman fly kite=-0.0
+gt_woman fly kite=-0.0
+gt_man on ocean=1.0
+gt_surfer on wave=1.0
+gt_person fly kite=1.0
+gt_person on beach=-0.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_man on beach=1.0
+gt_girl fly kite=1.0
+gt_man fly kite=1.0
+gt_people fly kite=0.0
+Objective: 161.35063885839037
+gt_man on beach=0.0
+gt_man fly kite=0.0
+gt_person fly kite=0.0
+gt_people fly kite=0.0
+gt_woman fly kite=0.0
+gt_woman fly kite=0.0
+gt_man on beach=0.0
+gt_man fly kite=0.0
+gt_person fly kite=1.0
+gt_people fly kite=1.0
+gt_woman on beach=0.0
+gt_woman on beach=0.0
+gt_woman fly kite=-0.0
+gt_woman fly kite=-0.0
+gt_man on ocean=1.0
+gt_surfer on wave=1.0
+gt_person fly kite=1.0
+gt_person on beach=-0.0
+gt_woman on beach=1.0
+gt_woman on beach=1.0
+gt_man on beach=1.0
+gt_girl fly kite=1.0
+gt_man fly kite=1.0
+gt_people fly kite=-0.0
+----------------------------
+Caption: a train traveling over a bridge over a river
+Imageid: 18771, extracted triplets: ['train over bridge', 'bridge over river'], mapped triplets: ['person over bridge', 'bridge over water']
+Objective: 161.35063885839037
+PRIOR DISTANCE
+gt_bridge over water=0.0
+gt_bridge over water=0.0
+Objective: 161.3509378806387
+gt_bridge over water=0.0
+gt_bridge over water=0.0
+----------------------------
+Caption: a man standing on a boat in the water
+Imageid: 217468, extracted triplets: ['man on boat', 'boat in water'], mapped triplets: ['person on boat', 'child on boat', 'woman on boat', 'boy on boat', 'man on boat', 'surfboard in ocean', 'plane in water', 'ocean in water', 'boat in ocean', 'surfboard in water', 'beach in water', 'wave in water', 'boat in water']
+Objective: 161.3509378806387
+PRIOR DISTANCE
+gt_boy on boat=1.0
+gt_woman on boat=1.0
+gt_woman on boat=1.0
+gt_person on boat=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_man on boat=0.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_man on boat=0.0
+gt_boat in water=1.0
+gt_boy on boat=-0.0
+gt_plane in water=1.0
+gt_surfboard in water=-0.0
+gt_woman on boat=1.0
+gt_woman on boat=1.0
+gt_wave in water=1.0
+gt_child on boat=1.0
+gt_surfboard in ocean=1.0
+gt_ocean in water=1.0
+gt_person on boat=-0.0
+gt_man on boat=1.0
+gt_boat in water=1.0
+Objective: 161.2454346809467
+gt_boy on boat=1.0
+gt_woman on boat=1.0
+gt_woman on boat=1.0
+gt_person on boat=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_man on boat=0.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_man on boat=0.0
+gt_boat in water=1.0
+gt_boy on boat=-0.0
+gt_plane in water=1.0
+gt_surfboard in water=-0.0
+gt_woman on boat=1.0
+gt_woman on boat=1.0
+gt_wave in water=1.0
+gt_child on boat=-0.0
+gt_surfboard in ocean=1.0
+gt_ocean in water=1.0
+gt_person on boat=-0.0
+gt_man on boat=1.0
+gt_boat in water=0.0
+----------------------------
+Caption: a black dog sitting on the water next to a group of boats
+Imageid: 493797, extracted triplets: ['dog sit on water', 'dog next to boat', 'dog next to pole', 'dog next to van', 'dog next to tail', 'dog next to nose', 'dog next to face', 'dog next to truck', 'dog next to water', 'dog next to beach', 'dog next to wall', 'dog next to window', 'dog next to head', 'dog next to sky', 'dog next to cloud'], mapped triplets: ['dog sit boat', 'boat next to water', 'boat next to ocean', 'dog next to boat', 'boat next to van', 'dog next to boat', 'boat next to car', 'boat next to water', 'people next to water', 'bench next to ocean', 'chair next to ocean', 'people next to ocean', 'beach next to ocean']
+Objective: 161.2454346809467
+PRIOR DISTANCE
+gt_beach next to ocean=1.0
+gt_people next to ocean=0.0
+gt_beach next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_dog next to boat=1.0
+gt_dog next to boat=1.0
+gt_boat next to car=-0.0
+gt_boat next to water=0.0
+gt_boat next to water=0.0
+gt_boat next to ocean=0.0
+gt_beach next to ocean=1.0
+gt_people next to water=1.0
+Objective: 161.43889881071695
+gt_beach next to ocean=1.0
+gt_people next to ocean=0.0
+gt_beach next to ocean=1.0
+gt_bench next to ocean=1.0
+gt_dog next to boat=1.0
+gt_dog next to boat=1.0
+gt_boat next to car=-0.0
+gt_boat next to water=0.0
+gt_boat next to water=0.0
+gt_boat next to ocean=0.0
+gt_beach next to ocean=1.0
+gt_people next to water=1.0
+----------------------------
+Caption: a man riding a wave on a surfboard in the ocean
+Imageid: 461884, extracted triplets: ['man ride wave', 'man on surfboard', 'surfboard in ocean'], mapped triplets: ['person ride wave', 'surfer ride wave', 'man ride wave', 'person on surfboard', 'surfer on surfboard', 'man on surfboard', 'surfboard in ocean', 'wave in ocean', 'ocean in water', 'surfer in ocean', 'boat in ocean', 'surfboard in water', 'wave in water', 'boat in water']
+Objective: 161.43889881071695
+PRIOR DISTANCE
+gt_boat in water=1.0
+gt_person on surfboard=0.0
+gt_surfboard in water=0.0
+gt_man ride wave=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_woman on surfboard=-0.0
+gt_man on surfboard=-0.0
+gt_surfboard in water=-0.0
+gt_man ride wave=0.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_person on surfboard=0.0
+gt_surfer ride wave=1.0
+gt_ocean in water=1.0
+gt_wave in ocean=1.0
+gt_woman ride wave=1.0
+gt_surfer on surfboard=0.0
+gt_boat in water=0.0
+Objective: 162.1427594916815
+gt_boat in water=1.0
+gt_person on surfboard=0.0
+gt_surfboard in water=0.0
+gt_man ride wave=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_woman on surfboard=-0.0
+gt_man on surfboard=-0.0
+gt_surfboard in water=-0.0
+gt_man ride wave=0.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_person on surfboard=0.0
+gt_surfer ride wave=1.0
+gt_ocean in water=1.0
+gt_wave in ocean=1.0
+gt_woman ride wave=1.0
+gt_surfer on surfboard=0.0
+gt_boat in water=1.0
+----------------------------
+Caption: a group of boats are in a fence behind a fence
+Imageid: 377882, extracted triplets: ['fence behind fence'], mapped triplets: ['boat behind boat', 'man behind man']
+Objective: 162.1427594916815
+PRIOR DISTANCE
+gt_man behind man=0.0
+gt_man behind man=-0.0
+gt_boat behind boat=1.0
+Objective: 162.3328304407167
+gt_man behind man=0.0
+gt_man behind man=-0.0
+gt_boat behind boat=0.0
+----------------------------
+Caption: a boat in the water with a group of boats
+Imageid: 14338, extracted triplets: ['boat in water', 'boat with boat', 'boat with train'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'chair in water', 'bench in water', 'bird in water', 'people in water', 'boy in water', 'boat with boat', 'bridge with train', 'boat with bridge']
+Objective: 162.3328304407167
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_bridge with train=0.0
+gt_boat with boat=-0.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.36811491969107
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_bridge with train=0.0
+gt_boat with boat=0.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: three people in a boat in the water
+Imageid: 431615, extracted triplets: ['people in boat', 'boat in water'], mapped triplets: ['person in boat', 'child in boat', 'woman in boat', 'man in boat', 'boy in boat', 'dog in boat', 'people in boat', 'surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'bus in water', 'dog in water', 'cow in water', 'boat in ocean', 'bench in water', 'surfboard in water', 'wave in water', 'chair in water', 'beach in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.36811491969107
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_child in boat=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_people in boat=0.0
+gt_surfboard in ocean=1.0
+gt_person in boat=-0.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boy in boat=1.0
+gt_boat in water=1.0
+gt_man in boat=0.0
+Objective: 162.38630168591266
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_child in boat=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_people in boat=0.0
+gt_surfboard in ocean=1.0
+gt_person in boat=-0.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boy in boat=1.0
+gt_boat in water=1.0
+gt_man in boat=0.0
+----------------------------
+Caption: a red boat in the water with a
+Imageid: 107216, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'elephant in water', 'boat in ocean', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water', 'boat in water']
+Objective: 162.38630168591266
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.06522299914184
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+----------------------------
+Caption: a group of umbrellas on a beach with the water
+Imageid: 333434, extracted triplets: ['beach with water'], mapped triplets: ['beach with surfboard', 'beach with wave', 'beach with sand', 'beach with boat', 'beach with people', 'ocean with boat', 'beach with man', 'beach with build', 'people with beach', 'water with boat', 'beach with chair', 'beach with mountain', 'beach with water', 'beach with umbrella', 'beach with ocean']
+Objective: 162.06522299914184
+PRIOR DISTANCE
+gt_beach with umbrella=0.0
+gt_beach with surfboard=0.0
+gt_beach with boat=0.0
+gt_beach with wave=0.0
+gt_water with boat=0.0
+gt_beach with umbrella=0.0
+gt_beach with wave=0.0
+gt_beach with man=1.0
+gt_beach with sand=1.0
+gt_water with boat=0.0
+gt_beach with build=1.0
+gt_ocean with boat=0.0
+gt_beach with ocean=0.0
+gt_beach with water=1.0
+gt_beach with surfboard=0.0
+gt_beach with mountain=1.0
+gt_people with beach=0.0
+gt_beach with umbrella=0.0
+gt_beach with boat=1.0
+Objective: 162.4226720672242
+gt_beach with umbrella=0.0
+gt_beach with surfboard=0.0
+gt_beach with boat=0.0
+gt_beach with wave=0.0
+gt_water with boat=0.0
+gt_beach with umbrella=0.0
+gt_beach with wave=1.0
+gt_beach with man=1.0
+gt_beach with sand=1.0
+gt_water with boat=1.0
+gt_beach with build=1.0
+gt_ocean with boat=1.0
+gt_beach with ocean=1.0
+gt_beach with water=1.0
+gt_beach with surfboard=1.0
+gt_beach with mountain=1.0
+gt_people with beach=0.0
+gt_beach with umbrella=0.0
+gt_beach with boat=0.0
+----------------------------
+Caption: a black and white photo of a man flying a wave on a surfboard
+Imageid: 172935, extracted triplets: ['photo of man'], mapped triplets: ['photo of people', 'photo of boat']
+Objective: 162.4226720672242
+PRIOR DISTANCE
+gt_photo of people=0.0
+gt_photo of people=0.0
+gt_photo of boat=1.0
+gt_photo of people=0.0
+Objective: 162.60385172693321
+gt_photo of people=0.0
+gt_photo of people=0.0
+gt_photo of boat=0.0
+gt_photo of people=0.0
+----------------------------
+Caption: two people sitting on a bench in a body of water
+Imageid: 328352, extracted triplets: ['people sit bench'], mapped triplets: ['woman sit bench', 'child sit bench', 'statue sit bench']
+Objective: 162.60385172693321
+PRIOR DISTANCE
+Objective: 162.60385172693321
+----------------------------
+Caption: a large boat in the water with a bird
+Imageid: 331455, extracted triplets: ['boat in water', 'boat with bird'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water', 'boat with bird', 'water with bird']
+Objective: 162.60385172693321
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_boat with bird=1.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_water with bird=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+Objective: 162.58164347505033
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_boat with bird=1.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_water with bird=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+----------------------------
+Caption: a group of people in a boat in the water
+Imageid: 447080, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.58164347505033
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+Objective: 162.68630222223544
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+----------------------------
+Caption: a dog standing on a boat in the water
+Imageid: 271576, extracted triplets: ['dog on boat', 'boat in water'], mapped triplets: ['dog on boat', 'surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.68630222223544
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+Objective: 162.7612014884503
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a group of people sitting on a dock near a river
+Imageid: 18687, extracted triplets: ['people sit boat', 'people near river'], mapped triplets: ['person sit boat', 'woman sit boat', 'man sit boat', 'people sit boat', 'man near boat', 'people near boat', 'people near water']
+Objective: 162.7612014884503
+PRIOR DISTANCE
+gt_man sit boat=1.0
+gt_people near boat=1.0
+Objective: 163.26169662116735
+gt_man sit boat=1.0
+gt_people near boat=1.0
+----------------------------
+Caption: a group of people on a boat in the water
+Imageid: 441496, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in ocean', 'bench in water', 'dog in water', 'cow in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water', 'boat in water']
+Objective: 163.26169662116735
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 163.56859630154997
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a man standing on a boat in the water
+Imageid: 371176, extracted triplets: ['man on boat', 'boat in water'], mapped triplets: ['person on boat', 'child on boat', 'man on boat', 'surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 163.56859630154997
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_woman on boat=1.0
+gt_person on boat=0.0
+gt_boat in water=1.0
+gt_man on boat=0.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_man on boat=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_woman on boat=1.0
+gt_wave in water=1.0
+gt_child on boat=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_person on boat=-0.0
+gt_man on boat=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 163.3502312695049
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_woman on boat=1.0
+gt_person on boat=0.0
+gt_boat in water=1.0
+gt_man on boat=0.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_man on boat=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_woman on boat=1.0
+gt_wave in water=1.0
+gt_child on boat=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_person on boat=-0.0
+gt_man on boat=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+----------------------------
+Caption: a man riding a wave on a surfboard in the water
+Imageid: 427111, extracted triplets: ['man ride wave', 'man on surfboard', 'surfboard in water'], mapped triplets: ['person ride wave', 'surfer ride wave', 'man ride wave', 'person on surfboard', 'man on wave', 'surfer on surfboard', 'man on surfboard', 'surfboard in ocean', 'ocean in water', 'surfer in ocean', 'surfboard in water']
+Objective: 163.3502312695049
+PRIOR DISTANCE
+gt_person on surfboard=0.0
+gt_surfboard in water=0.0
+gt_man ride wave=0.0
+gt_woman on surfboard=-0.0
+gt_man on surfboard=-0.0
+gt_surfboard in water=-0.0
+gt_man ride wave=-0.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_person on surfboard=0.0
+gt_surfer ride wave=1.0
+gt_ocean in water=1.0
+gt_woman ride wave=1.0
+gt_surfer on surfboard=-0.0
+Objective: 163.87090901461173
+gt_person on surfboard=0.0
+gt_surfboard in water=0.0
+gt_man ride wave=0.0
+gt_woman on surfboard=-0.0
+gt_man on surfboard=-0.0
+gt_surfboard in water=-0.0
+gt_man ride wave=0.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_person on surfboard=0.0
+gt_surfer ride wave=1.0
+gt_ocean in water=1.0
+gt_woman ride wave=1.0
+gt_surfer on surfboard=0.0
+----------------------------
+Caption: a man doing a trick on a skateboard on a ramp
+Imageid: 514366, extracted triplets: ['man on skateboard'], mapped triplets: ['man on skateboard', 'boy on skateboard']
+Objective: 163.87090901461173
+PRIOR DISTANCE
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=1.0
+gt_man on skateboard=1.0
+gt_boy on skateboard=-0.0
+Objective: 163.8652338114114
+gt_boy on skateboard=0.0
+gt_man on skateboard=0.0
+gt_woman on skateboard=1.0
+gt_boy on skateboard=1.0
+gt_man on skateboard=1.0
+gt_boy on skateboard=-0.0
+----------------------------
+Caption: a yellow truck parked in front of a building
+Imageid: 328301, extracted triplets: ['truck in tire', 'truck in door', 'truck in truck', 'truck in car'], mapped triplets: ['truck in truck', 'car in road', 'truck in truck']
+Objective: 163.8652338114114
+PRIOR DISTANCE
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_car in road=0.0
+Objective: 163.95658185638837
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_truck in truck=1.0
+gt_car in road=0.0
+----------------------------
+Caption: two people sitting on a bench in a field
+Imageid: 375440, extracted triplets: ['people sit on bench', 'people in field'], mapped triplets: ['woman sit bench', 'child sit bench', 'people in boat', 'people in grass', 'people in field']
+Objective: 163.95658185638837
+PRIOR DISTANCE
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_people in field=1.0
+gt_people in boat=0.0
+Objective: 164.0085593310484
+gt_people in grass=0.0
+gt_people in field=0.0
+gt_people in field=1.0
+gt_people in boat=0.0
+----------------------------
+Caption: a woman and a child on a boat
+Imageid: 46497, extracted triplets: ['woman on boat'], mapped triplets: ['person on boat', 'woman on boat']
+Objective: 164.0085593310484
+PRIOR DISTANCE
+gt_woman on boat=1.0
+gt_person on boat=0.0
+gt_woman on boat=1.0
+gt_person on boat=-0.0
+Objective: 163.7161188878859
+gt_woman on boat=1.0
+gt_person on boat=0.0
+gt_woman on boat=1.0
+gt_person on boat=-0.0
+----------------------------
+Caption: a red and white boat in the water
+Imageid: 330369, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'bench in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 163.7161188878859
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=0.0
+Objective: 163.1752845255173
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a group of people in boats in a river
+Imageid: 263858, extracted triplets: ['people in boat'], mapped triplets: ['person in boat', 'child in boat', 'woman in boat', 'man in boat', 'boy in boat', 'dog in boat', 'people in boat']
+Objective: 163.1752845255173
+PRIOR DISTANCE
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_child in boat=0.0
+gt_people in boat=0.0
+gt_person in boat=-0.0
+gt_boy in boat=1.0
+gt_man in boat=0.0
+Objective: 162.80046025049947
+gt_woman in boat=0.0
+gt_woman in boat=0.0
+gt_child in boat=0.0
+gt_people in boat=0.0
+gt_person in boat=-0.0
+gt_boy in boat=1.0
+gt_man in boat=0.0
+----------------------------
+Caption: a park bench sitting in the water
+Imageid: 2453, extracted triplets: ['park bench sit in water'], mapped triplets: ['bench sit in water', 'boat sit in water']
+Objective: 162.80046025049947
+PRIOR DISTANCE
+gt_boat sit in water=1.0
+Objective: 162.94134705736326
+gt_boat sit in water=0.0
+----------------------------
+Caption: a man riding a wind board in the ocean
+Imageid: 292647, extracted triplets: ['man in ocean'], mapped triplets: ['people in wave', 'person in boat', 'people in boat', 'person in water', 'man in ocean']
+Objective: 162.94134705736326
+PRIOR DISTANCE
+gt_person in water=0.0
+gt_people in boat=0.0
+gt_person in boat=-0.0
+gt_person in water=1.0
+gt_man in ocean=-0.0
+Objective: 162.90812343567023
+gt_person in water=0.0
+gt_people in boat=0.0
+gt_person in boat=-0.0
+gt_person in water=1.0
+gt_man in ocean=-0.0
+----------------------------
+Caption: a man and a woman sitting under an umbrella on a boat
+Imageid: 472088, extracted triplets: ['woman under umbrella'], mapped triplets: ['person under umbrella', 'man under umbrella']
+Objective: 162.90812343567023
+PRIOR DISTANCE
+gt_woman under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_man under umbrella=1.0
+gt_person under umbrella=0.0
+Objective: 163.0599219461964
+gt_woman under umbrella=0.0
+gt_woman under umbrella=1.0
+gt_man under umbrella=1.0
+gt_person under umbrella=0.0
+----------------------------
+Caption: a group of people sitting on the beach with surfboards
+Imageid: 381123, extracted triplets: ['people sit beach', 'people with surfboard'], mapped triplets: ['person sit beach', 'child sit beach', 'man sit beach', 'people sit beach', 'beach with surfboard', 'surfboard with surfboard']
+Objective: 163.0599219461964
+PRIOR DISTANCE
+gt_beach with surfboard=0.0
+gt_beach with surfboard=1.0
+Objective: 162.9087680556574
+gt_beach with surfboard=0.0
+gt_beach with surfboard=1.0
+----------------------------
+Caption: a person and a dog on a beach with a boat
+Imageid: 205866, extracted triplets: ['dog on beach', 'dog with boat'], mapped triplets: ['frisbee on beach', 'surfboard on beach', 'skateboard on beach', 'umbrella on beach', 'suitcase on beach', 'kite on beach', 'book on beach', 'towel on beach', 'dog on sand', 'dog on beach', 'boy with dog', 'dog with dog', 'dog with boat']
+Objective: 162.9087680556574
+PRIOR DISTANCE
+gt_suitcase on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_dog with dog=0.0
+gt_kite on beach=1.0
+gt_umbrella on beach=0.0
+gt_towel on beach=-0.0
+gt_kite on beach=1.0
+gt_suitcase on beach=1.0
+gt_dog with dog=1.0
+gt_frisbee on beach=1.0
+gt_dog with boat=-0.0
+gt_dog on sand=1.0
+gt_umbrella on beach=1.0
+gt_book on beach=-0.0
+Objective: 161.89716219719654
+gt_suitcase on beach=0.0
+gt_surfboard on beach=0.0
+gt_umbrella on beach=1.0
+gt_dog on beach=0.0
+gt_dog with dog=0.0
+gt_kite on beach=1.0
+gt_umbrella on beach=0.0
+gt_towel on beach=-0.0
+gt_kite on beach=1.0
+gt_suitcase on beach=1.0
+gt_dog with dog=1.0
+gt_frisbee on beach=1.0
+gt_dog with boat=0.0
+gt_dog on sand=1.0
+gt_umbrella on beach=-0.0
+gt_book on beach=-0.0
+----------------------------
+Caption: a boat in the middle of a field of grass
+Imageid: 99961, extracted triplets: ['field of grass'], mapped triplets: ['field of grass', 'people of grass']
+Objective: 161.89716219719654
+PRIOR DISTANCE
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+Objective: 161.96574575789117
+gt_field of grass=0.0
+gt_field of grass=1.0
+gt_field of grass=0.0
+----------------------------
+Caption: a man and a woman holding a dog in a field
+Imageid: 160501, extracted triplets: ['woman hold dog', 'woman in field'], mapped triplets: ['woman hold kite', 'woman hold surfboard', 'people in field']
+Objective: 161.96574575789117
+PRIOR DISTANCE
+gt_people in field=0.0
+gt_woman hold kite=1.0
+gt_woman hold kite=0.0
+gt_people in field=1.0
+gt_woman hold surfboard=1.0
+gt_woman hold kite=1.0
+Objective: 162.35372886743994
+gt_people in field=0.0
+gt_woman hold kite=1.0
+gt_woman hold kite=0.0
+gt_people in field=1.0
+gt_woman hold surfboard=1.0
+gt_woman hold kite=1.0
+----------------------------
+Caption: a group of people on a boat in the water
+Imageid: 75932, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in ocean', 'dog in water', 'cow in water', 'boat in water', 'bench in water', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.35372886743994
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.70868812187683
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a group of people in a boat in the water
+Imageid: 134503, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'chair in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.70868812187683
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.48051798449296
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_chair in water=-0.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a group of people on a boat in the water
+Imageid: 22213, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'beach in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.48051798449296
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.777959282378
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a large white boat in the water
+Imageid: 3832, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.777959282378
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.27024215296882
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_beach in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a white boat docked at a dock in a harbor
+Imageid: 268941, extracted triplets: ['boat at boat', 'boat in boat'], mapped triplets: ['boat at boat', 'boat in boat']
+Objective: 162.27024215296882
+PRIOR DISTANCE
+gt_boat at boat=0.0
+Objective: 162.22180213428595
+gt_boat at boat=0.0
+----------------------------
+Caption: a bench sitting on the side of a river with a bench
+Imageid: 133645, extracted triplets: ['bench sit on side', 'side of river', 'boat with boat'], mapped triplets: ['statue sit on bench', 'child sit on bench', 'woman sit on bench', 'man sit on bench', 'beach of water', 'rock of water', 'boat of water', 'boat with boat']
+Objective: 162.22180213428595
+PRIOR DISTANCE
+gt_man sit on bench=0.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_boat with boat=0.0
+gt_statue sit on bench=1.0
+gt_child sit on bench=-0.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_boat of water=1.0
+Objective: 162.37236341322645
+gt_man sit on bench=0.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=0.0
+gt_woman sit on bench=0.0
+gt_man sit on bench=0.0
+gt_boat with boat=1.0
+gt_statue sit on bench=1.0
+gt_child sit on bench=-0.0
+gt_man sit on bench=1.0
+gt_woman sit on bench=1.0
+gt_woman sit on bench=1.0
+gt_boat of water=1.0
+----------------------------
+Caption: a sailboat in the water with a lighthouse
+Imageid: 68375, extracted triplets: ['sailboat in water', 'sailboat with tower'], mapped triplets: ['surfboard in ocean', 'boat in ocean', 'surfer in ocean', 'beach in water', 'surfboard in water', 'wave in water', 'boat with build']
+Objective: 162.37236341322645
+PRIOR DISTANCE
+gt_beach in water=0.0
+gt_surfboard in water=0.0
+gt_surfboard in water=-0.0
+gt_boat with build=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+Objective: 162.39002860945476
+gt_beach in water=0.0
+gt_surfboard in water=0.0
+gt_surfboard in water=-0.0
+gt_boat with build=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+----------------------------
+Caption: a group of people are in a boat in the water
+Imageid: 577033, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'bus in water', 'elephant in water', 'surfer in ocean', 'boat in water', 'dog in water', 'cow in water', 'boat in ocean', 'bench in water', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water']
+Objective: 162.39002860945476
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 162.649773380779
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfer in ocean=1.0
+gt_surfboard in ocean=1.0
+gt_bus in water=-0.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: two benches sitting next to a fence on the water
+Imageid: 181643, extracted triplets: ['fence on water'], mapped triplets: ['boat on water']
+Objective: 162.649773380779
+PRIOR DISTANCE
+gt_boat on water=0.0
+gt_boat on water=1.0
+Objective: 162.67925853693885
+gt_boat on water=0.0
+gt_boat on water=1.0
+----------------------------
+Caption: a man sitting in a boat in the water
+Imageid: 194756, extracted triplets: ['man sit boat', 'man in water'], mapped triplets: ['person sit boat', 'people sit boat', 'woman sit boat', 'man sit boat', 'people in boat', 'person in water', 'man in water']
+Objective: 162.67925853693885
+PRIOR DISTANCE
+gt_person in water=0.0
+gt_man sit boat=1.0
+gt_people in boat=0.0
+gt_person in water=1.0
+gt_man in water=-0.0
+gt_woman in water=0.0
+Objective: 162.6689226479924
+gt_person in water=0.0
+gt_man sit boat=1.0
+gt_people in boat=0.0
+gt_person in water=1.0
+gt_man in water=-0.0
+gt_woman in water=0.0
+----------------------------
+Caption: a large boat in the water in front of a building
+Imageid: 543300, extracted triplets: ['boat in water'], mapped triplets: ['surfboard in ocean', 'plane in water', 'ocean in water', 'surfer in water', 'elephant in water', 'boat in ocean', 'dog in water', 'cow in water', 'boat in ocean', 'surfboard in water', 'wave in water', 'bird in water', 'people in water', 'boy in water', 'boat in water']
+Objective: 162.6689226479924
+PRIOR DISTANCE
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=1.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_ocean in water=1.0
+gt_people in water=1.0
+gt_boat in water=1.0
+Objective: 163.12801226907948
+gt_people in water=0.0
+gt_boy in water=1.0
+gt_elephant in water=0.0
+gt_boat in water=1.0
+gt_surfboard in water=0.0
+gt_boat in water=0.0
+gt_boat in water=1.0
+gt_boy in water=1.0
+gt_plane in water=0.0
+gt_cow in water=-0.0
+gt_surfboard in water=-0.0
+gt_dog in water=0.0
+gt_surfer in water=1.0
+gt_wave in water=1.0
+gt_surfboard in ocean=1.0
+gt_ocean in water=0.0
+gt_people in water=1.0
+gt_boat in water=1.0
+----------------------------
+Caption: a man in a suit and tie holding a bottle of beer
+Imageid: 92416, extracted triplets: ['man in suit'], mapped triplets: ['man in shirt', 'man in suit']
+Objective: 163.12801226907948
+PRIOR DISTANCE
+gt_man in shirt=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in suit=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_man in shirt=0.0
+gt_man in shirt=1.0
+gt_man in suit=1.0
+Objective: 162.74331462609643
+gt_man in shirt=0.0
+gt_man in suit=0.0
+gt_man in shirt=0.0
+gt_woman in shirt=0.0
+gt_man in suit=0.0
+gt_woman in shirt=0.0
+gt_man in shirt=1.0
+gt_man in shirt=0.0
+gt_man in shirt=0.0
+gt_man in suit=1.0
+----------------------------
+Caption: a group of people sitting at a table eating food
+Imageid: 380734, extracted triplets: ['people at table'], mapped triplets: ['girl at table', 'man at table', 'glass at table', 'people at table']
+Objective: 162.74331462609643
+PRIOR DISTANCE
+gt_people at table=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_people at table=0.0
+gt_girl at table=1.0
+gt_man at table=1.0
+gt_glass at table=1.0
+gt_woman at table=0.0
+gt_glass at table=1.0
+Objective: 162.64350981731295
+gt_people at table=0.0
+gt_man at table=0.0
+gt_woman at table=0.0
+gt_people at table=0.0
+gt_girl at table=1.0
+gt_man at table=1.0
+gt_glass at table=1.0
+gt_woman at table=0.0
+gt_glass at table=1.0
+----------------------------
+Caption: a man standing in front of a plane flying over the water
+Imageid: 492067, extracted triplets: ['plane over water'], mapped triplets: ['sky over water', 'bridge over water', 'kite over water']
+Objective: 162.64350981731295
+PRIOR DISTANCE
+gt_bridge over water=0.0
+gt_kite over water=1.0
+gt_bridge over water=0.0
+gt_sky over water=1.0
+Objective: 162.84996757168915
+gt_bridge over water=0.0
+gt_kite over water=1.0
+gt_bridge over water=0.0
+gt_sky over water=0.0
+----------------------------
+Caption: two men riding motorcycles on a road
+Imageid: 10104, extracted triplets: ['men ride motorcycles', 'men on road'], mapped triplets: ['man ride motorcycle', 'person ride motorcycle', 'people on street', 'people on boat']
+Objective: 162.84996757168915
+PRIOR DISTANCE
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_people on street=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_people on street=0.0
+gt_people on street=1.0
+gt_person ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people on boat=0.0
+Objective: 163.36220391686913
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=1.0
+gt_person ride motorcycle=1.0
+gt_people on street=1.0
+gt_man ride motorcycle=0.0
+gt_woman ride motorcycle=0.0
+gt_person ride motorcycle=0.0
+gt_people on street=0.0
+gt_people on street=1.0
+gt_person ride motorcycle=0.0
+gt_man ride motorcycle=0.0
+gt_people on boat=1.0
+----------------------------
+Caption: a bunch of bananas and a boat on the beach
+Imageid: 145549, extracted triplets: ['boat on beach'], mapped triplets: ['boat on beach', 'surfboard on beach']
+Objective: 163.36220391686913
+PRIOR DISTANCE
+gt_surfboard on beach=0.0
+gt_boat on beach=1.0
+Objective: 163.363633652988
+gt_surfboard on beach=0.0
+gt_boat on beach=1.0
+----------------------------
+Caption: a woman standing next to a boat
+Imageid: 208283, extracted triplets: ['woman next to boat'], mapped triplets: ['people next to boat', 'person next to suitcase']
+Objective: 163.363633652988
+PRIOR DISTANCE
+Objective: 163.363633652988
+----------------------------
+Caption: a person sitting in a small boat with an umbrella
+Imageid: 467540, extracted triplets: ['person sit boat', 'person with umbrella'], mapped triplets: ['people sit boat', 'woman sit boat', 'man sit boat', 'person sit boat', 'people with umbrella', 'person with umbrella']
+Objective: 163.363633652988
+PRIOR DISTANCE
+gt_people with umbrella=0.0
+gt_person with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man sit boat=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+Objective: 163.44706607021882
+gt_people with umbrella=0.0
+gt_person with umbrella=0.0
+gt_person with umbrella=0.0
+gt_people with umbrella=0.0
+gt_man sit boat=1.0
+gt_people with umbrella=1.0
+gt_person with umbrella=0.0
+----------------------------

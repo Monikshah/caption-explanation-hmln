@@ -1,0 +1,330 @@
+Caption: a woman holding a tray of food on a table
+Imageid: 295837, extracted triplets: ['woman hold tray', 'tray of cake', 'tray of fruit'], mapped triplets: ['woman hold cake', 'woman hold flower', 'woman hold glass', 'man hold tray', 'man hold knife', 'man hold glass', 'man hold donut', 'tray of pizza', 'tray of food', 'bowl of fruit', 'tray of food', 'plate of food']
+Objective: 61.76713990558732
+PRIOR DISTANCE
+gt_plate of food=0.0
+gt_tray of pizza=1.0
+gt_man hold glass=1.0
+gt_bowl of fruit=1.0
+gt_man hold knife=0.0
+gt_woman hold knife=1.0
+gt_plate of food=0.0
+gt_tray of food=1.0
+gt_tray of food=1.0
+gt_bowl of fruit=1.0
+gt_woman hold cake=0.0
+gt_woman hold glass=0.0
+gt_woman hold glass=0.0
+gt_tray of food=1.0
+gt_tray of food=1.0
+gt_plate of food=1.0
+gt_tray of pizza=0.0
+gt_man hold tray=0.0
+gt_man hold knife=-0.0
+gt_woman hold flower=1.0
+Objective: 61.2600704227564
+gt_plate of food=0.0
+gt_tray of pizza=1.0
+gt_man hold glass=1.0
+gt_bowl of fruit=1.0
+gt_man hold knife=0.0
+gt_woman hold knife=1.0
+gt_plate of food=0.0
+gt_tray of food=1.0
+gt_tray of food=1.0
+gt_bowl of fruit=1.0
+gt_woman hold cake=0.0
+gt_woman hold glass=0.0
+gt_woman hold glass=0.0
+gt_tray of food=1.0
+gt_tray of food=1.0
+gt_plate of food=1.0
+gt_tray of pizza=0.0
+gt_man hold tray=1.0
+gt_man hold knife=-0.0
+gt_woman hold flower=1.0
+----------------------------
+Caption: a man sitting on a chair in a kitchen
+Imageid: 31442, extracted triplets: ['man sit on chair'], mapped triplets: ['man sit couch', 'man sit chair', 'man sit on chair']
+Objective: 61.2600704227564
+PRIOR DISTANCE
+gt_woman sit on chair=0.0
+gt_man sit on chair=1.0
+gt_woman sit on chair=0.0
+gt_man sit on chair=0.0
+Objective: 61.2600704227564
+gt_woman sit on chair=0.0
+gt_man sit on chair=1.0
+gt_woman sit on chair=0.0
+gt_man sit on chair=0.0
+----------------------------
+Caption: a man sitting on a couch with a cat and a laptop
+Imageid: 177015, extracted triplets: ['man sit couch', 'man with cat'], mapped triplets: ['people sit couch', 'man sit couch', 'man with dog', 'man with cat', 'woman with dog']
+Objective: 61.2600704227564
+PRIOR DISTANCE
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=-0.0
+Objective: 61.757118381123874
+gt_man with dog=0.0
+gt_woman with dog=1.0
+gt_woman with dog=1.0
+gt_man with dog=0.0
+gt_man with dog=0.0
+----------------------------
+Caption: a black dog sitting on a couch in a room
+Imageid: 446522, extracted triplets: ['dog sit couch', 'dog in room'], mapped triplets: ['man sit couch', 'couch in room', 'bed in room', 'desk in room']
+Objective: 61.757118381123874
+PRIOR DISTANCE
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_desk in room=-0.0
+gt_couch in room=1.0
+gt_bed in room=1.0
+Objective: 62.134517200593095
+gt_couch in room=0.0
+gt_bed in room=0.0
+gt_couch in room=0.0
+gt_desk in room=-0.0
+gt_couch in room=1.0
+gt_bed in room=1.0
+----------------------------
+Caption: two women holding a box of donuts
+Imageid: 255322, extracted triplets: ['box of donut'], mapped triplets: ['plate of donut', 'box of donut']
+Objective: 62.134517200593095
+PRIOR DISTANCE
+gt_box of donut=0.0
+gt_plate of donut=0.0
+gt_plate of donut=1.0
+gt_box of donut=0.0
+gt_box of donut=1.0
+gt_plate of donut=1.0
+Objective: 62.16119500031539
+gt_box of donut=0.0
+gt_plate of donut=0.0
+gt_plate of donut=1.0
+gt_box of donut=0.0
+gt_box of donut=1.0
+gt_plate of donut=1.0
+----------------------------
+Caption: a room with stairs and a refrigerator in it
+Imageid: 314865, extracted triplets: ['room with stair'], mapped triplets: ['room with floor', 'room with window', 'room with plant', 'room with couch', 'room with laptop', 'room with tree', 'room with clock', 'room with table']
+Objective: 62.16119500031539
+PRIOR DISTANCE
+gt_room with window=0.0
+gt_bathroom with plant=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with window=0.0
+gt_room with couch=0.0
+gt_room with window=1.0
+gt_room with tree=0.0
+gt_room with table=0.0
+gt_room with floor=0.0
+gt_room with plant=0.0
+gt_room with laptop=0.0
+gt_room with couch=1.0
+gt_room with floor=0.0
+gt_room with plant=-0.0
+gt_room with window=0.0
+gt_room with couch=0.0
+gt_room with table=0.0
+gt_room with floor=-0.0
+gt_room with laptop=0.0
+gt_room with tree=0.0
+gt_room with clock=0.0
+Objective: 60.392240479157266
+gt_room with window=0.0
+gt_bathroom with plant=0.0
+gt_bathroom with floor=1.0
+gt_bathroom with window=0.0
+gt_room with couch=0.0
+gt_room with window=1.0
+gt_room with tree=0.0
+gt_room with table=0.0
+gt_room with floor=0.0
+gt_room with plant=0.0
+gt_room with laptop=0.0
+gt_room with couch=1.0
+gt_room with floor=0.0
+gt_room with plant=-0.0
+gt_room with window=1.0
+gt_room with couch=1.0
+gt_room with table=0.0
+gt_room with floor=0.0
+gt_room with laptop=0.0
+gt_room with tree=1.0
+gt_room with clock=0.0
+----------------------------
+Caption: a man sitting at a table with a laptop computer
+Imageid: 187001, extracted triplets: ['man at table', 'man with laptop computer'], mapped triplets: ['people at table', 'woman at table', 'kid at table', 'boy at table', 'man at table', 'room with laptop']
+Objective: 60.392240479157266
+PRIOR DISTANCE
+gt_boy at table=0.0
+gt_people at table=0.0
+gt_man at table=0.0
+gt_room with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_boy at table=0.0
+gt_people at table=0.0
+gt_kid at table=0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_kid at table=1.0
+gt_woman at table=-0.0
+gt_woman at table=-0.0
+gt_boy at table=1.0
+gt_people at table=-0.0
+gt_room with laptop=0.0
+Objective: 60.29414965349924
+gt_boy at table=0.0
+gt_people at table=0.0
+gt_man at table=0.0
+gt_room with laptop=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_boy at table=0.0
+gt_people at table=0.0
+gt_kid at table=0.0
+gt_man at table=1.0
+gt_boy at table=0.0
+gt_woman at table=0.0
+gt_woman at table=0.0
+gt_kid at table=1.0
+gt_woman at table=-0.0
+gt_woman at table=-0.0
+gt_boy at table=1.0
+gt_people at table=-0.0
+gt_room with laptop=0.0
+----------------------------
+Caption: a black cat standing next to a bottle of wine
+Imageid: 199940, extracted triplets: ['cat next to bottle', 'bottle of wine'], mapped triplets: ['blanket next to cat', 'plate of glass']
+Objective: 60.29414965349924
+PRIOR DISTANCE
+gt_plate of glass=1.0
+gt_blanket next to cat=0.0
+gt_plate of glass=0.0
+Objective: 60.380415686447925
+gt_plate of glass=1.0
+gt_blanket next to cat=0.0
+gt_plate of glass=0.0
+----------------------------
+Caption: a black and white cat sitting on top of a refrigerator
+Imageid: 303706, extracted triplets: ['cat sit head', 'cat sit cabinet'], mapped triplets: ['cat sit chair', 'cat sit cabinet']
+Objective: 60.380415686447925
+PRIOR DISTANCE
+Objective: 60.380415686447925
+----------------------------
+Caption: a cat sitting on top of a stainless steel refrigerator
+Imageid: 243344, extracted triplets: ['cat sit cabinet', 'cat sit picture'], mapped triplets: ['cat sit cabinet', 'bed sit picture']
+Objective: 60.380415686447925
+PRIOR DISTANCE
+Objective: 60.380415686447925
+----------------------------
+Caption: a messy room with a bed and a desk
+Imageid: 211112, extracted triplets: ['room with bed'], mapped triplets: ['room with couch', 'room with plant', 'room with clock']
+Objective: 60.380415686447925
+PRIOR DISTANCE
+gt_bathroom with plant=0.0
+gt_room with couch=0.0
+gt_room with plant=0.0
+gt_room with couch=1.0
+gt_room with plant=-0.0
+gt_room with couch=1.0
+gt_room with clock=0.0
+Objective: 60.96759496680806
+gt_bathroom with plant=0.0
+gt_room with couch=0.0
+gt_room with plant=0.0
+gt_room with couch=1.0
+gt_room with plant=-0.0
+gt_room with couch=1.0
+gt_room with clock=0.0
+----------------------------
+Caption: a man wearing a blue shirt and a tie
+Imageid: 296524, extracted triplets: ['man wear shirt'], mapped triplets: ['man wear suit']
+Objective: 60.96759496680806
+PRIOR DISTANCE
+gt_man wear suit=1.0
+gt_man wear suit=0.0
+Objective: 59.41594562352377
+gt_man wear suit=1.0
+gt_man wear suit=-0.0
+----------------------------
+Caption: a kitchen with a table with plates and a window
+Imageid: 345245, extracted triplets: ['table with plate'], mapped triplets: ['table with pizza', 'table with bowl', 'table with plate', 'table with food', 'table with cake', 'table with donut']
+Objective: 59.41594562352377
+PRIOR DISTANCE
+gt_table with plate=0.0
+gt_table with cake=0.0
+gt_table with pizza=0.0
+gt_table with plate=0.0
+gt_table with food=0.0
+gt_table with food=1.0
+gt_table with pizza=0.0
+gt_table with cake=0.0
+gt_table with plate=0.0
+gt_table with food=0.0
+gt_table with food=1.0
+gt_table with bowl=-0.0
+gt_table with cake=1.0
+gt_table with donut=-0.0
+gt_table with pizza=-0.0
+gt_table with plate=0.0
+Objective: 58.87192706991184
+gt_table with plate=0.0
+gt_table with cake=0.0
+gt_table with pizza=0.0
+gt_table with plate=0.0
+gt_table with food=0.0
+gt_table with food=1.0
+gt_table with pizza=0.0
+gt_table with cake=0.0
+gt_table with plate=0.0
+gt_table with food=0.0
+gt_table with food=1.0
+gt_table with bowl=-0.0
+gt_table with cake=1.0
+gt_table with donut=-0.0
+gt_table with pizza=0.0
+gt_table with plate=0.0
+----------------------------
+Caption: a man standing in a kitchen with a counter
+Imageid: 25860, extracted triplets: ['man with counter'], mapped triplets: []
+Objective: 58.87192706991184
+PRIOR DISTANCE
+Objective: 58.87192706991184
+----------------------------
+Caption: a baby sitting in a high chair with a birthday cake
+Imageid: 421564, extracted triplets: ['baby sit chair', 'chair with cake'], mapped triplets: ['kid sit table', 'room with cake', 'table with cake']
+Objective: 58.87192706991184
+PRIOR DISTANCE
+gt_table with cake=0.0
+gt_table with cake=0.0
+gt_table with cake=1.0
+Objective: 58.869332668693616
+gt_table with cake=0.0
+gt_table with cake=0.0
+gt_table with cake=1.0
+----------------------------
+Caption: two men playing a video game in a living room
+Imageid: 120792, extracted triplets: ['men play tv', 'men play screen', 'men in room'], mapped triplets: ['people in room', 'man in room']
+Objective: 58.869332668693616
+PRIOR DISTANCE
+gt_people in room=0.0
+gt_man in room=0.0
+gt_people in room=1.0
+gt_people in room=1.0
+gt_man in room=1.0
+Objective: 58.78848465688146
+gt_people in room=0.0
+gt_man in room=0.0
+gt_people in room=1.0
+gt_people in room=1.0
+gt_man in room=1.0
+----------------------------
