@@ -5,6 +5,8 @@ import os
 from collections import defaultdict
 import math
 import random
+import pandas as pd
+import numpy as np
 
 
 def neglog(c):
@@ -21,8 +23,8 @@ def isSameTriple(F, T):
         return False
 
 
+# models: xlan, sgae, aoa, m2
 modelname = "xlan"
-# modelname = "sgae"
 
 # IMPLEMENTS GIBBS SAMPLING FOR COMPUTING MARGINALS FOR PREDICATES AND FORMULAS
 
@@ -118,23 +120,23 @@ def gibbssampler(Vars, Edges, Pots):
 
 
 def test():
-    groundingmapfile = "groundingmap-{}.json".format(modelname)
+    groundingmapfile = "./data/groundingmap-{}.json".format(modelname)
     with open(groundingmapfile, "r") as file:
         groundingmap = json.load(file)
 
-    captionmapfile = "captionmap-{}.json".format(modelname)
+    captionmapfile = "./data/captionmap-{}.json".format(modelname)
     with open(captionmapfile, "r") as file:
         captionmap = json.load(file)
 
-    testrel2file = "testrel2formsclip-{}.json".format(modelname)
+    testrel2file = "./data/testrel2formsclip-{}.json".format(modelname)
     with open(testrel2file, "r") as file:
         testrel2f = json.load(file)
 
     rclipscorefile = "./allTripClipScore/allTripCscore_" + modelname + ".json"
-    trainedfile = "trainedFormulas.json"
-    formulamapfile = "formulaimgmap.json"
+    trainedfile = "./data/trainedFormulas.json"
+    formulamapfile = "./data/formulaimgmap.json"
 
-    csvfolder_path = "./csv_imageLabelCscore_test_" + modelname
+    csvfolder_path = "./data/csv_imageLabelCscore_test_" + modelname
 
     CapClipScores = {}
     files = os.listdir(csvfolder_path)
@@ -264,5 +266,8 @@ def test():
             result.append(formulaimgmap[fp[0] + ":" + fp[1]][0] + ":" + str(v1 - v2))
         RESULTS[gkey] = result
 
-    with open("results-{}.json".format(modelname), "w") as fp:
+    with open("resultsChecking-{}.json".format(modelname), "w") as fp:
         json.dump(RESULTS, fp)
+
+
+test()
