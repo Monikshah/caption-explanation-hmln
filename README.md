@@ -1,4 +1,4 @@
-### On Evaluating Image Captioning with Hybrid Markov Logic Networks
+### “Did the Model Learn?” Explaining Visual Captioning Model Learning
 ### (WIP)
 
 ### Prerequesit
