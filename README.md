@@ -10,7 +10,7 @@ Steps:
 - use `results-{modelname}.json` to run displayExplanation.py
 - Run `python displayExplanation.py`
 - Output:
-- 
+
 ![alt text](https://github.com/Monikshah/caption-explanation-hmln/blob/main/output/display-output.png)
 
  
