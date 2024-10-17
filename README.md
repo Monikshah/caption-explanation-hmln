@@ -1,5 +1,4 @@
 ### “Did the Model Learn?” Explaining Visual Captioning Model Learning
-### (WIP)
 
 ### Prerequesit
 
