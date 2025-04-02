@@ -1,4 +1,4 @@
-### “Did the Model Learn?” Explaining Visual Captioning Model Learning
+### Disentangling Fine-Tuning from Pre-Training in Visual Captioning with Hybrid Markov Logic
 
 ### Prerequesit
 
